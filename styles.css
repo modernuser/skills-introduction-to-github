@@ -1,0 +1,162 @@
+/* ── Reset & base ──────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --color-bg:       #0d0d0d;
+  --color-surface:  #141414;
+  --color-alt:      #1a1a1a;
+  --color-accent:   #c8a96e;   /* warm gold */
+  --color-accent2:  #8b5e3c;   /* deep copper */
+  --color-text:     #e8e2d9;
+  --color-muted:    #888;
+  --font-display:   'Georgia', serif;
+  --font-body:      'Segoe UI', system-ui, sans-serif;
+  --max-w:          960px;
+  --radius:         8px;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ── Hero ──────────────────────────────────────────────────────────────── */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  background:
+    linear-gradient(160deg, rgba(200,169,110,.12) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 80%, rgba(139,94,60,.18) 0%, transparent 70%),
+    var(--color-bg);
+  border-bottom: 1px solid rgba(200,169,110,.15);
+}
+
+.hero-content { max-width: 680px; }
+
+.title {
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 7vw, 5rem);
+  font-weight: 700;
+  letter-spacing: -.02em;
+  color: var(--color-accent);
+  text-shadow: 0 2px 40px rgba(200,169,110,.25);
+  margin-bottom: .5rem;
+}
+
+.tagline {
+  font-size: clamp(1rem, 2.5vw, 1.35rem);
+  color: var(--color-muted);
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+}
+
+/* ── Button ────────────────────────────────────────────────────────────── */
+.btn {
+  display: inline-block;
+  padding: .75rem 2.2rem;
+  border: 2px solid var(--color-accent);
+  color: var(--color-accent);
+  font-size: .95rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: var(--radius);
+  transition: background .2s, color .2s;
+}
+.btn:hover {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* ── Sections ──────────────────────────────────────────────────────────── */
+.section { padding: 5rem 1.5rem; }
+.section--alt { background: var(--color-alt); }
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  color: var(--color-accent);
+  margin-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(200,169,110,.2);
+  padding-bottom: .6rem;
+}
+
+p { color: var(--color-text); max-width: 68ch; }
+
+/* ── Cards ─────────────────────────────────────────────────────────────── */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card {
+  background: var(--color-surface);
+  border: 1px solid rgba(200,169,110,.15);
+  border-radius: var(--radius);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transition: border-color .2s, transform .2s;
+}
+.card:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-4px);
+}
+
+.card-icon { font-size: 2rem; display: block; margin-bottom: .75rem; }
+.card h3   { color: var(--color-accent); margin-bottom: .5rem; }
+.card p    { font-size: .93rem; color: var(--color-muted); }
+
+/* ── Updates list ──────────────────────────────────────────────────────── */
+.updates-list {
+  list-style: none;
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.updates-list li {
+  display: flex;
+  gap: 1.2rem;
+  align-items: baseline;
+  border-left: 3px solid var(--color-accent2);
+  padding-left: 1rem;
+}
+
+.update-date {
+  font-size: .82rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  white-space: nowrap;
+  min-width: 100px;
+}
+
+.update-text { color: var(--color-text); }
+
+/* ── Footer ─────────────────────────────────────────────────────────────── */
+.footer {
+  background: var(--color-surface);
+  border-top: 1px solid rgba(200,169,110,.1);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: .88rem;
+}

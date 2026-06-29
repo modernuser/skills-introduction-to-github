@@ -3,79 +3,188 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wolf of Fairhope Avenue</title>
+  <title>$kitles — Every Eminem Lyric, Always</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
 
-  <header class="hero">
-    <div class="hero-content">
-      <h1 class="title">Wolf of Fairhope Avenue</h1>
-      <p class="tagline">Bold. Local. Relentless.</p>
-      <a href="#about" class="btn">Learn More</a>
+  <!-- SIDEBAR -->
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <span class="logo-dollar">$</span><span class="logo-kitles">kitles</span>
+      <span class="logo-badge">LIVE</span>
     </div>
-  </header>
 
-  <main>
+    <div class="sidebar-nav">
+      <button class="nav-btn active" data-view="home">
+        <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+        Home
+      </button>
+      <button class="nav-btn" data-view="search">
+        <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+        Search
+      </button>
+      <button class="nav-btn" data-view="library">
+        <svg viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z"/></svg>
+        Library
+      </button>
+    </div>
 
-    <section id="about" class="section">
-      <div class="container">
-        <h2>About</h2>
-        <p>
-          Wolf of Fairhope Avenue is a passion project rooted in the spirit of
-          Fairhope, Alabama — a place known for independent thinkers, artisans,
-          and community. This project is a work in progress, built openly and
-          improved one commit at a time.
-        </p>
+    <div class="sidebar-section">
+      <p class="sidebar-label">ALBUMS</p>
+      <div id="album-list"></div>
+    </div>
+
+    <div class="sidebar-update" id="sidebar-update" style="display:none">
+      <span class="pulse-dot"></span>
+      <span id="update-text">Scanning for new lyrics...</span>
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="main-content">
+
+    <!-- HOME VIEW -->
+    <div class="view" id="view-home">
+      <div class="view-header gradient-header">
+        <h1 class="view-title">Good <span id="greeting-time"></span></h1>
+        <p class="view-sub">Every Eminem lyric — searched, verified, always improving.</p>
+        <div class="live-counter">
+          <span class="pulse-dot green"></span>
+          <span id="live-counter-text">Loading lyrics database...</span>
+        </div>
       </div>
-    </section>
+      <div class="featured-section">
+        <h2 class="section-title">Featured Albums</h2>
+        <div class="album-cards" id="featured-albums"></div>
+      </div>
+      <div class="songs-section">
+        <h2 class="section-title">All Tracks <span class="count-badge" id="home-count"></span></h2>
+        <div class="song-list" id="home-song-list"></div>
+      </div>
+    </div>
 
-    <section id="features" class="section section--alt">
-      <div class="container">
-        <h2>What We're Building</h2>
-        <div class="cards">
-          <div class="card">
-            <span class="card-icon">&#127968;</span>
-            <h3>Community</h3>
-            <p>Celebrating the local culture and people of Fairhope Avenue.</p>
-          </div>
-          <div class="card">
-            <span class="card-icon">&#128296;</span>
-            <h3>Craft</h3>
-            <p>Built with clean code and a commitment to quality at every step.</p>
-          </div>
-          <div class="card">
-            <span class="card-icon">&#128200;</span>
-            <h3>Growth</h3>
-            <p>A project that evolves — open to new ideas and contributions.</p>
+    <!-- SEARCH VIEW -->
+    <div class="view hidden" id="view-search">
+      <div class="search-wrap">
+        <div class="search-bar">
+          <svg class="search-icon-inline" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+          <input type="text" id="search-input" placeholder="Search songs, albums, or any lyric..." autocomplete="off" spellcheck="false" />
+          <button class="clear-search hidden" id="clear-search">&#10005;</button>
+        </div>
+        <div id="search-hint" class="search-hint">
+          Search across every lyric in the database — try <em>"rap god"</em>, <em>"till I collapse"</em>, or <em>"mom's spaghetti"</em>
+        </div>
+        <div id="search-results-wrap">
+          <div class="song-list" id="search-results"></div>
+          <div class="no-results hidden" id="no-results">
+            <div class="no-results-icon">&#127908;</div>
+            <p>No results for "<span id="no-results-query"></span>"</p>
+            <small>Try a different lyric or song title.</small>
           </div>
         </div>
       </div>
-    </section>
+    </div>
 
-    <section id="updates" class="section">
-      <div class="container">
-        <h2>Latest Updates</h2>
-        <ul class="updates-list">
-          <li>
-            <span class="update-date">June 2026</span>
-            <span class="update-text">Project launched — initial site live.</span>
-          </li>
-          <li>
-            <span class="update-date">Coming Soon</span>
-            <span class="update-text">More features and content on the way.</span>
-          </li>
-        </ul>
+    <!-- LIBRARY VIEW -->
+    <div class="view hidden" id="view-library">
+      <div class="view-header">
+        <h1 class="view-title">Library</h1>
+        <p class="view-sub">Complete Eminem discography with verified lyrics.</p>
       </div>
-    </section>
+      <div id="library-content"></div>
+    </div>
+
+    <!-- ALBUM VIEW -->
+    <div class="view hidden" id="view-album">
+      <div class="album-hero" id="album-hero">
+        <div class="album-hero-art" id="album-hero-art"></div>
+        <div class="album-hero-info">
+          <span class="tag-label">Album</span>
+          <h1 class="album-hero-title" id="album-hero-title"></h1>
+          <p class="album-hero-meta" id="album-hero-meta"></p>
+        </div>
+      </div>
+      <div class="song-list" id="album-song-list"></div>
+    </div>
 
   </main>
 
-  <footer class="footer">
-    <div class="container">
-      <p>&copy; 2026 Wolf of Fairhope Avenue. Built on GitHub.</p>
+  <!-- LYRICS PANEL -->
+  <aside class="lyrics-panel" id="lyrics-panel">
+    <div class="lyrics-panel-header">
+      <span class="lyrics-label-tag">LYRICS</span>
+      <div class="lyrics-header-right">
+        <span class="verified-badge" id="verified-badge">&#10003; Verified</span>
+        <button class="icon-btn" id="lyrics-close" title="Close">&#10005;</button>
+      </div>
+    </div>
+    <div class="np-card">
+      <div class="np-art" id="np-art"></div>
+      <div class="np-info">
+        <div class="np-title" id="np-title">No song playing</div>
+        <div class="np-album" id="np-album">—</div>
+      </div>
+    </div>
+    <div class="lyrics-body" id="lyrics-body">
+      <div id="lyrics-lines">
+        <p class="lyrics-idle">Select a song to view its lyrics.</p>
+      </div>
+    </div>
+    <div class="lyrics-footer">
+      <span class="lyrics-src">$kitles Lyrics Engine</span>
+      <span class="lyrics-time" id="lyrics-fetched-time"></span>
+    </div>
+  </aside>
+
+  <!-- PLAYER BAR -->
+  <footer class="player-bar">
+    <div class="player-left">
+      <div class="player-art" id="player-art"></div>
+      <div class="player-track-info">
+        <div class="player-track-title" id="player-title">—</div>
+        <div class="player-track-artist">Eminem</div>
+      </div>
+      <button class="icon-btn lyrics-toggle-btn" id="lyrics-toggle" title="Toggle Lyrics">
+        <svg viewBox="0 0 24 24"><path d="M2.5 4v3h5v12h3V7h5V4h-13zm18.5 5h-9v3h3v7h3v-7h3V9z"/></svg>
+      </button>
+    </div>
+
+    <div class="player-center">
+      <div class="player-controls">
+        <button class="icon-btn ctrl-btn" id="btn-shuffle" title="Shuffle" data-active="false">
+          <svg viewBox="0 0 24 24"><path d="M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"/></svg>
+        </button>
+        <button class="icon-btn ctrl-btn" id="btn-prev" title="Previous">
+          <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+        </button>
+        <button class="play-pause-btn" id="btn-play" title="Play / Pause">
+          <svg class="icon-play" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          <svg class="icon-pause hidden" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+        </button>
+        <button class="icon-btn ctrl-btn" id="btn-next" title="Next">
+          <svg viewBox="0 0 24 24"><path d="M6 18 14.5 12 6 6v12zM16 6v12h2V6h-2z"/></svg>
+        </button>
+        <button class="icon-btn ctrl-btn" id="btn-repeat" title="Repeat" data-active="false">
+          <svg viewBox="0 0 24 24"><path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/></svg>
+        </button>
+      </div>
+      <div class="progress-row">
+        <span class="time-display" id="time-elapsed">0:00</span>
+        <div class="progress-bar" id="progress-bar">
+          <div class="progress-fill" id="progress-fill" style="width:0%"></div>
+          <div class="progress-knob" id="progress-knob"></div>
+        </div>
+        <span class="time-display" id="time-total">0:00</span>
+      </div>
+    </div>
+
+    <div class="player-right">
+      <svg class="vol-icon" viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+      <input type="range" class="volume-slider" id="volume-slider" min="0" max="100" value="80" />
     </div>
   </footer>
 
+  <script src="app.js"></script>
 </body>
 </html>

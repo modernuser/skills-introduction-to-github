@@ -591,7 +591,7 @@ const albumById = id => ALBUMS.find(a => a.id === id);
 const fmt = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
 
 function albumArtStyle(album) {
-  return `background: linear-gradient(135deg, ${album.color}cc, ${album.color}44); font-size: inherit;`;
+  return `background: linear-gradient(135deg, ${album.color}cc, ${album.color}44);`;
 }
 
 function buildSongRow(song, idx, showAlbum = false, matchSnippet = null) {
@@ -891,7 +891,12 @@ function highlightLyricLine(idx) {
     if (i === idx) el.classList.add('active');
   });
   if (idx >= 0 && lines[idx]) {
-    lines[idx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    const body = $('lyrics-body');
+    const line = lines[idx];
+    const bodyRect = body.getBoundingClientRect();
+    const lineRect = line.getBoundingClientRect();
+    const target = body.scrollTop + (lineRect.top - bodyRect.top) - (body.clientHeight / 2) + (line.clientHeight / 2);
+    body.scrollTo({ top: target, behavior: 'smooth' });
   }
 }
 

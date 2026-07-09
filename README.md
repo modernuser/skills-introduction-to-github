@@ -2,6 +2,8 @@
 
 _Bold. Local. Relentless._
 
+**Live site:** [modernuser.github.io/skills-introduction-to-github](https://modernuser.github.io/skills-introduction-to-github/)
+
 ---
 
 ## About

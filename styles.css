@@ -63,6 +63,7 @@ body {
 /* ── Button ────────────────────────────────────────────────────────────── */
 .btn {
   display: inline-block;
+  margin: 0 .35rem .5rem;
   padding: .75rem 2.2rem;
   border: 2px solid var(--color-accent);
   color: var(--color-accent);

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Tracker — Wolf of Fairhope Avenue</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ── Tracker-specific styles ──────────────────────────────────────── */
+    .tracker-header {
+      padding: 3.5rem 1.5rem 1rem;
+      text-align: center;
+    }
+    .tracker-header h1 {
+      font-family: var(--font-display);
+      font-size: clamp(1.8rem, 4.5vw, 3rem);
+      color: var(--color-accent);
+    }
+    .tracker-meta {
+      color: var(--color-muted);
+      font-size: .9rem;
+      margin-top: .5rem;
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: .75rem;
+      color: var(--color-accent);
+      text-decoration: none;
+      font-size: .9rem;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .disclaimer {
+      max-width: var(--max-w);
+      margin: 1rem auto 0;
+      padding: .75rem 1rem;
+      border: 1px solid rgba(200,169,110,.25);
+      border-radius: var(--radius);
+      color: var(--color-muted);
+      font-size: .85rem;
+      text-align: center;
+    }
+
+    /* Stat tiles */
+    .tiles {
+      max-width: var(--max-w);
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1rem;
+    }
+    .tile {
+      background: var(--color-surface);
+      border: 1px solid rgba(200,169,110,.15);
+      border-radius: var(--radius);
+      padding: 1.25rem 1.25rem 1rem;
+    }
+    .tile.flagged { border-color: var(--color-accent); }
+    .tile-symbol {
+      font-weight: 700;
+      letter-spacing: .04em;
+      color: var(--color-text);
+    }
+    .tile-name {
+      color: var(--color-muted);
+      font-size: .8rem;
+      margin-bottom: .6rem;
+    }
+    .tile-price {
+      font-family: var(--font-display);
+      font-size: 1.9rem;
+      color: var(--color-text);
+      font-variant-numeric: tabular-nums;
+    }
+    .deltas { margin-top: .5rem; display: flex; gap: .5rem; flex-wrap: wrap; }
+    .delta {
+      font-size: .8rem;
+      padding: .15rem .5rem;
+      border-radius: 999px;
+      font-variant-numeric: tabular-nums;
+      border: 1px solid transparent;
+      color: var(--color-text);
+    }
+    .delta .lbl { color: var(--color-muted); margin-right: .25rem; }
+    .delta.up   { border-color: rgba(74,222,128,.4);  }
+    .delta.down { border-color: rgba(248,113,113,.4); }
+    .delta.up   .val { color: #4ade80; }
+    .delta.down .val { color: #f87171; }
+    .flag-note {
+      margin-top: .55rem;
+      font-size: .78rem;
+      color: var(--color-accent);
+    }
+    .tile-links { margin-top: .6rem; font-size: .8rem; }
+    .tile-links a { color: var(--color-accent); text-decoration: none; }
+    .tile-links a:hover { text-decoration: underline; }
+
+    /* Table view (accessibility requirement: data is never chart/color-only) */
+    .table-wrap {
+      max-width: var(--max-w);
+      margin: 1rem auto 3rem;
+      padding: 0 1.5rem;
+      overflow-x: auto;
+    }
+    table.quotes {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .9rem;
+    }
+    table.quotes th, table.quotes td {
+      text-align: right;
+      padding: .55rem .75rem;
+      border-bottom: 1px solid rgba(200,169,110,.12);
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+    table.quotes th:first-child, table.quotes td:first-child { text-align: left; }
+    table.quotes th {
+      color: var(--color-muted);
+      font-weight: 600;
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+    .status-line {
+      text-align: center;
+      color: var(--color-muted);
+      font-size: .85rem;
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="tracker-header">
+    <h1>Market Tracker</h1>
+    <p class="tracker-meta" id="updated">Loading latest data…</p>
+    <a class="back-link" href="index.html">&larr; Back to Wolf of Fairhope Avenue</a>
+  </header>
+
+  <p class="disclaimer">
+    Live data display for educational use — <strong>not investment advice</strong>.
+    Prices are end-of-day/delayed and refresh about every 20 minutes during US
+    market hours. Moves of &plusmn;3% or more in a day are flagged. The news links go to
+    primary sources so you can judge the "why" yourself.
+  </p>
+
+  <section class="tiles" id="tiles" aria-live="polite"></section>
+
+  <div class="table-wrap">
+    <table class="quotes" aria-label="Watchlist quotes table">
+      <thead>
+        <tr>
+          <th>Symbol</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th><th>As of</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <p class="status-line" id="status"></p>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Wolf of Fairhope Avenue. Built on GitHub.</p>
+    </div>
+  </footer>
+
+  <script>
+    const RAW_URL =
+      "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/data/quotes.json";
+    const LOCAL_URL = "data/quotes.json";
+    const REFRESH_MS = 20 * 60 * 1000; // 20 minutes
+
+    function fmtPct(v) {
+      if (v === null || v === undefined) return "—";
+      const sign = v > 0 ? "+" : "";
+      return sign + v.toFixed(2) + "%";
+    }
+    function arrow(v) {
+      if (v === null || v === undefined || v === 0) return "";
+      return v > 0 ? "▲ " : "▼ "; // ▲ / ▼ — identity never by color alone
+    }
+    function dirClass(v) {
+      if (v === null || v === undefined || v === 0) return "";
+      return v > 0 ? "up" : "down";
+    }
+
+    function deltaChip(label, v) {
+      return `<span class="delta ${dirClass(v)}"><span class="lbl">${label}</span>` +
+             `<span class="val">${arrow(v)}${fmtPct(v)}</span></span>`;
+    }
+
+    function render(data) {
+      document.getElementById("updated").textContent =
+        "Data updated " + new Date(data.updated).toLocaleString() +
+        " · auto-refreshes every 20 min";
+
+      const tiles = data.quotes.map(q => {
+        const news = `https://finance.yahoo.com/quote/${q.symbol}/news`;
+        const flag = q.significant
+          ? `<div class="flag-note">⚠ Significant one-day move (≥ ${data.significant_pct}%)</div>`
+          : "";
+        return `<article class="tile ${q.significant ? "flagged" : ""}">
+          <div class="tile-symbol">${q.symbol}</div>
+          <div class="tile-name">${q.name}</div>
+          <div class="tile-price">$${q.close.toFixed(2)}</div>
+          <div class="deltas">
+            ${deltaChip("1D", q.d1)}${deltaChip("1W", q.w1)}${deltaChip("1M", q.m1)}
+          </div>
+          ${flag}
+          <div class="tile-links"><a href="${news}" target="_blank" rel="noopener">News ↗</a></div>
+        </article>`;
+      }).join("");
+      document.getElementById("tiles").innerHTML = tiles;
+
+      document.getElementById("tbody").innerHTML = data.quotes.map(q =>
+        `<tr>
+          <td>${q.symbol}</td>
+          <td>$${q.close.toFixed(2)}</td>
+          <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
+          <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
+          <td>${arrow(q.m1)}${fmtPct(q.m1)}</td>
+          <td>${q.date}</td>
+        </tr>`).join("");
+
+      document.getElementById("status").textContent =
+        (data.errors && data.errors.length)
+          ? "Some symbols failed to update: " + data.errors.join("; ")
+          : "";
+    }
+
+    async function load() {
+      const bust = "?t=" + Date.now();
+      for (const url of [RAW_URL + bust, LOCAL_URL + bust]) {
+        try {
+          const resp = await fetch(url, { cache: "no-store" });
+          if (!resp.ok) continue;
+          render(await resp.json());
+          return;
+        } catch (e) { /* try next source */ }
+      }
+      document.getElementById("updated").textContent =
+        "No data available yet — the first scheduled update hasn't run.";
+    }
+
+    load();
+    setInterval(load, REFRESH_MS);
+  </script>
+
+</body>
+</html>

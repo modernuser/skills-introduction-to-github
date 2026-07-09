@@ -17,6 +17,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 | File | Purpose |
 |------|---------|
 | `index.html` | Main landing page |
+| `tracker.html` | Live market tracker (educational data display) |
 | `styles.css` | Site styles (dark theme, gold accent) |
 
 ## Getting Started

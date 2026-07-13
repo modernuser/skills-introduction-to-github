@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Market Tracker — Wolf of Fairhope Avenue</title>
+  <meta name="description" content="Live educational market tracker: NVDA, MU, SNDK, SOXX, SOXL vs the S&P 500 benchmark. Data refreshes every 20 minutes during US market hours." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%90%BA%3C/text%3E%3C/svg%3E" />
   <link rel="stylesheet" href="styles.css" />
   <style>
     /* ── Tracker-specific styles ──────────────────────────────────────── */
@@ -96,6 +98,20 @@
     .tile-links a { color: var(--color-accent); text-decoration: none; }
     .tile-links a:hover { text-decoration: underline; }
 
+    .spark { display: block; width: 100%; height: 36px; margin-top: .7rem; opacity: .85; }
+    .spark-label { font-size: .7rem; color: var(--color-muted); margin-top: .2rem; }
+
+    .stale-warning {
+      max-width: var(--max-w);
+      margin: 1rem auto 0;
+      padding: .75rem 1rem;
+      border: 1px solid #f87171;
+      border-radius: var(--radius);
+      color: #f87171;
+      font-size: .88rem;
+      text-align: center;
+    }
+
     /* Table view (accessibility requirement: data is never chart/color-only) */
     .table-wrap {
       max-width: var(--max-w);
@@ -146,6 +162,8 @@
     primary sources so you can judge the "why" yourself.
   </p>
 
+  <div id="stale"></div>
+
   <section class="tiles" id="tiles" aria-live="polite"></section>
 
   <div class="table-wrap">
@@ -192,6 +210,34 @@
              `<span class="val">${arrow(v)}${fmtPct(v)}</span></span>`;
     }
 
+    function sparkline(recent) {
+      if (!recent || recent.length < 2) return "";
+      const w = 220, h = 36, pad = 2;
+      const min = Math.min(...recent), max = Math.max(...recent);
+      const span = max - min || 1;
+      const pts = recent.map((v, i) => {
+        const x = pad + i * (w - 2 * pad) / (recent.length - 1);
+        const y = h - pad - (v - min) / span * (h - 2 * pad);
+        return x.toFixed(1) + "," + y.toFixed(1);
+      }).join(" ");
+      return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+        <polyline points="${pts}" fill="none" stroke="var(--color-accent)"
+          stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg><div class="spark-label">~30 recent sessions (low–high range)</div>`;
+    }
+
+    // Data older than this on the page is suspicious even across a weekend
+    // (Fri close -> Mon reopen is ~64h). Warn but keep showing what we have.
+    const STALE_MS = 72 * 60 * 60 * 1000;
+
+    function staleBanner(updatedIso) {
+      const age = Date.now() - new Date(updatedIso).getTime();
+      if (age < STALE_MS) return "";
+      const days = (age / 86400000).toFixed(1);
+      return `<p class="stale-warning">⚠ This data is ${days} days old — the update
+        pipeline may be broken. Treat all numbers below as historical, not current.</p>`;
+    }
+
     function render(data) {
       document.getElementById("updated").textContent =
         "Data updated " + new Date(data.updated).toLocaleString() +
@@ -210,10 +256,12 @@
             ${deltaChip("1D", q.d1)}${deltaChip("1W", q.w1)}${deltaChip("1M", q.m1)}
           </div>
           ${flag}
+          ${sparkline(q.recent)}
           <div class="tile-links"><a href="${news}" target="_blank" rel="noopener">News ↗</a></div>
         </article>`;
       }).join("");
       document.getElementById("tiles").innerHTML = tiles;
+      document.getElementById("stale").innerHTML = staleBanner(data.updated);
 
       document.getElementById("tbody").innerHTML = data.quotes.map(q =>
         `<tr>

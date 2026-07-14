@@ -26,6 +26,7 @@ jobs:
       - name: Commit if changed
         run: |
           git add data/quotes.json
+          git add data/suggested_tickers.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

@@ -18,6 +18,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 |------|---------|
 | `index.html` | Main landing page |
 | `tracker.html` | Live market tracker (educational data display) |
+| `data/suggested_tickers.json` | Data-driven watchlist candidates with source evidence |
 | `styles.css` | Site styles (dark theme, gold accent) |
 
 ## Getting Started

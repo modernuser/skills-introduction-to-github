@@ -145,6 +145,54 @@
       font-size: .85rem;
       padding: 2rem;
     }
+    .suggestions {
+      max-width: var(--max-w);
+      margin: 0 auto 1.5rem;
+      padding: 0 1.5rem;
+    }
+    .suggestions h2 {
+      margin-bottom: .6rem;
+    }
+    .suggestions-note {
+      color: var(--color-muted);
+      font-size: .86rem;
+      margin-bottom: 1rem;
+    }
+    .suggestion-list {
+      display: grid;
+      gap: .9rem;
+    }
+    .suggestion-card {
+      background: var(--color-surface);
+      border: 1px solid rgba(200,169,110,.18);
+      border-radius: var(--radius);
+      padding: 1rem;
+    }
+    .suggestion-card h3 {
+      color: var(--color-accent);
+      margin-bottom: .35rem;
+    }
+    .suggestion-card p {
+      color: var(--color-text);
+      margin-bottom: .65rem;
+    }
+    .signal-list {
+      margin-left: 1rem;
+      color: var(--color-muted);
+      font-size: .85rem;
+    }
+    .source-links {
+      margin-top: .6rem;
+      font-size: .82rem;
+      display: flex;
+      gap: .75rem;
+      flex-wrap: wrap;
+    }
+    .source-links a {
+      color: var(--color-accent);
+      text-decoration: none;
+    }
+    .source-links a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -166,6 +214,16 @@
 
   <section class="tiles" id="tiles" aria-live="polite"></section>
 
+  <section class="suggestions" aria-live="polite">
+    <h2>Suggested Tickers (Data-Driven)</h2>
+    <p class="suggestions-note">
+      Evidence-based watchlist candidates from verified source data.
+      Educational only — not buy/sell advice.
+    </p>
+    <div class="suggestion-list" id="suggestions-list"></div>
+    <p class="suggestions-note" id="suggestions-status">Loading suggestions…</p>
+  </section>
+
   <div class="table-wrap">
     <table class="quotes" aria-label="Watchlist quotes table">
       <thead>
@@ -186,9 +244,12 @@
   </footer>
 
   <script>
-    const RAW_URL =
+    const RAW_QUOTES_URL =
       "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/data/quotes.json";
-    const LOCAL_URL = "data/quotes.json";
+    const LOCAL_QUOTES_URL = "data/quotes.json";
+    const RAW_SUGGESTIONS_URL =
+      "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/data/suggested_tickers.json";
+    const LOCAL_SUGGESTIONS_URL = "data/suggested_tickers.json";
     const REFRESH_MS = 20 * 60 * 1000; // 20 minutes
 
     function fmtPct(v) {
@@ -279,18 +340,70 @@
           : "";
     }
 
-    async function load() {
-      const bust = "?t=" + Date.now();
-      for (const url of [RAW_URL + bust, LOCAL_URL + bust]) {
+    function renderSuggestions(payload) {
+      const list = document.getElementById("suggestions-list");
+      const status = document.getElementById("suggestions-status");
+      if (!payload) {
+        list.innerHTML = "";
+        status.textContent = "Suggestions unavailable right now.";
+        return;
+      }
+
+      if (payload.status !== "ready" || !payload.suggestions || !payload.suggestions.length) {
+        list.innerHTML = "";
+        status.textContent = payload.message || "No candidates met the current rules.";
+        return;
+      }
+
+      list.innerHTML = payload.suggestions.map(s => {
+        const signals = (s.signals || []).map(sig =>
+          `<li><strong>${sig.name}:</strong> ${sig.value} (as of ${sig.source_timestamp})</li>`
+        ).join("");
+        const links = (s.primary_sources || []).map((u, idx) =>
+          `<a href="${u}" target="_blank" rel="noopener">Primary source ${idx + 1} ↗</a>`
+        ).join("");
+        return `<article class="suggestion-card">
+          <h3>${s.symbol} — ${s.name}</h3>
+          <p>${s.reason}</p>
+          <ul class="signal-list">${signals}</ul>
+          <div class="source-links">${links}</div>
+        </article>`;
+      }).join("");
+
+      status.textContent =
+        `Last verified ${new Date(payload.updated).toLocaleString()} · ${payload.message}`;
+    }
+
+    async function fetchJsonWithFallback(urls) {
+      for (const url of urls) {
         try {
           const resp = await fetch(url, { cache: "no-store" });
           if (!resp.ok) continue;
-          render(await resp.json());
-          return;
+          return await resp.json();
         } catch (e) { /* try next source */ }
       }
-      document.getElementById("updated").textContent =
-        "No data available yet — the first scheduled update hasn't run.";
+      return null;
+    }
+
+    async function load() {
+      const bust = "?t=" + Date.now();
+      const quotesData = await fetchJsonWithFallback([
+        RAW_QUOTES_URL + bust,
+        LOCAL_QUOTES_URL + bust,
+      ]);
+      if (!quotesData) {
+        document.getElementById("updated").textContent =
+          "No data available yet — the first scheduled update hasn't run.";
+        renderSuggestions(null);
+        return;
+      }
+      render(quotesData);
+
+      const suggestionsData = await fetchJsonWithFallback([
+        RAW_SUGGESTIONS_URL + bust,
+        LOCAL_SUGGESTIONS_URL + bust,
+      ]);
+      renderSuggestions(suggestionsData);
     }
 
     load();

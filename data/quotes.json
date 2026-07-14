@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T20:12:14Z",
+ "updated": "2026-07-14T21:17:48Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -174,9 +174,9 @@
    "symbol": "SOXL",
    "name": "Direxion Semi Bull 3X",
    "date": "2026-07-14",
-   "close": 176.659,
+   "close": 176.66,
    "d1": 6.83,
-   "w1": 6.88,
+   "w1": 6.89,
    "m1": -21.13,
    "significant": true,
    "recent": [
@@ -209,16 +209,16 @@
     192.45,
     192.26,
     165.37,
-    176.659
+    176.66
    ]
   },
   {
    "symbol": "SPY",
    "name": "S&P 500 ETF (benchmark)",
    "date": "2026-07-14",
-   "close": 751.86,
+   "close": 751.83,
    "d1": 0.36,
-   "w1": 0.56,
+   "w1": 0.55,
    "m1": 1.91,
    "significant": false,
    "recent": [
@@ -251,7 +251,7 @@
     751.71,
     754.95,
     749.17,
-    751.86
+    751.83
    ]
   }
  ],

@@ -166,6 +166,20 @@
 
   <section class="tiles" id="tiles" aria-live="polite"></section>
 
+  <section class="table-wrap" id="sector-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Sector pulse</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
+      The 11 standard SPDR sector ETFs, ranked by today's observed move — coverage of the
+      whole market, not recommendations. Watch how the leaders rotate day to day.
+    </p>
+    <table class="quotes" aria-label="Sector ETF performance table">
+      <thead>
+        <tr><th>Sector</th><th>Ticker</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th></tr>
+      </thead>
+      <tbody id="sector-tbody"></tbody>
+    </table>
+  </section>
+
   <div class="table-wrap">
     <table class="quotes" aria-label="Watchlist quotes table">
       <thead>
@@ -272,6 +286,22 @@
           <td>${arrow(q.m1)}${fmtPct(q.m1)}</td>
           <td>${q.date}</td>
         </tr>`).join("");
+
+      const sectors = (data.sectors || []).slice()
+        .sort((a, b) => (b.d1 ?? -Infinity) - (a.d1 ?? -Infinity));
+      const sectorSection = document.getElementById("sector-section");
+      if (sectors.length) {
+        sectorSection.hidden = false;
+        document.getElementById("sector-tbody").innerHTML = sectors.map(q =>
+          `<tr>
+            <td>${q.name}</td>
+            <td>${q.symbol}</td>
+            <td>$${q.close.toFixed(2)}</td>
+            <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
+            <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
+            <td>${arrow(q.m1)}${fmtPct(q.m1)}</td>
+          </tr>`).join("");
+      }
 
       document.getElementById("status").textContent =
         (data.errors && data.errors.length)

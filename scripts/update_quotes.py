@@ -13,15 +13,13 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 
-# Ticker -> display name. SPY is the benchmark for context.
-TICKERS = {
-    "NVDA": "NVIDIA",
-    "MU": "Micron Technology",
-    "SNDK": "SanDisk",
-    "SOXX": "iShares Semiconductor ETF",
-    "SOXL": "Direxion Semi Bull 3X",
-    "SPY": "S&P 500 ETF (benchmark)",
-}
+# Ticker lists live in watchlist.json so they can be edited without
+# touching code. "watchlist" gets full tiles; "sectors" gets the compact
+# sector-pulse table.
+with open("watchlist.json") as _f:
+    _config = json.load(_f)
+TICKERS = _config["watchlist"]
+SECTORS = _config.get("sectors", {})
 
 # A one-day move at or beyond this magnitude is flagged as significant.
 SIGNIFICANT_PCT = 3.0
@@ -88,33 +86,42 @@ def pct_change(closes: list[tuple[str, float]], sessions_back: int):
     return round((latest - prior) / prior * 100, 2)
 
 
+def build_quote(symbol: str, name: str, errors: list, with_recent: bool):
+    try:
+        closes = fetch_closes(symbol)
+    except Exception as exc:  # network or parse failure for one symbol
+        errors.append(f"{symbol}: {exc}")
+        return None
+    if not closes:
+        errors.append(f"{symbol}: no data returned")
+        return None
+    d1 = pct_change(closes, 1)
+    quote = {
+        "symbol": symbol,
+        "name": name,
+        "date": closes[-1][0],
+        "close": closes[-1][1],
+        "d1": d1,
+        "w1": pct_change(closes, 5),
+        "m1": pct_change(closes, 21),
+        "significant": d1 is not None and abs(d1) >= SIGNIFICANT_PCT,
+    }
+    if with_recent:
+        # last ~30 sessions for the sparkline
+        quote["recent"] = [c for _, c in closes[-30:]]
+    return quote
+
+
 def main() -> int:
-    quotes = []
     errors = []
-    for symbol, name in TICKERS.items():
-        try:
-            closes = fetch_closes(symbol)
-        except Exception as exc:  # network or parse failure for one symbol
-            errors.append(f"{symbol}: {exc}")
-            continue
-        if not closes:
-            errors.append(f"{symbol}: no data returned")
-            continue
-        d1 = pct_change(closes, 1)
-        quotes.append(
-            {
-                "symbol": symbol,
-                "name": name,
-                "date": closes[-1][0],
-                "close": closes[-1][1],
-                "d1": d1,
-                "w1": pct_change(closes, 5),
-                "m1": pct_change(closes, 21),
-                "significant": d1 is not None and abs(d1) >= SIGNIFICANT_PCT,
-                # last ~30 sessions for the sparkline table view
-                "recent": [c for _, c in closes[-30:]],
-            }
-        )
+    quotes = [
+        q for symbol, name in TICKERS.items()
+        if (q := build_quote(symbol, name, errors, with_recent=True))
+    ]
+    sectors = [
+        q for symbol, name in SECTORS.items()
+        if (q := build_quote(symbol, name, errors, with_recent=False))
+    ]
 
     if not quotes:
         print("All fetches failed:\n" + "\n".join(errors), file=sys.stderr)
@@ -124,6 +131,7 @@ def main() -> int:
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "significant_pct": SIGNIFICANT_PCT,
         "quotes": quotes,
+        "sectors": sectors,
         "errors": errors,
     }
     os.makedirs("data", exist_ok=True)

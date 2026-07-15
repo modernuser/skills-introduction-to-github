@@ -14,10 +14,6 @@ links primary sources — it never gives buy/sell signals or predictions.
    same fake $10,000 start: owner's picks, random picks, and plain SPY.
    Tracked live on their own page. Tests whether stock-picking beats
    no-strategy — the classic index-fund lesson, run on real data.
-3. **Custom watchlist without code** — move the ticker list into a simple
-   `watchlist.json` so adding/removing symbols is a one-line edit in the
-   GitHub web UI.
-
 ## Later (bigger builds)
 
 4. **Charts page** — full-size historical charts (6mo/1yr), each ticker
@@ -40,3 +36,5 @@ links primary sources — it never gives buy/sell signals or predictions.
 - Live market tracker: 6 symbols, 20-min refresh, ±3% flags, news links,
   benchmark comparison (July 2026)
 - Sparklines, stale-data self-alarm, favicon, SEO meta (July 2026)
+- Editable watchlist.json + Sector pulse: all 11 SPDR sector ETFs ranked by
+  observed daily move (July 2026)

@@ -1,0 +1,24 @@
+{
+  "_edit_me": "Add or remove watchlist tickers here (symbol: display name). The tracker updates automatically on the next scheduled run. Sectors below are the 11 standard SPDR sector ETFs — coverage, not recommendations.",
+  "watchlist": {
+    "NVDA": "NVIDIA",
+    "MU": "Micron Technology",
+    "SNDK": "SanDisk",
+    "SOXX": "iShares Semiconductor ETF",
+    "SOXL": "Direxion Semi Bull 3X",
+    "SPY": "S&P 500 ETF (benchmark)"
+  },
+  "sectors": {
+    "XLK": "Technology",
+    "XLC": "Communication Services",
+    "XLY": "Consumer Discretionary",
+    "XLP": "Consumer Staples",
+    "XLE": "Energy",
+    "XLF": "Financials",
+    "XLV": "Health Care",
+    "XLI": "Industrials",
+    "XLB": "Materials",
+    "XLRE": "Real Estate",
+    "XLU": "Utilities"
+  }
+}

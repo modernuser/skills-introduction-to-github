@@ -1,15 +1,15 @@
 {
- "updated": "2026-07-14T22:26:25Z",
+ "updated": "2026-07-15T14:51:07Z",
  "significant_pct": 3.0,
  "quotes": [
   {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "date": "2026-07-14",
-   "close": 211.8,
-   "d1": 4.06,
-   "w1": 7.55,
-   "m1": 3.38,
+   "date": "2026-07-15",
+   "close": 210.19,
+   "d1": 3.27,
+   "w1": 6.73,
+   "m1": 2.6,
    "significant": true,
    "recent": [
     224.36,
@@ -41,18 +41,18 @@
     202.78,
     210.96,
     203.53,
-    211.8
+    210.19
    ]
   },
   {
    "symbol": "MU",
    "name": "Micron Technology",
-   "date": "2026-07-14",
-   "close": 983.12,
-   "d1": 4.92,
-   "w1": 4.77,
-   "m1": -1.28,
-   "significant": true,
+   "date": "2026-07-15",
+   "close": 915.2637,
+   "d1": -2.32,
+   "w1": -2.46,
+   "m1": -8.09,
+   "significant": false,
    "recent": [
     1035.5,
     1064.1,
@@ -83,20 +83,19 @@
     991.64,
     979.3,
     937.0,
-    983.12
+    915.2637
    ]
   },
   {
    "symbol": "SNDK",
    "name": "SanDisk",
-   "date": "2026-07-14",
-   "close": 1757.8199,
-   "d1": 5.01,
-   "w1": 8.66,
-   "m1": -6.57,
+   "date": "2026-07-15",
+   "close": 1537.84,
+   "d1": -12.51,
+   "w1": -10.96,
+   "m1": -22.34,
    "significant": true,
    "recent": [
-    1761.4301,
     1716.36,
     1831.5,
     1759.6801,
@@ -125,17 +124,18 @@
     1858.27,
     1915.92,
     1673.97,
-    1757.8199
+    1757.8199,
+    1537.84
    ]
   },
   {
    "symbol": "SOXX",
    "name": "iShares Semiconductor ETF",
-   "date": "2026-07-14",
-   "close": 567.92,
-   "d1": 2.58,
-   "w1": 2.94,
-   "m1": -3.24,
+   "date": "2026-07-15",
+   "close": 551.68,
+   "d1": -0.35,
+   "w1": -0.0,
+   "m1": -6.01,
    "significant": false,
    "recent": [
     571.93,
@@ -167,18 +167,18 @@
     581.7,
     581.34,
     553.61,
-    567.92
+    551.68
    ]
   },
   {
    "symbol": "SOXL",
    "name": "Direxion Semi Bull 3X",
-   "date": "2026-07-14",
-   "close": 176.66,
-   "d1": 6.83,
-   "w1": 6.89,
-   "m1": -21.13,
-   "significant": true,
+   "date": "2026-07-15",
+   "close": 162.25,
+   "d1": -1.89,
+   "w1": -1.83,
+   "m1": -27.56,
+   "significant": false,
    "recent": [
     227.03,
     266.32,
@@ -209,17 +209,17 @@
     192.45,
     192.26,
     165.37,
-    176.66
+    162.25
    ]
   },
   {
    "symbol": "SPY",
    "name": "S&P 500 ETF (benchmark)",
-   "date": "2026-07-14",
-   "close": 751.83,
-   "d1": 0.36,
-   "w1": 0.55,
-   "m1": 1.91,
+   "date": "2026-07-15",
+   "close": 753.61,
+   "d1": 0.59,
+   "w1": 0.79,
+   "m1": 2.15,
    "significant": false,
    "recent": [
     758.54,
@@ -251,8 +251,120 @@
     751.71,
     754.95,
     749.17,
-    751.83
+    753.61
    ]
+  }
+ ],
+ "sectors": [
+  {
+   "symbol": "XLK",
+   "name": "Technology",
+   "date": "2026-07-15",
+   "close": 180.925,
+   "d1": -0.2,
+   "w1": 0.97,
+   "m1": -1.25,
+   "significant": false
+  },
+  {
+   "symbol": "XLC",
+   "name": "Communication Services",
+   "date": "2026-07-15",
+   "close": 112.98,
+   "d1": 1.37,
+   "w1": 3.22,
+   "m1": 1.19,
+   "significant": false
+  },
+  {
+   "symbol": "XLY",
+   "name": "Consumer Discretionary",
+   "date": "2026-07-15",
+   "close": 117.395,
+   "d1": 1.17,
+   "w1": 0.0,
+   "m1": 0.94,
+   "significant": false
+  },
+  {
+   "symbol": "XLP",
+   "name": "Consumer Staples",
+   "date": "2026-07-15",
+   "close": 84.005,
+   "d1": -0.69,
+   "w1": -1.01,
+   "m1": -1.48,
+   "significant": false
+  },
+  {
+   "symbol": "XLE",
+   "name": "Energy",
+   "date": "2026-07-15",
+   "close": 56.175,
+   "d1": -1.0,
+   "w1": 2.81,
+   "m1": -1.65,
+   "significant": false
+  },
+  {
+   "symbol": "XLF",
+   "name": "Financials",
+   "date": "2026-07-15",
+   "close": 56.775,
+   "d1": 1.26,
+   "w1": 1.29,
+   "m1": 7.9,
+   "significant": false
+  },
+  {
+   "symbol": "XLV",
+   "name": "Health Care",
+   "date": "2026-07-15",
+   "close": 158.79,
+   "d1": -1.62,
+   "w1": -3.44,
+   "m1": 3.05,
+   "significant": false
+  },
+  {
+   "symbol": "XLI",
+   "name": "Industrials",
+   "date": "2026-07-15",
+   "close": 179.82,
+   "d1": -0.3,
+   "w1": -1.4,
+   "m1": 2.67,
+   "significant": false
+  },
+  {
+   "symbol": "XLB",
+   "name": "Materials",
+   "date": "2026-07-15",
+   "close": 50.655,
+   "d1": 0.15,
+   "w1": -1.66,
+   "m1": -1.1,
+   "significant": false
+  },
+  {
+   "symbol": "XLRE",
+   "name": "Real Estate",
+   "date": "2026-07-15",
+   "close": 44.85,
+   "d1": 0.83,
+   "w1": 1.59,
+   "m1": -1.12,
+   "significant": false
+  },
+  {
+   "symbol": "XLU",
+   "name": "Utilities",
+   "date": "2026-07-15",
+   "close": 45.85,
+   "d1": 0.28,
+   "w1": 0.33,
+   "m1": 4.09,
+   "significant": false
   }
  ],
  "errors": []

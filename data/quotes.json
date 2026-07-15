@@ -1,15 +1,15 @@
 {
- "updated": "2026-07-15T19:11:29Z",
+ "updated": "2026-07-15T20:28:26Z",
  "significant_pct": 3.0,
  "quotes": [
   {
    "symbol": "NVDA",
    "name": "NVIDIA",
    "date": "2026-07-15",
-   "close": 211.7,
-   "d1": -0.05,
-   "w1": 3.71,
-   "m1": 3.17,
+   "close": 212.5,
+   "d1": 0.33,
+   "w1": 4.11,
+   "m1": 3.56,
    "significant": false,
    "recent": [
     222.82,
@@ -41,17 +41,17 @@
     210.96,
     203.53,
     211.8,
-    211.7
+    212.5
    ]
   },
   {
    "symbol": "MU",
    "name": "Micron Technology",
    "date": "2026-07-15",
-   "close": 901.615,
-   "d1": -8.29,
-   "w1": -4.97,
-   "m1": -8.15,
+   "close": 904.28,
+   "d1": -8.02,
+   "w1": -4.69,
+   "m1": -7.88,
    "significant": true,
    "recent": [
     1064.1,
@@ -83,17 +83,17 @@
     979.3,
     937.0,
     983.12,
-    901.615
+    904.28
    ]
   },
   {
    "symbol": "SNDK",
    "name": "SanDisk",
    "date": "2026-07-15",
-   "close": 1621.0601,
-   "d1": -7.78,
-   "w1": -6.14,
-   "m1": -18.13,
+   "close": 1615.0,
+   "d1": -8.12,
+   "w1": -6.49,
+   "m1": -18.44,
    "significant": true,
    "recent": [
     1716.36,
@@ -125,17 +125,17 @@
     1915.92,
     1673.97,
     1757.8199,
-    1621.0601
+    1615.0
    ]
   },
   {
    "symbol": "SOXX",
    "name": "iShares Semiconductor ETF",
    "date": "2026-07-15",
-   "close": 552.31,
-   "d1": -2.75,
-   "w1": -1.73,
-   "m1": -7.37,
+   "close": 555.27,
+   "d1": -2.23,
+   "w1": -1.2,
+   "m1": -6.87,
    "significant": false,
    "recent": [
     605.02,
@@ -167,17 +167,17 @@
     581.34,
     553.61,
     567.92,
-    552.31
+    555.27
    ]
   },
   {
    "symbol": "SOXL",
    "name": "Direxion Semi Bull 3X",
    "date": "2026-07-15",
-   "close": 162.4,
-   "d1": -8.07,
-   "w1": -7.1,
-   "m1": -30.8,
+   "close": 165.55,
+   "d1": -6.29,
+   "w1": -5.3,
+   "m1": -29.46,
    "significant": true,
    "recent": [
     266.32,
@@ -209,17 +209,17 @@
     192.26,
     165.37,
     176.66,
-    162.4
+    165.55
    ]
   },
   {
    "symbol": "SPY",
    "name": "S&P 500 ETF (benchmark)",
    "date": "2026-07-15",
-   "close": 753.58,
-   "d1": 0.23,
-   "w1": 1.1,
-   "m1": 1.59,
+   "close": 754.81,
+   "d1": 0.4,
+   "w1": 1.26,
+   "m1": 1.76,
    "significant": false,
    "recent": [
     759.57,
@@ -251,113 +251,113 @@
     754.95,
     749.17,
     751.83,
-    753.58
+    754.81
    ]
   }
  ],
  "sectors": [
   {
-   "symbol": "XLK",
-   "name": "Technology",
-   "date": "2026-07-15",
-   "close": 181.08,
-   "d1": -1.38,
-   "w1": -0.18,
-   "m1": -2.01,
-   "significant": false
-  },
-  {
    "symbol": "XLC",
    "name": "Communication Services",
    "date": "2026-07-15",
-   "close": 112.995,
-   "d1": 1.39,
-   "w1": 3.23,
-   "m1": 1.2,
+   "close": 113.38,
+   "d1": 1.73,
+   "w1": 3.58,
+   "m1": 1.55,
    "significant": false
   },
   {
    "symbol": "XLY",
    "name": "Consumer Discretionary",
    "date": "2026-07-15",
-   "close": 117.035,
-   "d1": 0.98,
-   "w1": 1.5,
-   "m1": 0.37,
+   "close": 117.0,
+   "d1": 0.95,
+   "w1": 1.47,
+   "m1": 0.34,
    "significant": false
   },
   {
    "symbol": "XLP",
    "name": "Consumer Staples",
    "date": "2026-07-15",
-   "close": 83.565,
-   "d1": 0.17,
-   "w1": -0.98,
-   "m1": -2.63,
+   "close": 83.47,
+   "d1": 0.06,
+   "w1": -1.09,
+   "m1": -2.74,
+   "significant": false
+  },
+  {
+   "symbol": "XLE",
+   "name": "Energy",
+   "date": "2026-07-15",
+   "close": 56.5,
+   "d1": -0.79,
+   "w1": 1.62,
+   "m1": -1.82,
    "significant": false
   },
   {
    "symbol": "XLF",
    "name": "Financials",
    "date": "2026-07-15",
-   "close": 56.495,
-   "d1": 0.56,
-   "w1": 2.77,
-   "m1": 5.91,
+   "close": 56.56,
+   "d1": 0.68,
+   "w1": 2.89,
+   "m1": 6.04,
    "significant": false
   },
   {
    "symbol": "XLV",
    "name": "Health Care",
    "date": "2026-07-15",
-   "close": 158.61,
-   "d1": 0.2,
-   "w1": -2.27,
-   "m1": 3.12,
+   "close": 158.29,
+   "d1": 0.0,
+   "w1": -2.47,
+   "m1": 2.91,
    "significant": false
   },
   {
    "symbol": "XLI",
    "name": "Industrials",
    "date": "2026-07-15",
-   "close": 179.54,
-   "d1": -0.5,
-   "w1": -0.49,
-   "m1": 1.91,
+   "close": 180.06,
+   "d1": -0.22,
+   "w1": -0.2,
+   "m1": 2.2,
    "significant": false
   },
   {
    "symbol": "XLB",
    "name": "Materials",
    "date": "2026-07-15",
-   "close": 50.575,
-   "d1": -0.13,
-   "w1": 0.83,
-   "m1": -3.08,
+   "close": 50.5,
+   "d1": -0.28,
+   "w1": 0.68,
+   "m1": -3.22,
    "significant": false
   },
   {
    "symbol": "XLRE",
    "name": "Real Estate",
    "date": "2026-07-15",
-   "close": 44.485,
-   "d1": 0.01,
-   "w1": 0.76,
-   "m1": -1.93,
+   "close": 44.56,
+   "d1": 0.18,
+   "w1": 0.93,
+   "m1": -1.76,
    "significant": false
   },
   {
    "symbol": "XLU",
    "name": "Utilities",
    "date": "2026-07-15",
-   "close": 45.2035,
-   "d1": -1.06,
-   "w1": -0.35,
-   "m1": 1.51,
+   "close": 45.22,
+   "d1": -1.03,
+   "w1": -0.31,
+   "m1": 1.55,
    "significant": false
   }
  ],
  "errors": [
-  "XLE: HTTP Error 400: Bad Request"
+  "XLK: HTTP Error 400: Bad Request"
  ]
 }

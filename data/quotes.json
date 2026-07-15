@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T20:28:26Z",
+ "updated": "2026-07-15T21:36:12Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -257,6 +257,16 @@
  ],
  "sectors": [
   {
+   "symbol": "XLK",
+   "name": "Technology",
+   "date": "2026-07-15",
+   "close": 181.58,
+   "d1": -1.11,
+   "w1": 0.1,
+   "m1": -1.74,
+   "significant": false
+  },
+  {
    "symbol": "XLC",
    "name": "Communication Services",
    "date": "2026-07-15",
@@ -357,7 +367,5 @@
    "significant": false
   }
  ],
- "errors": [
-  "XLK: HTTP Error 400: Bad Request"
- ]
+ "errors": []
 }

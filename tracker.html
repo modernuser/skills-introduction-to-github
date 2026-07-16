@@ -295,7 +295,7 @@
         document.getElementById("sector-tbody").innerHTML = sectors.map(q =>
           `<tr>
             <td>${q.name}</td>
-            <td>${q.symbol}</td>
+            <td><a href="https://finance.yahoo.com/quote/${q.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${q.symbol} ↗</a></td>
             <td>$${q.close.toFixed(2)}</td>
             <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
             <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>

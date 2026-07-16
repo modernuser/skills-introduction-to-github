@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: quotes
@@ -34,3 +35,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Update market quotes [skip ci]"
           git push
+
+      # M1 corrective action: a silent pipeline is the worst failure mode.
+      # On any failed run, open an issue so the repo owner gets an email.
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Quotes pipeline failed ($(date -u +%Y-%m-%d))" \
+            --body "A scheduled market-data update failed. Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            || echo "issue creation failed; see run log"

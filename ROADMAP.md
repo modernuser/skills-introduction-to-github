@@ -18,10 +18,7 @@ links primary sources — it never gives buy/sell signals or predictions.
 
 4. **Charts page** — full-size historical charts (6mo/1yr), each ticker
    indexed against SPY = 100 so over/under-performance is visible at a glance.
-5. **News panel** — pull each ticker's RSS headlines into the tracker page
-   itself, with source names visible, so headline-vs-reality comparison is
-   one page instead of six tabs.
-6. **Installable app (PWA)** — manifest + service worker so the tracker can
+5. **Installable app (PWA)** — manifest + service worker so the tracker can
    live on a phone home screen like a native app.
 
 ## Housekeeping
@@ -38,3 +35,5 @@ links primary sources — it never gives buy/sell signals or predictions.
 - Sparklines, stale-data self-alarm, favicon, SEO meta (July 2026)
 - Editable watchlist.json + Sector pulse: all 11 SPDR sector ETFs ranked by
   observed daily move (July 2026)
+- Headlines panel: per-ticker news on the 20-min cycle with publisher
+  visible + signal-vs-noise checklist (July 2026)

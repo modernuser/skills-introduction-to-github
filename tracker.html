@@ -191,6 +191,25 @@
     </table>
   </div>
 
+  <section class="table-wrap" id="news-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Headlines — judge the source</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
+      Latest headlines per ticker, refreshed on the same 20-minute cycle. The publisher
+      is shown next to every headline — the judging is yours, not this page's.
+    </p>
+    <details style="margin-bottom:1rem;color:var(--color-muted);font-size:.84rem;">
+      <summary style="cursor:pointer;color:var(--color-accent);">How to tell signal from noise (checklist)</summary>
+      <ul style="margin:.5rem 0 0 1.2rem;line-height:1.9;">
+        <li><strong>Primary source?</strong> A company filing, press release, or earnings report beats any retelling of one.</li>
+        <li><strong>Named sources?</strong> "The company said" is checkable; "sources say" and "analysts believe" often aren't.</li>
+        <li><strong>Falsifiable claim?</strong> "$250B investment through 2035" can be verified. "Set to soar" cannot.</li>
+        <li><strong>Price-target clickbait?</strong> Headlines with predictions in them are marketing, not reporting.</li>
+        <li><strong>Cross-check:</strong> if a big claim appears in only one outlet, wait for a second independent one.</li>
+      </ul>
+    </details>
+    <div id="news-list"></div>
+  </section>
+
   <p class="status-line" id="status"></p>
 
   <footer class="footer">
@@ -200,9 +219,11 @@
   </footer>
 
   <script>
-    const RAW_URL =
-      "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/data/quotes.json";
+    const RAW_BASE =
+      "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/";
+    const RAW_URL = RAW_BASE + "data/quotes.json";
     const LOCAL_URL = "data/quotes.json";
+    const NEWS_SOURCES = [RAW_BASE + "data/news.json", "data/news.json"];
     const REFRESH_MS = 20 * 60 * 1000; // 20 minutes
 
     function fmtPct(v) {
@@ -309,18 +330,47 @@
           : "";
     }
 
-    async function load() {
+    function hostname(link) {
+      try { return new URL(link).hostname.replace(/^www\./, ""); }
+      catch (e) { return ""; }
+    }
+
+    function renderNews(data) {
+      const symbols = Object.keys(data.news || {});
+      if (!symbols.length) return;
+      document.getElementById("news-section").hidden = false;
+      document.getElementById("news-list").innerHTML = symbols.map(sym => {
+        const items = data.news[sym].map(it =>
+          `<li style="margin:.35rem 0;line-height:1.5;">
+            <a href="${it.link}" target="_blank" rel="noopener"
+               style="color:var(--color-text);text-decoration:none;">${it.title}</a>
+            <span style="color:var(--color-muted);font-size:.78rem;"> — ${hostname(it.link)}</span>
+          </li>`).join("");
+        return `<details style="margin:.4rem 0;">
+          <summary style="cursor:pointer;color:var(--color-accent);font-weight:600;">${sym}</summary>
+          <ul style="list-style:none;margin:.3rem 0 .6rem .5rem;">${items}</ul>
+        </details>`;
+      }).join("");
+    }
+
+    async function fetchFirst(urls) {
       const bust = "?t=" + Date.now();
-      for (const url of [RAW_URL + bust, LOCAL_URL + bust]) {
+      for (const url of urls) {
         try {
-          const resp = await fetch(url, { cache: "no-store" });
-          if (!resp.ok) continue;
-          render(await resp.json());
-          return;
+          const resp = await fetch(url + bust, { cache: "no-store" });
+          if (resp.ok) return await resp.json();
         } catch (e) { /* try next source */ }
       }
-      document.getElementById("updated").textContent =
+      return null;
+    }
+
+    async function load() {
+      const data = await fetchFirst([RAW_URL, LOCAL_URL]);
+      if (data) render(data);
+      else document.getElementById("updated").textContent =
         "No data available yet — the first scheduled update hasn't run.";
+      const news = await fetchFirst(NEWS_SOURCES);
+      if (news) renderNews(news);
     }
 
     load();

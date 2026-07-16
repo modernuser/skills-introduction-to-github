@@ -24,9 +24,14 @@ jobs:
       - name: Fetch latest quotes
         run: python3 scripts/update_quotes.py
 
+      # News is best-effort: a failed headline fetch must not block quotes.
+      - name: Fetch latest headlines
+        run: python3 scripts/update_news.py || echo "news fetch failed; quotes continue"
+
       - name: Commit if changed
         run: |
           git add data/quotes.json
+          if [ -f data/news.json ]; then git add data/news.json; fi
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

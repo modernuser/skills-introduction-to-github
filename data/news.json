@@ -1,24 +1,29 @@
 {
- "updated": "2026-07-16T19:36:33Z",
+ "updated": "2026-07-16T20:33:22Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why Karooooo Stock Jumped 13% Today",
-    "link": "https://www.fool.com/investing/2026/07/16/why-karooooo-stock-jumped-13-today/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 19:26:34 +0000"
+    "title": "This GLP-1 Stock Could Double by 2030. Here's Why",
+    "link": "https://www.fool.com/investing/2026/07/16/this-glp-1-stock-could-double-by-2030-heres-why/?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:20:00 +0000"
    },
    {
-    "title": "Elon Musk's Net Worth Is Plummeting -- Here's What That Means for SpaceX Stock",
-    "link": "https://www.fool.com/investing/2026/07/16/elon-musks-net-worth-falls-59-billion-to-9941-bill/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 19:25:00 +0000"
+    "title": "SK Hynix Makes Up Over a Quarter of South Korea's Stock Market. If You'd Invested $5,000 in the Memory Giant 5 Years Ago, Here's How Much It Would Be Worth Today.",
+    "link": "https://www.fool.com/investing/2026/07/16/sk-hynix-south-korea-market-memory-giant/?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:10:00 +0000"
    },
    {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Just Crashed",
-    "link": "https://www.fool.com/investing/2026/07/16/why-direxion-daily-semiconductor-bull-3x-etf-just/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 19:21:41 +0000"
+    "title": "3 AI Stocks Poised to Rebound After Slow Starts to the Year",
+    "link": "https://www.fool.com/investing/2026/07/16/3-ai-stocks-poised-to-rebound-after-slow-starts-to/?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:05:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
+    "link": "https://finance.yahoo.com/m/f52ae25b-cf16-37ee-9425-018a96ec9461/ai-has-upended-chip-stocks..html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:49:00 +0000"
+   },
    {
     "title": "Q1 Rundown: AMD (NASDAQ:AMD) Vs Other Processors and Graphics Chips Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/q1-rundown-amd-nasdaq-amd-192122824.html?.tsrc=rss",
@@ -28,48 +33,48 @@
     "title": "UBS Raises AMD Target on Stronger AI Outlook",
     "link": "https://finance.yahoo.com/technology/ai/articles/ubs-raises-amd-target-stronger-190745665.html?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 19:07:45 +0000"
-   },
-   {
-    "title": "Marvell Stock's AI Bet Is Even Bigger Than You Think",
-    "link": "https://www.trefis.com/articles/607498/marvell-stocks-ai-bet-is-even-bigger-than-you-think/2026-07-16?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:06:31 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Most Stocks Gained, but Chip Selloff Drags Market",
+    "link": "https://finance.yahoo.com/m/b2df7f76-1cea-3fe3-a952-d6fa0b724a41/most-stocks-gained%2C-but-chip.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:01:34 +0000"
+   },
+   {
+    "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
+    "link": "https://finance.yahoo.com/m/f52ae25b-cf16-37ee-9425-018a96ec9461/ai-has-upended-chip-stocks..html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:49:00 +0000"
+   },
+   {
     "title": "Marvell Stock's AI Bet Is Even Bigger Than You Think",
     "link": "https://www.trefis.com/articles/607498/marvell-stocks-ai-bet-is-even-bigger-than-you-think/2026-07-16?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 18:06:31 +0000"
-   },
-   {
-    "title": "IREN Just Collapsed 41% in a Month: Is This Dead Money or an Abandoned Gem?",
-    "link": "https://247wallst.com/investing/2026/07/16/iren-just-collapsed-41-in-a-month-is-this-dead-money-or-an-abandoned-gem/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:05:36 +0000"
-   },
-   {
-    "title": "Bank of America Sees Nvidia\u2019s Next $20 Billion Business. Here\u2019s Where NVDA Stock Could Go",
-    "link": "https://247wallst.com/investing/2026/07/16/bank-of-america-sees-nvidias-next-20-billion-business-heres-where-nvda-stock-could-go/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:00:42 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Just Crashed",
-    "link": "https://www.fool.com/investing/2026/07/16/why-direxion-daily-semiconductor-bull-3x-etf-just/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 19:21:41 +0000"
+    "title": "Update: US Equity Indexes Decline Amid Sell-Off in Chipmakers, Iran's Warning on Red Sea Route",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-amid-195650873.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:56:50 +0000"
    },
    {
-    "title": "Nasdaq Declines as Chip Stocks Come Under Pressure",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 19:09:00 +0000"
+    "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
+    "link": "https://finance.yahoo.com/m/f52ae25b-cf16-37ee-9425-018a96ec9461/ai-has-upended-chip-stocks..html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:49:00 +0000"
    },
    {
-    "title": "TSMC Adds $100 Billion to U.S. Expansion",
-    "link": "https://finance.yahoo.com/technology/articles/tsmc-adds-100-billion-u-185843988.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:58:43 +0000"
+    "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194638197.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:46:38 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
+    "link": "https://finance.yahoo.com/m/f52ae25b-cf16-37ee-9425-018a96ec9461/ai-has-upended-chip-stocks..html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:49:00 +0000"
+   },
    {
     "title": "Intel Target Raised Ahead of Q2",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-target-raised-ahead-q2-190908009.html?.tsrc=rss",
@@ -79,45 +84,40 @@
     "title": "Marvell Stock's AI Bet Is Even Bigger Than You Think",
     "link": "https://www.trefis.com/articles/607498/marvell-stocks-ai-bet-is-even-bigger-than-you-think/2026-07-16?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 18:06:31 +0000"
-   },
-   {
-    "title": "Sandisk, Micron, TSMC, Abbott, AST SpaceMobile, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/c58be190-b3c8-3fe8-b657-5c3009645cc5/sandisk%2C-micron%2C-tsmc%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 17:43:00 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "How Long-Term Auto Supply Deals And US Fab Build-Out At Micron (MU) Has Changed Its Investment Story",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/long-term-auto-supply-deals-201421280.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:14:21 +0000"
+   },
    {
     "title": "Micron Signs Long-Term Auto Chip Deals",
     "link": "https://finance.yahoo.com/technology/articles/micron-signs-long-term-auto-190703974.html?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 19:07:03 +0000"
    },
    {
-    "title": "IBM's worst day since 1968 handed Micron a gift",
-    "link": "https://www.thestreet.com/investing/stocks/ibm-worst-drop-since-1968-micron-mu-memory-ai-trade?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:18:55 +0000"
-   },
-   {
-    "title": "Micron Technology (MU): Memory Powerhouse Driving the AI Boom",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-memory-powerhouse-181848705.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:18:48 +0000"
+    "title": "Micron\u2019s AI Boom: Wall Street Breaks Down How High Earnings Can Go",
+    "link": "https://finance.yahoo.com/m/e10fce80-249d-3dae-bcb8-032693e5b5f1/micron%E2%80%99s-ai-boom%3A-wall-street.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 18:50:00 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Update: US Equity Indexes Decline Amid Sell-Off in Chipmakers, Iran's Warning on Red Sea Route",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-amid-195650873.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:56:50 +0000"
+   },
+   {
+    "title": "Stock Market Today: Nasdaq Drops While TSMC Hits Sell Rule; Oil Shipper Steers Into Entry (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/c5561775-6f2a-30c3-8319-d6feaa5d3578/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:39:28 +0000"
+   },
+   {
     "title": "Nasdaq Declines as Chip Stocks Come Under Pressure",
     "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-on-fresh-ai-wobble-a7d12092?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 19:09:00 +0000"
-   },
-   {
-    "title": "Chip Stocks Weigh on Equities Intraday; Netflix Earnings on Deck",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-weigh-equities-intraday-180443308.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 18:04:43 +0000"
-   },
-   {
-    "title": "Sandisk, Micron, TSMC, Abbott, AST SpaceMobile, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/c58be190-b3c8-3fe8-b657-5c3009645cc5/sandisk%2C-micron%2C-tsmc%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 17:43:00 +0000"
    }
   ],
   "WDC": [
@@ -190,36 +190,36 @@
   ],
   "QQQ": [
    {
+    "title": "ICI\u2019s Weinberg: An Insider's View of ETF Industry Priorities",
+    "link": "http://www.etf.com/sections/conferences/icis-weinberg-insiders-view-etf-industry-priorities?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:39:45 +0000"
+   },
+   {
+    "title": "Survive the Summer Chop: How to Trade Today's Volatility",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/survive-summer-chop-trade-todays-184100432.html?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 18:41:00 +0000"
+   },
+   {
     "title": "Prediction: This Growth ETF Will Triple Over the Next 10 Years. Here's the Math.",
     "link": "https://www.fool.com/investing/2026/07/16/prediction-this-growth-etf-will-triple-over-the-ne/?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 18:28:00 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-us-equities-171520171.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 17:15:20 +0000"
-   },
-   {
-    "title": "Wall Street explores tokenization of assets",
-    "link": "https://finance.yahoo.com/video/wall-street-explores-tokenization-of-assets-165511819.html?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 16:55:11 +0000"
    }
   ],
   "SPY": [
    {
+    "title": "Analyst: \u2018We\u2019re In One Of The Most Dangerous Times In History\u2019 For Passive Investors",
+    "link": "https://247wallst.com/investing/2026/07/16/analyst-were-in-one-of-the-most-dangerous-times-in-history-for-passive-investors/?.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 20:13:17 +0000"
+   },
+   {
+    "title": "ICI\u2019s Weinberg: An Insider's View of ETF Industry Priorities",
+    "link": "http://www.etf.com/sections/conferences/icis-weinberg-insiders-view-etf-industry-priorities?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+    "pubDate": "Thu, 16 Jul 2026 19:39:45 +0000"
+   },
+   {
     "title": "Small Caps Are Beating the S&P 500 by the Widest Margin Since 2003.  These ETFs Let You Ride the Rally",
     "link": "https://247wallst.com/investing/etf/2026/07/16/small-caps-are-beating-the-sp-500-by-the-widest-margin-since-2003-these-etfs-let-you-ride-the-rally/?.tsrc=rss",
     "pubDate": "Thu, 16 Jul 2026 16:23:21 +0000"
-   },
-   {
-    "title": "Marvell Crashed Below $200: This Wall Street Firm Thinks It Doubles From Here",
-    "link": "https://247wallst.com/investing/2026/07/16/marvell-crashed-below-200-this-wall-street-firm-thinks-it-doubles-from-here/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 16:07:16 +0000"
-   },
-   {
-    "title": "Intel Is Down 17% Over 1 Month: This Wall Street Analyst Thinks Doubles From Here",
-    "link": "https://247wallst.com/investing/2026/07/16/intel-is-down-17-over-1-month-this-wall-street-analyst-thinks-doubles-from-here/?.tsrc=rss",
-    "pubDate": "Thu, 16 Jul 2026 15:12:56 +0000"
    }
   ]
  },

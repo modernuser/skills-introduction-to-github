@@ -21,8 +21,9 @@ framed. Offer data-display alternatives instead.
    in one sentence. If the conversation drifts to a new subject mid-task,
    flag it: finish or park the current task explicitly before switching.
 3. **Backlog lives in ROADMAP.md.** New ideas go there instead of
-   evaporating in chat. Check it before proposing work; update Shipped
-   after merging.
+   evaporating in chat. Check it before proposing work. After merging a
+   user-visible feature, update BOTH the ROADMAP Shipped section AND the
+   "Latest Updates" list in index.html (this was missed twice).
 4. **Verify after shipping.** Never assume a deploy or scheduled workflow
    worked — check the run conclusion and the artifact it should produce.
 

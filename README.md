@@ -19,6 +19,11 @@ and creative makers — this project grows iteratively and openly on GitHub.
 | `index.html` | Main landing page |
 | `tracker.html` | Live market tracker (educational data display) |
 | `styles.css` | Site styles (dark theme, gold accent) |
+| `watchlist.json` | Tracked tickers + sector ETFs — edit here, no code needed |
+| `data/quotes.json` | Auto-refreshed market data (committed by the scheduled workflow) |
+| `scripts/update_quotes.py` | Data fetcher (stooq with Yahoo fallback) |
+| `ROADMAP.md` | Prioritized backlog and shipped history |
+| `CLAUDE.md` | Working agreements and lessons learned for AI sessions |
 
 ## Getting Started
 

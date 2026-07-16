@@ -2,10 +2,17 @@
   "_edit_me": "Add or remove watchlist tickers here (symbol: display name). The tracker updates automatically on the next scheduled run. Sectors below are the 11 standard SPDR sector ETFs — coverage, not recommendations.",
   "watchlist": {
     "NVDA": "NVIDIA",
+    "AMD": "Advanced Micro Devices",
+    "AVGO": "Broadcom",
+    "TSM": "TSMC",
+    "INTC": "Intel",
     "MU": "Micron Technology",
     "SNDK": "SanDisk",
+    "WDC": "Western Digital",
+    "STX": "Seagate Technology",
     "SOXX": "iShares Semiconductor ETF",
     "SOXL": "Direxion Semi Bull 3X",
+    "QQQ": "Nasdaq-100 ETF (benchmark)",
     "SPY": "S&P 500 ETF (benchmark)"
   },
   "sectors": {

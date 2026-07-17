@@ -161,6 +161,23 @@
 
   footer { text-align: center; color: var(--muted); font-size: 11px; margin-top: 22px; line-height: 1.6; }
   footer a { color: var(--flip); text-decoration: none; }
+
+  .quicklinks {
+    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+    margin: 24px 0 16px; padding-top: 16px; border-top: 1px solid var(--line);
+  }
+  .quicklinks .qh { flex-basis: 100%; text-align: center; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .8px; margin-bottom: 2px; }
+  .quicklinks a {
+    display: inline-flex; align-items: center; gap: 7px;
+    background: var(--panel); border: 1px solid var(--line); color: var(--txt);
+    padding: 9px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;
+    text-decoration: none; cursor: pointer; transition: .15s;
+  }
+  .quicklinks a:active { transform: scale(.97); }
+  .quicklinks a .qd { width: 8px; height: 8px; border-radius: 50%; }
+  .quicklinks a.ble  .qd { background: var(--ble);  box-shadow: 0 0 8px var(--ble); }
+  .quicklinks a.wifi .qd { background: var(--wifi); box-shadow: 0 0 8px var(--wifi); }
+  .quicklinks a.rem  .qd { background: var(--flip); box-shadow: 0 0 8px var(--flip); }
 </style>
 </head>
 <body>
@@ -265,6 +282,13 @@
     </div>
   </section>
 
+  <nav class="quicklinks" aria-label="Jump to section">
+    <span class="qh">Jump to</span>
+    <a class="ble"  data-goto="ble"><span class="qd"></span>Bluetooth pairing</a>
+    <a class="wifi" data-goto="wifi"><span class="qd"></span>Wi-Fi pairing</a>
+    <a class="rem"  data-goto="remote"><span class="qd"></span>Remote &amp; d-pad</a>
+  </nav>
+
   <footer>
     Part of <a href="index.html">Wolf of Fairhope Avenue</a> · Web Bluetooth works in Chrome / Edge on Android &amp; desktop. iOS Safari needs a Web-Bluetooth-enabled browser.
   </footer>
@@ -291,13 +315,18 @@
   }
 
   /* ---------- tabs ---------- */
+  function showTab(name, scroll) {
+    document.querySelectorAll(".tab").forEach((x) => x.classList.toggle("active", x.dataset.tab === name));
+    document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
+    const panel = $("tab-" + name);
+    if (panel) panel.classList.add("active");
+    if (scroll) window.scrollTo({ top: 0, behavior: "smooth" });
+  }
   document.querySelectorAll(".tab").forEach((t) => {
-    t.addEventListener("click", () => {
-      document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
-      document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
-      t.classList.add("active");
-      $("tab-" + t.dataset.tab).classList.add("active");
-    });
+    t.addEventListener("click", () => showTab(t.dataset.tab, false));
+  });
+  document.querySelectorAll(".quicklinks [data-goto]").forEach((a) => {
+    a.addEventListener("click", (e) => { e.preventDefault(); showTab(a.dataset.goto, true); });
   });
 
   /* ---------- status ---------- */

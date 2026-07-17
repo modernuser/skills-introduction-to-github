@@ -26,6 +26,10 @@ framed. Offer data-display alternatives instead.
    "Latest Updates" list in index.html (this was missed twice).
 4. **Verify after shipping.** Never assume a deploy or scheduled workflow
    worked — check the run conclusion and the artifact it should produce.
+5. **Bottom quick-links on any multi-section page.** When a page has
+   several sections/tabs the owner will bounce between, add a clickable
+   quick-links (jump-to) row at the bottom so they never have to scroll up
+   to hunt for a section. Default to this; don't wait to be asked.
 
 ## Architecture notes
 

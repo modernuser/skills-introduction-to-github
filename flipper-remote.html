@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>Flipper Remote</title>
+<meta name="description" content="A phone-based remote control UI for a Flipper Zero (or any BLE / local-network device), with Bluetooth and Wi-Fi pairing panels." />
+<meta name="theme-color" content="#ff8200" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%90%AC%3C/text%3E%3C/svg%3E" />
+<style>
+  :root {
+    --flip:      #ff8200;
+    --flip-dim:  #b35b00;
+    --bg:        #0d0f12;
+    --panel:     #16191e;
+    --panel-2:   #1e2229;
+    --line:      #2a2f38;
+    --txt:       #e8eaed;
+    --muted:     #8b93a0;
+    --ok:        #35d07f;
+    --warn:      #ffcc00;
+    --err:       #ff5252;
+    --ble:       #2f9bff;
+    --wifi:      #35d07f;
+    --radius:    16px;
+    --shadow:    0 8px 30px rgba(0,0,0,.45);
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: radial-gradient(1200px 600px at 50% -10%, #1a1e25 0%, var(--bg) 60%);
+    color: var(--txt);
+    min-height: 100dvh;
+    padding: max(16px, env(safe-area-inset-top)) 16px calc(24px + env(safe-area-inset-bottom));
+    display: flex;
+    justify-content: center;
+  }
+  .app { width: 100%; max-width: 460px; }
+
+  /* Header */
+  header { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px;
+    background: linear-gradient(135deg, var(--flip), var(--flip-dim));
+    display: grid; place-items: center; font-size: 24px;
+    box-shadow: 0 4px 14px rgba(255,130,0,.35);
+  }
+  header h1 { font-size: 19px; margin: 0; letter-spacing: .2px; }
+  header p { margin: 2px 0 0; font-size: 12.5px; color: var(--muted); }
+
+  /* Status strip */
+  .status {
+    display: flex; gap: 10px; margin-bottom: 16px;
+  }
+  .pill {
+    flex: 1; display: flex; align-items: center; gap: 8px;
+    background: var(--panel); border: 1px solid var(--line);
+    border-radius: 12px; padding: 9px 12px; font-size: 12.5px;
+  }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--muted); flex: none; box-shadow: 0 0 0 0 rgba(0,0,0,0); }
+  .dot.on { background: var(--ok); box-shadow: 0 0 10px var(--ok); animation: pulse 1.8s infinite; }
+  .dot.mid { background: var(--warn); box-shadow: 0 0 10px var(--warn); }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.45} }
+  .pill .label { color: var(--muted); }
+  .pill .val { margin-left: auto; font-weight: 600; }
+
+  /* Tabs */
+  .tabs { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 4px; margin-bottom: 14px; }
+  .tab {
+    flex: 1; border: 0; background: transparent; color: var(--muted);
+    padding: 10px; border-radius: 9px; font-size: 13.5px; font-weight: 600;
+    cursor: pointer; transition: .15s; display: flex; align-items: center; justify-content: center; gap: 7px;
+  }
+  .tab.active { background: var(--panel-2); color: var(--txt); box-shadow: var(--shadow); }
+  .tab svg { width: 16px; height: 16px; }
+
+  .panel { display: none; }
+  .panel.active { display: block; animation: fade .2s ease; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px);} to{opacity:1; transform:none;} }
+
+  .card {
+    background: var(--panel); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow);
+  }
+  .card + .card { margin-top: 14px; }
+  .card h2 { margin: 0 0 4px; font-size: 15px; }
+  .card .sub { margin: 0 0 14px; font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+
+  .btn {
+    width: 100%; border: 0; border-radius: 12px; padding: 14px;
+    font-size: 15px; font-weight: 700; cursor: pointer; color: #0d0f12;
+    background: linear-gradient(135deg, var(--flip), var(--flip-dim));
+    display: flex; align-items: center; justify-content: center; gap: 9px;
+    transition: transform .08s, filter .15s;
+  }
+  .btn:active { transform: scale(.98); }
+  .btn:disabled { filter: grayscale(.6) brightness(.7); cursor: not-allowed; }
+  .btn.ghost { background: var(--panel-2); color: var(--txt); border: 1px solid var(--line); }
+  .btn.ble { background: linear-gradient(135deg, var(--ble), #1a6fce); color: #fff; }
+  .btn.wifi { background: linear-gradient(135deg, var(--wifi), #1f9d5f); color: #06210f; }
+  .btn.sm { padding: 11px; font-size: 13.5px; }
+  .row { display: flex; gap: 10px; }
+  .row > * { flex: 1; }
+
+  label.field { display: block; font-size: 12px; color: var(--muted); margin: 12px 0 6px; }
+  input {
+    width: 100%; background: var(--bg); border: 1px solid var(--line); color: var(--txt);
+    border-radius: 10px; padding: 12px; font-size: 14px; font-family: inherit;
+  }
+  input:focus { outline: none; border-color: var(--flip); }
+
+  .note { font-size: 11.5px; color: var(--muted); line-height: 1.5; margin-top: 12px; display: flex; gap: 8px; }
+  .note svg { flex: none; width: 15px; height: 15px; margin-top: 1px; color: var(--warn); }
+
+  .devlist { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+  .dev {
+    display: flex; align-items: center; gap: 10px; padding: 11px 12px;
+    background: var(--panel-2); border: 1px solid var(--line); border-radius: 11px; font-size: 13px;
+  }
+  .dev .nm { font-weight: 600; }
+  .dev .meta { color: var(--muted); font-size: 11.5px; margin-left: auto; }
+
+  /* Remote */
+  .screen {
+    background: #c3d82e; color: #262a05; border-radius: 12px; padding: 12px 14px;
+    font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; font-size: 12.5px;
+    min-height: 62px; margin-bottom: 16px; box-shadow: inset 0 2px 6px rgba(0,0,0,.25);
+    display: flex; flex-direction: column; justify-content: space-between;
+  }
+  .screen .top { display: flex; justify-content: space-between; font-weight: 700; }
+  .screen .big { font-size: 15px; font-weight: 800; }
+
+  .dpad { position: relative; width: 210px; height: 210px; margin: 6px auto 4px; }
+  .dpad button {
+    position: absolute; border: 1px solid var(--line); background: var(--panel-2);
+    color: var(--txt); cursor: pointer; transition: .1s; display: grid; place-items: center;
+  }
+  .dpad button:active, .dpad button.hit { background: var(--flip); color: #0d0f12; transform: scale(.95); }
+  .dpad .up    { top: 0; left: 70px; width: 70px; height: 70px; border-radius: 12px 12px 0 0; }
+  .dpad .down  { bottom: 0; left: 70px; width: 70px; height: 70px; border-radius: 0 0 12px 12px; }
+  .dpad .left  { left: 0; top: 70px; width: 70px; height: 70px; border-radius: 12px 0 0 12px; }
+  .dpad .right { right: 0; top: 70px; width: 70px; height: 70px; border-radius: 0 12px 12px 0; }
+  .dpad .ok {
+    left: 70px; top: 70px; width: 70px; height: 70px; border-radius: 14px;
+    font-weight: 800; background: linear-gradient(135deg, var(--flip), var(--flip-dim)); color: #0d0f12; border: 0;
+  }
+  .dpad svg { width: 22px; height: 22px; }
+
+  .actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+
+  .console {
+    margin-top: 14px; background: #05070a; border: 1px solid var(--line); border-radius: 12px;
+    padding: 12px; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 11.5px;
+    height: 128px; overflow-y: auto; color: var(--muted); line-height: 1.55;
+  }
+  .console .l { color: var(--txt); }
+  .console .t { color: var(--flip); }
+  .console .g { color: var(--ok); }
+  .console .r { color: var(--err); }
+
+  footer { text-align: center; color: var(--muted); font-size: 11px; margin-top: 22px; line-height: 1.6; }
+  footer a { color: var(--flip); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header>
+    <div class="logo">🐬</div>
+    <div>
+      <h1>Flipper Remote</h1>
+      <p>Phone control panel · BLE + Wi-Fi</p>
+    </div>
+  </header>
+
+  <div class="status">
+    <div class="pill">
+      <span id="bleDot" class="dot"></span>
+      <span class="label">Bluetooth</span>
+      <span id="bleVal" class="val">Off</span>
+    </div>
+    <div class="pill">
+      <span id="wifiDot" class="dot"></span>
+      <span class="label">Wi-Fi</span>
+      <span id="wifiVal" class="val">Off</span>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="ble">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 8l10 8-5 4V4l5 4L7 16"/></svg>
+      Bluetooth
+    </button>
+    <button class="tab" data-tab="wifi">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5a10 10 0 0 1 14 0M8.5 16a5 5 0 0 1 7 0"/><circle cx="12" cy="19" r="1" fill="currentColor"/></svg>
+      Wi-Fi
+    </button>
+    <button class="tab" data-tab="remote">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="2" width="10" height="20" rx="3"/><circle cx="12" cy="17" r="1.5"/></svg>
+      Remote
+    </button>
+  </div>
+
+  <!-- BLUETOOTH -->
+  <section class="panel active" id="tab-ble">
+    <div class="card">
+      <h2>Pair over Bluetooth</h2>
+      <p class="sub">Connects to your Flipper Zero (or any BLE device) using your browser's Web Bluetooth. Turn on Bluetooth on the Flipper: <b>Settings → Bluetooth → On</b>, then tap Pair.</p>
+      <button class="btn ble" id="blePair">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 8l10 8-5 4V4l5 4L7 16"/></svg>
+        Pair a device
+      </button>
+      <div class="devlist" id="bleDevices"></div>
+      <div class="note" id="bleNote" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
+        <span></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- WIFI -->
+  <section class="panel" id="tab-wifi">
+    <div class="card">
+      <h2>Connect over Wi-Fi</h2>
+      <p class="sub">Phones can't join a Wi-Fi network from a web page, so this connects to a device already on your local network by its address (e.g. a Flipper with the Wi-Fi Dev Board, or an ESP-based bridge exposing a WebSocket).</p>
+      <label class="field">Device address</label>
+      <input id="wifiHost" type="text" inputmode="url" placeholder="192.168.1.50:80" value="192.168.4.1:80" />
+      <label class="field">Path (optional)</label>
+      <input id="wifiPath" type="text" placeholder="/ws" value="/ws" />
+      <div class="row" style="margin-top:14px">
+        <button class="btn wifi sm" id="wifiConnect">Connect</button>
+        <button class="btn ghost sm" id="wifiScan">Scan hint</button>
+      </div>
+      <div class="note">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
+        <span>The page is served over HTTPS on GitHub Pages, so browsers block plain <code>ws://</code> to a local IP. Run this page locally (or use a <code>wss://</code> endpoint) to talk to a real device. Otherwise it stays in demo mode.</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- REMOTE -->
+  <section class="panel" id="tab-remote">
+    <div class="card">
+      <div class="screen">
+        <div class="top"><span id="scrName">No device</span><span id="scrLink">◌</span></div>
+        <div class="big" id="scrMsg">Pair over Bluetooth or Wi-Fi</div>
+        <div id="scrHint" style="opacity:.7">Buttons send in demo mode until connected</div>
+      </div>
+
+      <div class="dpad">
+        <button class="up"    data-key="Up"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
+        <button class="left"  data-key="Left"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 5l-7 7 7 7"/></svg></button>
+        <button class="ok"    data-key="Ok">OK</button>
+        <button class="right" data-key="Right"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
+        <button class="down"  data-key="Down"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></button>
+      </div>
+
+      <div class="actions">
+        <button class="btn ghost sm" data-key="Back">← Back</button>
+        <button class="btn sm" data-key="Menu">☰ Menu</button>
+      </div>
+
+      <div class="console" id="console"></div>
+    </div>
+  </section>
+
+  <footer>
+    Part of <a href="index.html">Wolf of Fairhope Avenue</a> · Web Bluetooth works in Chrome / Edge on Android &amp; desktop. iOS Safari needs a Web-Bluetooth-enabled browser.
+  </footer>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const $ = (id) => document.getElementById(id);
+  const state = { ble: null, wifi: null };
+
+  // Flipper Zero's Serial Service (Nordic UART-style) — used by the qFlipper / mobile protocol.
+  const FLIPPER_SERIAL_SVC = "8fe5b3d5-2e7f-4a98-2a48-7acc60fe0000";
+
+  /* ---------- console ---------- */
+  const con = $("console");
+  function log(msg, cls = "") {
+    const line = document.createElement("div");
+    const ts = new Date().toLocaleTimeString();
+    line.innerHTML = `<span class="t">${ts}</span> <span class="${cls}">${msg}</span>`;
+    con.appendChild(line);
+    con.scrollTop = con.scrollHeight;
+  }
+
+  /* ---------- tabs ---------- */
+  document.querySelectorAll(".tab").forEach((t) => {
+    t.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+      document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
+      t.classList.add("active");
+      $("tab-" + t.dataset.tab).classList.add("active");
+    });
+  });
+
+  /* ---------- status ---------- */
+  function setStatus(kind, level, text) {
+    const dot = $(kind + "Dot"), val = $(kind + "Val");
+    dot.className = "dot" + (level === "on" ? " on" : level === "mid" ? " mid" : "");
+    val.textContent = text;
+    refreshScreen();
+  }
+  function refreshScreen() {
+    const dev = state.ble?.name || state.wifi?.name;
+    const linked = state.ble?.connected || state.wifi?.connected;
+    $("scrName").textContent = dev || "No device";
+    $("scrLink").textContent = linked ? "●" : "◌";
+    if (linked) {
+      $("scrMsg").textContent = "Ready";
+      $("scrHint").textContent = "Live: " + (state.ble?.connected ? "Bluetooth" : "Wi-Fi");
+    } else {
+      $("scrMsg").textContent = "Pair over Bluetooth or Wi-Fi";
+      $("scrHint").textContent = "Buttons send in demo mode until connected";
+    }
+  }
+
+  /* ---------- Bluetooth (Web Bluetooth) ---------- */
+  $("blePair").addEventListener("click", async () => {
+    if (!navigator.bluetooth) {
+      showBleNote("This browser doesn't support Web Bluetooth. Use Chrome or Edge on Android/desktop, or a Web-Bluetooth browser on iOS.");
+      log("Web Bluetooth unavailable", "r");
+      return;
+    }
+    try {
+      setStatus("ble", "mid", "Scanning…");
+      log("Requesting device…", "l");
+      const device = await navigator.bluetooth.requestDevice({
+        // Show Flipper-style devices first, but allow any so pairing always works.
+        filters: [{ namePrefix: "Flipper" }],
+        optionalServices: [FLIPPER_SERIAL_SVC],
+        acceptAllDevices: false
+      }).catch(async (e) => {
+        if (e.name === "NotFoundError") {
+          // User may not have a Flipper; offer the full picker.
+          return navigator.bluetooth.requestDevice({ acceptAllDevices: true, optionalServices: [FLIPPER_SERIAL_SVC] });
+        }
+        throw e;
+      });
+
+      device.addEventListener("gattserverdisconnected", () => {
+        state.ble = { name: device.name, connected: false };
+        setStatus("ble", "off", "Lost");
+        log("Bluetooth disconnected", "r");
+        renderBleDevice(device.name, false);
+      });
+
+      log(`Connecting to ${device.name || "device"}…`, "l");
+      const server = await device.gatt.connect();
+      let writeChar = null;
+      try {
+        const svc = await server.getPrimaryService(FLIPPER_SERIAL_SVC);
+        const chars = await svc.getCharacteristics();
+        writeChar = chars.find((c) => c.properties.write || c.properties.writeWithoutResponse) || null;
+      } catch (_) { /* device may not expose the serial service; still counts as paired */ }
+
+      state.ble = { name: device.name || "BLE device", connected: true, device, server, writeChar };
+      setStatus("ble", "on", "Linked");
+      log(`Paired with ${device.name || "device"}` + (writeChar ? " (serial ready)" : ""), "g");
+      renderBleDevice(device.name || "BLE device", true);
+      hideBleNote();
+    } catch (e) {
+      setStatus("ble", "off", "Off");
+      if (e.name === "NotFoundError") { log("Pairing cancelled", "l"); }
+      else { log("BLE error: " + e.message, "r"); showBleNote(e.message); }
+    }
+  });
+
+  function renderBleDevice(name, connected) {
+    const wrap = $("bleDevices");
+    wrap.innerHTML = "";
+    const el = document.createElement("div");
+    el.className = "dev";
+    el.innerHTML = `<span class="dot ${connected ? "on" : ""}"></span>
+      <span class="nm">${name}</span>
+      <span class="meta">${connected ? "connected" : "disconnected"}</span>`;
+    wrap.appendChild(el);
+  }
+  function showBleNote(t) { const n = $("bleNote"); n.hidden = false; n.querySelector("span").textContent = t; }
+  function hideBleNote() { $("bleNote").hidden = true; }
+
+  /* ---------- Wi-Fi (WebSocket to a local device) ---------- */
+  $("wifiConnect").addEventListener("click", () => {
+    const host = $("wifiHost").value.trim();
+    const path = $("wifiPath").value.trim();
+    if (!host) { log("Enter a device address", "r"); return; }
+    const secure = location.protocol === "https:";
+    const scheme = secure ? "wss" : "ws";
+    const url = `${scheme}://${host}${path.startsWith("/") ? path : "/" + path}`;
+
+    setStatus("wifi", "mid", "Connecting…");
+    log(`Opening ${url}`, "l");
+    try {
+      const ws = new WebSocket(url);
+      const timeout = setTimeout(() => { if (ws.readyState !== 1) { ws.close(); } }, 6000);
+
+      ws.onopen = () => {
+        clearTimeout(timeout);
+        state.wifi = { name: host, connected: true, ws };
+        setStatus("wifi", "on", "Linked");
+        log("Wi-Fi link established", "g");
+      };
+      ws.onmessage = (ev) => log("↩ " + ev.data, "l");
+      ws.onerror = () => log("Wi-Fi socket error — is the device reachable?", "r");
+      ws.onclose = () => {
+        clearTimeout(timeout);
+        if (state.wifi?.connected) log("Wi-Fi link closed", "r");
+        else log("Could not connect. On HTTPS, browsers block insecure ws:// to a local IP — run this page locally or use wss://.", "r");
+        state.wifi = { name: host, connected: false };
+        setStatus("wifi", "off", "Off");
+      };
+    } catch (e) {
+      setStatus("wifi", "off", "Off");
+      log("Wi-Fi error: " + e.message, "r");
+    }
+  });
+
+  $("wifiScan").addEventListener("click", () => {
+    log("Tip: check your router's client list, or on the Flipper Wi-Fi board the default AP is 192.168.4.1", "l");
+  });
+
+  /* ---------- Remote buttons ---------- */
+  function sendKey(key) {
+    const payload = JSON.stringify({ type: "input", key });
+    let sent = false;
+
+    if (state.wifi?.connected && state.wifi.ws?.readyState === 1) {
+      state.wifi.ws.send(payload); sent = true;
+      log(`→ ${key} (wifi)`, "g");
+    }
+    if (state.ble?.connected && state.ble.writeChar) {
+      const bytes = new TextEncoder().encode(payload + "\n");
+      state.ble.writeChar.writeValueWithoutResponse
+        ? state.ble.writeChar.writeValueWithoutResponse(bytes).catch((e) => log("BLE write failed: " + e.message, "r"))
+        : state.ble.writeChar.writeValue(bytes).catch((e) => log("BLE write failed: " + e.message, "r"));
+      sent = true;
+      log(`→ ${key} (ble)`, "g");
+    }
+    if (!sent) log(`→ ${key} (demo — not connected)`, "");
+    $("scrMsg").textContent = key;
+  }
+
+  document.querySelectorAll("[data-key]").forEach((b) => {
+    b.addEventListener("click", () => {
+      sendKey(b.dataset.key);
+      b.classList.add("hit");
+      setTimeout(() => b.classList.remove("hit"), 120);
+    });
+  });
+
+  // Keyboard support on desktop.
+  const KEYMAP = { ArrowUp: "Up", ArrowDown: "Down", ArrowLeft: "Left", ArrowRight: "Right", Enter: "Ok", Backspace: "Back", " ": "Ok" };
+  window.addEventListener("keydown", (e) => {
+    const k = KEYMAP[e.key];
+    if (!k) return;
+    e.preventDefault();
+    sendKey(k);
+    const btn = document.querySelector(`[data-key="${k}"]`);
+    if (btn) { btn.classList.add("hit"); setTimeout(() => btn.classList.remove("hit"), 120); }
+  });
+
+  log("Ready. Pair a device to begin.", "l");
+})();
+</script>
+</body>
+</html>

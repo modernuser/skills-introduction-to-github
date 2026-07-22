@@ -1,38 +1,38 @@
 {
- "updated": "2026-07-22T19:48:33Z",
+ "updated": "2026-07-22T21:08:00Z",
  "news": {
   "NVDA": [
    {
-    "title": "New Defense-Themed ETF AMMO Joins VistaShares\u2019 Trio of Thematic Funds",
-    "link": "https://247wallst.com/investing/etf/2026/07/22/new-defense-themed-etf-ammo-joins-vistashares-trio-of-thematic-funds/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:32:40 +0000"
+    "title": "CoreWeave and Nebius Get Bullish Calls",
+    "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-bullish-calls-210505107.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 21:05:05 +0000"
    },
    {
-    "title": "Jamie Dimon's JPMorgan Posted a Record $21.2 Billion Quarterly Profit, Up 41%",
-    "link": "https://www.fool.com/investing/2026/07/22/jamie-dimon-jpmorgan-record-billion-profit/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:30:00 +0000"
+    "title": "AMD Lands Major Anthropic AI Deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-lands-major-anthropic-ai-205723169.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:57:23 +0000"
    },
    {
-    "title": "Nvidia Hits Buy Trigger With Alphabet Earnings Due",
-    "link": "https://finance.yahoo.com/m/9c912cc4-2cfe-30b4-88ce-a3cb96c1e365/nvidia-hits-buy-trigger-with.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:25:46 +0000"
+    "title": "Teledyne Technologies Incorporated Q2 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-teledyne-technologies-incorporated-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:53:19 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-193510224.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:35:10 +0000"
+    "title": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-inks-blockbuster-multi-billion-210217144.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 21:02:17 +0000"
    },
    {
-    "title": "Nvidia highlights Vera CPU strategy as AI infrastructure debate evolves",
-    "link": "https://www.proactiveinvestors.com/companies/news/1095885/nvidia-highlights-vera-cpu-strategy-as-ai-infrastructure-debate-evolves-1095885.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:07:00 +0000"
+    "title": "AMD Lands Major Anthropic AI Deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-lands-major-anthropic-ai-205723169.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:57:23 +0000"
    },
    {
-    "title": "Beyond Nvidia: Why the Next Phase of AI Could Crown a New Market Leader",
-    "link": "https://www.fool.com/investing/2026/07/22/beyond-nvidia-why-the-next-phase-of-ai-could-crown/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 18:45:00 +0000"
+    "title": "AMD Lands Multibillion-Dollar Anthropic Deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-lands-multibillion-dollar-anthropic-195759430.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 19:57:59 +0000"
    }
   ],
   "AVGO": [
@@ -54,22 +54,27 @@
   ],
   "TSM": [
    {
+    "title": "Intel Earnings Face Sky-High Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-earnings-face-sky-high-210349584.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 21:03:49 +0000"
+   },
+   {
     "title": "TSMC Can't Make Chips Fast Enough, and Rivals Are Pouncing",
     "link": "https://www.fool.com/investing/2026/07/22/tsmc-cant-make-chips-fast-enough-and-rivals-are-po/?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 19:05:00 +0000"
    },
    {
-    "title": "Can Economic Growth Boost PNW Stock's Long-Term Earnings Prospects?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/economic-growth-boost-pnw-stocks-163400666.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 16:34:00 +0000"
-   },
-   {
-    "title": "TSMC Just Increased Its Investment in America by $100 Billion. Here's What That Means for the AI Semiconductor Stock Trade.",
-    "link": "https://www.fool.com/investing/2026/07/22/tsmc-increased-invest-america-ai-semiconductor/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 16:05:00 +0000"
+    "title": "2 AI Infrastructure Stocks That Could Outperform NVIDIA",
+    "link": "https://finance.yahoo.com/technology/ai/articles/2-ai-infrastructure-stocks-could-190000998.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 19:00:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel Earnings Face Sky-High Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-earnings-face-sky-high-210349584.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 21:03:49 +0000"
+   },
    {
     "title": "Intel Earnings Test AI-Fueled Rally",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-earnings-test-ai-fueled-180511263.html?.tsrc=rss",
@@ -79,48 +84,48 @@
     "title": "Arm Gains Ground in AI Servers",
     "link": "https://finance.yahoo.com/technology/ai/articles/arm-gains-ground-ai-servers-180039110.html?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 18:00:39 +0000"
-   },
-   {
-    "title": "Which Stock Provides Higher Returns By Summer\u2019s End, Intel or Micron?",
-    "link": "https://247wallst.com/investing/2026/07/22/which-stock-provides-higher-returns-by-summers-end-intel-or-micron/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 17:56:13 +0000"
    }
   ],
   "MU": [
    {
+    "title": "SanDisk's Bold Pivot From AI Boom Beneficiary to Bust Breaker",
+    "link": "https://www.trefis.com/articles/608389/sandisks-bold-pivot-from-ai-boom-beneficiary-to-bust-breaker/2026-07-22?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:12:20 +0000"
+   },
+   {
+    "title": "The Memory Chip Shortage Sent Micron Stock Up More Than 7x. Natural Gas Shortage Looks Like Memory 12 Months Ago.",
+    "link": "https://247wallst.com/investing/2026/07/22/the-memory-chip-shortage-sent-micron-stock-up-more-than-7x-natural-gas-shortage-looks-like-memory-12-months-ago/?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 19:46:12 +0000"
+   },
+   {
     "title": "Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning?",
     "link": "https://247wallst.com/investing/2026/07/22/memory-prices-are-still-skyrocketing-is-the-next-rally-for-micron-sandisk-and-sk-hynix-just-beginning/?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 19:33:00 +0000"
-   },
-   {
-    "title": "Bank of America doubles down on Micron stock after AI bombshell",
-    "link": "https://www.thestreet.com/investing/bank-of-america-micron-stock-ai-outlook?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:13:00 +0000"
-   },
-   {
-    "title": "Which Stock Provides Higher Returns By Summer\u2019s End, Intel or Micron?",
-    "link": "https://247wallst.com/investing/2026/07/22/which-stock-provides-higher-returns-by-summers-end-intel-or-micron/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 17:56:13 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "SanDisk's Bold Pivot From AI Boom Beneficiary to Bust Breaker",
+    "link": "https://www.trefis.com/articles/608389/sandisks-bold-pivot-from-ai-boom-beneficiary-to-bust-breaker/2026-07-22?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:12:20 +0000"
+   },
+   {
     "title": "Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning?",
     "link": "https://247wallst.com/investing/2026/07/22/memory-prices-are-still-skyrocketing-is-the-next-rally-for-micron-sandisk-and-sk-hynix-just-beginning/?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 19:33:00 +0000"
    },
    {
-    "title": "Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/281450da-5a9b-345b-af5f-4d2fae8d5e5d/super-micro%2C-servicenow%2C-ge.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 17:29:00 +0000"
-   },
-   {
-    "title": "Wall Street Says the Chip Selloff Is a Gift: $1.1 Trillion in AI Spending Is Coming",
-    "link": "https://247wallst.com/investing/2026/07/22/wall-street-says-the-chip-selloff-is-a-gift-1-1-trillion-in-ai-spending-is-coming/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 17:00:13 +0000"
+    "title": "The \u2018Pattern Day Trader Rule\u2019 Is Dead. The Result Is a Massive Surge in Risky Leverage.",
+    "link": "https://finance.yahoo.com/m/eb320e1d-2341-3011-a50f-f387715a8951/the-%E2%80%98pattern-day-trader-rule%E2%80%99.html?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 19:08:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "SanDisk's Bold Pivot From AI Boom Beneficiary to Bust Breaker",
+    "link": "https://www.trefis.com/articles/608389/sandisks-bold-pivot-from-ai-boom-beneficiary-to-bust-breaker/2026-07-22?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:12:20 +0000"
+   },
    {
     "title": "Jim Cramer Defends His Dell Stance as Investors Complain About Missing Out",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-dell-stance-145543736.html?.tsrc=rss",
@@ -130,14 +135,14 @@
     "title": "SK Hynix Pares 4% Drop After Denying Talks to Buy Intel\u2019s Ohio Fab as Market Shrugs Off Iran Jitters",
     "link": "https://247wallst.com/investing/2026/07/22/sk-hynix-pares-4-drop-after-denying-talks-to-buy-intels-ohio-fab-as-market-shrugs-off-iran-jitters/?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 14:32:50 +0000"
-   },
-   {
-    "title": "Stock Market News for July 22, 2026",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-22-131800656.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 13:18:00 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "SanDisk's Bold Pivot From AI Boom Beneficiary to Bust Breaker",
+    "link": "https://www.trefis.com/articles/608389/sandisks-bold-pivot-from-ai-boom-beneficiary-to-bust-breaker/2026-07-22?.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:12:20 +0000"
+   },
    {
     "title": "Jim Cramer Defends His Dell Stance as Investors Complain About Missing Out",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-dell-stance-145543736.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Sandisk Trades at 8.3X Discounted P/E: Time to Buy the Stock?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-trades-8-3x-discounted-130200688.html?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 13:02:00 +0000"
-   },
-   {
-    "title": "Dow Jones Futures Fall As Oil Prices Jump; Two AI Earnings Movers With Google, Tesla Due",
-    "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 12:12:57 +0000"
    }
   ],
   "SOXX": [
@@ -190,9 +190,9 @@
   ],
   "QQQ": [
    {
-    "title": "Stock Market Today: Nasdaq Slips; Nvidia Retakes Key Level, Tesla Falls Ahead Of Earnings Report (Live Coverage)",
+    "title": "Stock Market Today: Nasdaq Slides, Nvidia Can't Lift The Dow; Super Micro Shines (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:20:40 +0000"
+    "pubDate": "Wed, 22 Jul 2026 20:30:20 +0000"
    },
    {
     "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
-    "title": "Stock Market Today: Nasdaq Slips; Nvidia Retakes Key Level, Tesla Falls Ahead Of Earnings Report (Live Coverage)",
+    "title": "Stock Market Today: Nasdaq Slides, Nvidia Can't Lift The Dow; Super Micro Shines (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 19:20:40 +0000"
+    "pubDate": "Wed, 22 Jul 2026 20:30:20 +0000"
+   },
+   {
+    "title": "Everyone\u2019s Launching an ETF\u2026 But Should They?",
+    "link": "http://www.etf.com/sections/conferences/everyones-launching-etf-should-they?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+    "pubDate": "Wed, 22 Jul 2026 20:24:41 +0000"
    },
    {
     "title": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
     "link": "https://247wallst.com/investing/2026/07/22/vigs-1-5-yield-masks-a-20-year-streak-of-uncut-dividend-growth/?.tsrc=rss",
     "pubDate": "Wed, 22 Jul 2026 19:11:19 +0000"
-   },
-   {
-    "title": "Want an Extra $100 Per Month? Put This Much Into the SPYI ETF",
-    "link": "https://247wallst.com/investing/etf/2026/07/22/want-an-extra-100-per-month-put-this-much-into-the-spyi-etf/?.tsrc=rss",
-    "pubDate": "Wed, 22 Jul 2026 18:20:35 +0000"
    }
   ]
  },

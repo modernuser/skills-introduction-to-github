@@ -18,6 +18,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 |------|---------|
 | `index.html` | Main landing page |
 | `tracker.html` | Live market tracker (educational data display) |
+| `dartboard.html` | Dartboard experiment: picks vs random vs SPY, realized alpha |
 | `styles.css` | Site styles (dark theme, gold accent) |
 | `watchlist.json` | Tracked tickers + sector ETFs — edit here, no code needed |
 | `data/quotes.json` | Auto-refreshed market data (committed by the scheduled workflow) |
@@ -26,6 +27,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 | `scripts/morning_briefing.py` | Weekday pre-market briefing (emailed via auto-issue) |
 | `scripts/update_movers.py` | Rolling 500: observed top movers across all S&P constituents |
 | `scripts/check_moves.py` | ±3% move notifications (one daily issue, emailed) |
+| `scripts/update_portfolios.py` | Dartboard experiment bookkeeping (paper portfolios) |
 | `ROADMAP.md` | Prioritized backlog and shipped history |
 | `CLAUDE.md` | Working agreements and lessons learned for AI sessions |
 

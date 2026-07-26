@@ -34,6 +34,11 @@ jobs:
       - name: Update S&P 500 movers
         run: python3 scripts/update_movers.py || echo "movers update failed; quotes continue"
 
+      # Dartboard experiment: revalues the three paper portfolios from
+      # data the steps above already fetched. Best-effort.
+      - name: Update paper portfolios
+        run: python3 scripts/update_portfolios.py || echo "portfolios update failed; quotes continue"
+
       # In-repo verification: never commit malformed or stale data. A
       # validation failure fails the job, which opens the alert issue.
       - name: Validate data
@@ -61,7 +66,7 @@ jobs:
       - name: Commit if changed
         run: |
           git add data/quotes.json
-          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json; do
+          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then

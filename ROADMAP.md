@@ -14,12 +14,16 @@ links primary sources — it never gives buy/sell signals or predictions.
    52-week high and low on the tiles. Pure fact, answers "is this move big?";
    the data source already returns full history (we currently keep ~30 days).
    Also the enabler for the Charts page below.
-3. **Fairhope FSBO real-estate watcher — feasibility first** — investigate
-   which local listing sources (newspaper classifieds, craigslist RSS,
-   FSBO boards) can legally/technically be monitored by a scheduled workflow;
-   report findings before building. Surfaces ALL matching listings — the
-   "hidden gem" judgment stays with the owner. (Zillow/Trulia scraping is
-   off-limits by their terms.)
+3. **Fairhope FSBO real-estate leads — investigated 2026-07-26.** Verdict:
+   a scraping workflow is NOT viable (Zillow/Trulia/craigslist terms forbid
+   automated collection; Gulf Coast Media and alabamapublicnotices.com
+   bot-block fetchers). The outcome IS achievable via each source's own
+   alert feature — see the setup checklist in the session notes: Zillow/
+   ByOwner saved-search FSBO email alerts for Fairhope, and Alabama Public
+   Notices "Smart Search" (paid, daily email) for foreclosure/estate/tax
+   notices from Baldwin County newspapers including the Fairhope Courier.
+   Optional future build: monitor Baldwin County government tax-sale lists
+   (public data; needs direct verification of page structure).
 4. **Dartboard vs. benchmark experiment** — three paper portfolios with the
    same fake $10,000 start: owner's picks, random picks, and plain SPY.
    Tracked live on their own page. Tests whether stock-picking beats

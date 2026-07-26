@@ -26,13 +26,25 @@ framed. Offer data-display alternatives instead.
    "Latest Updates" list in index.html (this was missed twice).
 4. **Verify after shipping.** Never assume a deploy or scheduled workflow
    worked — check the run conclusion and the artifact it should produce.
+   Session-scheduled self-checks die with the session (happened twice):
+   the reliable verifier is IN the repo — workflows validate their own
+   output and open an issue when it's wrong.
+5. **Read the data before coding against it.** A schema assumed from
+   memory cost a test cycle (pct_1d vs the actual d1). Open the real file
+   first.
+6. **Reset the branch after every squash-merge** (`git fetch origin main
+   && git checkout -B <branch> origin/main`). Merging main back into a
+   long-lived branch after squash-merges breeds phantom conflicts.
+7. **Measure claims, don't repeat them.** The site said "every 20 min"
+   because the cron said so; run history showed ~6 fires/day (GitHub
+   throttles busy cron slots). Copy must describe observed behavior.
 
 ## Architecture notes
 
 - `tracker.html` reads `data/quotes.json` from the **raw GitHub URL**
   (not the Pages deploy), so data commits don't need a redeploy.
-- `.github/workflows/update-quotes.yml` cron-runs every 20 min during US
-  market hours and commits refreshed data with `[skip ci]`.
+- `.github/workflows/update-quotes.yml` cron-runs during US market hours
+  (measured: ~6 fires/day — GitHub throttles cron slots) and commits refreshed data with `[skip ci]`.
 - `.github/workflows/deploy-pages.yml` deploys on push to `main`.
 
 ## Mistakes already made — do not repeat

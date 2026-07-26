@@ -73,6 +73,8 @@ def fetch_closes(symbols: list) -> dict:
             continue
         for row in csv.DictReader(io.StringIO(text)):
             sym = back.get(row.get("Symbol", "").lower())
+            if sym is None:
+                continue
             try:
                 closes[sym] = {
                     "date": row["Date"],

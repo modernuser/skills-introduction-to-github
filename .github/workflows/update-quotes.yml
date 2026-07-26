@@ -1,11 +1,13 @@
 name: Update market quotes
 
-# Refresh data/quotes.json every 20 minutes during US market hours
-# (13:00-21:00 UTC covers 9am-5pm ET), weekdays only, plus manual runs.
+# Refresh market data during US market hours (13:00-21:00 UTC covers
+# 9am-5pm ET), weekdays only, plus manual runs. Off-peak minutes because
+# GitHub throttles congested cron slots — measured reality is a handful
+# of runs/day regardless of how often the spec asks.
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/20 13-21 * * 1-5"
+    - cron: "7,27,47 13-21 * * 1-5"
 
 permissions:
   contents: write
@@ -32,6 +34,11 @@ jobs:
       - name: Update S&P 500 movers
         run: python3 scripts/update_movers.py || echo "movers update failed; quotes continue"
 
+      # In-repo verification: never commit malformed or stale data. A
+      # validation failure fails the job, which opens the alert issue.
+      - name: Validate data
+        run: python3 scripts/validate_data.py
+
       - name: Commit if changed
         run: |
           git add data/quotes.json
@@ -54,6 +61,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search '"Quotes pipeline failed" in:title' \
+            --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            echo "open failure issue #$existing exists; not creating another"
+            exit 0
+          fi
           gh issue create --repo "$GITHUB_REPOSITORY" \
             --title "Quotes pipeline failed ($(date -u +%Y-%m-%d))" \
             --body "A scheduled market-data update failed. Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \

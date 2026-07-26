@@ -42,6 +42,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search '"Morning briefing failed" in:title' \
+            --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            echo "open failure issue #$existing exists; not creating another"
+            exit 0
+          fi
           gh issue create --repo "$GITHUB_REPOSITORY" \
             --title "Morning briefing failed ($(date -u +%Y-%m-%d))" \
             --body "Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \

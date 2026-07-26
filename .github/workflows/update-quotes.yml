@@ -28,10 +28,16 @@ jobs:
       - name: Fetch latest headlines
         run: python3 scripts/update_news.py || echo "news fetch failed; quotes continue"
 
+      # Rolling S&P 500 movers: also best-effort.
+      - name: Update S&P 500 movers
+        run: python3 scripts/update_movers.py || echo "movers update failed; quotes continue"
+
       - name: Commit if changed
         run: |
           git add data/quotes.json
-          if [ -f data/news.json ]; then git add data/news.json; fi
+          for f in data/news.json data/movers.json data/sp500_closes.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

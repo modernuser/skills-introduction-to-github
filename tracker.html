@@ -191,6 +191,17 @@
     </table>
   </div>
 
+  <section class="table-wrap" id="movers-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">The Rolling 500</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
+      The biggest <em>observed</em> daily moves across all ~500 S&amp;P 500 companies.
+      The names roll themselves — whatever actually moved most shows up here.
+      Results, not recommendations; inverse ("short") and leveraged ETFs exist as
+      products, but nothing on this page times them.
+    </p>
+    <div id="movers-tables"></div>
+  </section>
+
   <section class="table-wrap" id="news-section" hidden>
     <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Headlines — judge the source</h2>
     <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
@@ -332,6 +343,26 @@
           : "";
     }
 
+    function renderMovers(data) {
+      if (!data.gainers || !data.gainers.length) return;
+      document.getElementById("movers-section").hidden = false;
+      const block = (title, rows) => `
+        <h3 style="color:var(--color-text);font-size:1rem;margin:.9rem 0 .3rem;">${title}</h3>
+        <table>
+          <thead><tr><th>Company</th><th>Ticker</th><th>Sector</th><th>Close</th><th>1 Day</th></tr></thead>
+          <tbody>${rows.map(m => `<tr>
+            <td>${m.name}</td>
+            <td><a href="https://finance.yahoo.com/quote/${m.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${m.symbol} ↗</a></td>
+            <td style="color:var(--color-muted)">${m.sector}</td>
+            <td>$${m.close.toFixed(2)}</td>
+            <td>${arrow(m.pct)}${fmtPct(m.pct)}</td>
+          </tr>`).join("")}</tbody>
+        </table>`;
+      document.getElementById("movers-tables").innerHTML =
+        block("Top gainers", data.gainers) + block("Top decliners", data.losers) +
+        `<p style="color:var(--color-muted);font-size:.75rem;margin-top:.5rem;">Coverage: ${data.coverage} of ~503 constituents · as of ${data.updated}</p>`;
+    }
+
     function hostname(link) {
       try { return new URL(link).hostname.replace(/^www\./, ""); }
       catch (e) { return ""; }
@@ -371,6 +402,8 @@
       if (data) render(data);
       else document.getElementById("updated").textContent =
         "No data available yet — the first scheduled update hasn't run.";
+      const movers = await fetchFirst([RAW_BASE + "data/movers.json", "data/movers.json"]);
+      if (movers) renderMovers(movers);
       const news = await fetchFirst(NEWS_SOURCES);
       if (news) renderNews(news);
     }

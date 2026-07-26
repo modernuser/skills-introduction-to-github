@@ -27,7 +27,7 @@ def main() -> int:
         fail(f"only {len(q.get('quotes', []))} quotes")
     if len(q.get("sectors", [])) != 11:
         fail(f"{len(q.get('sectors', []))} sectors, expected 11")
-    for item in q["quotes"] + q["sectors"]:
+    for item in q["quotes"] + q["sectors"] + q.get("core", []):
         if not (item.get("close", 0) > 0):
             fail(f"non-positive close for {item.get('symbol')}")
         if not all(isinstance(item.get(k), (int, float)) for k in ("d1", "w1", "m1")):

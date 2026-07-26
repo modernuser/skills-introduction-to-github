@@ -192,6 +192,37 @@
     </table>
   </div>
 
+  <section class="table-wrap" id="core-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Market core</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
+      One giant per sector — chosen by the largest-by-market-cap rule, a diversification
+      structure rather than stock picks. All 11 sectors represented at company level;
+      ±3% days here trigger the same email alerts as the watchlist.
+    </p>
+    <table class="quotes" aria-label="Market core quotes table">
+      <thead>
+        <tr><th>Company</th><th>Ticker</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th></tr>
+      </thead>
+      <tbody id="core-tbody"></tbody>
+    </table>
+  </section>
+
+  <section class="table-wrap" id="inplay-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">In play — auto-rotated</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;" id="inplay-intro">
+      Any S&amp;P 500 company whose observed day move reaches ±5% joins this list
+      automatically and rotates out after ~2 weeks. Real news leaves a measurable
+      footprint — the move — so this set updates itself on verified facts.
+      Admission is mechanical; nothing here is a recommendation.
+    </p>
+    <table class="quotes" aria-label="In play rotation table">
+      <thead>
+        <tr><th>Company</th><th>Ticker</th><th>Sector</th><th>Entered</th><th>Trigger day</th><th>Last close</th></tr>
+      </thead>
+      <tbody id="inplay-tbody"></tbody>
+    </table>
+  </section>
+
   <section class="table-wrap" id="movers-section" hidden>
     <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">The Rolling 500</h2>
     <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
@@ -345,6 +376,33 @@
           : "";
     }
 
+    function renderCore(core) {
+      if (!core || !core.length) return;
+      document.getElementById("core-section").hidden = false;
+      document.getElementById("core-tbody").innerHTML = core.map(q => `<tr>
+        <td>${q.name}</td>
+        <td><a href="https://finance.yahoo.com/quote/${q.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${q.symbol} ↗</a></td>
+        <td>$${q.close.toFixed(2)}</td>
+        <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
+        <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
+        <td>${arrow(q.m1)}${fmtPct(q.m1)}</td>
+      </tr>`).join("");
+    }
+
+    function renderInPlay(data) {
+      const entries = data.entries || [];
+      if (!entries.length) return;
+      document.getElementById("inplay-section").hidden = false;
+      document.getElementById("inplay-tbody").innerHTML = entries.map(r => `<tr>
+        <td>${r.name}</td>
+        <td><a href="https://finance.yahoo.com/quote/${r.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${r.symbol} ↗</a></td>
+        <td style="color:var(--color-muted)">${r.sector}</td>
+        <td>${r.entered}</td>
+        <td>${arrow(r.trigger_pct)}${fmtPct(r.trigger_pct)}</td>
+        <td>$${r.last_close.toFixed(2)}</td>
+      </tr>`).join("");
+    }
+
     function renderMovers(data) {
       if (!data.gainers || !data.gainers.length) return;
       document.getElementById("movers-section").hidden = false;
@@ -404,6 +462,9 @@
       if (data) render(data);
       else document.getElementById("updated").textContent =
         "No data available yet — the first scheduled update hasn't run.";
+      if (data) renderCore(data.core);
+      const inplay = await fetchFirst([RAW_BASE + "data/rotation.json", "data/rotation.json"]);
+      if (inplay) renderInPlay(inplay);
       const movers = await fetchFirst([RAW_BASE + "data/movers.json", "data/movers.json"]);
       if (movers) renderMovers(movers);
       const news = await fetchFirst(NEWS_SOURCES);

@@ -74,7 +74,8 @@ def build_briefing(quotes_data: dict, news: dict) -> str:
         "| Symbol | Close | 1 Day | |",
         "|---|---|---|---|",
     ]
-    for q in quotes_data["quotes"]:
+    core_flagged = [q for q in quotes_data.get("core", []) if q.get("significant")]
+    for q in quotes_data["quotes"] + core_flagged:
         flag = "⚠ ±3% move" if q.get("significant") else ""
         lines.append(
             f"| {q['symbol']} | ${q['close']:.2f} | "

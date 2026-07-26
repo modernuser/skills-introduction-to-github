@@ -50,3 +50,8 @@ links primary sources — it never gives buy/sell signals or predictions.
 - 52-week closing range + distance-from-high on every tile (July 2026)
 - Dartboard experiment: owner picks vs seeded-random 11 vs SPY, same paper
   $10,000, live realized alpha on dartboard.html (July 2026)
+- Market core: one giant per GICS sector (largest-by-cap rule) tracked at
+  company level with the same ±3% alerts (July 2026)
+- In Play auto-rotation: ±5% observed S&P days admit a ticker for ~2 weeks
+  then rotate out — the ticker set updates itself on verified news
+  footprints (July 2026)

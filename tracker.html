@@ -261,9 +261,10 @@
       </svg><div class="spark-label">~30 recent sessions (low–high range)</div>`;
     }
 
-    // Data older than this on the page is suspicious even across a weekend
-    // (Fri close -> Mon reopen is ~64h). Warn but keep showing what we have.
-    const STALE_MS = 72 * 60 * 60 * 1000;
+    // Data older than this on the page is suspicious even across a long
+    // holiday weekend (Fri close -> Tue reopen is ~89h). Warn but keep
+    // showing what we have; hard failures alert via GitHub issue anyway.
+    const STALE_MS = 100 * 60 * 60 * 1000;
 
     function staleBanner(updatedIso) {
       const age = Date.now() - new Date(updatedIso).getTime();
@@ -286,6 +287,7 @@
         return `<article class="tile ${q.significant ? "flagged" : ""}">
           <div class="tile-symbol">${q.symbol}</div>
           <div class="tile-name">${q.name}</div>
+          ${/\d\s*[xX×]\b/.test(q.name) ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">Leveraged fund: multiplies the index's <em>daily</em> move and resets each day — multi-week returns drift from the multiple.</div>` : ""}
           <div class="tile-price">$${q.close.toFixed(2)}</div>
           <div class="deltas">
             ${deltaChip("1D", q.d1)}${deltaChip("1W", q.w1)}${deltaChip("1M", q.m1)}

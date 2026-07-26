@@ -10,7 +10,17 @@ links primary sources — it never gives buy/sell signals or predictions.
    ±3% day move, automatically open a GitHub issue (which emails the repo
    owner) naming the ticker, the move, and a news link. Turns the tracker
    from "check it yourself" into "it tells you."
-2. **Dartboard vs. benchmark experiment** — three paper portfolios with the
+2. **52-week high/low context** — show each ticker's distance from its
+   52-week high and low on the tiles. Pure fact, answers "is this move big?";
+   the data source already returns full history (we currently keep ~30 days).
+   Also the enabler for the Charts page below.
+3. **Fairhope FSBO real-estate watcher — feasibility first** — investigate
+   which local listing sources (newspaper classifieds, craigslist RSS,
+   FSBO boards) can legally/technically be monitored by a scheduled workflow;
+   report findings before building. Surfaces ALL matching listings — the
+   "hidden gem" judgment stays with the owner. (Zillow/Trulia scraping is
+   off-limits by their terms.)
+4. **Dartboard vs. benchmark experiment** — three paper portfolios with the
    same fake $10,000 start: owner's picks, random picks, and plain SPY.
    Tracked live on their own page. Tests whether stock-picking beats
    no-strategy — the classic index-fund lesson, run on real data.
@@ -25,6 +35,7 @@ links primary sources — it never gives buy/sell signals or predictions.
 
 7. Remove the leftover GitHub-course workflow files (inert but noisy).
 8. Consider a dedicated data branch if quote-commit history gets heavy.
+   (Measured 2026-07-26: ~5 data commits/day — not needed yet.)
 
 ## Shipped
 
@@ -37,3 +48,6 @@ links primary sources — it never gives buy/sell signals or predictions.
   observed daily move (July 2026)
 - Headlines panel: per-ticker news on the 20-min cycle with publisher
   visible + signal-vs-noise checklist (July 2026)
+- Pre-market briefing: weekday 7:47am ET email (via auto-issue) with prior
+  close, sector leaders/laggards, and corroboration-tagged overnight
+  headlines (July 2026)

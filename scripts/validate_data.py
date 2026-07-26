@@ -32,6 +32,9 @@ def main() -> int:
             fail(f"non-positive close for {item.get('symbol')}")
         if not all(isinstance(item.get(k), (int, float)) for k in ("d1", "w1", "m1")):
             fail(f"missing move fields for {item.get('symbol')}")
+        if "hi52" in item:
+            if not (item["lo52"] - 0.01 <= item["close"] <= item["hi52"] + 0.01):
+                fail(f"close outside 52-week range for {item.get('symbol')}")
     newest = max(item["date"] for item in q["quotes"])
     age = (datetime.now(timezone.utc)
            - datetime.strptime(newest, "%Y-%m-%d").replace(tzinfo=timezone.utc)).days

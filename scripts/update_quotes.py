@@ -109,6 +109,13 @@ def build_quote(symbol: str, name: str, errors: list, with_recent: bool):
     if with_recent:
         # last ~30 sessions for the sparkline
         quote["recent"] = [c for _, c in closes[-30:]]
+        # 52-week closing range (~252 sessions). Only when real history is
+        # available — the Yahoo fallback covers 3 months and must not
+        # masquerade as a yearly range.
+        year = [c for _, c in closes[-252:]]
+        if len(year) >= 200:
+            quote["hi52"] = max(year)
+            quote["lo52"] = min(year)
     return quote
 
 

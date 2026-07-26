@@ -25,6 +25,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 | `scripts/update_news.py` | Headline fetcher (per-ticker RSS, publisher shown) |
 | `scripts/morning_briefing.py` | Weekday pre-market briefing (emailed via auto-issue) |
 | `scripts/update_movers.py` | Rolling 500: observed top movers across all S&P constituents |
+| `scripts/check_moves.py` | ±3% move notifications (one daily issue, emailed) |
 | `ROADMAP.md` | Prioritized backlog and shipped history |
 | `CLAUDE.md` | Working agreements and lessons learned for AI sessions |
 

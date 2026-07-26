@@ -299,6 +299,7 @@
           <div class="tile-symbol">${q.symbol}</div>
           <div class="tile-name">${q.name}</div>
           ${/\d\s*[xX×]\b/.test(q.name) ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">Leveraged fund: multiplies the index's <em>daily</em> move and resets each day — multi-week returns drift from the multiple.</div>` : ""}
+          ${q.hi52 ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">52-wk closing range $${q.lo52.toFixed(2)}–$${q.hi52.toFixed(2)} · now ${((q.close - q.hi52) / q.hi52 * 100).toFixed(1)}% from high</div>` : ""}
           <div class="tile-price">$${q.close.toFixed(2)}</div>
           <div class="deltas">
             ${deltaChip("1D", q.d1)}${deltaChip("1W", q.w1)}${deltaChip("1M", q.m1)}

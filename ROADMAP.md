@@ -16,10 +16,6 @@ links primary sources — it never gives buy/sell signals or predictions.
    notices from Baldwin County newspapers including the Fairhope Courier.
    Optional future build: monitor Baldwin County government tax-sale lists
    (public data; needs direct verification of page structure).
-2. **Dartboard vs. benchmark experiment** — three paper portfolios with the
-   same fake $10,000 start: owner's picks, random picks, and plain SPY.
-   Tracked live on their own page. Tests whether stock-picking beats
-   no-strategy — the classic index-fund lesson, run on real data.
 ## Later (bigger builds)
 
 4. **Charts page** — full-size historical charts (6mo/1yr), each ticker
@@ -52,3 +48,5 @@ links primary sources — it never gives buy/sell signals or predictions.
 - Significant-move notifications: each ticker's ±3% day opens/updates one
   daily issue (emails the owner) with the move and a news link (July 2026)
 - 52-week closing range + distance-from-high on every tile (July 2026)
+- Dartboard experiment: owner picks vs seeded-random 11 vs SPY, same paper
+  $10,000, live realized alpha on dartboard.html (July 2026)

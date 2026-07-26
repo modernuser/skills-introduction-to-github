@@ -57,8 +57,17 @@ def main() -> int:
             if any(not (x.get("close", 0) > 0) for x in lst):
                 fail(f"movers {key} has non-positive close")
 
+    if os.path.exists("data/portfolios.json"):
+        with open("data/portfolios.json") as f:
+            pf = json.load(f)
+        for key, p in pf["portfolios"].items():
+            if not (p.get("value", 0) > 0):
+                fail(f"portfolio {key} has non-positive value")
+            if any(h["shares"] <= 0 or h["last_close"] <= 0 for h in p["holdings"]):
+                fail(f"portfolio {key} has a broken holding")
+
     print(f"validation OK: {len(q['quotes'])} quotes (newest {newest}), "
-          "sectors/news/movers well-formed")
+          "sectors/news/movers/portfolios well-formed")
     return 0
 
 

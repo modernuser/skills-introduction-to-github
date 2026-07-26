@@ -55,3 +55,5 @@ links primary sources — it never gives buy/sell signals or predictions.
 - Pre-market briefing: weekday 7:47am ET email (via auto-issue) with prior
   close, sector leaders/laggards, and corroboration-tagged overnight
   headlines (July 2026)
+- The Rolling 500: top-10 observed gainers/decliners across all ~503 S&P
+  constituents, self-rolling daily, on the tracker (July 2026)

@@ -1,0 +1,48 @@
+name: Morning briefing
+
+on:
+  schedule:
+    # Weekdays 11:47 UTC — before the 9:30am ET market open year-round.
+    - cron: "47 11 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency: morning-briefing
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build briefing
+        run: python3 scripts/morning_briefing.py briefing.md
+
+      # One open briefing at a time: close yesterday's, open today's.
+      # The issue-create is what emails the repo owner.
+      - name: Notify via issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+                       --search "Pre-market briefing in:title" \
+                       --json number --jq '.[].number'); do
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" \
+              --comment "Superseded by today's briefing."
+          done
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Pre-market briefing $(date -u +%Y-%m-%d)" \
+            --body-file briefing.md
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Morning briefing failed ($(date -u +%Y-%m-%d))" \
+            --body "Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            || echo "issue creation failed; see run log"

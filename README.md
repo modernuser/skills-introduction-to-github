@@ -20,7 +20,7 @@ and creative makers — this project grows iteratively and openly on GitHub.
 | `tracker.html` | Live market tracker (educational data display) |
 | `dartboard.html` | Dartboard experiment: picks vs random vs SPY, realized alpha |
 | `styles.css` | Site styles (dark theme, gold accent) |
-| `watchlist.json` | Tracked tickers + sector ETFs — edit here, no code needed |
+| `watchlist.json` | Theme watchlist + diversified market core + sector ETFs — edit here, no code |
 | `data/quotes.json` | Auto-refreshed market data (committed by the scheduled workflow) |
 | `scripts/update_quotes.py` | Data fetcher (stooq with Yahoo fallback) |
 | `scripts/update_news.py` | Headline fetcher (per-ticker RSS, publisher shown) |

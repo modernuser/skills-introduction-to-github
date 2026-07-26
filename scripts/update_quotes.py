@@ -19,6 +19,7 @@ from datetime import datetime, timezone
 with open("watchlist.json") as _f:
     _config = json.load(_f)
 TICKERS = _config["watchlist"]
+CORE = _config.get("core", {})
 SECTORS = _config.get("sectors", {})
 
 # A one-day move at or beyond this magnitude is flagged as significant.
@@ -125,6 +126,10 @@ def main() -> int:
         q for symbol, name in TICKERS.items()
         if (q := build_quote(symbol, name, errors, with_recent=True))
     ]
+    core = [
+        q for symbol, name in CORE.items()
+        if (q := build_quote(symbol, name, errors, with_recent=False))
+    ]
     sectors = [
         q for symbol, name in SECTORS.items()
         if (q := build_quote(symbol, name, errors, with_recent=False))
@@ -138,6 +143,7 @@ def main() -> int:
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "significant_pct": SIGNIFICANT_PCT,
         "quotes": quotes,
+        "core": core,
         "sectors": sectors,
         "errors": errors,
     }

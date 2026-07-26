@@ -1,5 +1,18 @@
 {
-  "_edit_me": "Add or remove watchlist tickers here (symbol: display name). The tracker updates automatically on the next scheduled run. Sectors below are the 11 standard SPDR sector ETFs — coverage, not recommendations.",
+  "_edit_me": "Add or remove tickers here (symbol: display name); the tracker updates on the next scheduled run. 'watchlist' = your theme tiles. 'core' = one giant per GICS sector, chosen by the largest-by-market-cap rule at setup (July 2026) — a diversification structure, not stock picks; swap names freely. 'sectors' = the 11 standard SPDR sector ETFs.",
+  "core": {
+    "AAPL": "Apple (Technology)",
+    "GOOGL": "Alphabet (Communication Services)",
+    "AMZN": "Amazon (Consumer Discretionary)",
+    "WMT": "Walmart (Consumer Staples)",
+    "XOM": "Exxon Mobil (Energy)",
+    "JPM": "JPMorgan Chase (Financials)",
+    "LLY": "Eli Lilly (Health Care)",
+    "GE": "GE Aerospace (Industrials)",
+    "LIN": "Linde (Materials)",
+    "PLD": "Prologis (Real Estate)",
+    "NEE": "NextEra Energy (Utilities)"
+  },
   "watchlist": {
     "NVDA": "NVIDIA",
     "AMD": "Advanced Micro Devices",

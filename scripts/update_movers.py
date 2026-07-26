@@ -26,6 +26,9 @@ CONSTITUENTS_URL = (
 CONSTITUENTS_FALLBACK = "data/sp500_constituents.csv"
 STATE_PATH = "data/sp500_closes.json"
 MOVERS_PATH = "data/movers.json"
+ROTATION_PATH = "data/rotation.json"
+ROTATION_TRIGGER_PCT = 5.0
+ROTATION_WINDOW_DAYS = 14
 BULK_URL = "https://stooq.com/q/l/?s={symbols}&f=sd2t2ohlcv&h&e=csv"
 CHUNK = 40
 TOP_N = 10
@@ -86,6 +89,43 @@ def fetch_closes(symbols: list) -> dict:
     return closes
 
 
+def update_rotation(moves: list, newest_date: str) -> None:
+    """In Play list: a ±5% observed day admits a ticker for ~2 weeks.
+
+    The market's own record of where real news hit — entry and exit are
+    both mechanical facts, nothing selects or recommends.
+    """
+    rotation = []
+    if os.path.exists(ROTATION_PATH):
+        with open(ROTATION_PATH) as f:
+            rotation = json.load(f).get("entries", [])
+    by_symbol = {r["symbol"]: r for r in rotation}
+
+    for m in moves:
+        if abs(m["pct"]) >= ROTATION_TRIGGER_PCT:
+            entry = by_symbol.get(m["symbol"], {})
+            by_symbol[m["symbol"]] = {
+                "symbol": m["symbol"], "name": m["name"], "sector": m["sector"],
+                "entered": newest_date, "trigger_pct": m["pct"],
+                "last_close": m["close"],
+                "first_entered": entry.get("first_entered", newest_date),
+            }
+        elif m["symbol"] in by_symbol:
+            by_symbol[m["symbol"]]["last_close"] = m["close"]
+
+    newest = datetime.strptime(newest_date, "%Y-%m-%d")
+    keep = [
+        r for r in by_symbol.values()
+        if (newest - datetime.strptime(r["entered"], "%Y-%m-%d")).days
+        <= ROTATION_WINDOW_DAYS
+    ]
+    keep.sort(key=lambda r: r["entered"], reverse=True)
+    with open(ROTATION_PATH, "w") as f:
+        json.dump({"updated": newest_date, "window_days": ROTATION_WINDOW_DAYS,
+                   "trigger_pct": ROTATION_TRIGGER_PCT, "entries": keep}, f, indent=1)
+    print(f"rotation: {len(keep)} in play")
+
+
 def main() -> int:
     constituents = load_constituents()
     state = {}
@@ -131,6 +171,7 @@ def main() -> int:
         with open(MOVERS_PATH, "w") as f:
             json.dump(out, f, indent=1)
         print(f"Wrote {MOVERS_PATH}: {len(moves)} comparable symbols")
+        update_rotation(moves, max(c["date"] for c in fresh.values()))
     else:
         print(f"state seeded ({len(fresh)} closes); movers need a prior day")
     return 0

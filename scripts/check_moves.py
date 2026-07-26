@@ -23,9 +23,10 @@ def main() -> int:
     with open("data/quotes.json") as f:
         data = json.load(f)
 
-    newest = max(q["date"] for q in data["quotes"])
+    watched = data["quotes"] + data.get("core", [])
+    newest = max(q["date"] for q in watched)
     flagged = [
-        q for q in data["quotes"]
+        q for q in watched
         if q.get("significant") and q["date"] == newest
     ]
 

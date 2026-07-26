@@ -56,6 +56,16 @@ def main() -> int:
         print("All news fetches failed:\n" + "\n".join(errors), file=sys.stderr)
         return 1
 
+    # Skip the write when headlines haven't changed — otherwise the moving
+    # "updated" timestamp forces a pointless commit every run.
+    try:
+        with open("data/news.json") as f:
+            if json.load(f).get("news") == news:
+                print("headlines unchanged; leaving data/news.json as-is")
+                return 0
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
     out = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "news": news,

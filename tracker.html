@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Market Tracker — Wolf of Fairhope Avenue</title>
-  <meta name="description" content="Live educational market tracker: NVDA, MU, SNDK, SOXX, SOXL vs the S&P 500 benchmark. Data refreshes every 20 minutes during US market hours." />
+  <meta name="description" content="Live educational market tracker: NVDA, MU, SNDK, SOXX, SOXL vs the S&P 500 benchmark. Data refreshes several times daily during US market hours." />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%90%BA%3C/text%3E%3C/svg%3E" />
   <link rel="stylesheet" href="styles.css" />
   <style>
@@ -157,7 +157,7 @@
 
   <p class="disclaimer">
     Live data display for educational use — <strong>not investment advice</strong>.
-    Prices are end-of-day/delayed and refresh about every 20 minutes during US
+    Prices are end-of-day/delayed and refresh several times a day during US
     market hours. Moves of &plusmn;3% or more in a day are flagged. The news links go to
     primary sources so you can judge the "why" yourself.
   </p>
@@ -205,7 +205,7 @@
   <section class="table-wrap" id="news-section" hidden>
     <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Headlines — judge the source</h2>
     <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
-      Latest headlines per ticker, refreshed on the same 20-minute cycle. The publisher
+      Latest headlines per ticker, refreshed on the same cycle as prices. The publisher
       is shown next to every headline — the judging is yours, not this page's.
     </p>
     <details style="margin-bottom:1rem;color:var(--color-muted);font-size:.84rem;">
@@ -288,7 +288,7 @@
     function render(data) {
       document.getElementById("updated").textContent =
         "Data updated " + new Date(data.updated).toLocaleString() +
-        " · auto-refreshes every 20 min";
+        " · auto-refreshes during market hours";
 
       const tiles = data.quotes.map(q => {
         const news = `https://finance.yahoo.com/quote/${q.symbol}/news`;

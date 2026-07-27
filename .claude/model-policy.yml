@@ -1,0 +1,23 @@
+# Model-routing and autonomous-change policy. See docs/model-routing.md.
+# Agents read this; they do not modify it (CLAUDE.md agent rules).
+
+model_policy:
+  preferred_architecture_model: highest_available   # Tier 1, sparingly
+  default_coding_model: standard                    # Tier 2 (Sonnet-class)
+  maintenance_model: lightweight                    # Tier 3 (Haiku-class)
+  premium_credit_behavior: fallback                 # never halt, step down
+  monthly_spend_limit_usd: 0                        # owner raises explicitly
+  allow_automatic_credit_purchase: false
+  require_human_review_for_high_risk_changes: true
+
+autonomous_limits:
+  daily_run_limit: 1
+  maximum_retry_count: 2
+  maximum_files_per_autonomous_pr: 8
+  maximum_changed_lines: 500
+  maximum_open_agent_prs: 1
+  auto_merge_risk_level: low       # and only after checks; default: none
+  pr_label: agent-maintenance
+
+# Rationale: starting values from the engineering charter (2026-07-27).
+# Adjust only with documented reasoning in docs/model-routing.md.

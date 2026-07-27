@@ -1,0 +1,34 @@
+# Automation
+
+All schedules are UTC (GitHub Actions cron has no timezone support).
+Off-round minutes are deliberate — GitHub throttles congested slots, and
+measured reality is a handful of fires per day regardless of the spec.
+
+| Workflow | Schedule (UTC) | Purpose | Permissions |
+|---|---|---|---|
+| `update-quotes.yml` | 7,27,47 13-21 Mon-Fri | Prices, news, movers, rotation, move alerts, portfolios, validation gate, health.json, commit | contents+issues write |
+| `morning-briefing.yml` | 47 11 Mon-Fri | Pre-market briefing issue (emails owner) | contents read, issues write |
+| `daily-ops.yml` | 17 11 daily | Deterministic health run: tests, link scan, scorecard, daily report | contents+issues write |
+| `ci.yml` | PRs + push to main | pytest, YAML/JSON validation | contents read |
+| `deploy-pages.yml` | push to main | Pages deploy | pages standard |
+| `ai-maintenance.yml` | 47 12 daily, **gated off** | Opt-in AI improvement loop (see model-routing.md) | contents read + PR write when enabled |
+
+## Failure handling
+
+- Any scheduled job failure → one **deduped** GitHub issue (no new issue
+  while one is open) → GitHub emails the owner.
+- Data fetch failures preserve the previous dataset; the validation gate
+  blocks malformed output from ever being committed; sections go
+  visibly stale on the page (banner ≥100h; health strip per-file).
+- `[skip ci]` on data/report commits keeps deploys and CI out of the
+  data path. Never put that literal string in a merge-bound commit
+  message (it would silently skip the Pages deploy — burned once).
+- Manual dispatch: every scheduled workflow also supports
+  `workflow_dispatch` (note: the repo owner can dispatch from the
+  Actions tab; automation tokens here historically could not).
+
+## Verification discipline
+
+The reliable verifier is IN the repo: workflows validate their own
+output and alert when it's wrong. Session-scheduled checks by a
+maintaining agent are a courtesy layer, not the system of record.

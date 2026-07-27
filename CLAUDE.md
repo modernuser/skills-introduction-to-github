@@ -1,5 +1,21 @@
 # Working notes for Claude sessions on this repo
 
+## Rules for coding agents (any model, any session)
+
+- Read `docs/architecture.md` and `docs/data-contracts.md` before
+  touching pipeline or page code; `.claude/model-policy.yml` governs
+  autonomous limits and model tiers (`docs/model-routing.md`).
+- **Never modify by hand:** `data/*` (pipeline-owned),
+  `.claude/model-policy.yml` (owner-owned), workflow `permissions:`
+  blocks (security review required).
+- **Definition of done:** problem stated; tests added/updated; full
+  suite green (`python3 -m pytest tests/python -q`); YAML/JSON valid;
+  page changes render-tested with no console errors; docs updated;
+  rollback = revert of one squash commit; no secrets; no fake market
+  claims; PR explains model/cost choice. Backlog: `docs/roadmap.md`.
+- Autonomous PRs: label `agent-maintenance`, one open at a time, ≤8
+  files, ≤500 lines, low/medium risk only, never auto-merge.
+
 ## What this project is
 
 "Wolf of Fairhope Avenue" — a static site on GitHub Pages

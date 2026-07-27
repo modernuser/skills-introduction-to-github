@@ -81,7 +81,7 @@ jobs:
       - name: Commit if changed
         run: |
           git add data/quotes.json
-          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json data/rotation.json data/health.json data/extended.json; do
+          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json data/rotation.json data/health.json data/extended.json data/sector_depth.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then

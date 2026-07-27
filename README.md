@@ -18,7 +18,10 @@ investment advice, no matter how a request is framed.
   (top movers across all ~503 S&P constituents), the **In Play** list
   (±5% observed days auto-admit tickers for two weeks), per-ticker
   headlines with publishers shown, a data-health strip, and a
-  stale-data alarm, market-session clock with pre/after-hours prices (labeled, never blended into closes)
+  stale-data alarm, market-session clock with pre/after-hours prices
+  (labeled, never blended into closes), and **sector depth** — the 10
+  highest-volatility names in each of the 11 GICS sectors (110 companies),
+  ranked daily by realized 30-day volatility and priced every session
 - **[Dartboard experiment](https://modernuser.github.io/skills-introduction-to-github/dartboard.html)** —
   three paper portfolios (owner picks / seeded-random 11 / SPY), same
   fake $10,000, live **realized** alpha vs SPY
@@ -48,9 +51,9 @@ cadence is several runs/day — the site says so, honestly.
 |---|---|
 | `index.html` / `tracker.html` / `dartboard.html` | The site |
 | `watchlist.json` | Theme watchlist + market core + sectors — edit, no code |
-| `scripts/` | Pipeline (fetch, validate, notify, report) — stdlib Python only |
+| `scripts/` | Pipeline (fetch, validate, rank, notify, report) — stdlib Python only |
 | `data/` | Generated datasets (committed by workflows) |
-| `tests/python/` | 24 offline tests (`python3 -m pytest tests/python -q`) |
+| `tests/python/` | 83 offline tests (`python3 -m pytest tests/python -q`) |
 | `.github/workflows/` | Refresh, briefing, daily-ops, CI, deploy, gated AI loop |
 | `docs/` | Architecture, contracts, privacy, security, automation, model routing, runbook, roadmap, audit |
 | `reports/` | Daily reports + quality scorecard (generated) |

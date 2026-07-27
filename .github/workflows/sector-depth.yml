@@ -1,0 +1,61 @@
+name: Sector depth
+
+# Once daily after the US close (22:17 UTC is 18:17 ET in DST, 17:17 ET in
+# winter — after the bell either way). Volatility rankings move slowly;
+# intraday price movement comes free from data/sp500_closes.json, which
+# the all-session quotes pipeline already refreshes.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 22 * * 1-5"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: sector-depth
+
+jobs:
+  depth:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3  # v6.0.0
+
+      - name: Rank sectors by realized volatility
+        run: python3 scripts/sector_depth.py
+
+      - name: Validate data
+        run: python3 scripts/validate_data.py
+
+      - name: Commit if changed
+        run: |
+          git add data/sector_depth.json data/health.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update sector depth [skip ci]"
+          git push
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search '"Sector depth failed" in:title' \
+            --json number --jq '.[0].number')
+          if [ -z "$existing" ]; then
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title "Sector depth failed ($(date -u +%Y-%m-%d))" \
+              --body "The daily volatility ranking failed. Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+              || echo "issue creation failed; see run log"
+          else
+            echo "open failure issue #$existing exists; not creating another"
+          fi
+          FAILURE_CONTEXT="Sector depth ranking failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            SLACK_WEBHOOK_URL="${{ secrets.SLACK_WEBHOOK_URL }}" \
+            python3 scripts/notify_slack.py failure || true

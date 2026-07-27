@@ -9,6 +9,10 @@ markers per docs/model-routing.md.
 *(empty — hardening series complete; daily-ops selects from Next)*
 
 ## Next
+- **More risk measures on sector depth** — max drawdown (1y), beta vs
+  SPY, and a ±5% news-event footprint per name. The volatility pipeline
+  already fetches the history these need; each is a display-only add.
+  Tier 2, low risk, autonomous-safe.
 - **Fairhope FSBO alert setup** — owner action, not code: enable native
   email alerts (Zillow/ByOwner saved searches; Alabama Public Notices
   Smart Search). Checklist delivered 2026-07-26. Complexity: none.
@@ -55,6 +59,9 @@ markers per docs/model-routing.md.
   (labeled, never blended into closes), weekend headline cadence,
   session-aware staleness; GitHub security test (push protection verified
   live, in-repo secret scan, checkout v6 SHA pin)
+- 2026-07-27 sector depth: 10 highest-volatility names per GICS sector
+  (110 names) ranked daily after the close, priced intraday from existing
+  data at zero extra fetch cost
 - 2026-07-27 hardening series: XSS/URL security + atomic writes + SHA
   pins (#31), 24-test suite + CI gate (#32), health.json + source
   metadata + a11y (#33), deterministic daily-ops + scorecard (#34),

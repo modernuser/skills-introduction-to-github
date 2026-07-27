@@ -258,6 +258,19 @@
     </table>
   </section>
 
+  <section class="table-wrap" id="depth-section" hidden>
+    <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">Sector depth — 10 most volatile per sector</h2>
+    <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.5rem;">
+      The ten names in each sector whose prices have moved most violently, by
+      annualised standard deviation of the last 30 daily returns.
+      <strong>Volatility is a risk measure, not an opportunity measure</strong> —
+      it counts movement in both directions and forecasts nothing. Rankings
+      recompute daily after the close; prices below refresh every session.
+    </p>
+    <p style="color:var(--color-muted);font-size:.75rem;margin-bottom:.75rem;" id="depth-meta"></p>
+    <div id="depth-groups"></div>
+  </section>
+
   <section class="table-wrap" id="movers-section" hidden>
     <h2 style="font-family:var(--font-display);color:var(--color-accent);font-size:1.3rem;margin:1.5rem 0 .25rem;">The Rolling 500</h2>
     <p style="color:var(--color-muted);font-size:.82rem;margin-bottom:.75rem;">
@@ -528,6 +541,37 @@
       </tr>`).join("");
     }
 
+    function renderDepth(depth, liveCloses) {
+      const sectors = Object.entries(depth.sectors || {});
+      if (!sectors.length) return;
+      document.getElementById("depth-section").hidden = false;
+      document.getElementById("depth-meta").textContent =
+        `Ranked ${depth.generated} · ${depth.coverage} constituents measured · ` +
+        `${depth.window_sessions}-session window`;
+      document.getElementById("depth-groups").innerHTML = sectors.map(([sector, rows]) => {
+        const body = rows.map(r => {
+          const live = liveCloses[r.symbol];
+          const price = live && live.close > 0 ? live.close : r.last_close;
+          const moved = live && live.close > 0 && live.date !== r.as_of;
+          const chg = (price - r.last_close) / r.last_close * 100;
+          return `<tr>
+            <td>${esc(r.name)}</td>
+            <td><a href="${newsUrl(r.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(r.symbol)} ↗</a></td>
+            <td>$${price.toFixed(2)}${moved ? ' <span style="color:var(--color-muted);font-size:.7rem">live</span>' : ''}</td>
+            <td>${moved ? arrow(chg) + fmtPct(chg) : '<span style="color:var(--color-muted)">—</span>'}</td>
+            <td>${r.vol_30d.toFixed(1)}%</td>
+          </tr>`;
+        }).join("");
+        return `<details style="margin:.4rem 0;">
+          <summary style="cursor:pointer;color:var(--color-accent);font-weight:600;">${esc(sector)} <span style="color:var(--color-muted);font-weight:400;font-size:.8rem;">(${rows.length} names · top vol ${rows[0].vol_30d.toFixed(1)}%)</span></summary>
+          <table class="quotes" aria-label="${esc(sector)} most volatile names">
+            <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Price</th><th scope="col">vs ranking</th><th scope="col">30d volatility</th></tr></thead>
+            <tbody>${body}</tbody>
+          </table>
+        </details>`;
+      }).join("");
+    }
+
     function renderMovers(data) {
       if (!data.gainers || !data.gainers.length) return;
       document.getElementById("movers-section").hidden = false;
@@ -603,6 +647,11 @@
       if (health) renderHealth(health);
       const inplay = await fetchFirst([RAW_BASE + "data/rotation.json", "data/rotation.json"]);
       if (inplay) renderInPlay(inplay);
+      const depth = await fetchFirst([RAW_BASE + "data/sector_depth.json", "data/sector_depth.json"]);
+      if (depth) {
+        const live = await fetchFirst([RAW_BASE + "data/sp500_closes.json", "data/sp500_closes.json"]);
+        renderDepth(depth, live || {});
+      }
       const movers = await fetchFirst([RAW_BASE + "data/movers.json", "data/movers.json"]);
       if (movers) renderMovers(movers);
       const news = await fetchFirst(NEWS_SOURCES);

@@ -73,3 +73,31 @@ def test_health_report_written(workdir):
     assert h["files"]["news"]["status"] == "missing"
     assert h["overall"] == "ok"
     assert "generated" in h and "duration_ms" in h
+
+
+def test_rejects_unordered_sector_depth(workdir):
+    import datetime
+    write_quotes(fabricated_quotes(date=datetime.date.today().isoformat()))
+    Path("data/sector_depth.json").write_text(json.dumps({
+        "per_sector": 10,
+        "sectors": {"Energy": [
+            {"symbol": "A", "vol_30d": 20.0, "last_close": 10.0},
+            {"symbol": "B", "vol_30d": 45.0, "last_close": 10.0},  # out of order
+        ]}}))
+    with pytest.raises(SystemExit) as exc:
+        load("validate_data").main()
+    assert exc.value.code == 1
+
+
+def test_accepts_wellformed_sector_depth(workdir):
+    import datetime
+    write_quotes(fabricated_quotes(date=datetime.date.today().isoformat()))
+    Path("data/sector_depth.json").write_text(json.dumps({
+        "generated": "2026-07-27T22:20:00Z", "per_sector": 10,
+        "sectors": {"Energy": [
+            {"symbol": "B", "vol_30d": 45.0, "last_close": 10.0},
+            {"symbol": "A", "vol_30d": 20.0, "last_close": 10.0},
+        ]}}))
+    assert run_validator() == 0
+    h = json.loads(Path("data/health.json").read_text())
+    assert h["files"]["sector_depth"]["records"] == 2

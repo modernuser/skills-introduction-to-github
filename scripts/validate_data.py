@@ -47,7 +47,8 @@ def write_health(q, newest, started) -> None:
         "sessions_behind_last_close": behind_close,
         "status": "stale" if behind_close > 1 else "ok",
     }
-    for name in ("news", "movers", "rotation", "portfolios", "extended"):
+    for name in ("news", "movers", "rotation", "portfolios", "extended",
+                 "sector_depth"):
         path = f"data/{name}.json"
         if not os.path.exists(path):
             files[name] = {"present": False, "status": "missing"}
@@ -55,14 +56,15 @@ def write_health(q, newest, started) -> None:
         with open(path) as f:
             d = json.load(f)
         entry = {"present": True, "status": "ok"}
-        updated = d.get("updated") or d.get("asof")
+        updated = d.get("updated") or d.get("asof") or d.get("generated")
         if updated:
             entry["updated"] = updated
             if "T" in updated and file_age_days(updated) > STALE_AGE_DAYS + 1:
                 entry["status"] = "stale"
         entry["records"] = (len(d.get("news", {})) or len(d.get("entries", []))
                             or len(d.get("gainers", [])) * 2
-                            or len(d.get("portfolios", {})))
+                            or len(d.get("portfolios", {}))
+                            or sum(len(v) for v in d.get("sectors", {}).values()))
         files[name] = entry
     session = describe()
     write_json("data/health.json", {
@@ -123,6 +125,22 @@ def main() -> int:
         for sym, e in ext.get("quotes", {}).items():
             if not (e.get("price", 0) > 0 and e.get("prev_close", 0) > 0):
                 fail(f"extended quote {sym} has non-positive price")
+
+    if os.path.exists("data/sector_depth.json"):
+        with open("data/sector_depth.json") as f:
+            sd = json.load(f)
+        per = sd.get("per_sector", 10)
+        for sector, rows in sd.get("sectors", {}).items():
+            if len(rows) > per:
+                fail(f"sector {sector} has {len(rows)} rows, max {per}")
+            for r in rows:
+                if not (r.get("vol_30d", 0) > 0):
+                    fail(f"non-positive volatility for {r.get('symbol')}")
+                if not (r.get("last_close", 0) > 0):
+                    fail(f"non-positive close for {r.get('symbol')}")
+            ordered = [r["vol_30d"] for r in rows]
+            if ordered != sorted(ordered, reverse=True):
+                fail(f"sector {sector} is not ordered by volatility")
 
     if os.path.exists("data/portfolios.json"):
         with open("data/portfolios.json") as f:

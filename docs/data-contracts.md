@@ -67,6 +67,22 @@ Watchlist + core symbols; written only during pre/after sessions with at
 least one print. Displayed on tiles with an explicit session label —
 never merged into official closes.
 
+## sector_depth.json — 10 most volatile names per sector
+```
+{ generated, method, note, window_sessions: 30, per_sector: 10,
+  coverage: <int measured>,
+  sectors: { "<GICS sector>": [ { symbol, name, vol_30d, sessions,
+                                  last_close, as_of } ] },
+  errors: [str] }
+```
+`vol_30d` is the annualised standard deviation of the last 30 daily
+returns, in percent — a measurement of realized movement in **both**
+directions, never a forecast. Rows are ordered by `vol_30d` descending;
+the validator enforces that ordering, positive values, and the per-sector
+cap. Written once daily after the close by `sector-depth.yml`; the page
+merges in fresher prices from `sp500_closes.json` so the table moves
+intraday without any extra fetching.
+
 ## notified_moves.json (state)
 `{ date, symbols: [..] }` — each ticker notifies at most once per day.
 

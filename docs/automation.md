@@ -9,6 +9,7 @@ measured reality is a handful of fires per day regardless of the spec.
 | `update-quotes.yml` | all sessions: pre (8-13 UTC), regular (14-20), after (21-01), weekend 2×/day | Prices, extended-hours, news, movers, rotation, move alerts, portfolios, validation gate, health.json, commit | contents+issues write |
 | `morning-briefing.yml` | 47 11 Mon-Fri | Pre-market briefing issue (emails owner) | contents read, issues write |
 | `daily-ops.yml` | 17 11 daily | Deterministic health run: tests, link scan, scorecard, daily report | contents+issues write |
+| `sector-depth.yml` | 17 22 Mon-Fri | Daily realized-volatility ranking, top 10 per GICS sector | contents+issues write |
 | `ci.yml` | PRs + push to main | pytest, YAML/JSON validation | contents read |
 | `deploy-pages.yml` | push to main | Pages deploy | pages standard |
 | `ai-maintenance.yml` | 47 12 daily, **gated off** | Opt-in AI improvement loop (see model-routing.md) | contents read + PR write when enabled |

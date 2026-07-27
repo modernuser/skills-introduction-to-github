@@ -1,0 +1,83 @@
+name: AI maintenance (opt-in)
+
+# The paid tier of the continual-improvement loop. DISABLED by default:
+# runs only when the owner sets repository variable
+# DAILY_AI_MAINTENANCE_ENABLED=true AND adds secret ANTHROPIC_API_KEY.
+# Until then, every scheduled trigger exits at the gate in seconds, and
+# the free deterministic tier (daily-ops.yml) covers daily health.
+# Policy: .claude/model-policy.yml + docs/model-routing.md.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 12 * * *"   # ~7:47 AM America/Chicago (DST); UTC-only cron
+
+permissions:
+  contents: read
+
+concurrency: ai-maintenance
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      enabled: ${{ steps.check.outputs.enabled }}
+    steps:
+      - id: check
+        env:
+          FLAG: ${{ vars.DAILY_AI_MAINTENANCE_ENABLED }}
+          HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+        run: |
+          if [ "$FLAG" = "true" ] && [ "$HAS_KEY" = "true" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+            echo "AI maintenance enabled"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "AI maintenance disabled (flag='$FLAG', key present=$HAS_KEY)."
+            echo "Deterministic daily-ops continues to cover daily health at zero cost."
+          fi
+
+  improve:
+    needs: gate
+    if: needs.gate.outputs.enabled == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: read
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+
+      # One open agent PR at a time (policy: maximum_open_agent_prs 1).
+      - name: Check for open agent PR
+        id: openpr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          open=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open \
+            --label agent-maintenance --json number --jq 'length')
+          echo "count=$open" >> "$GITHUB_OUTPUT"
+          [ "$open" = "0" ] || echo "an agent-maintenance PR is already open; skipping"
+
+      - name: Run bounded improvement pass
+        if: steps.openpr.outputs.count == '0'
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Tier 2 default per model policy; override via AI_MODEL_TIER var.
+          model: ${{ vars.AI_MODEL_TIER == 'lightweight' && 'claude-haiku-4-5-20251001' || 'claude-sonnet-5' }}
+          prompt: |
+            Read CLAUDE.md (agent rules) and .claude/model-policy.yml first;
+            obey both. You are the daily maintenance pass. Read the latest
+            reports/daily/*.md and reports/quality-scorecard.json. Identify
+            AT MOST ONE bounded, justified improvement (≤8 files, ≤500
+            changed lines; low or medium risk only — never touch data/*,
+            .claude/model-policy.yml, or workflow permissions). Implement
+            it on a branch, run `python3 -m pytest tests/python -q` until
+            green, and open ONE pull request labeled agent-maintenance
+            with problem statement, evidence, test results, security and
+            privacy impact, rollback method, and the model used. If no
+            change is justified, say so and stop — do not invent work.
+          claude_args: "--max-turns 40"

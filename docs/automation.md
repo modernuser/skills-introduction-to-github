@@ -13,6 +13,13 @@ measured reality is a handful of fires per day regardless of the spec.
 | `deploy-pages.yml` | push to main | Pages deploy | pages standard |
 | `ai-maintenance.yml` | 47 12 daily, **gated off** | Opt-in AI improvement loop (see model-routing.md) | contents read + PR write when enabled |
 
+## Slack mirror
+
+Briefings, move alerts, and failures also post to Slack when the
+`SLACK_WEBHOOK_URL` secret exists — see docs/slack-integration.md.
+Without the secret the notifier exits silently; a Slack outage never
+affects the pipeline.
+
 ## Failure handling
 
 - Any scheduled job failure → one **deduped** GitHub issue (no new issue

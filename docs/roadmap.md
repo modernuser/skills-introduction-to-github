@@ -35,6 +35,10 @@ markers per docs/model-routing.md.
   portfolios out of public view (docs/privacy-model.md).
 
 ## Blocked
+- **Slack webhook activation** — code shipped and inert; owner adds the
+  `SLACK_WEBHOOK_URL` secret to switch it on (docs/slack-integration.md).
+- **Slack AI bot (level 3)** — requires ANTHROPIC_API_KEY, budget, and a
+  signature-verified Slack app; high-risk change, human approval gate.
 - **AI maintenance loop activation** — built and gated; needs owner to
   set ANTHROPIC_API_KEY + DAILY_AI_MAINTENANCE_ENABLED=true (costs money).
 

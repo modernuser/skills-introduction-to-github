@@ -100,6 +100,10 @@
     const RAW_BASE = "https://raw.githubusercontent.com/modernuser/skills-introduction-to-github/main/";
     const COLORS = { owner: "#c8a96e", dartboard: "#7eb3dd", spy: "#9a9a9a" };
 
+    function esc(v) {
+      return String(v).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    }
+
     function fmtPP(v) {
       const cls = v >= 0 ? "alpha-pos" : "alpha-neg";
       return `<span class="${cls}">${v >= 0 ? "+" : ""}${v.toFixed(2)}</span>`;
@@ -148,7 +152,7 @@
     function renderHoldings(d) {
       const rows = p => p.holdings.map(h => {
         const chg = (h.last_close - h.start_close) / h.start_close * 100;
-        return `<tr><td>${h.symbol}</td><td>${h.name}</td>
+        return `<tr><td>${esc(h.symbol)}</td><td>${esc(h.name)}</td>
           <td>${h.shares.toFixed(4)}</td><td>$${h.start_close.toFixed(2)}</td>
           <td>$${h.last_close.toFixed(2)}</td><td>${fmtPP(chg)}%</td></tr>`;
       }).join("");

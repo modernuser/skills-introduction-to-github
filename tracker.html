@@ -269,6 +269,19 @@
     const NEWS_SOURCES = [RAW_BASE + "data/news.json", "data/news.json"];
     const REFRESH_MS = 20 * 60 * 1000; // 20 minutes
 
+    // Security: every external-origin string passes through esc(); every
+    // external URL through safeUrl() (https-only, anything else renders "#").
+    function esc(v) {
+      return String(v).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    }
+    function safeUrl(u) {
+      try { if (new URL(u).protocol === "https:") return esc(u); } catch (e) { /* fall through */ }
+      return "#";
+    }
+    function newsUrl(sym) {
+      return "https://finance.yahoo.com/quote/" + encodeURIComponent(sym) + "/news";
+    }
+
     function fmtPct(v) {
       if (v === null || v === undefined) return "—";
       const sign = v > 0 ? "+" : "";
@@ -323,13 +336,13 @@
         " · auto-refreshes during market hours";
 
       const tiles = data.quotes.map(q => {
-        const news = `https://finance.yahoo.com/quote/${q.symbol}/news`;
+        const news = newsUrl(q.symbol);
         const flag = q.significant
           ? `<div class="flag-note">⚠ Significant one-day move (≥ ${data.significant_pct}%)</div>`
           : "";
         return `<article class="tile ${q.significant ? "flagged" : ""}">
-          <div class="tile-symbol">${q.symbol}</div>
-          <div class="tile-name">${q.name}</div>
+          <div class="tile-symbol">${esc(q.symbol)}</div>
+          <div class="tile-name">${esc(q.name)}</div>
           ${/\d\s*[xX×]\b/.test(q.name) ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">Leveraged fund: multiplies the index's <em>daily</em> move and resets each day — multi-week returns drift from the multiple.</div>` : ""}
           ${q.hi52 ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">52-wk closing range $${q.lo52.toFixed(2)}–$${q.hi52.toFixed(2)} · now ${((q.close - q.hi52) / q.hi52 * 100).toFixed(1)}% from high</div>` : ""}
           <div class="tile-price">$${q.close.toFixed(2)}</div>
@@ -338,7 +351,7 @@
           </div>
           ${flag}
           ${sparkline(q.recent)}
-          <div class="tile-links"><a href="${news}" target="_blank" rel="noopener">News ↗</a></div>
+          <div class="tile-links"><a href="${news}" target="_blank" rel="noopener noreferrer">News ↗</a></div>
         </article>`;
       }).join("");
       document.getElementById("tiles").innerHTML = tiles;
@@ -346,12 +359,12 @@
 
       document.getElementById("tbody").innerHTML = data.quotes.map(q =>
         `<tr>
-          <td>${q.symbol}</td>
+          <td>${esc(q.symbol)}</td>
           <td>$${q.close.toFixed(2)}</td>
           <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
           <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
           <td>${arrow(q.m1)}${fmtPct(q.m1)}</td>
-          <td>${q.date}</td>
+          <td>${esc(q.date)}</td>
         </tr>`).join("");
 
       const sectors = (data.sectors || []).slice()
@@ -361,8 +374,8 @@
         sectorSection.hidden = false;
         document.getElementById("sector-tbody").innerHTML = sectors.map(q =>
           `<tr>
-            <td>${q.name}</td>
-            <td><a href="https://finance.yahoo.com/quote/${q.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${q.symbol} ↗</a></td>
+            <td>${esc(q.name)}</td>
+            <td><a href="${newsUrl(q.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(q.symbol)} ↗</a></td>
             <td>$${q.close.toFixed(2)}</td>
             <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
             <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
@@ -380,8 +393,8 @@
       if (!core || !core.length) return;
       document.getElementById("core-section").hidden = false;
       document.getElementById("core-tbody").innerHTML = core.map(q => `<tr>
-        <td>${q.name}</td>
-        <td><a href="https://finance.yahoo.com/quote/${q.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${q.symbol} ↗</a></td>
+        <td>${esc(q.name)}</td>
+        <td><a href="${newsUrl(q.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(q.symbol)} ↗</a></td>
         <td>$${q.close.toFixed(2)}</td>
         <td>${arrow(q.d1)}${fmtPct(q.d1)}</td>
         <td>${arrow(q.w1)}${fmtPct(q.w1)}</td>
@@ -394,10 +407,10 @@
       if (!entries.length) return;
       document.getElementById("inplay-section").hidden = false;
       document.getElementById("inplay-tbody").innerHTML = entries.map(r => `<tr>
-        <td>${r.name}</td>
-        <td><a href="https://finance.yahoo.com/quote/${r.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${r.symbol} ↗</a></td>
-        <td style="color:var(--color-muted)">${r.sector}</td>
-        <td>${r.entered}</td>
+        <td>${esc(r.name)}</td>
+        <td><a href="${newsUrl(r.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(r.symbol)} ↗</a></td>
+        <td style="color:var(--color-muted)">${esc(r.sector)}</td>
+        <td>${esc(r.entered)}</td>
         <td>${arrow(r.trigger_pct)}${fmtPct(r.trigger_pct)}</td>
         <td>$${r.last_close.toFixed(2)}</td>
       </tr>`).join("");
@@ -411,16 +424,16 @@
         <table>
           <thead><tr><th>Company</th><th>Ticker</th><th>Sector</th><th>Close</th><th>1 Day</th></tr></thead>
           <tbody>${rows.map(m => `<tr>
-            <td>${m.name}</td>
-            <td><a href="https://finance.yahoo.com/quote/${m.symbol}/news" target="_blank" rel="noopener" style="color:var(--color-accent);text-decoration:none">${m.symbol} ↗</a></td>
-            <td style="color:var(--color-muted)">${m.sector}</td>
+            <td>${esc(m.name)}</td>
+            <td><a href="${newsUrl(m.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(m.symbol)} ↗</a></td>
+            <td style="color:var(--color-muted)">${esc(m.sector)}</td>
             <td>$${m.close.toFixed(2)}</td>
             <td>${arrow(m.pct)}${fmtPct(m.pct)}</td>
           </tr>`).join("")}</tbody>
         </table>`;
       document.getElementById("movers-tables").innerHTML =
         block("Top gainers", data.gainers) + block("Top decliners", data.losers) +
-        `<p style="color:var(--color-muted);font-size:.75rem;margin-top:.5rem;">Coverage: ${data.coverage} of ~503 constituents · as of ${data.updated}</p>`;
+        `<p style="color:var(--color-muted);font-size:.75rem;margin-top:.5rem;">Coverage: ${data.coverage} of ~503 constituents · as of ${esc(data.updated)}</p>`;
     }
 
     function hostname(link) {
@@ -435,12 +448,12 @@
       document.getElementById("news-list").innerHTML = symbols.map(sym => {
         const items = data.news[sym].map(it =>
           `<li style="margin:.35rem 0;line-height:1.5;">
-            <a href="${it.link}" target="_blank" rel="noopener"
-               style="color:var(--color-text);text-decoration:none;">${it.title}</a>
-            <span style="color:var(--color-muted);font-size:.78rem;"> — ${hostname(it.link)}</span>
+            <a href="${safeUrl(it.link)}" target="_blank" rel="noopener noreferrer"
+               style="color:var(--color-text);text-decoration:none;">${esc(it.title)}</a>
+            <span style="color:var(--color-muted);font-size:.78rem;"> — ${esc(hostname(it.link))}</span>
           </li>`).join("");
         return `<details style="margin:.4rem 0;">
-          <summary style="cursor:pointer;color:var(--color-accent);font-weight:600;">${sym}</summary>
+          <summary style="cursor:pointer;color:var(--color-accent);font-weight:600;">${esc(sym)}</summary>
           <ul style="list-style:none;margin:.3rem 0 .6rem .5rem;">${items}</ul>
         </details>`;
       }).join("");

@@ -13,6 +13,8 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 
+from atomic import write_json
+
 # Ticker lists live in watchlist.json so they can be edited without
 # touching code. "watchlist" gets full tiles; "sectors" gets the compact
 # sector-pulse table.
@@ -147,9 +149,7 @@ def main() -> int:
         "sectors": sectors,
         "errors": errors,
     }
-    os.makedirs("data", exist_ok=True)
-    with open("data/quotes.json", "w") as f:
-        json.dump(out, f, indent=1)
+    write_json("data/quotes.json", out, indent=1)
     print(f"Wrote data/quotes.json with {len(quotes)} symbols; {len(errors)} errors")
     for e in errors:
         print("  warn:", e, file=sys.stderr)

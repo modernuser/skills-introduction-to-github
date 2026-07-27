@@ -19,6 +19,9 @@ import os
 import random
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from atomic import write_json
+
 STATE_PATH = "data/portfolios.json"
 START_CASH = 10000.0
 DART_COUNT = 11
@@ -133,8 +136,7 @@ def main() -> int:
               f"(rng_seed {state['rng_seed']})")
 
     revalue(state, prices)
-    with open(STATE_PATH, "w") as f:
-        json.dump(state, f, indent=1)
+    write_json(STATE_PATH, state, indent=1)
     p = state["portfolios"]
     print("portfolios:", ", ".join(
         f"{k} ${p[k]['value']:.0f} ({p[k]['return_pct']:+.2f}%, "

@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "note": "Placeholder profile for resume.html. Contains no personal data by design - this repository is public. Load it in the builder, replace the placeholders, then keep your filled copy on your own machine (Export JSON). Never commit a filled profile.",
+  "contact": {
+    "name": "Your Name",
+    "headline": "Target job title",
+    "email": "you@example.com",
+    "phone": "(000) 000-0000",
+    "location": "City, ST",
+    "links": [
+      {"label": "LinkedIn", "url": "https://www.linkedin.com/in/your-handle"}
+    ]
+  },
+  "summary": "Two to three sentences naming the role you want, your strongest relevant proof, and one measurable result. Written for a human; keyword-checked for the parser.",
+  "skills": [
+    {"category": "Hardware", "items": ["Example skill", "Example skill"]},
+    {"category": "Networking", "items": ["Example skill"]},
+    {"category": "Quality & process", "items": ["Example skill"]}
+  ],
+  "experience": [
+    {
+      "title": "Your Title",
+      "organization": "Employer or your business",
+      "location": "City, ST",
+      "start": "Jan 2020",
+      "end": "Present",
+      "bullets": [
+        "Strong verb + what you did + the system or tool + the measurable result.",
+        "At least one bullet per role should contain a number: count, percentage, dollar, or time saved."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project name",
+      "url": "",
+      "summary": "One line on what it does and which skills it proves.",
+      "bullets": [
+        "What you built, the stack, and the outcome."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "credential": "Degree, certificate, or coursework",
+      "institution": "Institution",
+      "location": "City, ST",
+      "year": "YYYY",
+      "confirm": true
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification name",
+      "issuer": "Issuing body",
+      "year": "YYYY",
+      "confirm": true
+    }
+  ],
+  "applications": [],
+  "settings": {
+    "template": "classic",
+    "show_projects": true,
+    "show_certifications": true
+  }
+}

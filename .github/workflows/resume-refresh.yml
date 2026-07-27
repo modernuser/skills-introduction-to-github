@@ -1,0 +1,76 @@
+name: Resume refresh reminder
+
+# A scheduled job cannot improve a resume it cannot see: the profile lives in
+# the owner's browser and on their disk, never in this public repository. What
+# a schedule *can* do is stop the document going stale silently, so this opens
+# a monthly checklist issue instead of pretending to edit anything.
+#
+# 13:00 UTC on the 1st ≈ 8:00 AM America/Chicago during DST (7:00 winter).
+# GitHub Actions cron is UTC only, so the local hour drifts across DST.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 13 1 * *"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency: resume-refresh
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3  # v6.0.0
+
+      - name: Open the monthly refresh checklist
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          # gh issue create fails outright on an unknown label, so ensure it
+          # exists before relying on it for de-duplication.
+          gh label create resume-refresh --repo "$GITHUB_REPOSITORY" \
+            --color C8A96E --description "Monthly resume upkeep checklist" \
+            2>/dev/null || echo "label already present"
+
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --label resume-refresh --limit 1 --json number --jq '.[].number')
+          if [ -n "$existing" ]; then
+            echo "open refresh issue #$existing exists; not creating another"
+            exit 0
+          fi
+
+          cat > body.md <<'EOF'
+          Monthly resume refresh. Open the
+          [builder](https://modernuser.github.io/skills-introduction-to-github/resume.html),
+          import your profile JSON, and work down this list.
+
+          **Log what actually happened since last month**
+          - [ ] Jobs completed, tickets closed, systems touched — with counts
+          - [ ] Anything you fixed that had a measurable before/after
+          - [ ] New tools, systems, or vendors you worked with
+          - [ ] Certifications earned or coursework finished (tick *Verified* only if you hold it)
+
+          **Then re-check the document**
+          - [ ] Quantified-bullet ratio is at or above target in the ATS check
+          - [ ] No warnings left that you can honestly clear
+          - [ ] Re-paste your current target posting and re-read the coverage gap
+          - [ ] Export the JSON and keep the copy off this repository
+
+          **Measure, don't assume**
+          - [ ] Update the application log with replies, interviews, and rejections
+          - [ ] Compare the reply rate against last month; if it has not moved,
+                change one variable (targeting, summary, or which roles you apply to)
+                rather than rewriting everything at once
+
+          Close this issue when done — the next one opens on the 1st.
+          EOF
+
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Resume refresh ($(date -u +%Y-%m))" \
+            --label resume-refresh \
+            --body-file body.md \
+            || echo "issue creation failed; see run log"

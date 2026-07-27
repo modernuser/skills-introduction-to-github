@@ -14,7 +14,8 @@ def test_reports_generated(workdir, monkeypatch):
     do = load("daily_ops")
     monkeypatch.setattr(do, "run_tests", lambda: {
         "passed": 21, "failed": 0, "ok": True, "summary": "21 passed"})
-    for page in ("index.html", "tracker.html", "dartboard.html", "styles.css"):
+    for page in ("index.html", "tracker.html", "dartboard.html", "resume.html",
+                 "styles.css"):
         shutil.copy(REPO / page, Path(page))
     Path("runs.json").write_text(json.dumps(
         [{"conclusion": "success"}] * 9 + [{"conclusion": "failure"}]))

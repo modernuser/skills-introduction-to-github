@@ -33,8 +33,9 @@ jobs:
               yaml.safe_load(open(f))
               print('yaml ok:', f)
           # Generated data now lives on the `data` branch; main carries
-          # only hand-maintained JSON.
-          for f in ['watchlist.json'] + glob.glob('data/*.json'):
+          # only hand-maintained JSON (watchlist, resume builder assets).
+          for f in (['watchlist.json'] + glob.glob('data/*.json')
+                    + glob.glob('assets/*.json')):
               json.load(open(f))
               print('json ok:', f)
           EOF

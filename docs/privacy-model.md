@@ -25,9 +25,23 @@ Pages are static; the only outbound requests the pages make:
 - Clicking a news/source link goes to that publisher (Yahoo Finance,
   Stooq, etc.) — normal link navigation, nothing prefetched
 
-**There are none of:** cookies, localStorage, analytics, tracking pixels,
-session recording, ads, third-party scripts, fonts CDNs. The pages load
-zero external JS.
+**There are none of:** cookies, analytics, tracking pixels, session
+recording, ads, third-party scripts, fonts CDNs. The pages load zero
+external JS.
+
+**One scoped exception — `localStorage` on `resume.html`.** The resume
+builder keeps the owner's profile in `localStorage` under the key
+`wofa.resume.v1`. This is a privacy mechanism, not a tracking one: the
+repository is public, so the resume data is deliberately kept *on the
+device* instead of being committed. The page's only network requests are
+two same-origin GETs for its own rule files, and neither carries user
+data. No other page reads or writes that key.
+
+The invariant is enforced, not just documented:
+`scripts/validate_resume_assets.py` fails CI if the committed template
+ever contains a real-looking email address or phone number — so a filled
+profile cannot reach a public commit by accident. Details:
+[docs/resume-builder.md](resume-builder.md).
 
 ## What the pipeline sends outward
 
@@ -44,4 +58,6 @@ unauthenticated.
   GitHub Actions secrets — never in files.
 - Never add analytics or tracking to the pages.
 - Personal research notes do NOT belong in this repo while it is public.
+- Resume/CV content (name, phone, address, employment history) is never
+  committed. The builder ships as code; the data stays on the device.
 - To purge something sensitive from history: see docs/runbook.md.

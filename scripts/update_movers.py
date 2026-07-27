@@ -19,6 +19,8 @@ import time
 import urllib.request
 from datetime import datetime, timezone
 
+from atomic import write_json
+
 CONSTITUENTS_URL = (
     "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/"
     "main/data/constituents.csv"
@@ -120,9 +122,8 @@ def update_rotation(moves: list, newest_date: str) -> None:
         <= ROTATION_WINDOW_DAYS
     ]
     keep.sort(key=lambda r: r["entered"], reverse=True)
-    with open(ROTATION_PATH, "w") as f:
-        json.dump({"updated": newest_date, "window_days": ROTATION_WINDOW_DAYS,
-                   "trigger_pct": ROTATION_TRIGGER_PCT, "entries": keep}, f, indent=1)
+    write_json(ROTATION_PATH, {"updated": newest_date, "window_days": ROTATION_WINDOW_DAYS,
+                                "trigger_pct": ROTATION_TRIGGER_PCT, "entries": keep}, indent=1)
     print(f"rotation: {len(keep)} in play")
 
 
@@ -156,9 +157,7 @@ def main() -> int:
     for sym, cur in fresh.items():
         if sym not in state or state[sym]["date"] <= cur["date"]:
             state[sym] = cur
-    os.makedirs("data", exist_ok=True)
-    with open(STATE_PATH, "w") as f:
-        json.dump(state, f, separators=(",", ":"), sort_keys=True)
+    write_json(STATE_PATH, state, separators=(",", ":"), sort_keys=True)
 
     if len(moves) >= MIN_COVERAGE:
         moves.sort(key=lambda m: m["pct"], reverse=True)
@@ -168,8 +167,7 @@ def main() -> int:
             "gainers": moves[:TOP_N],
             "losers": moves[-TOP_N:][::-1],
         }
-        with open(MOVERS_PATH, "w") as f:
-            json.dump(out, f, indent=1)
+        write_json(MOVERS_PATH, out, indent=1)
         print(f"Wrote {MOVERS_PATH}: {len(moves)} comparable symbols")
         update_rotation(moves, max(c["date"] for c in fresh.values()))
     else:

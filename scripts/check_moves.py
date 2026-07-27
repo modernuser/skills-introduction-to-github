@@ -15,6 +15,9 @@ import json
 import os
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from atomic import write_json
+
 STATE_PATH = "data/notified_moves.json"
 
 
@@ -67,8 +70,7 @@ def main() -> int:
         f.write(f"Significant moves {newest}")
 
     state["symbols"] = sorted(set(state["symbols"]) | {q["symbol"] for q in new})
-    with open(STATE_PATH, "w") as f:
-        json.dump(state, f, indent=1)
+    write_json(STATE_PATH, state, indent=1)
     print(f"{len(new)} newly flagged: {', '.join(q['symbol'] for q in new)}")
     return 0
 

@@ -35,7 +35,11 @@ framed. Offer data-display alternatives instead.
 6. **Reset the branch after every squash-merge** (`git fetch origin main
    && git checkout -B <branch> origin/main`). Merging main back into a
    long-lived branch after squash-merges breeds phantom conflicts.
-7. **Measure claims, don't repeat them.** The site said "every 20 min"
+7. **Definition of done includes CI green.** The committed pytest suite
+   (`tests/python/`, offline, network monkeypatched) plus YAML/JSON
+   validation runs on every PR and push to main via ci.yml. Run locally
+   with `python3 -m pytest tests/python -q` before pushing.
+8. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

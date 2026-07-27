@@ -51,3 +51,36 @@ def test_findings_produce_nonzero_exit(workdir, monkeypatch):
     assert do.main() == 1
     body = next(Path("reports/daily").glob("*.md")).read_text()
     assert "tests failing" in body
+
+
+def test_secret_scan_clean_on_real_repo():
+    do = load("daily_ops")
+    assert do.scan_for_secrets(str(REPO)) == []
+
+
+def test_secret_scan_detects_planted_credentials(workdir):
+    do = load("daily_ops")
+    # Credential shapes are ASSEMBLED AT RUNTIME so this source file never
+    # contains a literal secret — GitHub push protection blocks those, as
+    # it did when this test was first written (see docs/engineering-audit).
+    planted = "\n".join([
+        "AWS_KEY=" + "AKIA" + "Q" * 16,
+        "GH=" + "ghp" + "_" + "b" * 36,
+        "SLACK=https://hooks." + "slack.com/services/" + "T01ABCDEF/B02GHIJKL/" + "x" * 24,
+    ])
+    Path("leak.env").write_text(planted + "\n")
+    hits = do.scan_for_secrets(".")
+    labels = {h.split(" in ")[0] for h in hits}
+    assert {"AWS access key", "GitHub token", "Slack webhook"} <= labels
+
+
+def test_secret_findings_fail_the_run(workdir, monkeypatch):
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    Path("bad.txt").write_text("token: 'A" + "b" * 30 + "'\n")
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+    assert do.main() == 1
+    body = next(Path("reports/daily").glob("*.md")).read_text()
+    assert "secret-pattern scan: 1 hit" in body

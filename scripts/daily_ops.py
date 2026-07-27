@@ -55,6 +55,46 @@ def scan_internal_links(root=".") -> list:
     return broken
 
 
+# Compensating control: GitHub Advanced Security secret scanning is not
+# available on this repo, so scan for credential shapes ourselves. Free,
+# deterministic, always on. Patterns split so this file never matches
+# itself.
+SECRET_PATTERNS = [
+    ("AWS access key", r"AKIA[0-9A-Z]{16}"),
+    ("GitHub token", r"gh[pousr]_[A-Za-z0-9]{36,}"),
+    ("GitHub fine-grained PAT", r"github" + r"_pat_[A-Za-z0-9_]{50,}"),
+    ("Slack token", r"xox[baprs]-[A-Za-z0-9-]{10,}"),
+    ("Slack webhook", r"hooks\.slack\.com/services/T[A-Za-z0-9]+/B[A-Za-z0-9]+/[A-Za-z0-9]+"),
+    ("private key block", r"-----BEGIN [A-Z ]*PRIVATE KEY-----"),
+    ("Google API key", r"AIza[0-9A-Za-z_-]{35}"),
+    ("hardcoded credential", r"(?i)(api[_-]?key|secret|passwd|password|token)\s*[=:]\s*['\"][A-Za-z0-9/+_-]{24,}['\"]"),
+]
+SCAN_SKIP_DIRS = {".git", "node_modules", "__pycache__", "reports"}
+# These two legitimately contain credential-shaped literals: the pattern
+# list itself and the test that plants fake keys to prove the scan works.
+SCAN_SKIP_NAMES = {"daily_ops.py", "test_daily_ops.py"}
+
+
+def scan_for_secrets(root=".") -> list:
+    """Credential-shaped strings in tracked text files."""
+    hits = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        dirnames[:] = [d for d in dirnames if d not in SCAN_SKIP_DIRS]
+        for name in filenames:
+            if name in SCAN_SKIP_NAMES or name.endswith((".png", ".jpg", ".ico")):
+                continue
+            path = os.path.join(dirpath, name)
+            try:
+                with open(path, encoding="utf-8", errors="ignore") as f:
+                    text = f.read()
+            except OSError:
+                continue
+            for label, pattern in SECRET_PATTERNS:
+                if re.search(pattern, text):
+                    hits.append(f"{label} in {os.path.relpath(path, root)}")
+    return hits
+
+
 def load_health() -> dict:
     if os.path.exists("data/health.json"):
         with open("data/health.json") as f:
@@ -80,6 +120,7 @@ def main() -> int:
 
     tests = run_tests()
     broken = scan_internal_links()
+    secrets = scan_for_secrets()
     health = load_health()
     workflows = load_workflow_stats(runs_path)
 
@@ -88,6 +129,8 @@ def main() -> int:
     findings = []
     if not tests["ok"]:
         findings.append(f"tests failing: {tests['summary']}")
+    if secrets:
+        findings.append(f"POSSIBLE SECRETS COMMITTED: {secrets}")
     if broken:
         findings.append(f"broken internal links: {broken}")
     if stale:
@@ -97,6 +140,8 @@ def main() -> int:
         "generated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "tests": tests,
         "broken_internal_links": broken,
+        "secret_scan": {"method": "in-repo pattern scan (GHAS unavailable)",
+                        "hits": secrets},
         "data_health": {"overall": health.get("overall"), "stale_sections": stale},
         "workflow_reliability": workflows,
         "open_findings": AUDIT_OPEN,
@@ -116,6 +161,7 @@ Mode: deterministic scripts only — no AI model invoked (tier: none, cost: $0).
 ## Checks executed
 - pytest suite: {tests['summary'] or 'no output'}
 - internal link scan: {len(broken)} broken
+- secret-pattern scan: {len(secrets)} hit(s) [in-repo control; GHAS unavailable]
 - data health: overall **{health.get('overall')}**{', stale: ' + ', '.join(stale) if stale else ''}
 - workflow reliability: {reliability}
 - open audit findings: {AUDIT_OPEN['critical']} critical, {AUDIT_OPEN['high']} high
@@ -130,6 +176,7 @@ Mode: deterministic scripts only — no AI model invoked (tier: none, cost: $0).
         f.write(f"# Quality scorecard — {date}\n\n"
                 f"- Tests: {tests['summary'] or 'none'}\n"
                 f"- Broken internal links: {len(broken)}\n"
+                f"- Secret-pattern hits: {len(secrets)}\n"
                 f"- Data health: {health.get('overall')}\n"
                 f"- Workflow reliability: {reliability}\n"
                 f"- Open findings: {AUDIT_OPEN['critical']} critical / {AUDIT_OPEN['high']} high\n")

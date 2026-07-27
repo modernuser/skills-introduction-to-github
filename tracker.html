@@ -148,6 +148,20 @@
     a:focus-visible, summary:focus-visible {
       outline: 2px solid var(--color-accent); outline-offset: 2px;
     }
+    .session-bar {
+      max-width: var(--max-w); margin: 1rem auto 0; padding: .5rem 1rem;
+      border: 1px solid rgba(200,169,110,.3); border-radius: var(--radius);
+      text-align: center; font-size: .85rem; color: var(--color-text);
+      font-variant-numeric: tabular-nums;
+    }
+    .session-dot {
+      display: inline-block; width: .55rem; height: .55rem; border-radius: 50%;
+      margin-right: .45rem; vertical-align: baseline; background: var(--color-muted);
+    }
+    .session-open .session-dot { background: #4ade80; }
+    .session-pre .session-dot, .session-after .session-dot { background: var(--color-accent); }
+    .session-sub { color: var(--color-muted); }
+    .ext-line { color: var(--color-accent); font-size: .74rem; margin-top: .35rem; }
     .health-strip {
       max-width: var(--max-w); margin: .5rem auto 0; padding: 0 1.5rem;
       text-align: center; color: var(--color-muted); font-size: .75rem;
@@ -182,6 +196,7 @@
     primary sources so you can judge the "why" yourself.
   </p>
 
+  <p class="session-bar" id="session" aria-live="polite">Checking market session…</p>
   <div id="stale"></div>
   <p class="health-strip" id="health" aria-live="polite"></p>
 
@@ -345,6 +360,60 @@
       </svg><div class="spark-label">~30 recent sessions (low–high range)</div>`;
     }
 
+    // Market session clock — mirrors scripts/market_session.py. Uses the
+    // browser's tz database via en-US/New_York formatting, so DST is right.
+    const HOLIDAYS_2026_27 = new Set([
+      "2026-01-01","2026-01-19","2026-02-16","2026-04-03","2026-05-25","2026-06-19",
+      "2026-07-03","2026-09-07","2026-11-26","2026-12-25",
+      "2027-01-01","2027-01-18","2027-02-15","2027-03-26","2027-05-31","2027-06-18",
+      "2027-07-05","2027-09-06","2027-11-25","2027-12-24"]);
+    const HALF_DAYS = new Set(["2026-11-27","2026-12-24","2027-11-26"]);
+
+    function etParts(d = new Date()) {
+      const fmt = new Intl.DateTimeFormat("en-US", {
+        timeZone: "America/New_York", hour12: false,
+        year: "numeric", month: "2-digit", day: "2-digit",
+        hour: "2-digit", minute: "2-digit", weekday: "short" });
+      const p = Object.fromEntries(fmt.formatToParts(d).map(x => [x.type, x.value]));
+      return { date: `${p.year}-${p.month}-${p.day}`,
+               minutes: (+p.hour % 24) * 60 + +p.minute,
+               weekday: p.weekday,
+               clock: `${p.hour}:${p.minute}` };
+    }
+
+    function marketSession(d = new Date()) {
+      const { date, minutes, weekday, clock } = etParts(d);
+      const weekend = weekday === "Sat" || weekday === "Sun";
+      if (weekend || HOLIDAYS_2026_27.has(date))
+        return { key: "closed", label: "Closed", clock, reason: weekend ? "weekend" : "market holiday" };
+      const close = HALF_DAYS.has(date) ? 13 * 60 : 16 * 60;
+      const afterEnd = HALF_DAYS.has(date) ? 17 * 60 : 20 * 60;
+      if (minutes >= 4 * 60 && minutes < 9 * 60 + 30)
+        return { key: "pre", label: "Pre-market", clock, next: "opens", nextAt: 9 * 60 + 30, minutes };
+      if (minutes >= 9 * 60 + 30 && minutes < close)
+        return { key: "open", label: "Open", clock, next: "closes", nextAt: close, minutes };
+      if (minutes >= close && minutes < afterEnd)
+        return { key: "after", label: "After hours", clock, next: "ends", nextAt: afterEnd, minutes };
+      return { key: "closed", label: "Closed", clock, reason: "outside session hours" };
+    }
+
+    function renderSession() {
+      const s = marketSession();
+      const el = document.getElementById("session");
+      el.className = "session-bar session-" + (s.key === "open" ? "open" : s.key);
+      let detail;
+      if (s.next) {
+        const left = s.nextAt - s.minutes;
+        const h = Math.floor(left / 60), m = left % 60;
+        detail = `${s.next} in ${h ? h + "h " : ""}${m}m`;
+      } else {
+        detail = s.reason;
+      }
+      el.innerHTML = `<span class="session-dot" aria-hidden="true"></span>` +
+        `<strong>${esc(s.label)}</strong> <span class="session-sub">· ${esc(s.clock)} ET · ${esc(detail)}` +
+        (s.key === "closed" ? " · showing last close" : "") + `</span>`;
+    }
+
     // Data older than this on the page is suspicious even across a long
     // holiday weekend (Fri close -> Tue reopen is ~89h). Warn but keep
     // showing what we have; hard failures alert via GitHub issue anyway.
@@ -353,9 +422,23 @@
     function staleBanner(updatedIso) {
       const age = Date.now() - new Date(updatedIso).getTime();
       if (age < STALE_MS) return "";
+      // A legitimately closed market is not a broken pipeline.
+      if (marketSession().key === "closed" && age < 4 * STALE_MS) return "";
       const days = (age / 86400000).toFixed(1);
       return `<p class="stale-warning">⚠ This data is ${days} days old — the update
         pipeline may be broken. Treat all numbers below as historical, not current.</p>`;
+    }
+
+    let EXTENDED = {};
+
+    function extLine(sym) {
+      const e = EXTENDED[sym];
+      if (!e) return "";
+      const tag = e.session === "pre" ? "Pre-market" : "After hours";
+      const when = new Date(e.time).toLocaleTimeString("en-US",
+        { timeZone: "America/New_York", hour: "numeric", minute: "2-digit" });
+      return `<div class="ext-line">${tag} $${e.price.toFixed(2)} ` +
+             `(${e.pct >= 0 ? "+" : ""}${e.pct.toFixed(2)}% vs close) · ${esc(when)} ET</div>`;
     }
 
     function render(data) {
@@ -374,6 +457,7 @@
           ${/\d\s*[xX×]\b/.test(q.name) ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">Leveraged fund: multiplies the index's <em>daily</em> move and resets each day — multi-week returns drift from the multiple.</div>` : ""}
           ${q.hi52 ? `<div style="color:var(--color-muted);font-size:.72rem;margin-top:.2rem;">52-wk closing range $${q.lo52.toFixed(2)}–$${q.hi52.toFixed(2)} · now ${((q.close - q.hi52) / q.hi52 * 100).toFixed(1)}% from high</div>` : ""}
           <div class="tile-price">$${q.close.toFixed(2)}</div>
+          ${extLine(q.symbol)}
           <div class="deltas">
             ${deltaChip("1D", q.d1)}${deltaChip("1W", q.w1)}${deltaChip("1M", q.m1)}
           </div>
@@ -513,6 +597,8 @@
       else document.getElementById("updated").textContent =
         "No data available yet — the first scheduled update hasn't run.";
       if (data) renderCore(data.core);
+      const ext = await fetchFirst([RAW_BASE + "data/extended.json", "data/extended.json"]);
+      if (ext && ext.quotes) { EXTENDED = ext.quotes; if (data) render(data); }
       const health = await fetchFirst([RAW_BASE + "data/health.json", "data/health.json"]);
       if (health) renderHealth(health);
       const inplay = await fetchFirst([RAW_BASE + "data/rotation.json", "data/rotation.json"]);
@@ -523,6 +609,8 @@
       if (news) renderNews(news);
     }
 
+    renderSession();
+    setInterval(renderSession, 30000);
     load();
     setInterval(load, REFRESH_MS);
   </script>

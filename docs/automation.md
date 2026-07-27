@@ -6,7 +6,7 @@ measured reality is a handful of fires per day regardless of the spec.
 
 | Workflow | Schedule (UTC) | Purpose | Permissions |
 |---|---|---|---|
-| `update-quotes.yml` | 7,27,47 13-21 Mon-Fri | Prices, news, movers, rotation, move alerts, portfolios, validation gate, health.json, commit | contents+issues write |
+| `update-quotes.yml` | all sessions: pre (8-13 UTC), regular (14-20), after (21-01), weekend 2×/day | Prices, extended-hours, news, movers, rotation, move alerts, portfolios, validation gate, health.json, commit | contents+issues write |
 | `morning-briefing.yml` | 47 11 Mon-Fri | Pre-market briefing issue (emails owner) | contents read, issues write |
 | `daily-ops.yml` | 17 11 daily | Deterministic health run: tests, link scan, scorecard, daily report | contents+issues write |
 | `ci.yml` | PRs + push to main | pytest, YAML/JSON validation | contents read |

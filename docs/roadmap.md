@@ -59,6 +59,10 @@ markers per docs/model-routing.md.
   (labeled, never blended into closes), weekend headline cadence,
   session-aware staleness; GitHub security test (push protection verified
   live, in-repo secret scan, checkout v6 SHA pin)
+- 2026-07-27 data-branch split: generated data and reports moved to a
+  dedicated `data` branch; workflows hydrate/publish via
+  scripts/data_branch.py; `main` is now code-only and fully protectable
+  with no bypass list
 - 2026-07-27 sector depth: 10 highest-volatility names per GICS sector
   (110 names) ranked daily after the close, priced intraday from existing
   data at zero extra fetch cost

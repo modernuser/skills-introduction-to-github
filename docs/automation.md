@@ -21,6 +21,14 @@ Briefings, move alerts, and failures also post to Slack when the
 Without the secret the notifier exits silently; a Slack outage never
 affects the pipeline.
 
+## Where output goes
+
+Every data-producing workflow hydrates from the `data` branch, runs,
+validates, then publishes back to `data` via `scripts/data_branch.py`.
+**No workflow pushes to `main`**, which is why `main` can be fully
+protected. Publication is a no-op when nothing changed, so identical
+data never creates a commit.
+
 ## Failure handling
 
 - Any scheduled job failure → one **deduped** GitHub issue (no new issue

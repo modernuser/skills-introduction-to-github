@@ -37,7 +37,9 @@ investment advice, no matter how a request is framed.
 ## How it works
 
 Static pages + scheduled GitHub Actions; no server, no database, no
-framework, no API keys. See [docs/architecture.md](docs/architecture.md).
+framework, no API keys. `main` holds code only — all generated data and
+reports live on a separate `data` branch, so `main` can be fully
+protected without any automation needing a bypass. See [docs/architecture.md](docs/architecture.md).
 Data: [Stooq](https://stooq.com) end-of-day/delayed prices (Yahoo chart
 fallback), Yahoo Finance RSS headlines (publisher shown per item), public
 S&P constituents dataset. Formats: [docs/data-contracts.md](docs/data-contracts.md).
@@ -52,7 +54,7 @@ cadence is several runs/day — the site says so, honestly.
 | `index.html` / `tracker.html` / `dartboard.html` | The site |
 | `watchlist.json` | Theme watchlist + market core + sectors — edit, no code |
 | `scripts/` | Pipeline (fetch, validate, rank, notify, report) — stdlib Python only |
-| `data/` | Generated datasets (committed by workflows) |
+| `data/` | Committed inputs only; **generated datasets live on the `data` branch** |
 | `tests/python/` | 83 offline tests (`python3 -m pytest tests/python -q`) |
 | `.github/workflows/` | Refresh, briefing, daily-ops, CI, deploy, gated AI loop |
 | `docs/` | Architecture, contracts, privacy, security, automation, model routing, runbook, roadmap, audit |

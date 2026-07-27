@@ -61,3 +61,15 @@ def test_rejects_broken_portfolio(workdir):
     with pytest.raises(SystemExit) as exc:
         load("validate_data").main()
     assert exc.value.code == 1
+
+
+def test_health_report_written(workdir):
+    import datetime
+    write_quotes(fabricated_quotes(date=datetime.date.today().isoformat()))
+    assert run_validator() == 0
+    h = json.loads(Path("data/health.json").read_text())
+    assert h["files"]["quotes"]["status"] == "ok"
+    assert h["files"]["quotes"]["records"] == 35
+    assert h["files"]["news"]["status"] == "missing"
+    assert h["overall"] == "ok"
+    assert "generated" in h and "duration_ms" in h

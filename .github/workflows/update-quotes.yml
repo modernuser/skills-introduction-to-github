@@ -74,6 +74,8 @@ jobs:
             else
               gh issue create --repo "$GITHUB_REPOSITORY" --title "⚠ $title" --body-file moves_body.md
             fi
+            SLACK_WEBHOOK_URL="${{ secrets.SLACK_WEBHOOK_URL }}" \
+              python3 scripts/notify_slack.py moves moves_body.md
           fi
 
       - name: Commit if changed
@@ -109,3 +111,6 @@ jobs:
             --title "Quotes pipeline failed ($(date -u +%Y-%m-%d))" \
             --body "A scheduled market-data update failed. Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
             || echo "issue creation failed; see run log"
+          FAILURE_CONTEXT="Market-data update failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            SLACK_WEBHOOK_URL="${{ secrets.SLACK_WEBHOOK_URL }}" \
+            python3 scripts/notify_slack.py failure

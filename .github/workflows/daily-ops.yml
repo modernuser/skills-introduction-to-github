@@ -64,3 +64,6 @@ jobs:
             --title "Daily ops findings ($(date -u +%Y-%m-%d))" \
             --body "The deterministic daily health check found actionable issues. See reports/daily/ and the run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
             || echo "issue creation failed; see run log"
+          FAILURE_CONTEXT="Daily ops found actionable issues: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            SLACK_WEBHOOK_URL="${{ secrets.SLACK_WEBHOOK_URL }}" \
+            python3 scripts/notify_slack.py failure

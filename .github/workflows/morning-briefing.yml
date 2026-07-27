@@ -37,6 +37,12 @@ jobs:
             --title "Pre-market briefing $(date -u +%Y-%m-%d)" \
             --body-file briefing.md
 
+      # Slack mirror (inert until the SLACK_WEBHOOK_URL secret exists).
+      - name: Notify Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python3 scripts/notify_slack.py briefing briefing.md
+
       - name: Alert on failure
         if: failure()
         env:

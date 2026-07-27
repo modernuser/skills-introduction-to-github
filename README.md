@@ -22,9 +22,11 @@ investment advice, no matter how a request is framed.
 - **[Dartboard experiment](https://modernuser.github.io/skills-introduction-to-github/dartboard.html)** —
   three paper portfolios (owner picks / seeded-random 11 / SPY), same
   fake $10,000, live **realized** alpha vs SPY
-- **Notifications by email** (via auto-created GitHub issues): weekday
-  pre-market briefing with corroboration-tagged headlines; same-day
-  alerts when any tracked ticker moves ±3%; pipeline-failure alerts
+- **Notifications by email and Slack**: weekday pre-market briefing with
+  corroboration-tagged headlines; same-day alerts when any tracked ticker
+  moves ±3%; pipeline-failure alerts. Email arrives via auto-created
+  GitHub issues; Slack mirrors the same events once a webhook secret is
+  set ([docs/slack-integration.md](docs/slack-integration.md))
 - **Self-maintenance**: validation gate before every data commit,
   `data/health.json`, deterministic daily-ops reports and quality
   scorecard, CI on every PR

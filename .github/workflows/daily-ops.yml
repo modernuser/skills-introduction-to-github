@@ -1,0 +1,66 @@
+name: Daily ops
+
+# 11:17 UTC ≈ 6:17 AM America/Chicago during DST (7:17 winter). GitHub
+# Actions cron has no timezone support — UTC only — so the local time
+# drifts an hour across DST changes; acceptable for a daily report.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 11 * * *"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: daily-ops
+
+jobs:
+  ops:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+
+      - name: Install dependencies
+        run: python3 -m pip install --quiet pytest pyyaml
+
+      - name: Gather recent workflow conclusions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run list --repo "$GITHUB_REPOSITORY" --limit 30 \
+            --json conclusion > runs.json || echo "[]" > runs.json
+
+      - name: Run daily health checks and reports
+        id: ops
+        run: python3 scripts/daily_ops.py runs.json
+
+      - name: Commit reports
+        if: always()
+        run: |
+          git add reports/ || true
+          if git diff --cached --quiet; then
+            echo "no report changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Daily ops report [skip ci]"
+          git push
+
+      - name: Alert on findings
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search '"Daily ops findings" in:title' \
+            --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            echo "open findings issue #$existing exists; not creating another"
+            exit 0
+          fi
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Daily ops findings ($(date -u +%Y-%m-%d))" \
+            --body "The deterministic daily health check found actionable issues. See reports/daily/ and the run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            || echo "issue creation failed; see run log"

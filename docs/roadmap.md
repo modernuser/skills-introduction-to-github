@@ -46,6 +46,11 @@ markers per docs/model-routing.md.
   tags), Rolling 500, In Play ±5% rotation, market core (1 giant/sector),
   move-alert issues, dartboard experiment (live realized alpha),
   course-file cleanup, measured-cadence honesty pass.
+- 2026-07-27 all-session coverage: market-session engine (pre/regular/
+  after/closed, holidays, half-days), extended-hours prices on tiles
+  (labeled, never blended into closes), weekend headline cadence,
+  session-aware staleness; GitHub security test (push protection verified
+  live, in-repo secret scan, checkout v6 SHA pin)
 - 2026-07-27 hardening series: XSS/URL security + atomic writes + SHA
   pins (#31), 24-test suite + CI gate (#32), health.json + source
   metadata + a11y (#33), deterministic daily-ops + scorecard (#34),

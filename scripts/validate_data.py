@@ -15,9 +15,10 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from atomic import write_json
+from market_session import describe, last_session_close
 
 MAX_QUOTE_AGE_DAYS = 6  # stooq date can lag a long weekend, never a week
-STALE_AGE_DAYS = 4      # matches the page's ~100h stale banner
+STALE_AGE_DAYS = 4      # fallback; session-aware check below is primary
 
 
 def fail(msg: str):
@@ -35,13 +36,18 @@ def write_health(q, newest, started) -> None:
     files = {}
     quote_age = (datetime.now(timezone.utc)
                  - datetime.strptime(newest, "%Y-%m-%d").replace(tzinfo=timezone.utc)).days
+    # Session-aware: measure against the last real session close, so a
+    # weekend or holiday never looks like a broken pipeline.
+    behind_close = (last_session_close(datetime.now(timezone.utc)).date()
+                    - datetime.strptime(newest, "%Y-%m-%d").date()).days
     files["quotes"] = {
         "present": True, "updated": q["updated"],
         "records": len(q["quotes"]) + len(q.get("core", [])) + len(q["sectors"]),
         "newest_record_age_days": quote_age,
-        "status": "stale" if quote_age > STALE_AGE_DAYS else "ok",
+        "sessions_behind_last_close": behind_close,
+        "status": "stale" if behind_close > 1 else "ok",
     }
-    for name in ("news", "movers", "rotation", "portfolios"):
+    for name in ("news", "movers", "rotation", "portfolios", "extended"):
         path = f"data/{name}.json"
         if not os.path.exists(path):
             files[name] = {"present": False, "status": "missing"}
@@ -58,8 +64,10 @@ def write_health(q, newest, started) -> None:
                             or len(d.get("gainers", [])) * 2
                             or len(d.get("portfolios", {})))
         files[name] = entry
+    session = describe()
     write_json("data/health.json", {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "market": session,
         "duration_ms": int((time.monotonic() - started) * 1000),
         "source_errors": q.get("errors", []),
         "files": files,
@@ -106,6 +114,15 @@ def main() -> int:
                 fail(f"movers {key} has {len(lst)} entries")
             if any(not (x.get("close", 0) > 0) for x in lst):
                 fail(f"movers {key} has non-positive close")
+
+    if os.path.exists("data/extended.json"):
+        with open("data/extended.json") as f:
+            ext = json.load(f)
+        if ext.get("session") not in ("pre", "after"):
+            fail(f"extended.json has invalid session {ext.get('session')!r}")
+        for sym, e in ext.get("quotes", {}).items():
+            if not (e.get("price", 0) > 0 and e.get("prev_close", 0) > 0):
+                fail(f"extended quote {sym} has non-positive price")
 
     if os.path.exists("data/portfolios.json"):
         with open("data/portfolios.json") as f:

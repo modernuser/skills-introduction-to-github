@@ -18,7 +18,7 @@ investment advice, no matter how a request is framed.
   (top movers across all ~503 S&P constituents), the **In Play** list
   (±5% observed days auto-admit tickers for two weeks), per-ticker
   headlines with publishers shown, a data-health strip, and a
-  stale-data alarm
+  stale-data alarm, market-session clock with pre/after-hours prices (labeled, never blended into closes)
 - **[Dartboard experiment](https://modernuser.github.io/skills-introduction-to-github/dartboard.html)** —
   three paper portfolios (owner picks / seeded-random 11 / SPY), same
   fake $10,000, live **realized** alpha vs SPY

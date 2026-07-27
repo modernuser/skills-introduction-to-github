@@ -56,6 +56,17 @@ trigger). Nothing selects; facts admit and evict.
 `alpha_pp` = realized return − SPY's realized return. `rng_seed` makes the
 dart draw reproducible. Paper money only.
 
+## extended.json — pre/after-hours prices
+```
+{ updated, session: "pre"|"after",
+  quotes: {SYMBOL: { price, prev_close, pct, time, session,
+                     source: "yahoo-chart-prepost" }},
+  errors: [str] }
+```
+Watchlist + core symbols; written only during pre/after sessions with at
+least one print. Displayed on tiles with an explicit session label —
+never merged into official closes.
+
 ## notified_moves.json (state)
 `{ date, symbols: [..] }` — each ticker notifies at most once per day.
 

@@ -1,13 +1,22 @@
 name: Update market quotes
 
-# Refresh market data during US market hours (13:00-21:00 UTC covers
-# 9am-5pm ET), weekdays only, plus manual runs. Off-peak minutes because
-# GitHub throttles congested cron slots — measured reality is a handful
-# of runs/day regardless of how often the spec asks.
+# Market data refresh across ALL sessions, not just regular hours.
+# Times are UTC (Actions cron is UTC-only); ET is UTC-4 in DST, UTC-5 in
+# winter, so the windows are widened to cover both — market_session.py
+# labels each run correctly regardless. Off-peak minutes because GitHub
+# throttles congested cron slots; no-op suppression prevents churn.
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7,27,47 13-21 * * 1-5"
+    # Pre-market (04:00-09:30 ET)
+    - cron: "13,43 8-13 * * 1-5"
+    # Regular session (09:30-16:00 ET)
+    - cron: "7,27,47 14-20 * * 1-5"
+    # After hours (16:00-20:00 ET) incl. the wrap past midnight UTC
+    - cron: "17,47 21-23 * * 1-5"
+    - cron: "17 0,1 * * 2-6"
+    # Weekend: headlines keep moving even when prices do not
+    - cron: "23 14,22 * * 6,0"
 
 permissions:
   contents: write
@@ -29,6 +38,10 @@ jobs:
       # News is best-effort: a failed headline fetch must not block quotes.
       - name: Fetch latest headlines
         run: python3 scripts/update_news.py || echo "news fetch failed; quotes continue"
+
+      # Pre/after-hours prices (no-op during regular hours and closures).
+      - name: Fetch extended-hours prices
+        run: python3 scripts/update_extended.py || echo "extended fetch failed; continuing"
 
       # Rolling S&P 500 movers: also best-effort.
       - name: Update S&P 500 movers
@@ -66,7 +79,7 @@ jobs:
       - name: Commit if changed
         run: |
           git add data/quotes.json
-          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json data/rotation.json data/health.json; do
+          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json data/rotation.json data/health.json data/extended.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then

@@ -139,6 +139,23 @@
       text-transform: uppercase;
       letter-spacing: .06em;
     }
+    .skip-link {
+      position: absolute; left: -9999px; top: 0;
+      background: var(--color-surface); color: var(--color-accent);
+      padding: .5rem 1rem; z-index: 10;
+    }
+    .skip-link:focus { left: .5rem; top: .5rem; }
+    a:focus-visible, summary:focus-visible {
+      outline: 2px solid var(--color-accent); outline-offset: 2px;
+    }
+    .health-strip {
+      max-width: var(--max-w); margin: .5rem auto 0; padding: 0 1.5rem;
+      text-align: center; color: var(--color-muted); font-size: .75rem;
+    }
+    .site-footer {
+      max-width: var(--max-w); margin: 0 auto 2rem; padding: 0 1.5rem;
+      color: var(--color-muted); font-size: .75rem; text-align: center; line-height: 1.7;
+    }
     .status-line {
       text-align: center;
       color: var(--color-muted);
@@ -148,6 +165,8 @@
   </style>
 </head>
 <body>
+
+  <a class="skip-link" href="#tiles">Skip to market data</a>
 
   <header class="tracker-header">
     <h1>Market Tracker</h1>
@@ -164,6 +183,7 @@
   </p>
 
   <div id="stale"></div>
+  <p class="health-strip" id="health" aria-live="polite"></p>
 
   <section class="tiles" id="tiles" aria-live="polite"></section>
 
@@ -175,7 +195,7 @@
     </p>
     <table class="quotes" aria-label="Sector ETF performance table">
       <thead>
-        <tr><th>Sector</th><th>Ticker</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th></tr>
+        <tr><th scope="col">Sector</th><th scope="col">Ticker</th><th scope="col">Last close</th><th scope="col">1 day</th><th scope="col">1 week</th><th scope="col">1 month</th></tr>
       </thead>
       <tbody id="sector-tbody"></tbody>
     </table>
@@ -185,7 +205,7 @@
     <table class="quotes" aria-label="Watchlist quotes table">
       <thead>
         <tr>
-          <th>Symbol</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th><th>As of</th>
+          <th scope="col">Symbol</th><th scope="col">Last close</th><th scope="col">1 day</th><th scope="col">1 week</th><th scope="col">1 month</th><th scope="col">As of</th>
         </tr>
       </thead>
       <tbody id="tbody"></tbody>
@@ -201,7 +221,7 @@
     </p>
     <table class="quotes" aria-label="Market core quotes table">
       <thead>
-        <tr><th>Company</th><th>Ticker</th><th>Last close</th><th>1 day</th><th>1 week</th><th>1 month</th></tr>
+        <tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Last close</th><th scope="col">1 day</th><th scope="col">1 week</th><th scope="col">1 month</th></tr>
       </thead>
       <tbody id="core-tbody"></tbody>
     </table>
@@ -217,7 +237,7 @@
     </p>
     <table class="quotes" aria-label="In play rotation table">
       <thead>
-        <tr><th>Company</th><th>Ticker</th><th>Sector</th><th>Entered</th><th>Trigger day</th><th>Last close</th></tr>
+        <tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Sector</th><th scope="col">Entered</th><th scope="col">Trigger day</th><th scope="col">Last close</th></tr>
       </thead>
       <tbody id="inplay-tbody"></tbody>
     </table>
@@ -254,6 +274,14 @@
   </section>
 
   <p class="status-line" id="status"></p>
+
+  <footer class="site-footer">
+    Sources: prices from <a href="https://stooq.com" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent)">Stooq</a>
+    (end-of-day/delayed; Yahoo chart API as fallback) · headlines via Yahoo Finance RSS with the
+    original publisher shown per item · S&amp;P 500 constituent list from the public
+    <a href="https://github.com/datasets/s-and-p-500-companies" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent)">datasets project</a>.
+    All data is delayed and educational — never real-time, never advice.
+  </footer>
 
   <footer class="footer">
     <div class="container">
@@ -422,7 +450,7 @@
       const block = (title, rows) => `
         <h3 style="color:var(--color-text);font-size:1rem;margin:.9rem 0 .3rem;">${title}</h3>
         <table>
-          <thead><tr><th>Company</th><th>Ticker</th><th>Sector</th><th>Close</th><th>1 Day</th></tr></thead>
+          <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Sector</th><th scope="col">Close</th><th scope="col">1 Day</th></tr></thead>
           <tbody>${rows.map(m => `<tr>
             <td>${esc(m.name)}</td>
             <td><a href="${newsUrl(m.symbol)}" target="_blank" rel="noopener noreferrer" style="color:var(--color-accent);text-decoration:none">${esc(m.symbol)} ↗</a></td>
@@ -434,6 +462,15 @@
       document.getElementById("movers-tables").innerHTML =
         block("Top gainers", data.gainers) + block("Top decliners", data.losers) +
         `<p style="color:var(--color-muted);font-size:.75rem;margin-top:.5rem;">Coverage: ${data.coverage} of ~503 constituents · as of ${esc(data.updated)}</p>`;
+    }
+
+    function renderHealth(h) {
+      const label = { ok: "OK", stale: "STALE", missing: "pending" };
+      const parts = Object.entries(h.files || {}).map(([name, f]) =>
+        `${esc(name)}: ${label[f.status] || esc(f.status)}`);
+      document.getElementById("health").textContent =
+        "Data health — " + parts.join(" · ") +
+        (h.overall === "ok" ? "" : " · overall: " + h.overall.toUpperCase());
     }
 
     function hostname(link) {
@@ -476,6 +513,8 @@
       else document.getElementById("updated").textContent =
         "No data available yet — the first scheduled update hasn't run.";
       if (data) renderCore(data.core);
+      const health = await fetchFirst([RAW_BASE + "data/health.json", "data/health.json"]);
+      if (health) renderHealth(health);
       const inplay = await fetchFirst([RAW_BASE + "data/rotation.json", "data/rotation.json"]);
       if (inplay) renderInPlay(inplay);
       const movers = await fetchFirst([RAW_BASE + "data/movers.json", "data/movers.json"]);

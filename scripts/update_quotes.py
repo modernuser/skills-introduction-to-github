@@ -69,13 +69,19 @@ def fetch_closes_yahoo(symbol: str) -> list[tuple[str, float]]:
     return closes
 
 
+LAST_SOURCE = "stooq"
+
+
 def fetch_closes(symbol: str) -> list[tuple[str, float]]:
+    global LAST_SOURCE
     try:
         closes = fetch_closes_stooq(symbol)
         if closes:
+            LAST_SOURCE = "stooq"
             return closes
     except Exception:
         pass
+    LAST_SOURCE = "yahoo-fallback"
     return fetch_closes_yahoo(symbol)
 
 
@@ -108,6 +114,7 @@ def build_quote(symbol: str, name: str, errors: list, with_recent: bool):
         "w1": pct_change(closes, 5),
         "m1": pct_change(closes, 21),
         "significant": d1 is not None and abs(d1) >= SIGNIFICANT_PCT,
+        "source": LAST_SOURCE,
     }
     if with_recent:
         # last ~30 sessions for the sparkline

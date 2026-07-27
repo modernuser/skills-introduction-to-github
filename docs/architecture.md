@@ -20,6 +20,37 @@ GitHub Actions (UTC cron):
   ci.yml ──────────────> pytest + YAML/JSON validation on PRs & main
 ```
 
+## Two branches, on purpose
+
+`main` holds **code only**. All generated output — market datasets,
+pipeline state, daily reports — lives on the **`data` branch**.
+
+Nothing automated ever writes to `main`. That is what lets `main` carry
+full protection (require a pull request, require green CI, block
+force-pushes) with no bypass list: there is no bot that needs an
+exception. Before this split the two goals were mutually exclusive —
+protecting `main` broke the pipeline, and an unprotected `main` was the
+top audit finding.
+
+The workflows follow one shape:
+
+```
+checkout main (code)
+  -> data_branch.py hydrate     restore persisted state from `data`
+  -> run pipeline scripts        read state, fetch, write fresh output
+  -> validate_data.py            gate: malformed output never ships
+  -> data_branch.py publish      commit + push to `data` (worktree)
+```
+
+`hydrate` matters because several scripts carry state across runs:
+`notified_moves.json` (one alert per ticker per day), `sp500_closes.json`
+(yesterday's closes for move detection), `portfolios.json` (the paper
+experiment), `rotation.json` (In Play window), `news.json` (change
+detection). Without hydration each run would start blind.
+
+Pages fetch from `raw.githubusercontent.com/.../data/data/*.json` —
+branch `data`, path `data/`.
+
 ## Boundaries
 
 - **Pages never compute market logic** — pages render committed JSON only.

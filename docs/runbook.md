@@ -34,14 +34,24 @@ Committed-then-deleted files remain in history. To truly remove:
 push, then rotate anything that was exposed. GitHub support can purge
 cached views. Prevention beats purging — see docs/privacy-model.md.
 
+## Inspect or repair the data branch
+Generated output lives on `data`, not `main`:
+`git fetch origin data && git show origin/data:data/quotes.json`.
+To reset a corrupted state file, delete it on the `data` branch; the next
+run regenerates it (portfolios re-seed, movers need one more session to
+rebuild a comparison). To roll back a bad dataset:
+`git push origin <good-sha>:data`. `main` is unaffected either way.
+
 ## Local development
 ```
 git clone <repo> && cd <repo>
 python3 -m pytest tests/python -q         # full offline suite
 python3 -m http.server 8000               # then open /tracker.html
 ```
-Pages read live data from the raw GitHub URL even when served locally;
-kill the network and they fall back to the checked-out `data/` copies.
+Pages read live data from the `data` branch's raw GitHub URL. A `main`
+checkout has no generated `data/*.json`, so the local fallback simply
+finds nothing and the page shows its empty state — run
+`python3 scripts/data_branch.py hydrate` to pull real data in locally.
 
 ## Verify a deploy
 Actions → "Deploy Pages" → conclusion success, then hard-refresh the

@@ -22,23 +22,20 @@ jobs:
     steps:
       - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3  # v6.0.0
 
+      - name: Hydrate data from data branch
+        run: python3 scripts/data_branch.py hydrate
+
       - name: Rank sectors by realized volatility
         run: python3 scripts/sector_depth.py
 
       - name: Validate data
         run: python3 scripts/validate_data.py
 
-      - name: Commit if changed
+      - name: Publish data to data branch
         run: |
-          git add data/sector_depth.json data/health.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update sector depth [skip ci]"
-          git push
+          python3 scripts/data_branch.py publish "Update sector depth"
 
       - name: Alert on failure
         if: failure()

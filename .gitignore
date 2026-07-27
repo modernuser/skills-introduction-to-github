@@ -36,3 +36,8 @@
 ehthumbs.db
 Thumbs.db
 __pycache__/
+
+# Generated output lives on the `data` branch, never on main.
+# scripts/data_branch.py force-adds these when publishing there.
+data/*.json
+reports/

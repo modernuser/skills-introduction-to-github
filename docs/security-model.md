@@ -28,7 +28,7 @@
 
 | Setting | State | Action |
 |---|---|---|
-| Branch protection on `main` | **absent** | Add a ruleset: require PR, require the `CI` status check, block force-push and deletion. Until then CI cannot block a bad merge. |
+| Branch protection on `main` | configurable with **no bypass needed** | Since generated data moved to the `data` branch, nothing automated writes to `main`. Safe to require a pull request + the `test` check, and to block force-pushes and deletions, with an empty bypass list. |
 | Push protection | **ACTIVE** (verified: it rejected a real push containing a webhook-shaped test fixture) | Keep enabled. Never click the "allow secret" unblock link — fix the content instead |
 | Secret scanning API/alerts | unavailable (no GHAS) | `daily_ops.py` runs an in-repo pattern scan daily as the compensating control |
 | Dependabot | active | Resolve dependency PRs by updating the **SHA pin**, not by accepting a tag bump |

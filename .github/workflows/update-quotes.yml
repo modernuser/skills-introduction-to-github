@@ -19,7 +19,7 @@ on:
     - cron: "23 14,22 * * 6,0"
 
 permissions:
-  contents: write
+  contents: write   # writes to the `data` branch only, never to main
   issues: write
 
 concurrency:
@@ -31,6 +31,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3  # v6.0.0
+
+      # Generated data lives on the `data` branch so `main` stays code-only
+      # and can be fully protected. Restore persisted state first.
+      - name: Hydrate data from data branch
+        run: python3 scripts/data_branch.py hydrate
 
       - name: Fetch latest quotes
         run: python3 scripts/update_quotes.py
@@ -78,20 +83,11 @@ jobs:
               python3 scripts/notify_slack.py moves moves_body.md
           fi
 
-      - name: Commit if changed
+      - name: Publish data to data branch
         run: |
-          git add data/quotes.json
-          for f in data/news.json data/movers.json data/sp500_closes.json data/notified_moves.json data/portfolios.json data/rotation.json data/health.json data/extended.json data/sector_depth.json; do
-            if [ -f "$f" ]; then git add "$f"; fi
-          done
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update market quotes [skip ci]"
-          git push
+          python3 scripts/data_branch.py publish "Update market data"
 
       # M1 corrective action: a silent pipeline is the worst failure mode.
       # On any failed run, open an issue so the repo owner gets an email.

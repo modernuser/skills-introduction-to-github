@@ -91,7 +91,16 @@ Accepted risk, monitored via run history.
 Code-level defenses were verified in the earlier audit; this section
 records testing of the **repository's own GitHub configuration**.
 
-### H2 — `main` is not a protected branch (OWNER ACTION REQUIRED)
+### H2 — `main` protection (RESOLVED ARCHITECTURALLY, 2026-07-27)
+
+The original finding and its fix are kept below for history. The
+underlying *conflict* is now gone: generated data and reports moved to a
+dedicated `data` branch, so no automation writes to `main`. `main` can
+carry require-a-PR + required `test` check + block-force-push +
+restrict-deletions with an **empty bypass list**, which is the
+configuration that actually binds. See docs/architecture.md.
+
+#### Original finding
 
 `list_branches` reports `protected: false` for `main`. Consequences:
 anyone with write access — or a compromised token, action, or agent —

@@ -45,13 +45,23 @@ jobs:
           existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
             --search '"Sector depth failed" in:title' \
             --json number --jq '.[0].number')
-          if [ -z "$existing" ]; then
-            gh issue create --repo "$GITHUB_REPOSITORY" \
-              --title "Sector depth failed ($(date -u +%Y-%m-%d))" \
-              --body "The daily volatility ranking failed. Run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
-              || echo "issue creation failed; see run log"
-          else
-            echo "open failure issue #$existing exists; not creating another"
+          RUN_URL="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          if [ -n "$existing" ]; then
+            # A recurring failure must keep announcing itself. Staying
+            # silent because an issue already existed hid a six-day
+            # outage in July 2026. Comment (which emails) at most every
+            # 12h so the thread shows the streak without spamming.
+            last=$(gh issue view "$existing" --repo "$GITHUB_REPOSITORY" \
+              --json comments --jq '[.comments[].createdAt] | last // empty')
+            cutoff=$(date -u -d '12 hours ago' +%Y-%m-%dT%H:%M:%SZ)
+            if [ -z "$last" ] || [ "$last" \< "$cutoff" ]; then
+              gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" \
+                --body "Still failing as of $(date -u +%Y-%m-%dT%H:%MZ). Run: $RUN_URL" \
+                || echo "comment failed; see run log"
+            else
+              echo "issue #$existing commented within 12h; not repeating"
+            fi
+            exit 0
           fi
           FAILURE_CONTEXT="Sector depth ranking failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
             SLACK_WEBHOOK_URL="${{ secrets.SLACK_WEBHOOK_URL }}" \

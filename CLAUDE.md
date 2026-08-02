@@ -40,22 +40,38 @@ framed. Offer data-display alternatives instead.
    evaporating in chat. Check it before proposing work. After merging a
    user-visible feature, update BOTH the ROADMAP Shipped section AND the
    "Latest Updates" list in index.html (this was missed twice).
-4. **Verify after shipping.** Never assume a deploy or scheduled workflow
+4. **Verify the PUBLISHED artefact, not the working tree.** Aug 2026:
+   the pipeline generated correct data every run and validation printed
+   "OK" every run, while nothing reached the site for six days — the
+   publish push was failing and every check looked at the runner's
+   scratch space. A check that cannot observe the user-visible outcome
+   is not a check. `daily_ops.check_published_freshness` now fetches the
+   `data` branch and compares it against the market calendar.
+5. **A recurring failure must keep shouting.** The dedupe on failure
+   issues ("one is already open, stay quiet") turned that outage into
+   silence. Alerts now comment on the open issue every ~12h. Silence
+   must require *no failures*, never merely a *previous* failure.
+6. **Test the transport that production uses.** The publish bug was a
+   missing credential in a linked git worktree; the tests passed because
+   they used `file://` remotes needing no auth. When a code path depends
+   on credentials, network, or a service, at least one test must fail if
+   that dependency is absent.
+7. **Verify after shipping.** Never assume a deploy or scheduled workflow
    worked — check the run conclusion and the artifact it should produce.
    Session-scheduled self-checks die with the session (happened twice):
    the reliable verifier is IN the repo — workflows validate their own
    output and open an issue when it's wrong.
-5. **Read the data before coding against it.** A schema assumed from
+8. **Read the data before coding against it.** A schema assumed from
    memory cost a test cycle (pct_1d vs the actual d1). Open the real file
    first.
-6. **Reset the branch after every squash-merge** (`git fetch origin main
+9. **Reset the branch after every squash-merge** (`git fetch origin main
    && git checkout -B <branch> origin/main`). Merging main back into a
    long-lived branch after squash-merges breeds phantom conflicts.
-7. **Definition of done includes CI green.** The committed pytest suite
+10. **Definition of done includes CI green.** The committed pytest suite
    (`tests/python/`, offline, network monkeypatched) plus YAML/JSON
    validation runs on every PR and push to main via ci.yml. Run locally
    with `python3 -m pytest tests/python -q` before pushing.
-8. **Measure claims, don't repeat them.** The site said "every 20 min"
+11. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

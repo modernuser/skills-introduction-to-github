@@ -61,8 +61,14 @@ def seed(prices):
     with open("watchlist.json") as f:
         watch = json.load(f)["watchlist"]
     owner_syms = [s for s, name in watch.items() if "benchmark" not in name.lower()]
+    if not os.path.exists("data/sp500_closes.json"):
+        print("cannot seed yet (no data/sp500_closes.json — the S&P closes "
+              "state has not been built)")
+        return None
+    with open("data/sp500_closes.json") as f:
+        universe_symbols = json.load(f)
     sp_universe = sorted(
-        s for s in json.load(open("data/sp500_closes.json"))
+        s for s in universe_symbols
         if s in constituent_names() and prices.get(s, {}).get("close", 0) > 0
     )
     missing = [s for s in owner_syms + ["SPY"] if prices.get(s, {}).get("close", 0) <= 0]

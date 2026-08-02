@@ -84,3 +84,37 @@ def test_secret_findings_fail_the_run(workdir, monkeypatch):
     assert do.main() == 1
     body = next(Path("reports/daily").glob("*.md")).read_text()
     assert "secret-pattern scan: 1 hit" in body
+
+
+def test_published_freshness_flags_a_stale_site(workdir, monkeypatch):
+    """The check that would have caught the six-day July 2026 outage:
+    the runner's data was always fresh, but the SITE was not."""
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    monkeypatch.setattr(do, "check_published_freshness", lambda branch="data": {
+        "checked": True, "ok": False, "published_newest": "2026-07-24",
+        "expected_through": "2026-07-31", "sessions_behind": 7})
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+
+    assert do.main() == 1
+    body = next(Path("reports/daily").glob("*.md")).read_text()
+    assert "PUBLISHED DATA IS STALE" in body
+    sc = json.loads(Path("reports/quality-scorecard.json").read_text())
+    assert sc["published_freshness"]["sessions_behind"] == 7
+
+
+def test_published_freshness_silent_when_current(workdir, monkeypatch):
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    monkeypatch.setattr(do, "check_published_freshness", lambda branch="data": {
+        "checked": True, "ok": True, "published_newest": "2026-07-31",
+        "expected_through": "2026-07-31", "sessions_behind": 0})
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+
+    assert do.main() == 0
+    body = next(Path("reports/daily").glob("*.md")).read_text()
+    assert "No justified code change identified today." in body

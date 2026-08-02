@@ -95,6 +95,39 @@ def scan_for_secrets(root=".") -> list:
     return hits
 
 
+def check_published_freshness(branch="data") -> dict:
+    """Is what the SITE serves current — not what this runner just built?
+
+    July/Aug 2026: the pipeline generated fresh data every run, validation
+    reported OK every run, and yet nothing reached the site for six days
+    because the publish step was failing. Every check looked at the
+    runner's scratch space. This one looks at the published artefact.
+    """
+    import subprocess
+    fetch = subprocess.run(["git", "fetch", "--depth=1", "origin", branch],
+                           capture_output=True, text=True)
+    if fetch.returncode != 0:
+        return {"checked": False, "reason": "could not fetch data branch"}
+    show = subprocess.run(["git", "show", f"FETCH_HEAD:data/quotes.json"],
+                          capture_output=True, text=True)
+    if show.returncode != 0:
+        return {"checked": True, "ok": False,
+                "reason": "no data/quotes.json on the data branch"}
+    try:
+        published = json.loads(show.stdout)
+        newest = max(q["date"] for q in published["quotes"])
+    except (json.JSONDecodeError, KeyError, ValueError) as exc:
+        return {"checked": True, "ok": False,
+                "reason": f"published quotes unreadable: {exc}"}
+
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from market_session import last_session_close
+    expected = last_session_close(datetime.now(timezone.utc)).date()
+    behind = (expected - datetime.strptime(newest, "%Y-%m-%d").date()).days
+    return {"checked": True, "ok": behind <= 1, "published_newest": newest,
+            "expected_through": expected.isoformat(), "sessions_behind": behind}
+
+
 def load_health() -> dict:
     if os.path.exists("data/health.json"):
         with open("data/health.json") as f:
@@ -121,6 +154,7 @@ def main() -> int:
     tests = run_tests()
     broken = scan_internal_links()
     secrets = scan_for_secrets()
+    published = check_published_freshness()
     health = load_health()
     workflows = load_workflow_stats(runs_path)
 
@@ -135,6 +169,12 @@ def main() -> int:
         findings.append(f"broken internal links: {broken}")
     if stale:
         findings.append(f"stale data sections: {stale}")
+    if published.get("checked") and not published.get("ok", True):
+        findings.append(
+            "PUBLISHED DATA IS STALE — the site is serving "
+            f"{published.get('published_newest', 'unknown')} but the last "
+            f"session closed {published.get('expected_through', '?')} "
+            f"({published.get('reason', '')})".strip())
 
     scorecard = {
         "generated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -143,6 +183,7 @@ def main() -> int:
         "secret_scan": {"method": "in-repo pattern scan (GHAS unavailable)",
                         "hits": secrets},
         "data_health": {"overall": health.get("overall"), "stale_sections": stale},
+        "published_freshness": published,
         "workflow_reliability": workflows,
         "open_findings": AUDIT_OPEN,
         "last_successful_maintenance": date,
@@ -162,6 +203,7 @@ Mode: deterministic scripts only — no AI model invoked (tier: none, cost: $0).
 - pytest suite: {tests['summary'] or 'no output'}
 - internal link scan: {len(broken)} broken
 - secret-pattern scan: {len(secrets)} hit(s) [in-repo control; GHAS unavailable]
+- published data (what the site serves): {published}
 - data health: overall **{health.get('overall')}**{', stale: ' + ', '.join(stale) if stale else ''}
 - workflow reliability: {reliability}
 - open audit findings: {AUDIT_OPEN['critical']} critical, {AUDIT_OPEN['high']} high

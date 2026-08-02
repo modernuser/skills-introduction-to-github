@@ -128,3 +128,46 @@ def test_worktree_is_cleaned_up(repo):
     write_data(repo, quotes={"updated": "t0"})
     db.publish()
     assert git("worktree", "list", cwd=repo).stdout.count("\n") == 1
+
+
+def test_publish_surfaces_auth_failure(repo, tmp_path):
+    """The bug that broke publication for six days in July 2026.
+
+    The real failure was a push with no usable credentials. Local file://
+    remotes never exercise auth, so this points the remote at an https URL
+    with a credential helper that refuses — publish must RAISE, not
+    silently 'succeed'."""
+    db = load("data_branch")
+    write_data(repo, quotes={"updated": "t0"})
+    git("remote", "set-url", "origin",
+        "https://127.0.0.1:1/modernuser/nonexistent.git", cwd=repo)
+    git("config", "credential.helper", "", cwd=repo)
+
+    with pytest.raises(RuntimeError) as exc:
+        db.publish("should not reach the remote")
+    assert "git push" in str(exc.value)
+
+
+def test_publish_carries_forward_untouched_files(repo):
+    """A run that regenerates only some files must not delete the rest."""
+    db = load("data_branch")
+    write_data(repo, quotes={"updated": "t0"}, portfolios={"seeded": True})
+    db.publish()
+
+    # Next run regenerates quotes only; portfolios.json is absent locally.
+    (repo / "data" / "portfolios.json").unlink()
+    write_data(repo, quotes={"updated": "t1"})
+    db.publish()
+
+    files = data_branch_files(repo)
+    assert "data/portfolios.json" in files, "state file was dropped"
+    latest = git("show", "FETCH_HEAD:data/quotes.json", cwd=repo).stdout
+    assert json.loads(latest)["updated"] == "t1"
+
+
+def test_no_worktrees_are_created(repo):
+    """Publication must happen in the main checkout, where credentials live."""
+    db = load("data_branch")
+    write_data(repo, quotes={"updated": "t0"})
+    db.publish()
+    assert git("worktree", "list", cwd=repo).stdout.count("\n") == 1

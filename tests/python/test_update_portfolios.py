@@ -57,3 +57,16 @@ def test_alpha_math_and_history(workdir):
     assert up.main() == 0
     d = json.loads(Path("data/portfolios.json").read_text())
     assert len(d["history"]) == 2
+
+
+def test_seed_degrades_when_closes_state_missing(workdir, capsys):
+    """Aug 2026: this raised FileNotFoundError and failed the whole step
+    whenever the S&P closes state was absent."""
+    up = load("update_portfolios")
+    payload = fabricated_quotes(date="2026-08-01")
+    write_quotes(payload)
+    assert not Path("data/sp500_closes.json").exists()
+
+    assert up.main() == 0
+    assert "cannot seed yet" in capsys.readouterr().out
+    assert not Path("data/portfolios.json").exists()

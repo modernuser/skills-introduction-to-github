@@ -69,8 +69,9 @@ def closes_factory(vol_by_symbol, missing=()):
 
 def test_ranking_keeps_top_ten_in_descending_order():
     amps = {s: 0.001 * (i + 1) for i, s in enumerate(CONSTITUENTS)}
-    by_sector, errors, measured = sd.build(CONSTITUENTS, closes_factory(amps))
+    by_sector, errors, measured, closes = sd.build(CONSTITUENTS, closes_factory(amps))
     assert measured == 25 and errors == []
+    assert len(closes) == 25 and closes["S0"]["close"] > 0
     top = sd.top_per_sector(by_sector)
 
     assert set(top) == {"Energy", "Utilities"}
@@ -85,14 +86,14 @@ def test_ranking_keeps_top_ten_in_descending_order():
 def test_sector_smaller_than_ten_is_kept_whole():
     small = {f"S{i}": {"name": f"N{i}", "sector": "Energy"} for i in range(4)}
     amps = {s: 0.01 for s in small}
-    by_sector, _, _ = sd.build(small, closes_factory(amps))
+    by_sector, _, _, _ = sd.build(small, closes_factory(amps))
     top = sd.top_per_sector(by_sector)
     assert len(top["Energy"]) == 4
 
 
 def test_per_symbol_failures_are_collected_not_fatal():
     amps = {s: 0.01 for s in CONSTITUENTS}
-    by_sector, errors, measured = sd.build(
+    by_sector, errors, measured, _ = sd.build(
         CONSTITUENTS, closes_factory(amps, missing={"S1", "S2"}))
     assert measured == 23
     assert len(errors) == 2 and all("network down" in e for e in errors)
@@ -133,3 +134,41 @@ def test_main_writes_expected_contract(workdir, monkeypatch):
     assert row["vol_30d"] > 0 and row["last_close"] > 0
     assert set(row) == {"symbol", "name", "vol_30d", "sessions",
                         "last_close", "as_of"}
+
+
+def test_writes_sp500_closes_state(workdir, monkeypatch):
+    """The endpoint update_movers used began 404ing; this job's per-symbol
+    fetches are the surviving source of the closes state that the dartboard,
+    movers and rotation all depend on."""
+    module = load("sector_depth")
+    constituents = {f"S{i}": {"name": f"N{i}", "sector": "Energy"}
+                    for i in range(120)}
+    monkeypatch.setattr(module, "load_constituents", lambda: constituents)
+    monkeypatch.setattr(module, "fetch_closes",
+                        closes_factory({s: 0.01 for s in constituents}))
+    monkeypatch.setattr(module.time, "sleep", lambda s: None)
+    assert module.main() == 0
+
+    closes = json.loads(Path("data/sp500_closes.json").read_text())
+    assert len(closes) == 120
+    assert set(closes["S0"]) == {"date", "close"} and closes["S0"]["close"] > 0
+
+
+def test_closes_state_merges_rather_than_replaces(workdir, monkeypatch):
+    """A symbol this run could not fetch keeps its previous close instead
+    of disappearing from downstream features."""
+    module = load("sector_depth")
+    Path("data").mkdir(exist_ok=True)
+    Path("data/sp500_closes.json").write_text(json.dumps(
+        {"OLD": {"date": "2026-07-01", "close": 42.0}}))
+    constituents = {f"S{i}": {"name": f"N{i}", "sector": "Energy"}
+                    for i in range(120)}
+    monkeypatch.setattr(module, "load_constituents", lambda: constituents)
+    monkeypatch.setattr(module, "fetch_closes",
+                        closes_factory({s: 0.01 for s in constituents}))
+    monkeypatch.setattr(module.time, "sleep", lambda s: None)
+    assert module.main() == 0
+
+    closes = json.loads(Path("data/sp500_closes.json").read_text())
+    assert closes["OLD"]["close"] == 42.0, "prior symbol was dropped"
+    assert len(closes) == 121

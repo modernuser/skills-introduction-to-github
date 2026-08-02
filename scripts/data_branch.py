@@ -9,13 +9,19 @@ writes to `main`, so `main` can be fully protected.
 
 Two operations, both safe to run from a normal `main` checkout:
 
-  hydrate  copy data/*.json from the data branch into the working tree,
-           so scripts that depend on persisted state (notified_moves,
-           sp500_closes, portfolios, rotation, news) see it
-  publish  commit the current data/*.json onto the data branch and push
+  hydrate  restore generated files from the data branch into the working
+           tree, so scripts that depend on persisted state
+           (notified_moves, sp500_closes, portfolios, rotation, news)
+           see it
+  publish  commit the current generated files onto the data branch
 
-publish uses a detached worktree, so the main working tree is never
-switched or disturbed mid-run.
+publish builds the commit with git plumbing **inside the main checkout**
+rather than in a linked worktree. That is not a style choice: this
+repository's credentials are installed by actions/checkout behind an
+`includeIf.gitdir:` rule keyed to the main worktree's git directory. A
+linked worktree has a different git dir, the rule never matches, and the
+push fails with "could not read Username for https://github.com" — which
+silently broke publication for six days in July 2026.
 """
 
 import glob
@@ -36,8 +42,9 @@ DEFAULT_DIRS = ("data", "reports")
 INPUT_FILES = {"sp500_constituents.csv"}
 
 
-def run(args, cwd=None, check=True, quiet=False):
-    result = subprocess.run(args, cwd=cwd, capture_output=True, text=True)
+def run(args, check=True, quiet=False, env=None):
+    result = subprocess.run(args, capture_output=True, text=True,
+                            env={**os.environ, **(env or {})})
     if check and result.returncode != 0:
         raise RuntimeError(
             f"{' '.join(args)} failed ({result.returncode}): "
@@ -62,7 +69,6 @@ def hydrate(dirs=DEFAULT_DIRS, remote=REMOTE, branch=BRANCH) -> int:
     total = 0
     for directory in dirs:
         os.makedirs(directory, exist_ok=True)
-        # FETCH_HEAD is the tip we just fetched; restore only this dir.
         restored = run(["git", "checkout", "FETCH_HEAD", "--", directory],
                        check=False, quiet=True)
         if restored.returncode != 0:
@@ -94,52 +100,46 @@ def publish(message=None, dirs=DEFAULT_DIRS, remote=REMOTE, branch=BRANCH) -> in
         print("no generated data files to publish")
         return 0
 
-    staged = tempfile.mkdtemp(prefix="databranch-")
-    worktree = os.path.join(staged, "wt")
-    try:
-        for path in outputs:                      # snapshot before switching
-            dest = os.path.join(staged, path)
-            os.makedirs(os.path.dirname(dest), exist_ok=True)
-            shutil.copy(path, dest)
+    parent = None
+    if branch_exists(remote, branch):
+        run(["git", "fetch", "--depth=1", remote, branch], quiet=True)
+        parent = run(["git", "rev-parse", "FETCH_HEAD"], quiet=True).stdout.strip()
 
-        if branch_exists(remote, branch):
-            run(["git", "fetch", "--depth=1", remote, branch], quiet=True)
-            run(["git", "worktree", "add", "--detach", worktree, "FETCH_HEAD"],
-                quiet=True)
-        else:
-            run(["git", "worktree", "add", "--detach", worktree], quiet=True)
-            run(["git", "checkout", "--orphan", branch], cwd=worktree, quiet=True)
-            run(["git", "rm", "-rq", "--cached", "."], cwd=worktree,
-                check=False, quiet=True)
-            for entry in os.listdir(worktree):
-                if entry != ".git":
-                    full = os.path.join(worktree, entry)
-                    shutil.rmtree(full) if os.path.isdir(full) else os.remove(full)
+    index = tempfile.mktemp(prefix="databranch-index-")
+    env = {"GIT_INDEX_FILE": index}
+    try:
+        # Start from the branch's existing tree so files this run did not
+        # regenerate are carried forward rather than dropped.
+        if parent:
+            run(["git", "read-tree", parent], env=env, quiet=True)
 
         for path in outputs:
-            dest = os.path.join(worktree, path)
-            os.makedirs(os.path.dirname(dest), exist_ok=True)
-            shutil.copy(os.path.join(staged, path), dest)
+            blob = run(["git", "hash-object", "-w", path],
+                       env=env, quiet=True).stdout.strip()
+            run(["git", "update-index", "--add", "--cacheinfo",
+                 f"100644,{blob},{path}"], env=env, quiet=True)
 
-        # -f: main's .gitignore is inherited by this branch and ignores
-        # generated files on purpose; here they are the payload.
-        run(["git", "add", "-Af", *[d for d in dirs if os.path.isdir(
-            os.path.join(worktree, d))]], cwd=worktree, quiet=True)
-        if run(["git", "diff", "--cached", "--quiet"], cwd=worktree,
-               check=False, quiet=True).returncode == 0:
-            print("data unchanged; nothing to publish")
-            return 0
+        tree = run(["git", "write-tree"], env=env, quiet=True).stdout.strip()
+        if parent:
+            parent_tree = run(["git", "rev-parse", f"{parent}^{{tree}}"],
+                              quiet=True).stdout.strip()
+            if tree == parent_tree:
+                print("data unchanged; nothing to publish")
+                return 0
 
         stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%MZ")
-        run(["git", "commit", "-q", "-m", message or f"Update data {stamp}"],
-            cwd=worktree)
-        run(["git", "push", remote, f"HEAD:refs/heads/{branch}"], cwd=worktree)
-        print(f"published {len(outputs)} file(s) to '{branch}'")
+        commit_args = ["git", "commit-tree", tree, "-m",
+                       message or f"Update data {stamp}"]
+        if parent:
+            commit_args[3:3] = ["-p", parent]
+        commit = run(commit_args, env=env, quiet=True).stdout.strip()
+
+        run(["git", "push", remote, f"{commit}:refs/heads/{branch}"])
+        print(f"published {len(outputs)} file(s) to '{branch}' as {commit[:7]}")
         return 0
     finally:
-        run(["git", "worktree", "remove", "--force", worktree],
-            check=False, quiet=True)
-        shutil.rmtree(staged, ignore_errors=True)
+        if os.path.exists(index):
+            os.remove(index)
 
 
 def main() -> int:

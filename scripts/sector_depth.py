@@ -11,6 +11,7 @@ movement comes free from data/sp500_closes.json, which the all-session
 pipeline already refreshes for every constituent.
 """
 
+import json
 import os
 import statistics
 import sys
@@ -23,6 +24,10 @@ from update_movers import load_constituents
 from update_quotes import fetch_closes
 
 OUT_PATH = "data/sector_depth.json"
+# The bulk quote endpoint update_movers relies on began 404ing in Aug 2026.
+# This job already fetches every constituent's history through the endpoint
+# that still works, so it also emits the closes state those features need.
+CLOSES_PATH = "data/sp500_closes.json"
 WINDOW = 30          # daily returns in the volatility window
 PER_SECTOR = 10      # names kept per sector
 MIN_SESSIONS = 20    # too little history to characterise risk honestly
@@ -45,9 +50,13 @@ def realized_volatility(closes: list[float], window: int = WINDOW):
     return round(statistics.stdev(returns) * (TRADING_DAYS ** 0.5) * 100, 2), len(returns)
 
 
-def build(constituents: dict, closes_for) -> tuple[dict, list, int]:
-    """Group every constituent by sector with its volatility."""
-    by_sector, errors, measured = {}, [], 0
+def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict]:
+    """Group every constituent by sector with its volatility.
+
+    Also returns the latest close per symbol, so the same fetch feeds
+    data/sp500_closes.json without extra requests.
+    """
+    by_sector, errors, measured, closes = {}, [], 0, {}
     for symbol, meta in constituents.items():
         try:
             history = closes_for(symbol)
@@ -57,6 +66,7 @@ def build(constituents: dict, closes_for) -> tuple[dict, list, int]:
         if not history:
             errors.append(f"{symbol}: no data")
             continue
+        closes[symbol] = {"date": history[-1][0], "close": history[-1][1]}
         vol, sessions = realized_volatility([c for _, c in history])
         if vol is None:
             continue
@@ -69,7 +79,7 @@ def build(constituents: dict, closes_for) -> tuple[dict, list, int]:
             "last_close": history[-1][1],
             "as_of": history[-1][0],
         })
-    return by_sector, errors, measured
+    return by_sector, errors, measured, closes
 
 
 def top_per_sector(by_sector: dict, per_sector: int = PER_SECTOR) -> dict:
@@ -86,13 +96,25 @@ def main() -> int:
         time.sleep(PACE_SECONDS)
         return fetch_closes(symbol)
 
-    by_sector, errors, measured = build(constituents, paced)
+    by_sector, errors, measured, closes = build(constituents, paced)
     if measured < MIN_COVERAGE:
         print(f"only {measured} symbols measurable; leaving previous file",
               file=sys.stderr)
         for err in errors[:5]:
             print("  warn:", err, file=sys.stderr)
         return 1
+
+    # Merge rather than replace: symbols this run could not fetch keep
+    # their previous close instead of vanishing from downstream features.
+    existing = {}
+    if os.path.exists(CLOSES_PATH):
+        with open(CLOSES_PATH) as f:
+            existing = json.load(f)
+    for symbol, cur in closes.items():
+        if symbol not in existing or existing[symbol]["date"] <= cur["date"]:
+            existing[symbol] = cur
+    write_json(CLOSES_PATH, existing, separators=(",", ":"), sort_keys=True)
+    print(f"Wrote {CLOSES_PATH}: {len(existing)} symbols")
 
     sectors = top_per_sector(by_sector)
     write_json(OUT_PATH, {

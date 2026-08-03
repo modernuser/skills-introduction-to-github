@@ -1,0 +1,202 @@
+{
+ "start_date": "2026-08-03",
+ "start_cash": 10000.0,
+ "rng_seed": 20260803,
+ "note": "Paper experiment. Owner picks = watchlist ex-benchmarks; dartboard = seeded random draw from S&P 500 constituents; alpha = realized return minus SPY's. Not advice.",
+ "portfolios": {
+  "owner": {
+   "label": "Owner's picks",
+   "holdings": [
+    {
+     "symbol": "NVDA",
+     "name": "NVIDIA",
+     "shares": 4.399395,
+     "start_close": 206.64,
+     "last_close": 206.64
+    },
+    {
+     "symbol": "AMD",
+     "name": "Advanced Micro Devices",
+     "shares": 1.875807,
+     "start_close": 484.64,
+     "last_close": 484.64
+    },
+    {
+     "symbol": "AVGO",
+     "name": "Broadcom",
+     "shares": 2.31775,
+     "start_close": 392.23,
+     "last_close": 392.23
+    },
+    {
+     "symbol": "TSM",
+     "name": "TSMC",
+     "shares": 2.238534,
+     "start_close": 406.11,
+     "last_close": 406.11
+    },
+    {
+     "symbol": "INTC",
+     "name": "Intel",
+     "shares": 9.99001,
+     "start_close": 91.0,
+     "last_close": 91.0
+    },
+    {
+     "symbol": "MU",
+     "name": "Micron Technology",
+     "shares": 1.09595,
+     "start_close": 829.5,
+     "last_close": 829.5
+    },
+    {
+     "symbol": "SNDK",
+     "name": "SanDisk",
+     "shares": 0.705799,
+     "start_close": 1288.03,
+     "last_close": 1288.03
+    },
+    {
+     "symbol": "WDC",
+     "name": "Western Digital",
+     "shares": 1.72431,
+     "start_close": 527.22,
+     "last_close": 527.22
+    },
+    {
+     "symbol": "STX",
+     "name": "Seagate Technology",
+     "shares": 1.093893,
+     "start_close": 831.06,
+     "last_close": 831.06
+    },
+    {
+     "symbol": "SOXX",
+     "name": "iShares Semiconductor ETF",
+     "shares": 1.790677,
+     "start_close": 507.68,
+     "last_close": 507.68
+    },
+    {
+     "symbol": "SOXL",
+     "name": "Direxion Semi Bull 3X",
+     "shares": 7.789315,
+     "start_close": 116.71,
+     "last_close": 116.71
+    }
+   ],
+   "value": 10000.0,
+   "return_pct": -0.0,
+   "alpha_pp": 0.0
+  },
+  "dartboard": {
+   "label": "Dartboard (random)",
+   "holdings": [
+    {
+     "symbol": "TSCO",
+     "name": "Tractor Supply",
+     "shares": 28.311769,
+     "start_close": 32.11,
+     "last_close": 32.11
+    },
+    {
+     "symbol": "CAH",
+     "name": "Cardinal Health",
+     "shares": 3.85862,
+     "start_close": 235.6,
+     "last_close": 235.6
+    },
+    {
+     "symbol": "CVX",
+     "name": "Chevron Corporation",
+     "shares": 4.705927,
+     "start_close": 193.18,
+     "last_close": 193.18
+    },
+    {
+     "symbol": "KO",
+     "name": "Coca-Cola Company (The)",
+     "shares": 10.466163,
+     "start_close": 86.86,
+     "last_close": 86.86
+    },
+    {
+     "symbol": "MTD",
+     "name": "Mettler Toledo",
+     "shares": 0.629129,
+     "start_close": 1445.0,
+     "last_close": 1445.0
+    },
+    {
+     "symbol": "FDXF",
+     "name": "FedEx Freight",
+     "shares": 6.539281,
+     "start_close": 139.02,
+     "last_close": 139.02
+    },
+    {
+     "symbol": "ANET",
+     "name": "Arista Networks",
+     "shares": 4.916928,
+     "start_close": 184.89,
+     "last_close": 184.89
+    },
+    {
+     "symbol": "SPG",
+     "name": "Simon Property Group",
+     "shares": 3.967058,
+     "start_close": 229.16,
+     "last_close": 229.16
+    },
+    {
+     "symbol": "EFX",
+     "name": "Equifax",
+     "shares": 5.22136,
+     "start_close": 174.11,
+     "last_close": 174.11
+    },
+    {
+     "symbol": "RF",
+     "name": "Regions Financial Corporation",
+     "shares": 28.878364,
+     "start_close": 31.48,
+     "last_close": 31.48
+    },
+    {
+     "symbol": "NSC",
+     "name": "Norfolk Southern",
+     "shares": 2.700404,
+     "start_close": 336.65,
+     "last_close": 336.65
+    }
+   ],
+   "value": 10000.0,
+   "return_pct": 0.0,
+   "alpha_pp": 0.0
+  },
+  "spy": {
+   "label": "Just buy SPY",
+   "holdings": [
+    {
+     "symbol": "SPY",
+     "name": "SPY",
+     "shares": 13.198358,
+     "start_close": 757.67,
+     "last_close": 757.67
+    }
+   ],
+   "value": 10000.0,
+   "return_pct": -0.0,
+   "alpha_pp": 0.0
+  }
+ },
+ "history": [
+  {
+   "date": "2026-08-03",
+   "owner": -0.0,
+   "dartboard": 0.0,
+   "spy": -0.0
+  }
+ ],
+ "asof": "2026-08-03"
+}

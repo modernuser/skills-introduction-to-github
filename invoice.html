@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parker PC Pros — Invoice</title>
+  <style>
+    /* ── Base ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    /* ── Page wrapper ─────────────────────────────────── */
+    .page {
+      max-width: 820px;
+      margin: 0 auto;
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    /* ── Header ───────────────────────────────────────── */
+    .header {
+      background: linear-gradient(135deg, #0d1117 0%, #1a2332 100%);
+      border-bottom: 2px solid #2ea043;
+      padding: 32px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 24px;
+    }
+
+    .logo-area {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .logo-icon {
+      width: 48px;
+      height: 48px;
+      background: #2ea043;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .logo-icon svg {
+      width: 28px;
+      height: 28px;
+      fill: #0d1117;
+    }
+
+    .company-name {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: #ffffff;
+      text-transform: uppercase;
+    }
+
+    .company-tagline {
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      color: #2ea043;
+      text-transform: uppercase;
+      margin-top: 2px;
+    }
+
+    .invoice-title-area {
+      text-align: right;
+    }
+
+    .invoice-label {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      color: #ffffff;
+      text-transform: uppercase;
+    }
+
+    .invoice-number {
+      font-size: 14px;
+      color: #8b949e;
+      margin-top: 4px;
+    }
+
+    .invoice-number span {
+      color: #2ea043;
+      font-weight: 600;
+    }
+
+    /* ── Meta row (dates + status) ────────────────────── */
+    .meta-row {
+      background: #0d1117;
+      padding: 20px 40px;
+      display: flex;
+      gap: 40px;
+      align-items: center;
+      border-bottom: 1px solid #21262d;
+      flex-wrap: wrap;
+    }
+
+    .meta-item label {
+      display: block;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #8b949e;
+      margin-bottom: 4px;
+    }
+
+    .meta-item .value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #e6edf3;
+    }
+
+    .status-badge {
+      margin-left: auto;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .status-badge.unpaid {
+      background: rgba(46, 160, 67, 0.15);
+      border: 1px solid #2ea043;
+      color: #2ea043;
+    }
+
+    .status-badge.paid {
+      background: rgba(46, 160, 67, 0.3);
+      border: 1px solid #3fb950;
+      color: #3fb950;
+    }
+
+    .status-badge.overdue {
+      background: rgba(248, 81, 73, 0.15);
+      border: 1px solid #f85149;
+      color: #f85149;
+    }
+
+    /* ── Billing section ──────────────────────────────── */
+    .billing-section {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-bottom: 1px solid #21262d;
+    }
+
+    .billing-block {
+      padding: 28px 40px;
+    }
+
+    .billing-block:first-child {
+      border-right: 1px solid #21262d;
+    }
+
+    .billing-block h3 {
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #2ea043;
+      margin-bottom: 12px;
+      font-weight: 600;
+    }
+
+    .billing-block .client-name {
+      font-size: 16px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 4px;
+    }
+
+    .billing-block p {
+      color: #8b949e;
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .billing-block .fill-line {
+      display: block;
+      border-bottom: 1px dashed #30363d;
+      min-width: 220px;
+      height: 22px;
+      margin-bottom: 4px;
+    }
+
+    /* ── Line items table ─────────────────────────────── */
+    .items-section {
+      padding: 0 40px 32px;
+    }
+
+    .items-section h3 {
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #2ea043;
+      margin: 28px 0 16px;
+      font-weight: 600;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead tr {
+      background: #0d1117;
+    }
+
+    thead th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #8b949e;
+      font-weight: 600;
+      border-bottom: 1px solid #21262d;
+    }
+
+    thead th:not(:first-child) {
+      text-align: right;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid #21262d;
+      transition: background 0.15s;
+    }
+
+    tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background: rgba(46, 160, 67, 0.04);
+    }
+
+    tbody td {
+      padding: 14px;
+      vertical-align: top;
+    }
+
+    tbody td:not(:first-child) {
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    .service-name {
+      font-weight: 600;
+      color: #e6edf3;
+    }
+
+    .service-desc {
+      font-size: 12px;
+      color: #8b949e;
+      margin-top: 2px;
+    }
+
+    .editable {
+      color: #8b949e;
+      font-style: italic;
+    }
+
+    /* ── Empty line rows for manual entry ─────────────── */
+    .empty-row td {
+      padding: 0;
+      height: 0;
+    }
+
+    .fill-row {
+      background: rgba(22, 27, 34, 0.6);
+    }
+
+    .fill-row td {
+      padding: 10px 14px;
+      height: 44px;
+    }
+
+    /* ── Totals block ─────────────────────────────────── */
+    .totals-section {
+      padding: 0 40px 32px;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .totals-table {
+      width: 320px;
+      border: 1px solid #21262d;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .totals-table .totals-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 16px;
+      border-bottom: 1px solid #21262d;
+      font-size: 13px;
+      color: #8b949e;
+    }
+
+    .totals-table .totals-row:last-child {
+      border-bottom: none;
+    }
+
+    .totals-table .totals-row .label { }
+
+    .totals-table .totals-row .amount {
+      font-weight: 600;
+      color: #e6edf3;
+    }
+
+    .totals-table .totals-row.discount .amount { color: #2ea043; }
+
+    .totals-table .total-final {
+      background: linear-gradient(135deg, #1a2f1e, #162115);
+      border-top: 2px solid #2ea043 !important;
+      padding: 14px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .totals-table .total-final .label {
+      font-size: 13px;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .totals-table .total-final .amount {
+      font-size: 22px;
+      font-weight: 700;
+      color: #2ea043;
+    }
+
+    /* ── Notes ────────────────────────────────────────── */
+    .notes-section {
+      padding: 0 40px 32px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .notes-block {
+      background: #0d1117;
+      border: 1px solid #21262d;
+      border-radius: 8px;
+      padding: 20px;
+    }
+
+    .notes-block h4 {
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #2ea043;
+      margin-bottom: 10px;
+      font-weight: 600;
+    }
+
+    .notes-block p {
+      font-size: 12px;
+      color: #8b949e;
+      line-height: 1.7;
+    }
+
+    .notes-block .fill-area {
+      min-height: 56px;
+      border: 1px dashed #30363d;
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 12px;
+      color: #8b949e;
+    }
+
+    /* ── Footer ───────────────────────────────────────── */
+    .footer {
+      background: #0d1117;
+      border-top: 1px solid #21262d;
+      padding: 20px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .footer-left {
+      font-size: 12px;
+      color: #8b949e;
+      line-height: 1.7;
+    }
+
+    .footer-left strong {
+      color: #e6edf3;
+    }
+
+    .footer-right {
+      font-size: 11px;
+      color: #484f58;
+      text-align: right;
+    }
+
+    .dot {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background: #2ea043;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    /* ── Print styles ─────────────────────────────────── */
+    @media print {
+      body { background: white; padding: 0; }
+      .page {
+        max-width: 100%;
+        border: none;
+        border-radius: 0;
+        background: white;
+      }
+      body, .page, .header, .meta-row, .billing-block,
+      .notes-block, .footer {
+        background: white !important;
+        color: #111 !important;
+      }
+      .header {
+        border-bottom: 3px solid #2ea043;
+      }
+      .company-name, .invoice-label { color: #111 !important; }
+      .company-tagline, .billing-block h3, .items-section h3,
+      .notes-block h4 { color: #2ea043 !important; }
+      .service-name { color: #111 !important; }
+      .meta-row, .footer { background: #f6f8fa !important; }
+      .totals-table { border-color: #ccc !important; }
+      .totals-table .total-final { background: #f0faf2 !important; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <!-- ── HEADER ─────────────────────────────────────── -->
+    <header class="header">
+      <div class="logo-area">
+        <div class="logo-icon">
+          <!-- Circuit / chip icon -->
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <rect x="7" y="7" width="10" height="10" rx="1"/>
+            <line x1="9" y1="7" x2="9" y2="4" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="12" y1="7" x2="12" y2="4" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="15" y1="7" x2="15" y2="4" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="9" y1="17" x2="9" y2="20" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="12" y1="17" x2="12" y2="20" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="15" y1="17" x2="15" y2="20" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="7" y1="9" x2="4" y2="9" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="7" y1="12" x2="4" y2="12" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="7" y1="15" x2="4" y2="15" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="17" y1="9" x2="20" y2="9" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="17" y1="12" x2="20" y2="12" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+            <line x1="17" y1="15" x2="20" y2="15" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div>
+          <div class="company-name">Parker PC Pros</div>
+          <div class="company-tagline">Fairhope &middot; Mobile Computer Repair</div>
+        </div>
+      </div>
+
+      <div class="invoice-title-area">
+        <div class="invoice-label">Invoice</div>
+        <div class="invoice-number">
+          # <span>___________</span>
+          <!-- Example: #2026-001 -->
+        </div>
+      </div>
+    </header>
+
+    <!-- ── META ROW ───────────────────────────────────── -->
+    <div class="meta-row">
+      <div class="meta-item">
+        <label>Invoice Date</label>
+        <div class="value">_____ / _____ / _________</div>
+      </div>
+      <div class="meta-item">
+        <label>Service Date</label>
+        <div class="value">_____ / _____ / _________</div>
+      </div>
+      <div class="meta-item">
+        <label>Due Date</label>
+        <div class="value">Due upon receipt</div>
+      </div>
+      <div class="status-badge unpaid">Unpaid</div>
+    </div>
+
+    <!-- ── BILLING ─────────────────────────────────────── -->
+    <div class="billing-section">
+      <div class="billing-block">
+        <h3>Bill To</h3>
+        <div class="client-name">_________________________________</div>
+        <p>
+          _________________________________<br/>
+          _________________________________<br/>
+          _________________________________<br/>
+          <span style="color:#2ea043;">Phone:</span> _________________________<br/>
+          <span style="color:#2ea043;">Email:</span> _________________________
+        </p>
+      </div>
+
+      <div class="billing-block">
+        <h3>From</h3>
+        <div class="client-name" style="color:#2ea043;">Parker PC Pros</div>
+        <p>
+          17 Hoffren Dr<br/>
+          Fairhope, AL 36532<br/>
+          <span style="color:#2ea043;">Phone:</span> (251) ___-____<br/>
+          <span style="color:#2ea043;">Email:</span> hello@parkerpros.com<br/>
+          <br/>
+          <span style="font-size:11px;color:#484f58;">AL LLC &middot; Entity ID 001-192-517</span>
+        </p>
+      </div>
+    </div>
+
+    <!-- ── LINE ITEMS ──────────────────────────────────── -->
+    <div class="items-section">
+      <h3>Services Rendered</h3>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:46%;">Description</th>
+            <th style="width:14%;">Hrs / Qty</th>
+            <th style="width:16%;">Rate</th>
+            <th style="width:12%;">Discount</th>
+            <th style="width:12%;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+
+          <!-- ── Pre-filled example row — delete or edit as needed ── -->
+          <tr>
+            <td>
+              <div class="service-name">PC Repair &amp; Diagnostics</div>
+              <div class="service-desc editable">Describe the work performed here…</div>
+            </td>
+            <td>___</td>
+            <td>$79.00</td>
+            <td>—</td>
+            <td>$______</td>
+          </tr>
+
+          <!-- ── Blank rows for additional services ── -->
+          <tr class="fill-row">
+            <td>
+              <div class="service-name editable">_________________________________</div>
+              <div class="service-desc editable">_________________________________</div>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="fill-row">
+            <td>
+              <div class="service-name editable">_________________________________</div>
+              <div class="service-desc editable">_________________________________</div>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="fill-row">
+            <td>
+              <div class="service-name editable">_________________________________</div>
+              <div class="service-desc editable">_________________________________</div>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <!-- ── Parts / Materials row ── -->
+          <tr>
+            <td>
+              <div class="service-name">Parts &amp; Materials</div>
+              <div class="service-desc editable">List any parts supplied…</div>
+            </td>
+            <td>1</td>
+            <td>Cost</td>
+            <td>—</td>
+            <td>$______</td>
+          </tr>
+
+          <!-- ── Travel row ── -->
+          <tr>
+            <td>
+              <div class="service-name">On-Site Travel</div>
+              <div class="service-desc">30-min round trip included. Extra miles: ___</div>
+            </td>
+            <td>—</td>
+            <td>Included</td>
+            <td>—</td>
+            <td>$0.00</td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── TOTALS ──────────────────────────────────────── -->
+    <div class="totals-section">
+      <div class="totals-table">
+        <div class="totals-row">
+          <span class="label">Subtotal</span>
+          <span class="amount">$________</span>
+        </div>
+        <div class="totals-row discount">
+          <span class="label">Discount (June 20% off)</span>
+          <span class="amount">− $________</span>
+        </div>
+        <div class="totals-row">
+          <span class="label">Tax (AL Sales Tax, if applicable)</span>
+          <span class="amount">$________</span>
+        </div>
+        <div class="totals-row total-final">
+          <span class="label">Total Due</span>
+          <span class="amount">$________</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── NOTES ───────────────────────────────────────── -->
+    <div class="notes-section">
+      <div class="notes-block">
+        <h4>Payment Methods</h4>
+        <p>
+          <span class="dot"></span>Cash<br/>
+          <span class="dot"></span>Venmo / CashApp / Zelle<br/>
+          <span class="dot"></span>Credit / Debit Card<br/>
+          <span class="dot"></span>Check payable to <strong>Parker PC Pros</strong>
+        </p>
+      </div>
+
+      <div class="notes-block">
+        <h4>Notes &amp; Work Summary</h4>
+        <div class="fill-area">
+          &nbsp;<br/>&nbsp;<br/>&nbsp;
+          <!-- Fill in any warranty notes, follow-up steps, etc. -->
+        </div>
+      </div>
+    </div>
+
+    <!-- ── FOOTER ──────────────────────────────────────── -->
+    <footer class="footer">
+      <div class="footer-left">
+        <strong>Parker PC Pros</strong> &middot; Fairhope, AL 36532<br/>
+        Five-star mobile computer repair &mdash; we come to you.
+      </div>
+      <div class="footer-right">
+        Thank you for choosing Parker PC Pros!<br/>
+        Questions? Reach us at hello@parkerpros.com
+      </div>
+    </footer>
+
+  </div>
+</body>
+</html>

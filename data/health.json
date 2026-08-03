@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-03T22:29:01Z",
+ "generated": "2026-08-03T23:34:37Z",
  "market": {
   "session": "after",
   "label": "After hours",
-  "now_et": "2026-08-03 18:29 EDT",
+  "now_et": "2026-08-03 19:34 EDT",
   "next": "after-hours end",
   "next_at_et": "2026-08-03 20:00 EDT",
-  "minutes_to_next": 90,
+  "minutes_to_next": 25,
   "last_close_et": "2026-08-03 16:00 EDT",
   "max_expected_age_hours": 8
  },
@@ -46,8 +46,10 @@
    "records": 0
   },
   "sector_depth": {
-   "present": false,
-   "status": "missing"
+   "present": true,
+   "status": "ok",
+   "updated": "2026-08-03T23:34:37Z",
+   "records": 110
   }
  },
  "overall": "ok"

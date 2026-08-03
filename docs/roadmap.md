@@ -47,6 +47,13 @@ markers per docs/model-routing.md.
   set ANTHROPIC_API_KEY + DAILY_AI_MAINTENANCE_ENABLED=true (costs money).
 
 ## Completed
+- 2026-07-27 resume builder: `resume.html` — ATS lint, job-description
+  keyword coverage against a 38-group taxonomy, requirement-to-bullet
+  matching, three single-column templates, cover-letter drafting, and an
+  application log that measures the owner's real reply rate. Tool is
+  public; profile data stays in `localStorage` and exported files, with a
+  CI guard that fails the build if PII reaches the committed template
+  (docs/resume-builder.md).
 - 2026-06/07: landing page, Pages deploy, live tracker (13 tickers,
   sparklines, 52-wk range, ±3% flags, stale alarm), sector pulse (11
   ETFs), editable watchlist, headlines panel with corroboration-free

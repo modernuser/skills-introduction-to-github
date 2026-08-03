@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resume Builder — Wolf of Fairhope Avenue</title>
+  <meta name="description" content="An ATS-focused resume and cover letter builder. Paste a job description, measure keyword coverage, lint for parser failures, and export. Your data stays in your browser." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%90%BA%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ── Builder-specific styles ──────────────────────────────────────── */
+    .rb-header { padding: 3.5rem 1.5rem 1rem; text-align: center; }
+    .rb-header h1 {
+      font-family: var(--font-display);
+      font-size: clamp(1.8rem, 4.5vw, 3rem);
+      color: var(--color-accent);
+    }
+    .rb-meta { color: var(--color-muted); font-size: .9rem; margin-top: .5rem; }
+    .back-link {
+      display: inline-block; margin-top: .75rem; color: var(--color-accent);
+      text-decoration: none; font-size: .9rem;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .notice {
+      max-width: var(--max-w); margin: 1rem auto 0; padding: .75rem 1rem;
+      border: 1px solid rgba(200,169,110,.25); border-radius: var(--radius);
+      color: var(--color-muted); font-size: .85rem; text-align: center;
+    }
+    .notice strong { color: var(--color-accent); }
+
+    .wrap { max-width: var(--max-w); margin: 0 auto; padding: 0 1.5rem 4rem; }
+
+    .toolbar {
+      display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center;
+      margin: 1.5rem auto; max-width: var(--max-w); padding: 0 1.5rem;
+    }
+    .tool {
+      background: var(--color-surface); color: var(--color-accent);
+      border: 1px solid rgba(200,169,110,.35); border-radius: var(--radius);
+      padding: .5rem 1rem; font-size: .85rem; font-family: var(--font-body);
+      cursor: pointer; transition: background .2s, color .2s;
+    }
+    .tool:hover { background: var(--color-accent); color: var(--color-bg); }
+    .tool:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+    .tool--danger { color: #e08c7d; border-color: rgba(224,140,125,.4); }
+    .tool--danger:hover { background: #e08c7d; color: var(--color-bg); }
+
+    .panel {
+      background: var(--color-surface);
+      border: 1px solid rgba(200,169,110,.15);
+      border-radius: var(--radius);
+      padding: 1.5rem; margin-top: 1.5rem;
+    }
+    .panel > h2 {
+      font-size: 1.25rem; margin-bottom: .35rem; border-bottom: none;
+      padding-bottom: 0;
+    }
+    .panel-hint {
+      color: var(--color-muted); font-size: .85rem; margin-bottom: 1rem;
+      max-width: 68ch;
+    }
+
+    label { display: block; font-size: .8rem; color: var(--color-accent);
+            margin-bottom: .25rem; letter-spacing: .04em; }
+    input[type="text"], input[type="email"], input[type="url"], textarea, select {
+      width: 100%; background: var(--color-bg); color: var(--color-text);
+      border: 1px solid rgba(200,169,110,.25); border-radius: var(--radius);
+      padding: .5rem .65rem; font-family: var(--font-body); font-size: .92rem;
+      line-height: 1.5;
+    }
+    input:focus, textarea:focus, select:focus {
+      outline: 2px solid var(--color-accent); outline-offset: 1px;
+      border-color: var(--color-accent);
+    }
+    textarea { resize: vertical; min-height: 5rem; }
+    .field { margin-bottom: .9rem; }
+    .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: .9rem; }
+
+    .card {
+      background: var(--color-bg); border: 1px solid rgba(200,169,110,.18);
+      border-radius: var(--radius); padding: 1rem; margin-bottom: 1rem;
+      text-align: left;
+    }
+    .card-head {
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 1rem; margin-bottom: .75rem;
+    }
+    .card-head h3 { color: var(--color-accent); font-size: .95rem; margin: 0; }
+
+    /* Coverage meter */
+    .meter-row { display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+    .meter-score { font-size: 2.4rem; font-family: var(--font-display);
+                   color: var(--color-accent); line-height: 1; }
+    .meter-label { color: var(--color-muted); font-size: .85rem; }
+    .meter-track {
+      height: 10px; background: var(--color-bg); border-radius: 5px;
+      border: 1px solid rgba(200,169,110,.2); overflow: hidden; margin: .9rem 0;
+    }
+    .meter-fill { height: 100%; background: var(--color-accent); width: 0; transition: width .3s; }
+
+    .chips { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .5rem; }
+    .chip {
+      font-size: .78rem; padding: .2rem .6rem; border-radius: 999px;
+      border: 1px solid rgba(200,169,110,.3); color: var(--color-text);
+      background: var(--color-bg);
+    }
+    .chip--have { border-color: rgba(126,180,126,.5); color: #9fd39f; }
+    .chip--miss { border-color: rgba(224,140,125,.5); color: #e8a99c; }
+    .chip--other { color: var(--color-muted); }
+
+    /* Lint findings */
+    .findings { list-style: none; margin-top: .5rem; }
+    .finding {
+      border-left: 3px solid var(--color-muted); padding: .5rem 0 .5rem .8rem;
+      margin-bottom: .6rem; font-size: .9rem;
+    }
+    .finding--error { border-left-color: #e08c7d; }
+    .finding--warn  { border-left-color: #d8bc72; }
+    .finding--ok    { border-left-color: #7eb47e; }
+    .finding-detail { color: var(--color-muted); font-size: .82rem; display: block; margin-top: .2rem; }
+
+    .match-row { border-left: 3px solid var(--color-accent2); padding-left: .8rem;
+                 margin-bottom: .9rem; font-size: .88rem; }
+    .match-req { color: var(--color-accent); }
+    .match-eviq { color: var(--color-muted); display: block; margin-top: .2rem; }
+
+    table.log { width: 100%; border-collapse: collapse; font-size: .86rem; margin-top: .75rem; }
+    table.log th, table.log td {
+      text-align: left; padding: .45rem .5rem;
+      border-bottom: 1px solid rgba(200,169,110,.12);
+    }
+    table.log th { color: var(--color-accent); font-weight: 600; }
+
+    .stat-strip { display: flex; gap: 2rem; flex-wrap: wrap; margin-top: .75rem; }
+    .stat b { display: block; font-size: 1.5rem; color: var(--color-accent);
+              font-family: var(--font-display); }
+    .stat span { font-size: .8rem; color: var(--color-muted); }
+
+    .status { color: var(--color-muted); font-size: .85rem; margin-top: .75rem; }
+
+    /* ── The resume document itself: always single column, print-safe ── */
+    .paper-shell { background: #fff; border-radius: var(--radius); padding: 0; overflow: auto; }
+    #paper {
+      background: #fff; color: #111; padding: 0.55in 0.6in;
+      font-family: 'Segoe UI', system-ui, sans-serif; font-size: 10.5pt;
+      line-height: 1.42; max-width: 8.5in; margin: 0 auto; text-align: left;
+    }
+    /* The name is styled like a heading but is not one: the preview is a
+       rendered artifact inside the page, and a second <h1> would compete
+       with the page's own title for assistive technology. */
+    #paper .doc-name {
+      font-size: 19pt; font-weight: 700; margin: 0 0 .1in; color: #111;
+      letter-spacing: -.01em; line-height: 1.2;
+    }
+    #paper .doc-headline { font-size: 11pt; color: #333; margin-bottom: .06in; }
+    #paper .doc-contact { font-size: 9.5pt; color: #333; margin-bottom: .16in; }
+    #paper h2 {
+      font-size: 11pt; text-transform: uppercase; letter-spacing: .06em;
+      color: #111; border-bottom: 1px solid #999; padding-bottom: .03in;
+      margin: .17in 0 .08in; font-family: inherit;
+    }
+    #paper h3 { font-size: 10.5pt; margin: .1in 0 .02in; color: #111; }
+    #paper .doc-sub { font-size: 9.5pt; color: #444; margin-bottom: .04in; }
+    #paper ul { margin: 0 0 .06in 1.1em; }
+    #paper li { margin-bottom: .035in; }
+    #paper p { color: #111; max-width: none; margin-bottom: .06in; }
+    #paper .doc-skills div { margin-bottom: .03in; }
+
+    /* Template variants — spacing and rules only. Never multi-column:
+       two-column resumes are the most common ATS parse failure. */
+    #paper.tpl-compact { font-size: 10pt; line-height: 1.32; padding: .45in .55in; }
+    #paper.tpl-compact h2 { margin: .12in 0 .05in; }
+    #paper.tpl-modern h2 {
+      border-bottom: 2px solid #111; text-transform: none;
+      letter-spacing: 0; font-size: 12pt;
+    }
+    #paper.tpl-modern .doc-name { font-size: 22pt; }
+
+    /* Printing must emit the resume and nothing else. `visibility: hidden`
+       is the wrong tool here — it hides the builder UI but keeps its layout
+       space, producing a stack of blank pages after the document. Collapse
+       the app with `display: none` instead and re-show only the chain down
+       to #paper. */
+    @media print {
+      @page { margin: 0.5in; }
+      body { background: #fff !important; }
+      body * { display: none !important; }
+      main.wrap,
+      #preview-panel,
+      #preview-panel .paper-shell {
+        display: block !important;
+        margin: 0 !important; padding: 0 !important;
+        border: none !important; background: none !important;
+        max-width: none !important; overflow: visible !important;
+      }
+      #paper {
+        display: block !important;
+        margin: 0 !important; padding: 0 !important;
+        max-width: none !important; box-shadow: none !important;
+      }
+      #paper div, #paper p, #paper ul { display: block !important; }
+      #paper h2, #paper h3 { display: block !important; }
+      #paper li { display: list-item !important; }
+      #paper strong { display: inline !important; }
+    }
+
+    @media (max-width: 640px) {
+      .toolbar { padding: 0 1rem; }
+      .wrap { padding: 0 1rem 3rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="rb-header">
+    <h1>Resume &amp; Cover Letter Builder</h1>
+    <p class="rb-meta" id="rules-meta">Loading rules…</p>
+    <a class="back-link" href="index.html">&larr; Back to Wolf of Fairhope Avenue</a>
+  </header>
+
+  <p class="notice">
+    <strong>Your data stays on this device.</strong> Everything you type is kept in
+    this browser's local storage and in files you export yourself. Nothing is
+    uploaded, and nothing is committed to this public repository.
+  </p>
+
+  <div class="toolbar">
+    <button class="tool" type="button" id="btn-template">Load starter template</button>
+    <button class="tool" type="button" id="btn-import">Import JSON…</button>
+    <button class="tool" type="button" id="btn-export">Export JSON</button>
+    <button class="tool" type="button" id="btn-print">Print / Save as PDF</button>
+    <button class="tool" type="button" id="btn-txt">Export plain text</button>
+    <button class="tool tool--danger" type="button" id="btn-clear">Clear this device</button>
+    <input type="file" id="file-import" accept="application/json,.json"
+           aria-label="Choose a profile JSON file to import" hidden />
+  </div>
+
+  <main class="wrap">
+
+    <!-- ── Profile ─────────────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-profile">
+      <h2 id="h-profile">1. Your profile</h2>
+      <p class="panel-hint">
+        The source of truth for every document this page produces. Write bullets
+        as <em>strong verb + what you did + the system + the measurable result</em>.
+        One bullet per line in each box.
+      </p>
+
+      <div class="grid2">
+        <div class="field">
+          <label for="c-name">Full name</label>
+          <input type="text" id="c-name" data-contact="name" autocomplete="name" />
+        </div>
+        <div class="field">
+          <label for="c-headline">Target job title</label>
+          <input type="text" id="c-headline" data-contact="headline" />
+        </div>
+        <div class="field">
+          <label for="c-email">Email</label>
+          <input type="email" id="c-email" data-contact="email" autocomplete="email" />
+        </div>
+        <div class="field">
+          <label for="c-phone">Phone</label>
+          <input type="text" id="c-phone" data-contact="phone" autocomplete="tel" />
+        </div>
+        <div class="field">
+          <label for="c-location">Location</label>
+          <input type="text" id="c-location" data-contact="location" />
+        </div>
+        <div class="field">
+          <label for="c-link">Link (optional)</label>
+          <input type="url" id="c-link" data-contact="link" placeholder="https://…" />
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="c-summary">Professional summary</label>
+        <textarea id="c-summary" rows="3"></textarea>
+      </div>
+
+      <div class="card-head">
+        <h3>Skills</h3>
+        <button class="tool" type="button" id="add-skill">+ Add group</button>
+      </div>
+      <div id="skills-list"></div>
+
+      <div class="card-head">
+        <h3>Experience</h3>
+        <button class="tool" type="button" id="add-exp">+ Add role</button>
+      </div>
+      <div id="exp-list"></div>
+
+      <div class="card-head">
+        <h3>Projects</h3>
+        <button class="tool" type="button" id="add-proj">+ Add project</button>
+      </div>
+      <div id="proj-list"></div>
+
+      <div class="card-head">
+        <h3>Education &amp; certifications</h3>
+        <button class="tool" type="button" id="add-cred">+ Add credential</button>
+      </div>
+      <p class="panel-hint">
+        Leave <em>Verified</em> unchecked for anything you have not actually
+        earned yet. Unverified entries are excluded from the resume — a
+        credential that fails a background check costs the offer.
+      </p>
+      <div id="cred-list"></div>
+    </section>
+
+    <!-- ── Job target ──────────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-jd">
+      <h2 id="h-jd">2. The job you are applying to</h2>
+      <p class="panel-hint">
+        Paste the posting. Coverage is measured against a fixed keyword
+        taxonomy, so the same posting always scores the same way — no guesswork,
+        nothing sent anywhere.
+      </p>
+      <div class="grid2">
+        <div class="field">
+          <label for="j-company">Company</label>
+          <input type="text" id="j-company" />
+        </div>
+        <div class="field">
+          <label for="j-role">Role title</label>
+          <input type="text" id="j-role" />
+        </div>
+      </div>
+      <div class="field">
+        <label for="j-text">Job description</label>
+        <textarea id="j-text" rows="8" placeholder="Paste the full posting here…"></textarea>
+      </div>
+
+      <div class="meter-row">
+        <span class="meter-score" id="cov-score">—</span>
+        <span class="meter-label" id="cov-label">Paste a posting to measure coverage.</span>
+      </div>
+      <div class="meter-track"><div class="meter-fill" id="cov-fill"></div></div>
+
+      <div id="cov-have-wrap" hidden>
+        <p class="panel-hint" style="margin-bottom:.25rem">Requirements your profile already evidences:</p>
+        <div class="chips" id="cov-have"></div>
+      </div>
+      <div id="cov-miss-wrap" hidden>
+        <p class="panel-hint" style="margin:.9rem 0 .25rem">Missing — add these only if they are genuinely true of you:</p>
+        <div class="chips" id="cov-miss"></div>
+      </div>
+      <div id="cov-other-wrap" hidden>
+        <p class="panel-hint" style="margin:.9rem 0 .25rem">Other frequent terms in this posting (company words, systems, jargon):</p>
+        <div class="chips" id="cov-other"></div>
+      </div>
+    </section>
+
+    <!-- ── Evidence match ──────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-match">
+      <h2 id="h-match">3. Which of your bullets answer the posting</h2>
+      <p class="panel-hint">
+        Each requirement line from the posting, paired with your strongest
+        existing bullet. A requirement with no match is one to address.
+      </p>
+      <div id="match-list"><p class="status">Paste a job description above.</p></div>
+    </section>
+
+    <!-- ── Lint ────────────────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-lint">
+      <h2 id="h-lint">4. ATS check</h2>
+      <p class="panel-hint">
+        Deterministic checks for the things that actually break applicant
+        tracking systems: unparseable characters, non-standard headings, vague
+        bullets, and unquantified claims.
+      </p>
+      <ul class="findings" id="lint-list" aria-live="polite"></ul>
+    </section>
+
+    <!-- ── Preview ─────────────────────────────────────────────────────── -->
+    <section class="panel" id="preview-panel" aria-labelledby="h-preview">
+      <h2 id="h-preview">5. Preview</h2>
+      <p class="panel-hint">
+        All three templates are single-column by design. Two-column layouts look
+        striking to a person and frequently scramble in the parser that reads
+        you first.
+      </p>
+      <div class="field" style="max-width:280px">
+        <label for="tpl">Template</label>
+        <select id="tpl">
+          <option value="classic">Classic — balanced, widely safe</option>
+          <option value="compact">Compact — fits more on one page</option>
+          <option value="modern">Modern — larger headings, more air</option>
+        </select>
+      </div>
+      <div class="paper-shell">
+        <div id="paper" class="tpl-classic" role="region"
+             aria-label="Rendered resume preview" tabindex="0"></div>
+      </div>
+    </section>
+
+    <!-- ── Cover letter ────────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-cover">
+      <h2 id="h-cover">6. Cover letter</h2>
+      <p class="panel-hint">
+        Generates a first draft from your three best-matching achievements for
+        this specific posting. Edit it — a letter that reads as generated reads
+        as indifferent.
+      </p>
+      <div class="grid2">
+        <div class="field">
+          <label for="cl-manager">Addressed to (optional)</label>
+          <input type="text" id="cl-manager" placeholder="Hiring Manager" />
+        </div>
+        <div class="field">
+          <label for="cl-source">Where you saw it (optional)</label>
+          <input type="text" id="cl-source" placeholder="LinkedIn" />
+        </div>
+      </div>
+      <button class="tool" type="button" id="btn-cover">Generate draft</button>
+      <button class="tool" type="button" id="btn-cover-copy">Copy to clipboard</button>
+      <div class="field" style="margin-top:.9rem">
+        <label for="cl-text">Draft</label>
+        <textarea id="cl-text" rows="16"></textarea>
+      </div>
+    </section>
+
+    <!-- ── Application log ─────────────────────────────────────────────── -->
+    <section class="panel" aria-labelledby="h-log">
+      <h2 id="h-log">7. Application log</h2>
+      <p class="panel-hint">
+        No resume tool can promise you an interview rate. This measures your
+        real one, so you can tell which versions and which sources are actually
+        working.
+      </p>
+      <div class="grid2">
+        <div class="field">
+          <label for="a-company">Company</label>
+          <input type="text" id="a-company" />
+        </div>
+        <div class="field">
+          <label for="a-role">Role</label>
+          <input type="text" id="a-role" />
+        </div>
+        <div class="field">
+          <label for="a-source">Source</label>
+          <input type="text" id="a-source" placeholder="LinkedIn, Indeed, referral…" />
+        </div>
+        <div class="field">
+          <label for="a-status">Status</label>
+          <select id="a-status">
+            <option value="applied">Applied</option>
+            <option value="reply">Reply received</option>
+            <option value="interview">Interview</option>
+            <option value="offer">Offer</option>
+            <option value="rejected">Rejected</option>
+          </select>
+        </div>
+      </div>
+      <button class="tool" type="button" id="add-app">Log application</button>
+      <div class="stat-strip">
+        <div class="stat"><b id="s-total">0</b><span>applications</span></div>
+        <div class="stat"><b id="s-reply">0%</b><span>reply rate</span></div>
+        <div class="stat"><b id="s-int">0</b><span>interviews</span></div>
+      </div>
+      <table class="log">
+        <thead>
+          <tr><th>Date</th><th>Company</th><th>Role</th><th>Source</th><th>Status</th><th></th></tr>
+        </thead>
+        <tbody id="app-rows"></tbody>
+      </table>
+    </section>
+
+    <p class="status" id="save-status" aria-live="polite"></p>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Wolf of Fairhope Avenue. Built on GitHub.</p>
+    </div>
+  </footer>
+
+  <script>
+    "use strict";
+
+    // Security: this page renders text the user pastes from job boards, which
+    // is untrusted HTML. Every interpolated value passes through esc().
+    function esc(v) {
+      return String(v == null ? "" : v).replace(/[&<>"']/g,
+        c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    }
+    function safeUrl(u) {
+      try { if (new URL(u).protocol === "https:") return esc(u); } catch (e) { /* fall through */ }
+      return "";
+    }
+
+    const STORE_KEY = "wofa.resume.v1";
+    let RULES = null;
+    let profile = emptyProfile();
+
+    function emptyProfile() {
+      return {
+        schema_version: "1.0",
+        contact: {name: "", headline: "", email: "", phone: "", location: "", links: []},
+        summary: "",
+        skills: [],
+        experience: [],
+        projects: [],
+        education: [],
+        certifications: [],
+        applications: [],
+        job: {company: "", role: "", text: ""},
+        cover: "",
+        settings: {template: "classic"}
+      };
+    }
+
+    /* ── Text normalisation and keyword matching ────────────────────────
+       Kept deliberately small and pure so the scoring is auditable: the
+       taxonomy in assets/resume-rules.json is the only source of truth for
+       what counts as a skill. */
+
+    function normalize(text) {
+      return String(text || "")
+        .toLowerCase()
+        .replace(/[‘’]/g, "'")
+        .replace(/[“”]/g, '"')
+        .replace(/[–—]/g, "-")
+        .replace(/[,;:()\[\]{}"'!?*|]/g, " ")   // keep / - & + # . for tcp/ip, p&l, ci/cd
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function containsTerm(haystack, term) {
+      return (" " + haystack + " ").indexOf(" " + term + " ") !== -1;
+    }
+
+    // Returns the set of taxonomy ids evidenced by a block of text.
+    function skillsIn(text) {
+      const hay = normalize(text);
+      const found = new Set();
+      if (!hay || !RULES) return found;
+      for (const entry of RULES.taxonomy) {
+        for (const term of entry.terms) {
+          if (containsTerm(hay, term)) { found.add(entry.id); break; }
+        }
+      }
+      return found;
+    }
+
+    function taxonomyById(id) {
+      return RULES.taxonomy.find(t => t.id === id);
+    }
+
+    // Every piece of prose in the profile, as one searchable string.
+    function profileText() {
+      const parts = [profile.summary, profile.contact.headline];
+      profile.skills.forEach(g => parts.push(g.category, (g.items || []).join(" ")));
+      profile.experience.forEach(r => {
+        parts.push(r.title, r.organization, (r.bullets || []).join(" "));
+      });
+      profile.projects.forEach(p => {
+        parts.push(p.name, p.summary, (p.bullets || []).join(" "));
+      });
+      profile.education.forEach(e => { if (e.confirmed) parts.push(e.credential); });
+      profile.certifications.forEach(c => { if (c.confirmed) parts.push(c.name); });
+      return parts.filter(Boolean).join(" \n ");
+    }
+
+    function allBullets() {
+      const out = [];
+      profile.experience.forEach(r => (r.bullets || []).forEach(
+        b => out.push({text: b, where: r.title || r.organization || "Experience"})));
+      profile.projects.forEach(p => (p.bullets || []).forEach(
+        b => out.push({text: b, where: p.name || "Project"})));
+      return out;
+    }
+
+    /* ── Coverage ───────────────────────────────────────────────────── */
+
+    function computeCoverage() {
+      const jd = profile.job.text || "";
+      if (!jd.trim() || !RULES) return null;
+      const need = skillsIn(jd);
+      const have = skillsIn(profileText());
+      const matched = [...need].filter(id => have.has(id));
+      const missing = [...need].filter(id => !have.has(id));
+
+      // Frequent posting words the taxonomy does not know about: company
+      // names, in-house systems, sector jargon worth mirroring by hand.
+      const stop = new Set(RULES.stopwords);
+      const known = new Set();
+      RULES.taxonomy.forEach(t => t.terms.forEach(term =>
+        term.split(" ").forEach(w => known.add(w))));
+      const freq = new Map();
+      normalize(jd).split(" ").forEach(w => {
+        if (w.length < 4 || stop.has(w) || known.has(w) || /^\d+$/.test(w)) return;
+        freq.set(w, (freq.get(w) || 0) + 1);
+      });
+      const other = [...freq.entries()]
+        .filter(([, n]) => n > 1)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 12)
+        .map(([w]) => w);
+
+      return {
+        need: need.size,
+        matched, missing, other,
+        ratio: need.size ? matched.length / need.size : 0
+      };
+    }
+
+    function renderCoverage() {
+      const cov = computeCoverage();
+      const score = document.getElementById("cov-score");
+      const label = document.getElementById("cov-label");
+      const fill = document.getElementById("cov-fill");
+      const haveWrap = document.getElementById("cov-have-wrap");
+      const missWrap = document.getElementById("cov-miss-wrap");
+      const otherWrap = document.getElementById("cov-other-wrap");
+
+      if (!cov || !cov.need) {
+        score.textContent = "—";
+        label.textContent = "Paste a posting to measure coverage.";
+        fill.style.width = "0";
+        haveWrap.hidden = missWrap.hidden = otherWrap.hidden = true;
+        return;
+      }
+      const pct = Math.round(cov.ratio * 100);
+      score.textContent = pct + "%";
+      label.textContent = cov.matched.length + " of " + cov.need +
+        " skill areas in this posting are evidenced in your profile.";
+      fill.style.width = pct + "%";
+
+      const chip = (id, cls) => {
+        const t = taxonomyById(id);
+        return '<span class="chip ' + cls + '">' + esc(t ? t.label : id) + "</span>";
+      };
+      haveWrap.hidden = !cov.matched.length;
+      document.getElementById("cov-have").innerHTML =
+        cov.matched.map(id => chip(id, "chip--have")).join("");
+      missWrap.hidden = !cov.missing.length;
+      document.getElementById("cov-miss").innerHTML =
+        cov.missing.map(id => chip(id, "chip--miss")).join("");
+      otherWrap.hidden = !cov.other.length;
+      document.getElementById("cov-other").innerHTML =
+        cov.other.map(w => '<span class="chip chip--other">' + esc(w) + "</span>").join("");
+    }
+
+    /* ── Requirement-to-evidence matching ───────────────────────────── */
+
+    function requirementLines() {
+      const jd = profile.job.text || "";
+      return jd.split(/[\n\r]+|(?<=\.)\s+/)
+        .map(l => l.replace(/^[\s\-*•·]+/, "").trim())
+        .filter(l => l.length > 25 && skillsIn(l).size > 0)
+        .slice(0, 12);
+    }
+
+    function renderMatches() {
+      const host = document.getElementById("match-list");
+      const lines = requirementLines();
+      if (!lines.length) {
+        host.innerHTML = '<p class="status">Paste a job description above.</p>';
+        return;
+      }
+      const bullets = allBullets().map(b => ({...b, skills: skillsIn(b.text)}));
+      host.innerHTML = lines.map(line => {
+        const need = skillsIn(line);
+        let best = null, bestScore = 0;
+        bullets.forEach(b => {
+          let overlap = 0;
+          need.forEach(id => { if (b.skills.has(id)) overlap++; });
+          if (overlap > bestScore) { bestScore = overlap; best = b; }
+        });
+        const evidence = best
+          ? esc(best.where) + " — " + esc(best.text)
+          : "No bullet in your profile answers this yet.";
+        return '<div class="match-row"><span class="match-req">' + esc(line) +
+          '</span><span class="match-eviq">' + evidence + "</span></div>";
+      }).join("");
+    }
+
+    /* ── ATS lint ───────────────────────────────────────────────────── */
+
+    function lint() {
+      const out = [];
+      const L = RULES.lint;
+      const add = (level, message, detail) => out.push({level, message, detail});
+
+      // Contact completeness — a resume the parser cannot route is a lost one.
+      const missingContact = ["name", "email", "phone", "location"]
+        .filter(k => !String(profile.contact[k] || "").trim());
+      if (missingContact.length) {
+        add("error", "Missing contact details: " + missingContact.join(", "),
+            "Contact information must sit in the body text, never in a header or footer — many parsers ignore those regions entirely.");
+      }
+
+      // Banned glyphs.
+      const text = [profile.summary, profileText(), profile.contact.name].join(" ");
+      const hits = RULES.banned_glyphs.filter(g => text.indexOf(g.char) !== -1);
+      if (hits.length) {
+        add("warn", "Characters that can corrupt parsing: " +
+            hits.map(h => h.name).join(", "),
+            "Replace with: " + hits.map(h => h.char + " to " + (h.replacement || "nothing")).join(", ") + ".");
+      } else {
+        add("ok", "No parser-hostile characters found.");
+      }
+
+      // Summary length.
+      const sum = String(profile.summary || "").trim();
+      if (!sum) {
+        add("warn", "No professional summary.",
+            "The summary is the densest place to mirror the posting's language.");
+      } else if (sum.length > L.max_summary_chars) {
+        add("warn", "Summary is long (" + sum.length + " characters).",
+            "Aim for under " + L.max_summary_chars + ".");
+      } else if (sum.length < L.min_summary_chars) {
+        add("warn", "Summary is thin (" + sum.length + " characters).",
+            "Aim for at least " + L.min_summary_chars + ".");
+      } else {
+        add("ok", "Summary length is in range.");
+      }
+
+      // Skills count.
+      const skillCount = profile.skills.reduce((n, g) => n + (g.items || []).length, 0);
+      if (skillCount < L.min_skills) {
+        add("warn", "Only " + skillCount + " skills listed.",
+            "At least " + L.min_skills + " gives the parser enough to match on.");
+      } else if (skillCount > L.max_skills) {
+        add("warn", skillCount + " skills listed.",
+            "Over " + L.max_skills + " reads as padding to a human reviewer.");
+      } else {
+        add("ok", skillCount + " skills listed.");
+      }
+
+      // Per-role bullet checks.
+      profile.experience.forEach(role => {
+        const where = role.title || role.organization || "Untitled role";
+        const bullets = (role.bullets || []).filter(b => b.trim());
+        if (bullets.length < L.min_bullets_per_role) {
+          add("warn", where + ": only " + bullets.length + " bullet(s).",
+              "Use at least " + L.min_bullets_per_role + ".");
+        }
+        if (bullets.length > L.max_bullets_per_role) {
+          add("warn", where + ": " + bullets.length + " bullets.",
+              "Trim to " + L.max_bullets_per_role + "; reviewers scan the first few.");
+        }
+        bullets.forEach(b => {
+          const lower = b.toLowerCase().trim();
+          const weak = RULES.weak_openers.find(w => lower.startsWith(w));
+          if (weak) {
+            add("warn", where + ': bullet opens with "' + weak + '".',
+                "Lead with an action verb and the outcome instead.");
+          }
+          if (b.length > L.max_bullet_chars) {
+            add("warn", where + ": a bullet runs " + b.length + " characters.",
+                "Keep bullets under " + L.max_bullet_chars + ".");
+          }
+        });
+        ["start", "end"].forEach(k => {
+          const v = String(role[k] || "").trim();
+          if (v && !RULES.date_formats.some(d => new RegExp(d.pattern).test(v))) {
+            add("warn", where + ": date " + JSON.stringify(v) + " is non-standard.",
+                "Use one of: " + RULES.date_formats.map(d => d.example).join(", ") + ".");
+          }
+        });
+      });
+
+      // Quantification — the single strongest differentiator in a bullet.
+      const bullets = allBullets();
+      if (bullets.length) {
+        const quantified = bullets.filter(b => /\d/.test(b.text)).length;
+        const ratio = quantified / bullets.length;
+        if (ratio < L.min_quantified_ratio) {
+          add("error", "Only " + Math.round(ratio * 100) + "% of bullets contain a number.",
+              "Target " + Math.round(L.min_quantified_ratio * 100) +
+              "%. Counts, percentages, dollars, and turnaround times all qualify.");
+        } else {
+          add("ok", Math.round(ratio * 100) + "% of bullets are quantified.");
+        }
+      } else {
+        add("error", "No experience bullets yet.", "Add at least one role.");
+      }
+
+      // Unverified credentials.
+      const unverified = [...profile.education, ...profile.certifications]
+        .filter(c => !c.confirmed);
+      if (unverified.length) {
+        add("warn", unverified.length + " credential(s) marked unverified.",
+            "These are excluded from the resume until you tick Verified. Listing a credential you do not hold is discovered at the background check.");
+      }
+
+      // Coverage against the posting.
+      const cov = computeCoverage();
+      if (cov && cov.need) {
+        if (cov.ratio < L.target_coverage) {
+          add("warn", "Keyword coverage is " + Math.round(cov.ratio * 100) +
+              "%, below the " + Math.round(L.target_coverage * 100) + "% target.",
+              "Close the gap only with things that are genuinely true of you.");
+        } else {
+          add("ok", "Keyword coverage is " + Math.round(cov.ratio * 100) + "%.");
+        }
+      }
+
+      // Overall length.
+      const total = renderPlainText().length;
+      if (total > L.max_resume_chars) {
+        add("warn", "The resume runs long (" + total + " characters).",
+            "Under " + L.max_resume_chars + " keeps it to roughly one page.");
+      }
+
+      return out;
+    }
+
+    function renderLint() {
+      if (!RULES) return;
+      const findings = lint();
+      const order = {error: 0, warn: 1, ok: 2};
+      findings.sort((a, b) => order[a.level] - order[b.level]);
+      document.getElementById("lint-list").innerHTML = findings.map(f =>
+        '<li class="finding finding--' + f.level + '">' + esc(f.message) +
+        (f.detail ? '<span class="finding-detail">' + esc(f.detail) + "</span>" : "") +
+        "</li>").join("");
+    }
+
+    /* ── Document rendering ─────────────────────────────────────────── */
+
+    function contactLine() {
+      const c = profile.contact;
+      const link = (c.links && c.links[0] && c.links[0].url) || "";
+      return [c.location, c.phone, c.email, link].filter(Boolean).join("  |  ");
+    }
+
+    function renderPaper() {
+      const c = profile.contact;
+      const paper = document.getElementById("paper");
+      paper.className = "tpl-" + (profile.settings.template || "classic");
+
+      let html = '<div class="doc-name">' + esc(c.name || "Your Name") + "</div>";
+      if (c.headline) html += '<div class="doc-headline">' + esc(c.headline) + "</div>";
+      html += '<div class="doc-contact">' + esc(contactLine()) + "</div>";
+
+      if (profile.summary.trim()) {
+        html += "<h2>Summary</h2><p>" + esc(profile.summary.trim()) + "</p>";
+      }
+
+      const skills = profile.skills.filter(g => (g.items || []).length);
+      if (skills.length) {
+        html += '<h2>Skills</h2><div class="doc-skills">' + skills.map(g =>
+          "<div><strong>" + esc(g.category) + ":</strong> " +
+          esc((g.items || []).join(", ")) + "</div>").join("") + "</div>";
+      }
+
+      const roles = profile.experience.filter(r => r.title || r.organization);
+      if (roles.length) {
+        html += "<h2>Experience</h2>" + roles.map(r => {
+          const dates = [r.start, r.end].filter(Boolean).join(" – ");
+          const sub = [r.organization, r.location, dates].filter(Boolean).join("  |  ");
+          const bl = (r.bullets || []).filter(b => b.trim());
+          return "<h3>" + esc(r.title || r.organization) + "</h3>" +
+            '<div class="doc-sub">' + esc(sub) + "</div>" +
+            (bl.length ? "<ul>" + bl.map(b => "<li>" + esc(b) + "</li>").join("") + "</ul>" : "");
+        }).join("");
+      }
+
+      const projects = profile.projects.filter(p => p.name);
+      if (projects.length) {
+        html += "<h2>Projects</h2>" + projects.map(p => {
+          const bl = (p.bullets || []).filter(b => b.trim());
+          const url = safeUrl(p.url || "");
+          return "<h3>" + esc(p.name) + "</h3>" +
+            (p.summary ? '<div class="doc-sub">' + esc(p.summary) +
+              (url ? "  |  " + url : "") + "</div>" : "") +
+            (bl.length ? "<ul>" + bl.map(b => "<li>" + esc(b) + "</li>").join("") + "</ul>" : "");
+        }).join("");
+      }
+
+      const edu = profile.education.filter(e => e.confirmed && e.credential);
+      if (edu.length) {
+        html += "<h2>Education</h2>" + edu.map(e =>
+          "<div>" + esc([e.credential, e.institution, e.year].filter(Boolean).join(", ")) +
+          "</div>").join("");
+      }
+
+      const certs = profile.certifications.filter(c2 => c2.confirmed && c2.name);
+      if (certs.length) {
+        html += "<h2>Certifications</h2>" + certs.map(c2 =>
+          "<div>" + esc([c2.name, c2.issuer, c2.year].filter(Boolean).join(", ")) +
+          "</div>").join("");
+      }
+
+      paper.innerHTML = html;
+    }
+
+    function renderPlainText() {
+      const c = profile.contact;
+      const lines = [c.name || "", c.headline || "", contactLine(), ""];
+      const section = (title, body) => {
+        if (!body.length) return;
+        lines.push(title.toUpperCase(), "");
+        body.forEach(l => lines.push(l));
+        lines.push("");
+      };
+      if (profile.summary.trim()) section("Summary", [profile.summary.trim()]);
+      section("Skills", profile.skills.filter(g => (g.items || []).length)
+        .map(g => g.category + ": " + (g.items || []).join(", ")));
+      const exp = [];
+      profile.experience.filter(r => r.title || r.organization).forEach(r => {
+        exp.push(r.title || r.organization);
+        exp.push([r.organization, r.location, [r.start, r.end].filter(Boolean).join(" - ")]
+          .filter(Boolean).join(" | "));
+        (r.bullets || []).filter(b => b.trim()).forEach(b => exp.push("- " + b));
+        exp.push("");
+      });
+      section("Experience", exp);
+      const proj = [];
+      profile.projects.filter(p => p.name).forEach(p => {
+        proj.push(p.name);
+        if (p.summary) proj.push(p.summary);
+        (p.bullets || []).filter(b => b.trim()).forEach(b => proj.push("- " + b));
+        proj.push("");
+      });
+      section("Projects", proj);
+      section("Education", profile.education.filter(e => e.confirmed && e.credential)
+        .map(e => [e.credential, e.institution, e.year].filter(Boolean).join(", ")));
+      section("Certifications", profile.certifications.filter(c2 => c2.confirmed && c2.name)
+        .map(c2 => [c2.name, c2.issuer, c2.year].filter(Boolean).join(", ")));
+      return lines.join("\n").replace(/\n{3,}/g, "\n\n").trim();
+    }
+
+    /* ── Cover letter ───────────────────────────────────────────────── */
+
+    function generateCover() {
+      const company = profile.job.company.trim() || "your team";
+      const role = profile.job.role.trim() || profile.contact.headline.trim() || "the role";
+      const manager = document.getElementById("cl-manager").value.trim() || "Hiring Manager";
+      const source = document.getElementById("cl-source").value.trim();
+      const need = skillsIn(profile.job.text || "");
+
+      // Rank real bullets by how much of this posting they answer.
+      const ranked = allBullets().map(b => {
+        const s = skillsIn(b.text);
+        let overlap = 0;
+        need.forEach(id => { if (s.has(id)) overlap++; });
+        return {...b, overlap};
+      }).filter(b => b.overlap > 0)
+        .sort((a, b) => b.overlap - a.overlap)
+        .slice(0, 3);
+
+      const opener = "Dear " + manager + ",";
+      const intro = "I am applying for the " + role + " position at " + company +
+        (source ? ", which I saw on " + source : "") + ". " +
+        (profile.summary.trim() ? profile.summary.trim() : "");
+
+      const body = ranked.length
+        ? "A few things I would bring to the role:\n\n" +
+          ranked.map(b => "- " + b.text).join("\n")
+        : "I would welcome the chance to walk through how my background lines up with what you are looking for.";
+
+      const matched = [...need].filter(id => skillsIn(profileText()).has(id))
+        .map(id => (taxonomyById(id) || {}).label).filter(Boolean).slice(0, 4);
+      const close = (matched.length
+        ? "The posting emphasises " + matched.join(", ").toLowerCase() +
+          "; that is the work I have been doing day to day. "
+        : "") +
+        "I would appreciate the opportunity to discuss the role and am happy to " +
+        "come in at your convenience.\n\nSincerely,\n" + (profile.contact.name || "");
+
+      return [opener, "", intro, "", body, "", close].join("\n");
+    }
+
+    /* ── Editors ────────────────────────────────────────────────────── */
+
+    function textareaLines(value) {
+      return String(value || "").split("\n").map(s => s.trim()).filter(Boolean);
+    }
+
+    function renderSkillsEditor() {
+      const host = document.getElementById("skills-list");
+      host.innerHTML = profile.skills.map((g, i) => `
+        <div class="card">
+          <div class="card-head">
+            <h3>Group ${i + 1}</h3>
+            <button class="tool tool--danger" type="button" data-del-skill="${i}">Remove</button>
+          </div>
+          <div class="field">
+            <label for="sk-cat-${i}">Category</label>
+            <input type="text" id="sk-cat-${i}" data-skill-cat="${i}" value="${esc(g.category)}" />
+          </div>
+          <div class="field">
+            <label for="sk-items-${i}">Skills (comma separated)</label>
+            <input type="text" id="sk-items-${i}" data-skill-items="${i}" value="${esc((g.items || []).join(", "))}" />
+          </div>
+        </div>`).join("");
+    }
+
+    function renderExpEditor() {
+      const host = document.getElementById("exp-list");
+      host.innerHTML = profile.experience.map((r, i) => `
+        <div class="card">
+          <div class="card-head">
+            <h3>${esc(r.title || "Role " + (i + 1))}</h3>
+            <button class="tool tool--danger" type="button" data-del-exp="${i}">Remove</button>
+          </div>
+          <div class="grid2">
+            <div class="field">
+              <label for="ex-title-${i}">Job title</label>
+              <input type="text" id="ex-title-${i}" data-exp="title" data-i="${i}" value="${esc(r.title)}" />
+            </div>
+            <div class="field">
+              <label for="ex-org-${i}">Organisation</label>
+              <input type="text" id="ex-org-${i}" data-exp="organization" data-i="${i}" value="${esc(r.organization)}" />
+            </div>
+            <div class="field">
+              <label for="ex-loc-${i}">Location</label>
+              <input type="text" id="ex-loc-${i}" data-exp="location" data-i="${i}" value="${esc(r.location)}" />
+            </div>
+            <div class="field">
+              <label for="ex-start-${i}">Start (e.g. Mar 2019)</label>
+              <input type="text" id="ex-start-${i}" data-exp="start" data-i="${i}" value="${esc(r.start)}" />
+            </div>
+            <div class="field">
+              <label for="ex-end-${i}">End (e.g. Present)</label>
+              <input type="text" id="ex-end-${i}" data-exp="end" data-i="${i}" value="${esc(r.end)}" />
+            </div>
+          </div>
+          <div class="field">
+            <label for="ex-bul-${i}">Bullets — one per line</label>
+            <textarea id="ex-bul-${i}" data-exp="bullets" data-i="${i}" rows="5">${esc((r.bullets || []).join("\n"))}</textarea>
+          </div>
+        </div>`).join("");
+    }
+
+    function renderProjEditor() {
+      const host = document.getElementById("proj-list");
+      host.innerHTML = profile.projects.map((p, i) => `
+        <div class="card">
+          <div class="card-head">
+            <h3>${esc(p.name || "Project " + (i + 1))}</h3>
+            <button class="tool tool--danger" type="button" data-del-proj="${i}">Remove</button>
+          </div>
+          <div class="grid2">
+            <div class="field">
+              <label for="pr-name-${i}">Name</label>
+              <input type="text" id="pr-name-${i}" data-proj="name" data-i="${i}" value="${esc(p.name)}" />
+            </div>
+            <div class="field">
+              <label for="pr-url-${i}">Link (optional)</label>
+              <input type="url" id="pr-url-${i}" data-proj="url" data-i="${i}" value="${esc(p.url)}" />
+            </div>
+          </div>
+          <div class="field">
+            <label for="pr-sum-${i}">One-line summary</label>
+            <input type="text" id="pr-sum-${i}" data-proj="summary" data-i="${i}" value="${esc(p.summary)}" />
+          </div>
+          <div class="field">
+            <label for="pr-bul-${i}">Bullets — one per line</label>
+            <textarea id="pr-bul-${i}" data-proj="bullets" data-i="${i}" rows="3">${esc((p.bullets || []).join("\n"))}</textarea>
+          </div>
+        </div>`).join("");
+    }
+
+    function renderCredEditor() {
+      const host = document.getElementById("cred-list");
+      const rows = [];
+      profile.education.forEach((e, i) => rows.push({kind: "education", i, item: e}));
+      profile.certifications.forEach((c, i) => rows.push({kind: "certifications", i, item: c}));
+      host.innerHTML = rows.map(({kind, i, item}) => {
+        const isEdu = kind === "education";
+        const title = isEdu ? item.credential : item.name;
+        const org = isEdu ? item.institution : item.issuer;
+        return `
+        <div class="card">
+          <div class="card-head">
+            <h3>${esc(title || (isEdu ? "Education" : "Certification"))}</h3>
+            <button class="tool tool--danger" type="button" data-del-cred="${kind}:${i}">Remove</button>
+          </div>
+          <div class="grid2">
+            <div class="field">
+              <label for="cr-t-${kind}-${i}">${isEdu ? "Credential" : "Certification"}</label>
+              <input type="text" id="cr-t-${kind}-${i}" data-cred="${kind}:${i}:${isEdu ? "credential" : "name"}" value="${esc(title)}" />
+            </div>
+            <div class="field">
+              <label for="cr-o-${kind}-${i}">${isEdu ? "Institution" : "Issuer"}</label>
+              <input type="text" id="cr-o-${kind}-${i}" data-cred="${kind}:${i}:${isEdu ? "institution" : "issuer"}" value="${esc(org)}" />
+            </div>
+            <div class="field">
+              <label for="cr-y-${kind}-${i}">Year</label>
+              <input type="text" id="cr-y-${kind}-${i}" data-cred="${kind}:${i}:year" value="${esc(item.year)}" />
+            </div>
+            <div class="field">
+              <label for="cr-v-${kind}-${i}">Verified — I actually hold this</label>
+              <input type="checkbox" id="cr-v-${kind}-${i}" data-cred-confirm="${kind}:${i}" ${item.confirmed ? "checked" : ""} />
+            </div>
+          </div>
+        </div>`;
+      }).join("");
+    }
+
+    function renderApps() {
+      const rows = profile.applications;
+      document.getElementById("app-rows").innerHTML = rows.map((a, i) => `
+        <tr>
+          <td>${esc(a.date)}</td><td>${esc(a.company)}</td><td>${esc(a.role)}</td>
+          <td>${esc(a.source)}</td><td>${esc(a.status)}</td>
+          <td><button class="tool tool--danger" type="button" data-del-app="${i}">×</button></td>
+        </tr>`).join("");
+      const replied = rows.filter(a => ["reply", "interview", "offer"].includes(a.status)).length;
+      const interviews = rows.filter(a => ["interview", "offer"].includes(a.status)).length;
+      document.getElementById("s-total").textContent = rows.length;
+      document.getElementById("s-reply").textContent =
+        rows.length ? Math.round(replied / rows.length * 100) + "%" : "0%";
+      document.getElementById("s-int").textContent = interviews;
+    }
+
+    /* ── Wiring ─────────────────────────────────────────────────────── */
+
+    function renderAll() {
+      renderSkillsEditor();
+      renderExpEditor();
+      renderProjEditor();
+      renderCredEditor();
+      renderApps();
+      renderPaper();
+      renderCoverage();
+      renderMatches();
+      renderLint();
+    }
+
+    function renderDerived() {
+      renderPaper();
+      renderCoverage();
+      renderMatches();
+      renderLint();
+    }
+
+    function loadForm() {
+      Object.keys(profile.contact).forEach(k => {
+        const el = document.querySelector('[data-contact="' + k + '"]');
+        if (el) el.value = profile.contact[k] || "";
+      });
+      const link = document.querySelector('[data-contact="link"]');
+      if (link) link.value = (profile.contact.links && profile.contact.links[0]
+        && profile.contact.links[0].url) || "";
+      document.getElementById("c-summary").value = profile.summary || "";
+      document.getElementById("j-company").value = profile.job.company || "";
+      document.getElementById("j-role").value = profile.job.role || "";
+      document.getElementById("j-text").value = profile.job.text || "";
+      document.getElementById("cl-text").value = profile.cover || "";
+      document.getElementById("tpl").value = profile.settings.template || "classic";
+    }
+
+    function save() {
+      try {
+        localStorage.setItem(STORE_KEY, JSON.stringify(profile));
+        setStatus("Saved to this device.");
+      } catch (e) {
+        setStatus("Could not save locally: " + e.message);
+      }
+    }
+
+    let statusTimer = null;
+    function setStatus(msg) {
+      const el = document.getElementById("save-status");
+      el.textContent = msg;
+      clearTimeout(statusTimer);
+      statusTimer = setTimeout(() => { el.textContent = ""; }, 2500);
+    }
+
+    function restore() {
+      try {
+        const raw = localStorage.getItem(STORE_KEY);
+        if (raw) profile = Object.assign(emptyProfile(), JSON.parse(raw));
+      } catch (e) { /* corrupt entry: start clean rather than crash */ }
+    }
+
+    function download(filename, text, type) {
+      const blob = new Blob([text], {type: type});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+
+    function slug(s) {
+      return String(s || "resume").toLowerCase().replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-|-$/g, "") || "resume";
+    }
+
+    function applyRules(data) {
+      RULES = data;
+      document.getElementById("rules-meta").textContent =
+        "Checking against " + RULES.taxonomy.length + " skill areas · rules v" +
+        RULES.version + " (" + RULES.updated + ")";
+      renderAll();
+    }
+
+    async function loadRules() {
+      try {
+        const resp = await fetch("assets/resume-rules.json", {cache: "no-store"});
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        applyRules(await resp.json());
+      } catch (e) {
+        // Opened straight from disk (file://), where fetch is blocked. Offer
+        // the file picker rather than leaving the page inert.
+        document.getElementById("rules-meta").innerHTML =
+          'Rules file could not be loaded automatically. ' +
+          '<button class="tool" type="button" id="btn-rules">Choose assets/resume-rules.json</button>';
+        document.getElementById("btn-rules").addEventListener("click", () => {
+          const picker = document.createElement("input");
+          picker.type = "file";
+          picker.accept = "application/json,.json";
+          picker.addEventListener("change", () => {
+            const f = picker.files[0];
+            if (!f) return;
+            const reader = new FileReader();
+            reader.onload = () => {
+              try { applyRules(JSON.parse(reader.result)); }
+              catch (err) { setStatus("That file is not valid JSON."); }
+            };
+            reader.readAsText(f);
+          });
+          picker.click();
+        });
+      }
+    }
+
+    function wire() {
+      // Contact fields.
+      document.querySelectorAll("[data-contact]").forEach(el => {
+        el.addEventListener("input", () => {
+          const key = el.dataset.contact;
+          if (key === "link") {
+            profile.contact.links = el.value.trim() ? [{label: "Link", url: el.value.trim()}] : [];
+          } else {
+            profile.contact[key] = el.value;
+          }
+          save(); renderDerived();
+        });
+      });
+
+      document.getElementById("c-summary").addEventListener("input", e => {
+        profile.summary = e.target.value; save(); renderDerived();
+      });
+
+      ["company", "role", "text"].forEach(k => {
+        document.getElementById("j-" + k).addEventListener("input", e => {
+          profile.job[k] = e.target.value; save(); renderDerived();
+        });
+      });
+
+      document.getElementById("cl-text").addEventListener("input", e => {
+        profile.cover = e.target.value; save();
+      });
+
+      document.getElementById("tpl").addEventListener("change", e => {
+        profile.settings.template = e.target.value; save(); renderPaper();
+      });
+
+      // Delegated editing for the dynamic card lists.
+      document.addEventListener("input", e => {
+        const el = e.target;
+        let touched = true;
+        if (el.dataset.skillCat !== undefined) {
+          profile.skills[+el.dataset.skillCat].category = el.value;
+        } else if (el.dataset.skillItems !== undefined) {
+          profile.skills[+el.dataset.skillItems].items =
+            el.value.split(",").map(s => s.trim()).filter(Boolean);
+        } else if (el.dataset.exp) {
+          const r = profile.experience[+el.dataset.i];
+          r[el.dataset.exp] = el.dataset.exp === "bullets"
+            ? textareaLines(el.value) : el.value;
+        } else if (el.dataset.proj) {
+          const p = profile.projects[+el.dataset.i];
+          p[el.dataset.proj] = el.dataset.proj === "bullets"
+            ? textareaLines(el.value) : el.value;
+        } else if (el.dataset.cred) {
+          const [kind, idx, field] = el.dataset.cred.split(":");
+          profile[kind][+idx][field] = el.value;
+        } else {
+          touched = false;
+        }
+        if (touched) { save(); renderDerived(); }
+      });
+
+      document.addEventListener("change", e => {
+        const el = e.target;
+        if (el.dataset.credConfirm) {
+          const [kind, idx] = el.dataset.credConfirm.split(":");
+          profile[kind][+idx].confirmed = el.checked;
+          save(); renderDerived();
+        }
+      });
+
+      // Delegated add/remove.
+      document.addEventListener("click", e => {
+        const el = e.target.closest("button");
+        if (!el) return;
+        const d = el.dataset;
+        if (d.delSkill !== undefined) { profile.skills.splice(+d.delSkill, 1); save(); renderAll(); }
+        else if (d.delExp !== undefined) { profile.experience.splice(+d.delExp, 1); save(); renderAll(); }
+        else if (d.delProj !== undefined) { profile.projects.splice(+d.delProj, 1); save(); renderAll(); }
+        else if (d.delCred !== undefined) {
+          const [kind, idx] = d.delCred.split(":");
+          profile[kind].splice(+idx, 1); save(); renderAll();
+        }
+        else if (d.delApp !== undefined) { profile.applications.splice(+d.delApp, 1); save(); renderApps(); }
+      });
+
+      document.getElementById("add-skill").addEventListener("click", () => {
+        profile.skills.push({category: "", items: []}); save(); renderAll();
+      });
+      document.getElementById("add-exp").addEventListener("click", () => {
+        profile.experience.push({title: "", organization: "", location: "",
+          start: "", end: "", bullets: []});
+        save(); renderAll();
+      });
+      document.getElementById("add-proj").addEventListener("click", () => {
+        profile.projects.push({name: "", url: "", summary: "", bullets: []});
+        save(); renderAll();
+      });
+      document.getElementById("add-cred").addEventListener("click", () => {
+        profile.certifications.push({name: "", issuer: "", year: "", confirmed: false});
+        save(); renderAll();
+      });
+
+      document.getElementById("add-app").addEventListener("click", () => {
+        const company = document.getElementById("a-company").value.trim();
+        if (!company) { setStatus("Add a company name first."); return; }
+        profile.applications.unshift({
+          date: new Date().toISOString().slice(0, 10),
+          company: company,
+          role: document.getElementById("a-role").value.trim(),
+          source: document.getElementById("a-source").value.trim(),
+          status: document.getElementById("a-status").value
+        });
+        ["a-company", "a-role", "a-source"].forEach(id =>
+          document.getElementById(id).value = "");
+        save(); renderApps();
+      });
+
+      // Toolbar.
+      document.getElementById("btn-template").addEventListener("click", async () => {
+        try {
+          const resp = await fetch("assets/resume-template.json", {cache: "no-store"});
+          if (!resp.ok) throw new Error("HTTP " + resp.status);
+          const t = await resp.json();
+          profile = Object.assign(emptyProfile(), t, {
+            education: (t.education || []).map(e => ({...e, confirmed: false})),
+            certifications: (t.certifications || []).map(c => ({...c, confirmed: false}))
+          });
+          save(); loadForm(); renderAll();
+          setStatus("Starter template loaded.");
+        } catch (err) {
+          setStatus("Could not load the template file (" + err.message + ").");
+        }
+      });
+
+      document.getElementById("btn-import").addEventListener("click", () =>
+        document.getElementById("file-import").click());
+
+      document.getElementById("file-import").addEventListener("change", e => {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = () => {
+          try {
+            profile = Object.assign(emptyProfile(), JSON.parse(reader.result));
+            save(); loadForm(); renderAll();
+            setStatus("Profile imported.");
+          } catch (err) {
+            setStatus("That file is not valid JSON.");
+          }
+        };
+        reader.readAsText(file);
+        e.target.value = "";
+      });
+
+      document.getElementById("btn-export").addEventListener("click", () => {
+        download(slug(profile.contact.name) + "-profile.json",
+          JSON.stringify(profile, null, 2), "application/json");
+      });
+
+      document.getElementById("btn-txt").addEventListener("click", () => {
+        download(slug(profile.contact.name) + "-resume.txt",
+          renderPlainText(), "text/plain");
+      });
+
+      document.getElementById("btn-print").addEventListener("click", () => window.print());
+
+      document.getElementById("btn-clear").addEventListener("click", () => {
+        if (!confirm("Erase the profile stored in this browser? Export first if you want a copy.")) return;
+        localStorage.removeItem(STORE_KEY);
+        profile = emptyProfile();
+        loadForm(); renderAll();
+        setStatus("Local data cleared.");
+      });
+
+      document.getElementById("btn-cover").addEventListener("click", () => {
+        if (!RULES) { setStatus("Rules are still loading."); return; }
+        profile.cover = generateCover();
+        document.getElementById("cl-text").value = profile.cover;
+        save();
+        setStatus("Draft generated — edit it before sending.");
+      });
+
+      document.getElementById("btn-cover-copy").addEventListener("click", async () => {
+        const text = document.getElementById("cl-text").value;
+        try {
+          await navigator.clipboard.writeText(text);
+          setStatus("Copied.");
+        } catch (e) {
+          setStatus("Clipboard blocked — select the text and copy manually.");
+        }
+      });
+    }
+
+    restore();
+    loadForm();
+    wire();
+    loadRules();
+  </script>
+
+</body>
+</html>

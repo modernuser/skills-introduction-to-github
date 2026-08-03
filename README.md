@@ -25,6 +25,14 @@ investment advice, no matter how a request is framed.
 - **[Dartboard experiment](https://modernuser.github.io/skills-introduction-to-github/dartboard.html)** —
   three paper portfolios (owner picks / seeded-random 11 / SPY), same
   fake $10,000, live **realized** alpha vs SPY
+- **[Resume builder](https://modernuser.github.io/skills-introduction-to-github/resume.html)** —
+  paste a job description and get keyword coverage against a 38-group
+  skill taxonomy, each requirement paired with your strongest matching
+  bullet, deterministic ATS lint (parser-hostile glyphs, weak openers,
+  quantified-bullet ratio), three single-column templates, a cover-letter
+  draft, and an application log that measures your **real** reply rate.
+  The tool is public; **your profile never leaves your browser** and is
+  never committed ([docs/resume-builder.md](docs/resume-builder.md))
 - **Notifications by email and Slack**: weekday pre-market briefing with
   corroboration-tagged headlines; same-day alerts when any tracked ticker
   moves ±3%; pipeline-failure alerts. Email arrives via auto-created
@@ -51,11 +59,12 @@ cadence is several runs/day — the site says so, honestly.
 
 | Path | Purpose |
 |---|---|
-| `index.html` / `tracker.html` / `dartboard.html` | The site |
+| `index.html` / `tracker.html` / `dartboard.html` / `resume.html` | The site |
 | `watchlist.json` | Theme watchlist + market core + sectors — edit, no code |
+| `assets/` | Resume builder rules + placeholder template — **never personal data** |
 | `scripts/` | Pipeline (fetch, validate, rank, notify, report) — stdlib Python only |
 | `data/` | Committed inputs only; **generated datasets live on the `data` branch** |
-| `tests/python/` | 83 offline tests (`python3 -m pytest tests/python -q`) |
+| `tests/python/` | 116 offline tests (`python3 -m pytest tests/python -q`) |
 | `.github/workflows/` | Refresh, briefing, daily-ops, CI, deploy, gated AI loop |
 | `docs/` | Architecture, contracts, privacy, security, automation, model routing, runbook, roadmap, audit |
 | `reports/` | Daily reports + quality scorecard (generated) |

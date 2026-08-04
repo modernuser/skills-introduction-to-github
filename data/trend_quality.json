@@ -1,0 +1,554 @@
+{
+ "generated": "2026-08-04T23:31:14Z",
+ "method": "OLS of log(close) on session index over 90 sessions; ranked by annualized slope x r2",
+ "note": "r2 measures how straight the PAST price path was, not the probability of anything. It is a goodness-of-fit statistic, not a forecast and not advice. Whether straight past trends continue is what the dartboard experiment tests, against a random control.",
+ "window_sessions": 90,
+ "min_r2": 0.88,
+ "select_count": 10,
+ "measured": 499,
+ "qualified": 18,
+ "selected": [
+  {
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "last_close": 366.34,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1332.43,
+   "r2": 0.9237,
+   "sessions": 90
+  },
+  {
+   "symbol": "HUM",
+   "name": "Humana",
+   "last_close": 362.16,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1215.35,
+   "r2": 0.8852,
+   "sessions": 90
+  },
+  {
+   "symbol": "DVA",
+   "name": "DaVita",
+   "last_close": 227.99,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 391.76,
+   "r2": 0.8898,
+   "sessions": 90
+  },
+  {
+   "symbol": "CVS",
+   "name": "CVS Health",
+   "last_close": 104.42,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 240.75,
+   "r2": 0.9018,
+   "sessions": 90
+  },
+  {
+   "symbol": "STT",
+   "name": "State Street Corporation",
+   "last_close": 185.23,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 176.75,
+   "r2": 0.926,
+   "sessions": 90
+  },
+  {
+   "symbol": "MNST",
+   "name": "Monster Beverage",
+   "last_close": 94.18,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 162.88,
+   "r2": 0.8953,
+   "sessions": 90
+  },
+  {
+   "symbol": "BXP",
+   "name": "BXP, Inc.",
+   "last_close": 70.67,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 143.48,
+   "r2": 0.933,
+   "sessions": 90
+  },
+  {
+   "symbol": "MET",
+   "name": "MetLife",
+   "last_close": 96.13,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 135.75,
+   "r2": 0.9475,
+   "sessions": 90
+  },
+  {
+   "symbol": "AIZ",
+   "name": "Assurant",
+   "last_close": 281.31,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 124.61,
+   "r2": 0.9497,
+   "sessions": 90
+  },
+  {
+   "symbol": "GL",
+   "name": "Globe Life",
+   "last_close": 183.9,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 122.49,
+   "r2": 0.8963,
+   "sessions": 90
+  }
+ ],
+ "ranked": [
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "last_close": 467.27,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 2317.12,
+   "r2": 0.8515,
+   "sessions": 90
+  },
+  {
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "last_close": 892.67,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1912.63,
+   "r2": 0.6997,
+   "sessions": 90
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "last_close": 288.15,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1565.71,
+   "r2": 0.8264,
+   "sessions": 90
+  },
+  {
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "last_close": 366.34,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1332.43,
+   "r2": 0.9237,
+   "sessions": 90
+  },
+  {
+   "symbol": "HUM",
+   "name": "Humana",
+   "last_close": 362.16,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1215.35,
+   "r2": 0.8852,
+   "sessions": 90
+  },
+  {
+   "symbol": "FTNT",
+   "name": "Fortinet",
+   "last_close": 168.29,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1102.73,
+   "r2": 0.8683,
+   "sessions": 90
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "last_close": 518.58,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 1282.9,
+   "r2": 0.7309,
+   "sessions": 90
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "last_close": 52.39,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 997.14,
+   "r2": 0.8145,
+   "sessions": 90
+  },
+  {
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "last_close": 211.22,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 925.89,
+   "r2": 0.8692,
+   "sessions": 90
+  },
+  {
+   "symbol": "NTAP",
+   "name": "NetApp",
+   "last_close": 190.46,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 582.97,
+   "r2": 0.8422,
+   "sessions": 90
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "last_close": 1427.62,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 944.75,
+   "r2": 0.492,
+   "sessions": 90
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "last_close": 64.07,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 610.57,
+   "r2": 0.756,
+   "sessions": 90
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "last_close": 845.35,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 670.3,
+   "r2": 0.6114,
+   "sessions": 90
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "last_close": 218.59,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 767.54,
+   "r2": 0.4998,
+   "sessions": 90
+  },
+  {
+   "symbol": "DVA",
+   "name": "DaVita",
+   "last_close": 227.99,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 391.76,
+   "r2": 0.8898,
+   "sessions": 90
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "last_close": 548.56,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 505.92,
+   "r2": 0.5974,
+   "sessions": 90
+  },
+  {
+   "symbol": "AMAT",
+   "name": "Applied Materials",
+   "last_close": 546.62,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 379.79,
+   "r2": 0.7088,
+   "sessions": 90
+  },
+  {
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
+   "last_close": 126.71,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 549.17,
+   "r2": 0.4685,
+   "sessions": 90
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "last_close": 100.86,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 555.65,
+   "r2": 0.3957,
+   "sessions": 90
+  },
+  {
+   "symbol": "CVS",
+   "name": "CVS Health",
+   "last_close": 104.42,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 240.75,
+   "r2": 0.9018,
+   "sessions": 90
+  },
+  {
+   "symbol": "GEN",
+   "name": "Gen Digital",
+   "last_close": 28.27,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 240.33,
+   "r2": 0.8073,
+   "sessions": 90
+  },
+  {
+   "symbol": "BAX",
+   "name": "Baxter International",
+   "last_close": 28.35,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 221.9,
+   "r2": 0.8524,
+   "sessions": 90
+  },
+  {
+   "symbol": "URI",
+   "name": "United Rentals",
+   "last_close": 1150.13,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 228.07,
+   "r2": 0.7803,
+   "sessions": 90
+  },
+  {
+   "symbol": "FFIV",
+   "name": "F5, Inc.",
+   "last_close": 412.25,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 207.78,
+   "r2": 0.8082,
+   "sessions": 90
+  },
+  {
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "last_close": 86.35,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 227.99,
+   "r2": 0.7353,
+   "sessions": 90
+  },
+  {
+   "symbol": "UNH",
+   "name": "UnitedHealth Group",
+   "last_close": 407.55,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 214.89,
+   "r2": 0.7735,
+   "sessions": 90
+  },
+  {
+   "symbol": "STT",
+   "name": "State Street Corporation",
+   "last_close": 185.23,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 176.75,
+   "r2": 0.926,
+   "sessions": 90
+  },
+  {
+   "symbol": "UAL",
+   "name": "United Airlines Holdings",
+   "last_close": 132.62,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 211.55,
+   "r2": 0.7588,
+   "sessions": 90
+  },
+  {
+   "symbol": "CSCO",
+   "name": "Cisco",
+   "last_close": 121.74,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 239.36,
+   "r2": 0.6513,
+   "sessions": 90
+  },
+  {
+   "symbol": "DOC",
+   "name": "Healthpeak Properties",
+   "last_close": 21.62,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 179.57,
+   "r2": 0.8666,
+   "sessions": 90
+  },
+  {
+   "symbol": "DAL",
+   "name": "Delta Air Lines",
+   "last_close": 92.77,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 175.65,
+   "r2": 0.8361,
+   "sessions": 90
+  },
+  {
+   "symbol": "MNST",
+   "name": "Monster Beverage",
+   "last_close": 94.18,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 162.88,
+   "r2": 0.8953,
+   "sessions": 90
+  },
+  {
+   "symbol": "WST",
+   "name": "West Pharmaceutical Services",
+   "last_close": 348.76,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 170.64,
+   "r2": 0.836,
+   "sessions": 90
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "last_close": 607.2,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 220.33,
+   "r2": 0.6388,
+   "sessions": 90
+  },
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "last_close": 93.51,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 227.84,
+   "r2": 0.6139,
+   "sessions": 90
+  },
+  {
+   "symbol": "LLY",
+   "name": "Lilly (Eli)",
+   "last_close": 1115.6801,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 162.38,
+   "r2": 0.8374,
+   "sessions": 90
+  },
+  {
+   "symbol": "BXP",
+   "name": "BXP, Inc.",
+   "last_close": 70.67,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 143.48,
+   "r2": 0.933,
+   "sessions": 90
+  },
+  {
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "last_close": 234.12,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 193.75,
+   "r2": 0.6644,
+   "sessions": 90
+  },
+  {
+   "symbol": "MET",
+   "name": "MetLife",
+   "last_close": 96.13,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 135.75,
+   "r2": 0.9475,
+   "sessions": 90
+  },
+  {
+   "symbol": "SWK",
+   "name": "Stanley Black & Decker",
+   "last_close": 102.4,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 146.49,
+   "r2": 0.8638,
+   "sessions": 90
+  },
+  {
+   "symbol": "BEN",
+   "name": "Franklin Resources",
+   "last_close": 35.77,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 164.84,
+   "r2": 0.7635,
+   "sessions": 90
+  },
+  {
+   "symbol": "AIZ",
+   "name": "Assurant",
+   "last_close": 281.31,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 124.61,
+   "r2": 0.9497,
+   "sessions": 90
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "last_close": 28.82,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 167.08,
+   "r2": 0.6885,
+   "sessions": 90
+  },
+  {
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "last_close": 111.39,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 131.73,
+   "r2": 0.8438,
+   "sessions": 90
+  },
+  {
+   "symbol": "GL",
+   "name": "Globe Life",
+   "last_close": 183.9,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 122.49,
+   "r2": 0.8963,
+   "sessions": 90
+  },
+  {
+   "symbol": "ADP",
+   "name": "Automatic Data Processing",
+   "last_close": 270.62,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 124.28,
+   "r2": 0.8571,
+   "sessions": 90
+  },
+  {
+   "symbol": "TROW",
+   "name": "T. Rowe Price",
+   "last_close": 115.79,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 118.29,
+   "r2": 0.8944,
+   "sessions": 90
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "last_close": 317.74,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 214.7,
+   "r2": 0.4902,
+   "sessions": 90
+  },
+  {
+   "symbol": "SJM",
+   "name": "J.M. Smucker Company (The)",
+   "last_close": 119.17,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 119.87,
+   "r2": 0.8706,
+   "sessions": 90
+  },
+  {
+   "symbol": "IBKR",
+   "name": "Interactive Brokers",
+   "last_close": 88.63,
+   "as_of": "2026-08-04",
+   "slope_annual_pct": 136.67,
+   "r2": 0.7375,
+   "sessions": 90
+  }
+ ]
+}

@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-04T22:31:31Z",
+ "generated": "2026-08-04T23:31:34Z",
  "market": {
   "session": "after",
   "label": "After hours",
-  "now_et": "2026-08-04 18:31 EDT",
+  "now_et": "2026-08-04 19:31 EDT",
   "next": "after-hours end",
   "next_at_et": "2026-08-04 20:00 EDT",
-  "minutes_to_next": 88,
+  "minutes_to_next": 28,
   "last_close_et": "2026-08-04 16:00 EDT",
   "max_expected_age_hours": 8
  },
- "duration_ms": 4,
+ "duration_ms": 5,
  "source_errors": [],
  "primary_source_failures_count": 35,
  "week52_ranges": {
@@ -55,16 +55,20 @@
   "sector_depth": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-03T23:34:37Z",
+   "updated": "2026-08-04T23:31:14Z",
    "records": 110
   },
   "factor_lab": {
-   "present": false,
-   "status": "missing"
+   "present": true,
+   "status": "ok",
+   "updated": "2026-08-04T23:31:34Z",
+   "records": 0
   },
   "trend_quality": {
-   "present": false,
-   "status": "missing"
+   "present": true,
+   "status": "ok",
+   "updated": "2026-08-04T23:31:14Z",
+   "records": 0
   }
  },
  "overall": "ok"

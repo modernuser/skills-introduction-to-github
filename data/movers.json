@@ -1,0 +1,148 @@
+{
+ "updated": "2026-08-04T23:46:23Z",
+ "coverage": 501,
+ "gainers": [
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
+   "sector": "Information Technology",
+   "close": 162.66,
+   "pct": 29.45
+  },
+  {
+   "symbol": "ZBRA",
+   "name": "Zebra Technologies",
+   "sector": "Information Technology",
+   "close": 368.83,
+   "pct": 26.47
+  },
+  {
+   "symbol": "IT",
+   "name": "Gartner",
+   "sector": "Information Technology",
+   "close": 185.79,
+   "pct": 22.61
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 218.59,
+   "pct": 12.81
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 323.73,
+   "pct": 12.35
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 100.86,
+   "pct": 10.84
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "close": 1427.62,
+   "pct": 10.84
+  },
+  {
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "close": 31.69,
+   "pct": 10.65
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 403.56,
+   "pct": 10.32
+  },
+  {
+   "symbol": "LDOS",
+   "name": "Leidos",
+   "sector": "Industrials",
+   "close": 130.6,
+   "pct": 10.01
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "APTV",
+   "name": "Aptiv",
+   "sector": "Consumer Discretionary",
+   "close": 47.72,
+   "pct": -16.62
+  },
+  {
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 117.04,
+   "pct": -15.48
+  },
+  {
+   "symbol": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "sector": "Consumer Discretionary",
+   "close": 33.82,
+   "pct": -9.72
+  },
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 143.23,
+   "pct": -8.15
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "close": 48.87,
+   "pct": -7.84
+  },
+  {
+   "symbol": "ROK",
+   "name": "Rockwell Automation",
+   "sector": "Industrials",
+   "close": 445.23,
+   "pct": -7.43
+  },
+  {
+   "symbol": "GWW",
+   "name": "W. W. Grainger",
+   "sector": "Industrials",
+   "close": 1300.45,
+   "pct": -5.16
+  },
+  {
+   "symbol": "PLD",
+   "name": "Prologis",
+   "sector": "Real Estate",
+   "close": 139.05,
+   "pct": -3.54
+  },
+  {
+   "symbol": "FANG",
+   "name": "Diamondback Energy",
+   "sector": "Energy",
+   "close": 191.87,
+   "pct": -3.46
+  },
+  {
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "sector": "Health Care",
+   "close": 111.39,
+   "pct": -3.32
+  }
+ ]
+}

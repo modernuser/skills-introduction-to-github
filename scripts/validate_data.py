@@ -48,7 +48,7 @@ def write_health(q, newest, started) -> None:
         "status": "stale" if behind_close > 1 else "ok",
     }
     for name in ("news", "movers", "rotation", "portfolios", "extended",
-                 "sector_depth"):
+                 "sector_depth", "factor_lab"):
         path = f"data/{name}.json"
         if not os.path.exists(path):
             files[name] = {"present": False, "status": "missing"}
@@ -142,6 +142,24 @@ def main() -> int:
             ordered = [r["vol_30d"] for r in rows]
             if ordered != sorted(ordered, reverse=True):
                 fail(f"sector {sector} is not ordered by volatility")
+
+    if os.path.exists("data/factor_lab.json"):
+        with open("data/factor_lab.json") as f:
+            fl = json.load(f)
+        # Structural enforcement of the project's standing boundary: this
+        # file reports how well features track outcomes, and must never
+        # acquire a direction, a confidence score, or a target flag.
+        banned = {"direction", "likelihood", "likelihood_pct", "signal",
+                  "target_acquired", "recommendation", "buy", "sell"}
+        for result in fl.get("results", []):
+            for section in ("features", "noise_control"):
+                leaked = banned & {k.lower() for k in result.get(section, {})}
+                if leaked:
+                    fail(f"factor_lab {result.get('symbol')} emits {leaked}")
+            stats = result.get("features", {})
+            if stats.get("evaluated") and stats.get("oos_sessions", 0) < 2:
+                fail(f"factor_lab {result.get('symbol')} claims an "
+                     "evaluation with no out-of-sample points")
 
     if os.path.exists("data/portfolios.json"):
         with open("data/portfolios.json") as f:

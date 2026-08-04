@@ -86,6 +86,39 @@ cap. Written once daily after the close by `sector-depth.yml`; the page
 merges in fresher prices from `sp500_closes.json` so the table moves
 intraday without any extra fetching.
 
+## factor_lab.json — feature predictability diagnostic
+```
+{ generated, method, note, min_train_sessions: 120,
+  median_oos_r2: <float|null>, symbols_evaluated: <int>,
+  results: [ { symbol, sessions, rows_modelled, returns_winsorized,
+               features:      { evaluated, oos_sessions, first_oos, last_oos,
+                                oos_r2, information_coefficient, ic_t_stat,
+                                direction_agreement_pct },
+               noise_control: { ...same shape... } } ],
+  errors: [str] }
+```
+Answers one question per symbol: **do `vol_surge` and `vwap_momentum`
+predict the next session's return at all?** Everything is walk-forward —
+fit on the past, predict one unseen session, step, repeat — so `oos_r2`
+is genuinely out-of-sample and **can be negative**, meaning the model did
+worse than predicting a constant. That is a normal reading for next-day
+returns, not a fault.
+
+`noise_control` runs the identical protocol on a feature with no
+predictive power by construction. Read every `features` block against its
+own control rather than against zero: if the two are comparable, the real
+features are not measurably better than chance.
+
+`ic_t_stat` is the information coefficient (Spearman rank correlation
+between prediction and outcome) scaled by its null standard error, so
+|t| < 2 is indistinguishable from chance. It replaces a confidence
+percentage that had no probabilistic meaning.
+
+Written best-effort by `sector-depth.yml` after the close. The validator
+**rejects** any `direction`, `likelihood`, `signal`, `target_acquired`, or
+`recommendation` key in this file — the project's no-signals boundary is
+enforced at publish time here, not just by convention.
+
 ## notified_moves.json (state)
 `{ date, symbols: [..] }` — each ticker notifies at most once per day.
 

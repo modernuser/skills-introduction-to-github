@@ -9,6 +9,16 @@ markers per docs/model-routing.md.
 *(empty — hardening series complete; daily-ops selects from Next)*
 
 ## Next
+- **Factor lab page** — surface `factor_lab.json` as a table (OOS R²,
+  IC, t-stat, each beside its noise control). The point of the page is
+  the comparison: a reading only means something next to what no-skill
+  looks like on the same data. Display-only, no new fetching. Tier 2,
+  low risk, autonomous-safe.
+- **Second-generation features for the lab** — the harness is generic;
+  only the feature functions are specific. Candidates worth *measuring*
+  (not assuming): overnight-gap reversal, volume-weighted range
+  compression, sector-relative momentum. Each is accepted or rejected on
+  its out-of-sample IC vs. control, not on plausibility.
 - **More risk measures on sector depth** — max drawdown (1y), beta vs
   SPY, and a ±5% news-event footprint per name. The volatility pipeline
   already fetches the history these need; each is a display-only add.

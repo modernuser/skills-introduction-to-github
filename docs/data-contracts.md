@@ -18,8 +18,18 @@ Timestamps are UTC ISO-8601 (`YYYY-MM-DDTHH:MM:SSZ`); dates are
 Quote = { symbol, name, date, close, d1, w1, m1,
           significant: bool, source: "stooq"|"yahoo-fallback" }
 ```
+Also emitted: `primary_source_failures` (why the primary source was
+skipped, first 20), `fallback_count` (symbols served by the fallback —
+counted independently of the message list, which the circuit breaker
+truncates), and `ranges_present`/`ranges_expected`.
+
 `hi52/lo52` (52-week closing range) appear only when ≥200 sessions of
-history were available — the 3-month fallback never fakes a year.
+history were available, from either source. The fallback requests **2
+years** for exactly this reason: when it requested 3 months, a primary
+outage silently stripped the range off every tile while every run still
+reported success. `ranges_present` exists so that shortfall is a number
+daily-ops can alarm on rather than an absence nobody notices.
+
 Validator: ≥5 quotes, exactly 11 sectors, positive closes, numeric moves,
 close within [lo52, hi52], newest date ≤6 days old.
 

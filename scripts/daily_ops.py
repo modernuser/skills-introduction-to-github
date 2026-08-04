@@ -174,6 +174,16 @@ def main() -> int:
         findings.append(
             f"primary price source degraded: {fallbacks} symbol(s) served by "
             "the fallback (52-week ranges are unavailable on fallback data)")
+    ranges = health.get("week52_ranges") or {}
+    present, expected = ranges.get("present"), ranges.get("expected")
+    if isinstance(present, int) and isinstance(expected, int) and expected:
+        # Silent feature loss: the tiles keep rendering without a 52-week
+        # range and every run still reports success. Aug 2026: 0 of 13.
+        if present < expected / 2:
+            findings.append(
+                f"52-week ranges missing on {expected - present}/{expected} "
+                "tiles — the price source is not supplying enough history")
+
     if published.get("checked") and not published.get("ok", True):
         findings.append(
             "PUBLISHED DATA IS STALE — the site is serving "
@@ -187,7 +197,9 @@ def main() -> int:
         "broken_internal_links": broken,
         "secret_scan": {"method": "in-repo pattern scan (GHAS unavailable)",
                         "hits": secrets},
-        "data_health": {"overall": health.get("overall"), "stale_sections": stale},
+        "data_health": {"overall": health.get("overall"),
+                        "stale_sections": stale,
+                        "week52_ranges": health.get("week52_ranges")},
         "published_freshness": published,
         "workflow_reliability": workflows,
         "open_findings": AUDIT_OPEN,

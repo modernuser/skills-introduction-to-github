@@ -28,6 +28,11 @@ jobs:
       - name: Rank sectors by realized volatility
         run: python3 scripts/sector_depth.py
 
+      # Feature predictability diagnostic. Best-effort: it is a report
+      # about the data, and a failed report must never cost the rankings.
+      - name: Measure feature predictability
+        run: python3 scripts/factor_lab.py || echo "factor lab failed; rankings continue"
+
       - name: Validate data
         run: python3 scripts/validate_data.py
 

@@ -33,7 +33,7 @@
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 417.09
+     "last_close": 417.17
     },
     {
      "symbol": "INTC",
@@ -82,12 +82,12 @@
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 140.19
+     "last_close": 139.9
     }
    ],
-   "value": 10735.07,
-   "return_pct": 7.35,
-   "alpha_pp": 5.56
+   "value": 10732.99,
+   "return_pct": 7.33,
+   "alpha_pp": 5.53
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -172,7 +172,7 @@
    ],
    "value": 10000.0,
    "return_pct": 0.0,
-   "alpha_pp": -1.79
+   "alpha_pp": -1.8
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,11 +182,11 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 771.23
+     "last_close": 771.33
     }
    ],
-   "value": 10178.97,
-   "return_pct": 1.79,
+   "value": 10180.29,
+   "return_pct": 1.8,
    "alpha_pp": -0.0
   }
  },
@@ -199,9 +199,9 @@
   },
   {
    "date": "2026-08-04",
-   "owner": 7.35,
+   "owner": 7.33,
    "dartboard": 0.0,
-   "spy": 1.79
+   "spy": 1.8
   }
  ],
  "asof": "2026-08-04"

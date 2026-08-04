@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-04T18:10:43Z",
+ "updated": "2026-08-04T20:08:00Z",
  "news": {
   "NVDA": [
    {
-    "title": "The S&P 500 Is Up 13% This Year. Is It Overdue for a Steep Decline?",
-    "link": "https://www.fool.com/investing/2026/08/04/the-sp-500-is-up-13-this-year-is-it-overdue-for-a/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:55:28 +0000"
+    "title": "Nvidia-Backed Startup Quitely Builds Big Business",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-startup-quitely-builds-200402437.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:04:02 +0000"
    },
    {
-    "title": "BYD's Bold Move Could Open It Up to New Markets. But Is the Stock a Buy?",
-    "link": "https://www.fool.com/investing/2026/08/04/byd-bold-move-open-new-market-stock-buy/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:50:00 +0000"
+    "title": "The 4:1 Leverage Ratio Defining the AI Era",
+    "link": "https://finance.yahoo.com/technology/ai/articles/4-1-leverage-ratio-defining-195928825.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:59:28 +0000"
    },
    {
-    "title": "Nvidia's Blackwell Boom Reaches Corvex",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-blackwell-boom-reaches-corvex-174434779.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:44:34 +0000"
+    "title": "Cathie Wood Invests $32.2 Million in Surging Tech Stocks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-32-2-195712605.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:57:12 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-    "link": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:22:16 +0000"
+    "title": "Cathie Wood Invests $32.2 Million in Surging Tech Stocks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-32-2-195712605.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:57:12 +0000"
    },
    {
-    "title": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
-    "link": "https://finance.yahoo.com/m/edab3460-4bf7-3d61-9c81-4cee716adc83/nvidia-tops-key-level-as-amd.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:12:39 +0000"
+    "title": "5-Star Analyst Makes Bold AMD Call Before Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-makes-bold-195354865.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:53:54 +0000"
    },
    {
-    "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
-    "link": "https://247wallst.com/investing/2026/08/04/intel-soars-10-amd-jumps-8-broadcom-rises-6-as-chip-stocks-ride-a-risk-on-rally/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 16:36:11 +0000"
+    "title": "Microsoft CEO Satya Nadella Just Announced Great News for AMD Stock Investors",
+    "link": "https://www.fool.com/investing/2026/08/04/microsoft-ceo-satya-nadella-just-announced-great-n/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:50:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mediatek-wants-20-custom-ai-182411966.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:24:11 +0000"
+   },
    {
     "title": "Anthropic's Google Chip Procurement Could Lead To Another $36B Debt Financing Round",
     "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-google-chip-procurement-could-lead-to-another-36-b-debt-financing-round/cZo5qr1RJ47?.tsrc=rss",
@@ -45,113 +50,108 @@
     "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
     "link": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 17:22:16 +0000"
-   },
-   {
-    "title": "Why Broadcom Stock Rallied Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-broadcom-stock-rallied-today/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:12:02 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mediatek-wants-20-custom-ai-182411966.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:24:11 +0000"
+   },
+   {
+    "title": "Secretive AI Lab Chasing \u2018Superintelligence\u2019 Announces Massive Investment From NVIDIA. Here\u2019s Why it Matters.",
+    "link": "https://247wallst.com/investing/2026/08/04/secretive-ai-lab-chasing-superintelligence-announces-massive-investment-from-nvidia-heres-why-it-matters/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:08:21 +0000"
+   },
+   {
     "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
     "link": "https://www.fool.com/investing/2026/08/04/druckenmiller-hold-tsmc-chip-nvidia-amd/?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 10:05:00 +0000"
-   },
-   {
-    "title": "Asia Hedge Funds Suffer Widespread Losses in July Market Rout",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-hedge-funds-suffer-widespread-084707489.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 08:47:07 +0000"
-   },
-   {
-    "title": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
-    "link": "https://stocktwits.com/news-articles/markets/equity/palantir-s-rule-of-40-score-hit-155-here-s-the-math-and-why-it-matters-for-software-valuations/cZo5OP3RJER?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 07:21:13 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Intel's Packaging Progress Points to Google",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intels-packaging-progress-points-google-195322309.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:53:22 +0000"
+   },
+   {
+    "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
+    "link": "https://finance.yahoo.com/m/f3ff39ea-18e1-38df-9674-60ba27148fb2/why-nvidia-stock-still-trades.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:05:00 +0000"
+   },
+   {
     "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
     "link": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 17:22:16 +0000"
-   },
-   {
-    "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
-    "link": "https://247wallst.com/investing/2026/08/04/intel-soars-10-amd-jumps-8-broadcom-rises-6-as-chip-stocks-ride-a-risk-on-rally/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 16:36:11 +0000"
-   },
-   {
-    "title": "Why Intel Stock Fell 35% Last Month",
-    "link": "https://www.fool.com/investing/2026/08/04/why-intel-stock-fell-35-last-month/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:30:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-    "link": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:22:16 +0000"
+    "title": "Micron Stock Soars After New AI Storage Platform Debut",
+    "link": "https://finance.yahoo.com/technology/ai/articles/micron-stock-soars-ai-storage-200140582.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:01:40 +0000"
    },
    {
-    "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
-    "link": "https://247wallst.com/investing/2026/08/04/dell-and-super-micro-rally-10-hewlett-packard-enterprise-climbs-6-as-ai-server-stocks-surge/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:20:12 +0000"
+    "title": "Samsung Retakes Lead as Micron Closes In",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-retakes-lead-micron-closes-195810393.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:58:10 +0000"
    },
    {
-    "title": "Semiconductor ETFs Surge up to 19% in Huge Rally as the AI Trade Ramps Back Up",
-    "link": "https://247wallst.com/investing/etf/2026/08/04/semiconductor-etfs-surge-up-to-19-in-huge-rally-as-the-ai-trade-ramps-back-up/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:19:29 +0000"
+    "title": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/f980eaa4-35b7-39d3-a22e-1529b3162dbb/spacex%2C-palantir%2C-amd%2C.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:25:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-    "link": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 17:22:16 +0000"
+    "title": "The great AI trade is back, with these tech names leading markets: Chart of the Day",
+    "link": "https://finance.yahoo.com/video/great-ai-trade-back-tech-191404891.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:14:04 +0000"
    },
    {
-    "title": "Sandisk (SNDK) Faces An AI Storage Test On A 27% Undervalued View",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-faces-ai-storage-161431425.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 16:14:31 +0000"
+    "title": "SK hynix, Sandisk race to fix AI\u2019s next chip bottleneck",
+    "link": "https://www.thestreet.com/technology/sk-hynix-sandisk-ai-memory-bottleneck?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:13:00 +0000"
    },
    {
-    "title": "Why Sandisk Stock Soared Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-sandisk-stock-soared-today/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:13:56 +0000"
+    "title": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/f980eaa4-35b7-39d3-a22e-1529b3162dbb/spacex%2C-palantir%2C-amd%2C.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:25:00 +0000"
    }
   ],
   "WDC": [
    {
+    "title": "SK hynix, Sandisk race to fix AI\u2019s next chip bottleneck",
+    "link": "https://www.thestreet.com/technology/sk-hynix-sandisk-ai-memory-bottleneck?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:13:00 +0000"
+   },
+   {
+    "title": "Buy Western Digital (WDC) Stock as Q4 Earnings Approach?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-western-digital-wdc-stock-180800859.html?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:08:00 +0000"
+   },
+   {
     "title": "Should Investors Buy SIMO or Wait Despite Its Premium Valuation?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-simo-wait-despite-154500530.html?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 15:45:00 +0000"
-   },
-   {
-    "title": "Why Silicon Motion Fell 21.1% in the Past Month and What Comes Next",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-silicon-motion-fell-21-154200683.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:42:00 +0000"
-   },
-   {
-    "title": "Can AI Storage Demand Make SIMO a Long-Term Enterprise Winner?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-storage-demand-simo-long-153900137.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:39:00 +0000"
    }
   ],
   "STX": [
    {
-    "title": "Sandisk Jumps 8%, Micron Gains 6%, SK Hynix Climbs 4% as Wall Street Hikes Price Targets on AI Memory Boom",
-    "link": "https://247wallst.com/investing/2026/08/04/sandisk-jumps-8-micron-gains-6-sk-hynix-climbs-4-as-wall-street-hikes-price-targets-on-ai-memory-boom/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 14:52:31 +0000"
+    "title": "Seagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.",
+    "link": "https://www.barchart.com/story/news/3602024/seagate-rallies-on-strong-q4-results-and-guidance-what-does-this-mean-for-stx-stock-here?.tsrc=rss",
+    "pubDate": "Sun, 02 Aug 2026 13:00:02 +0000"
    },
    {
-    "title": "5 Momentum Stocks to Buy for August Despite a Mixed July",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/5-momentum-stocks-buy-august-114000334.html?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 11:40:00 +0000"
+    "title": "Is Seagate (STX) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-solid-growth-stock-164502812.html?.tsrc=rss",
+    "pubDate": "Fri, 31 Jul 2026 16:45:02 +0000"
    },
    {
-    "title": "The Price of Reinvention for SanDisk Stock",
-    "link": "https://www.trefis.com/articles/609833/the-price-of-reinvention-for-sandisk-stock/2026-08-04?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 11:25:11 +0000"
+    "title": "AI infrastructure fuels rising cloud storage demand across data centres",
+    "link": "https://www.techradar.com/pro/could-seagate-follow-micron-90-of-its-hard-drive-capacity-is-going-to-enterprise-with-customers-scrambling-to-secure-hdds-in-2029?.tsrc=rss",
+    "pubDate": "Sun, 02 Aug 2026 17:15:00 +0000"
    }
   ],
   "SOXX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
+    "link": "https://247wallst.com/investing/2026/08/04/wall-street-short-sellers-piled-into-amazon-and-microsoft-at-historic-rates-before-earnings-now-theyre-rallying/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:14:03 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171253443.html?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 17:12:53 +0000"
@@ -198,11 +203,6 @@
     "title": "Chart Storm: 10 Reasons AI Stocks Have Bottomed",
     "link": "https://finance.yahoo.com/technology/ai/articles/chart-storm-10-reasons-ai-164700139.html?.tsrc=rss",
     "pubDate": "Tue, 04 Aug 2026 16:47:00 +0000"
-   },
-   {
-    "title": "What SCHD's Own History Suggests About Its Price Today",
-    "link": "https://www.trefis.com/articles/610023/what-schds-own-history-suggests-about-its-price-today/2026-08-04?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 13:32:13 +0000"
    }
   ],
   "SPY": [

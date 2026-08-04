@@ -73,6 +73,8 @@ def write_health(q, newest, started) -> None:
         "duration_ms": int((time.monotonic() - started) * 1000),
         "source_errors": q.get("errors", []),
         "primary_source_failures_count": q.get("fallback_count", 0),
+        "week52_ranges": {"present": q.get("ranges_present"),
+                          "expected": q.get("ranges_expected")},
         "files": files,
         "overall": ("degraded"
                     if any(v["status"] == "stale" for v in files.values())

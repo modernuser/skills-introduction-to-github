@@ -118,3 +118,43 @@ def test_published_freshness_silent_when_current(workdir, monkeypatch):
     assert do.main() == 0
     body = next(Path("reports/daily").glob("*.md")).read_text()
     assert "No justified code change identified today." in body
+
+
+def test_missing_52_week_ranges_raise_a_finding(workdir, monkeypatch):
+    """Silent feature loss: tiles kept rendering without a 52-week range
+    and every run still reported success. 0 of 13 for days in Aug 2026."""
+    import json as _json
+    from pathlib import Path as _P
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    monkeypatch.setattr(do, "check_published_freshness", lambda branch="data": {
+        "checked": False, "reason": "skipped"})
+    _P("data").mkdir(exist_ok=True)
+    _P("data/health.json").write_text(_json.dumps({
+        "overall": "ok", "files": {},
+        "week52_ranges": {"present": 0, "expected": 13}}))
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+
+    assert do.main() == 1
+    body = next(_P("reports/daily").glob("*.md")).read_text()
+    assert "52-week ranges missing on 13/13" in body
+
+
+def test_full_range_coverage_is_silent(workdir, monkeypatch):
+    import json as _json
+    from pathlib import Path as _P
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    monkeypatch.setattr(do, "check_published_freshness", lambda branch="data": {
+        "checked": False, "reason": "skipped"})
+    _P("data").mkdir(exist_ok=True)
+    _P("data/health.json").write_text(_json.dumps({
+        "overall": "ok", "files": {},
+        "week52_ranges": {"present": 13, "expected": 13}}))
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+
+    assert do.main() == 0

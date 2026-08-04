@@ -71,7 +71,18 @@ framed. Offer data-display alternatives instead.
    (`tests/python/`, offline, network monkeypatched) plus YAML/JSON
    validation runs on every PR and push to main via ci.yml. Run locally
    with `python3 -m pytest tests/python -q` before pushing.
-11. **Measure claims, don't repeat them.** The site said "every 20 min"
+11. **A degraded fallback must not silently drop features.** Aug 2026:
+   stooq began answering 200 with a non-CSV body for every symbol, so
+   everything fell to the Yahoo fallback — which requested only 3 months
+   and therefore dropped every 52-week range. Runs stayed green, the page
+   kept rendering, and 0/13 tiles had a range for days. A fallback should
+   degrade the *source*, never the *contract*. Where output can quietly
+   shrink, emit a count (`ranges_present`) and alarm on it.
+12. **Record what arrived, not just that it was wrong.** "stooq returned
+   no rows" was true and useless — it could not separate a rate-limit
+   notice from an HTML error page from a dead ticker. Log a snippet of
+   the actual body; one line of evidence beats a day of guessing.
+13. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

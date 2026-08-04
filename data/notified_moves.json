@@ -1,14 +1,11 @@
 {
- "date": "2026-08-03",
+ "date": "2026-07-31",
  "symbols": [
+  "AAPL",
   "AMZN",
   "GOOGL",
-  "LLY",
+  "LIN",
   "MU",
-  "NVDA",
-  "SNDK",
-  "SOXL",
-  "STX",
-  "WDC"
+  "SNDK"
  ]
 }

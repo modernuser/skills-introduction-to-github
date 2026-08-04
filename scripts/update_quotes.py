@@ -70,6 +70,11 @@ def fetch_closes_yahoo(symbol: str) -> list[tuple[str, float]]:
 
 
 LAST_SOURCE = "stooq"
+# Why the primary source was skipped, most recent first. Aug 2026: every
+# symbol silently fell through to the 3-month Yahoo fallback — which also
+# silently dropped 52-week ranges — because this except-branch discarded
+# the reason. A fallback nobody can see is a fallback nobody fixes.
+PRIMARY_FAILURES: list[str] = []
 
 
 def fetch_closes(symbol: str) -> list[tuple[str, float]]:
@@ -79,8 +84,9 @@ def fetch_closes(symbol: str) -> list[tuple[str, float]]:
         if closes:
             LAST_SOURCE = "stooq"
             return closes
-    except Exception:
-        pass
+        PRIMARY_FAILURES.append(f"{symbol}: stooq returned no rows")
+    except Exception as exc:
+        PRIMARY_FAILURES.append(f"{symbol}: stooq {type(exc).__name__}: {exc}")
     LAST_SOURCE = "yahoo-fallback"
     return fetch_closes_yahoo(symbol)
 
@@ -155,9 +161,15 @@ def main() -> int:
         "core": core,
         "sectors": sectors,
         "errors": errors,
+        # Visible degradation: which symbols fell back and why.
+        "primary_source_failures": PRIMARY_FAILURES[:20],
+        "fallback_count": len(PRIMARY_FAILURES),
     }
     write_json("data/quotes.json", out, indent=1)
     print(f"Wrote data/quotes.json with {len(quotes)} symbols; {len(errors)} errors")
+    if PRIMARY_FAILURES:
+        print(f"  WARNING: {len(PRIMARY_FAILURES)} symbol(s) fell back off the "
+              f"primary source; first: {PRIMARY_FAILURES[0]}", file=sys.stderr)
     for e in errors:
         print("  warn:", e, file=sys.stderr)
     return 0

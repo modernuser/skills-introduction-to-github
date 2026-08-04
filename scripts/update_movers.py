@@ -26,7 +26,13 @@ CONSTITUENTS_URL = (
     "main/data/constituents.csv"
 )
 CONSTITUENTS_FALLBACK = "data/sp500_constituents.csv"
-STATE_PATH = "data/sp500_closes.json"
+# sector_depth.py rebuilds this daily from per-symbol history — the
+# endpoint that still works. This job reads it as a price source.
+CLOSES_PATH = "data/sp500_closes.json"
+# Our own snapshot of what we last compared against. Kept separate from
+# CLOSES_PATH so the daily rebuild cannot silently erase the baseline a
+# day-over-day move is measured from.
+PRIOR_PATH = "data/movers_prior.json"
 MOVERS_PATH = "data/movers.json"
 ROTATION_PATH = "data/rotation.json"
 ROTATION_TRIGGER_PCT = 5.0
@@ -127,22 +133,40 @@ def update_rotation(moves: list, newest_date: str) -> None:
     print(f"rotation: {len(keep)} in play")
 
 
+def load_closes_state() -> dict:
+    """Fallback price source: the daily state sector_depth.py maintains."""
+    if not os.path.exists(CLOSES_PATH):
+        return {}
+    with open(CLOSES_PATH) as f:
+        return json.load(f)
+
+
 def main() -> int:
     constituents = load_constituents()
-    state = {}
-    if os.path.exists(STATE_PATH):
-        with open(STATE_PATH) as f:
-            state = json.load(f)
+    prior = {}
+    if os.path.exists(PRIOR_PATH):
+        with open(PRIOR_PATH) as f:
+            prior = json.load(f)
 
     fresh = fetch_closes(list(constituents))
     if len(fresh) < MIN_COVERAGE:
-        print(f"only {len(fresh)} quotes fetched; aborting without changes",
-              file=sys.stderr)
-        return 1
+        # Aug 2026: the bulk quote endpoint began returning 404 for every
+        # chunk, which silently killed movers and the In Play rotation.
+        # Fall back to the state sector_depth.py rebuilds daily from the
+        # per-symbol endpoint that still works.
+        fallback = load_closes_state()
+        if len(fallback) >= MIN_COVERAGE:
+            print(f"bulk fetch returned {len(fresh)}; using {CLOSES_PATH} "
+                  f"({len(fallback)} symbols)")
+            fresh = {s: c for s, c in fallback.items() if s in constituents}
+        else:
+            print(f"only {len(fresh)} quotes and no usable closes state; "
+                  "aborting without changes", file=sys.stderr)
+            return 1
 
     moves = []
     for sym, cur in fresh.items():
-        prev = state.get(sym)
+        prev = prior.get(sym)
         if prev and prev["date"] < cur["date"] and prev["close"] > 0:
             pct = (cur["close"] - prev["close"]) / prev["close"] * 100
             moves.append({
@@ -153,11 +177,11 @@ def main() -> int:
                 "pct": round(pct, 2),
             })
 
-    # Merge fresh closes into state (keep old entry until a newer date shows up)
+    # Advance our baseline (keep the old entry until a newer date appears).
     for sym, cur in fresh.items():
-        if sym not in state or state[sym]["date"] <= cur["date"]:
-            state[sym] = cur
-    write_json(STATE_PATH, state, separators=(",", ":"), sort_keys=True)
+        if sym not in prior or prior[sym]["date"] <= cur["date"]:
+            prior[sym] = cur
+    write_json(PRIOR_PATH, prior, separators=(",", ":"), sort_keys=True)
 
     if len(moves) >= MIN_COVERAGE:
         moves.sort(key=lambda m: m["pct"], reverse=True)
@@ -171,7 +195,7 @@ def main() -> int:
         print(f"Wrote {MOVERS_PATH}: {len(moves)} comparable symbols")
         update_rotation(moves, max(c["date"] for c in fresh.values()))
     else:
-        print(f"state seeded ({len(fresh)} closes); movers need a prior day")
+        print(f"baseline seeded ({len(fresh)} closes); movers need a prior day")
     return 0
 
 

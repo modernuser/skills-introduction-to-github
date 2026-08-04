@@ -25,26 +25,22 @@ import sys
 WORKFLOW_DIR = ".github/workflows"
 POLICY_PATH = ".claude/model-policy.yml"
 
-# Actions not yet pinned to a SHA, with the reason each is tolerated.
-# Adding to this register is a deliberate, reviewable act; the checker
-# below fails on anything unpinned that is NOT listed here, so the set
-# cannot grow by accident.
+# Actions tolerated on a mutable tag, with the reason for each.
 #
-# Aug 2026 audit: SHAs could not be resolved from the build environment
-# (the egress proxy blocks api.github.com for repositories outside the
-# session scope). Owner action to pin — see docs/engineering-audit.md.
-PIN_EXCEPTIONS = {
-    "actions/configure-pages@v5":
-        "first-party GitHub action, Pages deploy job",
-    "actions/upload-pages-artifact@v3":
-        "first-party GitHub action, Pages deploy job",
-    "actions/deploy-pages@v4":
-        "first-party GitHub action, Pages deploy job",
-    "anthropics/claude-code-action@v1":
-        "THIRD-PARTY and credentialed (ANTHROPIC_API_KEY, contents:write, "
-        "pull-requests:write) — highest-priority pin; mitigated only by the "
-        "workflow being disabled by default",
-}
+# EMPTY, and it should stay that way. Every action in every workflow is
+# pinned to a full commit SHA as of 2026-08-04. An entry here is a
+# deliberate, reviewable exception, not a convenience — a register that
+# fills up is just an unpinned repository with extra steps.
+#
+# To resolve a SHA without leaving the build environment (api.github.com
+# is blocked by the egress proxy, but plain git over HTTPS is not):
+#
+#   git ls-remote --tags https://github.com/OWNER/REPO
+#
+# Take the `refs/tags/vN^{}` line for an annotated tag, or `refs/tags/vN`
+# for a lightweight one, and record the exact version in a trailing
+# comment so the pin can be read at a glance.
+PIN_EXCEPTIONS: dict[str, str] = {}
 
 SHA_PIN = re.compile(r"@[0-9a-f]{40}\b")
 USES = re.compile(r"^\s*-?\s*uses:\s*(\S+)", re.MULTILINE)

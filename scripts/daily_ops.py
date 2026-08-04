@@ -169,6 +169,11 @@ def main() -> int:
         findings.append(f"broken internal links: {broken}")
     if stale:
         findings.append(f"stale data sections: {stale}")
+    fallbacks = health.get("primary_source_failures_count")
+    if isinstance(fallbacks, int) and fallbacks > 0:
+        findings.append(
+            f"primary price source degraded: {fallbacks} symbol(s) served by "
+            "the fallback (52-week ranges are unavailable on fallback data)")
     if published.get("checked") and not published.get("ok", True):
         findings.append(
             "PUBLISHED DATA IS STALE — the site is serving "

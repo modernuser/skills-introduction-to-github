@@ -48,7 +48,7 @@ def write_health(q, newest, started) -> None:
         "status": "stale" if behind_close > 1 else "ok",
     }
     for name in ("news", "movers", "rotation", "portfolios", "extended",
-                 "sector_depth", "factor_lab"):
+                 "sector_depth", "factor_lab", "trend_quality"):
         path = f"data/{name}.json"
         if not os.path.exists(path):
             files[name] = {"present": False, "status": "missing"}
@@ -142,6 +142,27 @@ def main() -> int:
             ordered = [r["vol_30d"] for r in rows]
             if ordered != sorted(ordered, reverse=True):
                 fail(f"sector {sector} is not ordered by volatility")
+
+    if os.path.exists("data/trend_quality.json"):
+        with open("data/trend_quality.json") as f:
+            tq = json.load(f)
+        floor = tq.get("min_r2", 0.88)
+        selected = tq.get("selected", [])
+        if len(selected) > tq.get("select_count", 10):
+            fail(f"trend_quality selected {len(selected)} names, over the cap")
+        for row in selected:
+            # The screen's entire meaning is these two conditions. If a
+            # selection ever ships without them, the label on the dartboard
+            # arm is a false description of what it holds.
+            if not (row.get("r2", 0) >= floor):
+                fail(f"trend_quality selected {row.get('symbol')} at "
+                     f"r2 {row.get('r2')}, below the {floor} floor")
+            if not (row.get("slope_annual_pct", 0) > 0):
+                fail(f"trend_quality selected {row.get('symbol')} with a "
+                     "non-positive slope")
+        for row in tq.get("ranked", []):
+            if not (-1.0001 <= row.get("r2", 0) <= 1.0001):
+                fail(f"trend_quality r2 out of range for {row.get('symbol')}")
 
     if os.path.exists("data/factor_lab.json"):
         with open("data/factor_lab.json") as f:

@@ -51,13 +51,24 @@ trigger). Nothing selects; facts admit and evict.
 ## portfolios.json — dartboard experiment
 ```
 { start_date, start_cash: 10000.0, rng_seed, asof, note,
-  portfolios: { owner|dartboard|spy:
+  portfolios: { owner|dartboard|trend|spy:
     { label, value, return_pct, alpha_pp,
+      start_date?, spy_return_at_start?, selection?,
       holdings: [{symbol, name, shares, start_close, last_close}] } },
-  history: [{date, owner, dartboard, spy}] }        # one point per day
+  history: [{date, owner, dartboard, trend, spy}] }  # one point per day
 ```
-`alpha_pp` = realized return − SPY's realized return. `rng_seed` makes the
-dart draw reproducible. Paper money only.
+`alpha_pp` = realized return − SPY's return **over the same window**.
+`spy_return_at_start` records where SPY stood when an arm was funded; it
+is absent (≡ 0) for the arms seeded at inception, so the formula reduces
+to a plain difference for them. The `trend` arm is funded later than the
+others — the first run after a qualifying `trend_quality.json` exists —
+and without that windowing it would be credited with SPY's gains from
+before it held anything.
+
+`rng_seed` makes the dart draw reproducible. The random arm is the
+control: a selection rule earns credit for beating the darts, not for
+making money in a rising market. Paper money only, and no arm is a
+recommendation.
 
 ## extended.json — pre/after-hours prices
 ```
@@ -85,6 +96,34 @@ the validator enforces that ordering, positive values, and the per-sector
 cap. Written once daily after the close by `sector-depth.yml`; the page
 merges in fresher prices from `sp500_closes.json` so the table moves
 intraday without any extra fetching.
+
+## trend_quality.json — straightness of the past price path
+```
+{ generated, method, note, window_sessions: 90, min_r2: 0.88,
+  select_count: 10, measured, qualified,
+  selected: [ { symbol, name, slope_annual_pct, r2, sessions,
+                last_close, as_of } ],
+  ranked: [ ...top 50, same shape... ] }
+```
+`r2` is the goodness-of-fit of **log(close) regressed on session index**
+over 90 sessions — how much of the price path a straight line explains.
+High `r2` means the move was orderly, not that it was large; `r2` is
+paired with `slope_annual_pct` (the fitted exponential growth rate,
+annualized) and ranked by their product so a steady climb outranks a
+violent one.
+
+**This is not the R² of a return forecast.** Those are different
+quantities sharing a name — `factor_lab.json` holds the predictive one,
+and it sits near zero because next-day returns are not predictable at
+that scale. Nothing here forecasts anything; a straight past line is a
+description of the past.
+
+`selected` requires `r2 >= min_r2` **and** `slope_annual_pct > 0` — a
+straight line down scores just as high on `r2` alone. The validator
+enforces both conditions plus the count cap, because those conditions are
+the entire meaning of the label on the dartboard's trend arm. Written
+best-effort by `sector-depth.yml` from histories that job already
+fetched; an empty `selected` is a valid outcome in a choppy tape.
 
 ## factor_lab.json — feature predictability diagnostic
 ```

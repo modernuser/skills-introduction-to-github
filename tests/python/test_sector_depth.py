@@ -69,7 +69,7 @@ def closes_factory(vol_by_symbol, missing=()):
 
 def test_ranking_keeps_top_ten_in_descending_order():
     amps = {s: 0.001 * (i + 1) for i, s in enumerate(CONSTITUENTS)}
-    by_sector, errors, measured, closes = sd.build(CONSTITUENTS, closes_factory(amps))
+    by_sector, errors, measured, closes, _ = sd.build(CONSTITUENTS, closes_factory(amps))
     assert measured == 25 and errors == []
     assert len(closes) == 25 and closes["S0"]["close"] > 0
     top = sd.top_per_sector(by_sector)
@@ -86,14 +86,14 @@ def test_ranking_keeps_top_ten_in_descending_order():
 def test_sector_smaller_than_ten_is_kept_whole():
     small = {f"S{i}": {"name": f"N{i}", "sector": "Energy"} for i in range(4)}
     amps = {s: 0.01 for s in small}
-    by_sector, _, _, _ = sd.build(small, closes_factory(amps))
+    by_sector, _, _, _, _ = sd.build(small, closes_factory(amps))
     top = sd.top_per_sector(by_sector)
     assert len(top["Energy"]) == 4
 
 
 def test_per_symbol_failures_are_collected_not_fatal():
     amps = {s: 0.01 for s in CONSTITUENTS}
-    by_sector, errors, measured, _ = sd.build(
+    by_sector, errors, measured, _, _ = sd.build(
         CONSTITUENTS, closes_factory(amps, missing={"S1", "S2"}))
     assert measured == 23
     assert len(errors) == 2 and all("network down" in e for e in errors)

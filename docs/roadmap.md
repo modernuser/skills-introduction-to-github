@@ -9,6 +9,10 @@ markers per docs/model-routing.md.
 *(empty — hardening series complete; daily-ops selects from Next)*
 
 ## Next
+- **Trend-quality + dartboard page updates** — show the `trend` arm on
+  dartboard.html alongside the other three, and surface
+  `trend_quality.json` (slope, r2, rank) as a sortable table. Display
+  only. Tier 2, low risk, autonomous-safe.
 - **Factor lab page** — surface `factor_lab.json` as a table (OOS R²,
   IC, t-stat, each beside its noise control). The point of the page is
   the comparison: a reading only means something next to what no-skill

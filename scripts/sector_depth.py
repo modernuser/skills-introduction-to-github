@@ -31,6 +31,8 @@ CLOSES_PATH = "data/sp500_closes.json"
 WINDOW = 30          # daily returns in the volatility window
 PER_SECTOR = 10      # names kept per sector
 MIN_SESSIONS = 20    # too little history to characterise risk honestly
+# Trailing closes retained per symbol for the trend-quality regression.
+HISTORY_KEEP = 120
 TRADING_DAYS = 252   # annualisation factor
 MIN_COVERAGE = 100   # below this the run is broken, not just degraded
 PACE_SECONDS = 0.25
@@ -50,13 +52,15 @@ def realized_volatility(closes: list[float], window: int = WINDOW):
     return round(statistics.stdev(returns) * (TRADING_DAYS ** 0.5) * 100, 2), len(returns)
 
 
-def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict]:
+def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict, dict]:
     """Group every constituent by sector with its volatility.
 
-    Also returns the latest close per symbol, so the same fetch feeds
-    data/sp500_closes.json without extra requests.
+    Also returns the latest close per symbol (feeding
+    data/sp500_closes.json) and a trailing slice of each history (feeding
+    the trend-quality fit) — all from this one fetch, so neither costs an
+    extra request.
     """
-    by_sector, errors, measured, closes = {}, [], 0, {}
+    by_sector, errors, measured, closes, histories = {}, [], 0, {}, {}
     for symbol, meta in constituents.items():
         try:
             history = closes_for(symbol)
@@ -67,6 +71,7 @@ def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict]:
             errors.append(f"{symbol}: no data")
             continue
         closes[symbol] = {"date": history[-1][0], "close": history[-1][1]}
+        histories[symbol] = history[-HISTORY_KEEP:]
         vol, sessions = realized_volatility([c for _, c in history])
         if vol is None:
             continue
@@ -79,7 +84,7 @@ def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict]:
             "last_close": history[-1][1],
             "as_of": history[-1][0],
         })
-    return by_sector, errors, measured, closes
+    return by_sector, errors, measured, closes, histories
 
 
 def top_per_sector(by_sector: dict, per_sector: int = PER_SECTOR) -> dict:
@@ -96,7 +101,7 @@ def main() -> int:
         time.sleep(PACE_SECONDS)
         return fetch_closes(symbol)
 
-    by_sector, errors, measured, closes = build(constituents, paced)
+    by_sector, errors, measured, closes, histories = build(constituents, paced)
     if measured < MIN_COVERAGE:
         print(f"only {measured} symbols measurable; leaving previous file",
               file=sys.stderr)
@@ -132,6 +137,15 @@ def main() -> int:
     print(f"Wrote {OUT_PATH}: {len(sectors)} sectors, "
           f"{sum(len(v) for v in sectors.values())} names, "
           f"{measured} measured, {len(errors)} errors")
+
+    # Same histories, second measurement — no extra requests. Best-effort:
+    # the volatility rankings must not depend on it.
+    try:
+        import trend_quality
+        trend_quality.main(histories=histories)
+    except Exception as exc:
+        print(f"trend quality failed: {type(exc).__name__}: {exc}",
+              file=sys.stderr)
     return 0
 
 

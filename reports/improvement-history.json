@@ -12,5 +12,12 @@
   "tests_failed": 0,
   "health": "ok",
   "action": "No justified code change identified today."
+ },
+ {
+  "date": "2026-08-04",
+  "tests_passed": 147,
+  "tests_failed": 0,
+  "health": "ok",
+  "action": "Findings require attention: primary price source degraded: 35 symbol(s) served by the fallback (52-week ranges are unavailable on fallback data)"
  }
 ]

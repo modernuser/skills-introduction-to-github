@@ -82,7 +82,20 @@ framed. Offer data-display alternatives instead.
    no rows" was true and useless — it could not separate a rate-limit
    notice from an HTML error page from a dead ticker. Log a snippet of
    the actual body; one line of evidence beats a day of guessing.
-13. **Measure claims, don't repeat them.** The site said "every 20 min"
+13. **A control nobody checks is a claim.** Aug 2026 audit: the
+   autonomy limits in `.claude/model-policy.yml` (max files, max lines)
+   existed only as prose inside the agent's prompt, so an agent that
+   ignored them met no barrier. `scripts/audit_controls.py` now measures
+   the real diff in CI. Before writing a limit down, ask what mechanically
+   enforces it — and if nothing does, say so plainly rather than implying
+   it is enforced.
+14. **Mark a control fixed only when the control is fixed.** M5 was
+   recorded "(FIXED)" after pinning one action while four stayed on
+   mutable tags. Remediation status describes the control, not the
+   hardest instance of it. Where something genuinely cannot be fixed now,
+   contain it on an explicit register that CI enforces — never leave it
+   implied-complete.
+15. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

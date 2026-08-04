@@ -161,3 +161,15 @@ p { color: var(--color-text); max-width: 68ch; }
   color: var(--color-muted);
   font-size: .88rem;
 }
+
+/* Bypass blocks (WCAG 2.2 AA, 2.4.1). Visually hidden until focused, so
+   keyboard users get past the header without a visible change for others.
+   tracker.html carries an inline copy from an earlier pass; this is the
+   shared definition every page uses. */
+.skip-link {
+  position: absolute; left: -9999px; top: 0;
+  background: var(--color-surface, #ffffff);
+  color: var(--color-accent, #0066cc);
+  padding: .5rem 1rem; z-index: 10;
+}
+.skip-link:focus { left: .5rem; top: .5rem; }

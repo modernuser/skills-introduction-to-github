@@ -145,13 +145,19 @@ repository scans clean. If GitHub offers secret scanning + push
 protection for this repo, enabling it in Settings → Code security is
 still worth doing — it blocks the push instead of reporting after.
 
-### M5 — Actions supply chain (FIXED)
+### M5 — Actions supply chain (PARTIALLY FIXED — see A2 below)
 
 `actions/checkout` re-pinned from the v4.2.2 SHA to the **v6.0.0 commit
 SHA**; v6 persists credentials to a file under `RUNNER_TEMP` rather than
 the local git config. Dependabot PR #2 (tag-based v4→v6) is superseded
 by this SHA pin and closed; the SHA-pin policy is recorded here so
 future dependency PRs are resolved the same way.
+
+**Status corrected 2026-08-04:** this was recorded as FIXED when only
+`actions/checkout` had been pinned. Four other actions remained on
+mutable tags for a week under a "FIXED" heading — the classic failure
+of marking a control complete because the *hardest instance* was done.
+Tracked as A2 below and now enforced by `scripts/audit_controls.py`.
 
 ### L4 — Repository hygiene (INFORMATIONAL)
 
@@ -183,3 +189,110 @@ pipeline to run; Dependabot is active.
 - The pipeline never overwrites good data with bad: fetch failures leave
   the previous dataset in place (scripts return nonzero / skip write),
   and the validation gate blocks commits of malformed output.
+
+
+## Full system audit — 2026-08-04
+
+Scope: code, tests, CI, workflows, data contracts, published artefact,
+access control, AI agents and their autonomy limits, documentation
+accuracy, accessibility, and the project's own no-signals boundary.
+Conducted as an external-auditor dry run: every claim was checked
+against evidence rather than accepted from the previous audit.
+
+### A1 — Autonomy limits were advisory, not enforced (MAJOR — FIXED)
+
+`.claude/model-policy.yml` declares `maximum_files_per_autonomous_pr: 8`,
+`maximum_changed_lines: 500`, and `daily_run_limit: 1`. Only
+`maximum_open_agent_prs: 1` was mechanically enforced (the `openpr` gate
+in ai-maintenance.yml). The other numbers existed **solely as prose
+inside the agent's prompt** — so an agent that ignored, misread, or never
+received that text met no barrier whatsoever.
+
+A limit the controlled party enforces on itself is not a control. An
+external auditor would classify this as *documented control not
+implemented; reliance on the compliance of the entity being controlled*.
+
+**Corrective action:** `scripts/audit_controls.py --agent-pr` reads the
+policy file and measures the **real diff** with `git diff --numstat`,
+failing any PR labeled `agent-maintenance` that exceeds it. Wired into
+ci.yml as a separate `agent-limits` job. The check fails loudly when it
+cannot run (e.g. a bad base ref) rather than passing silently.
+
+### A2 — Unpinned actions, one of them credentialed (MAJOR — CONTAINED)
+
+Four actions run on mutable tags. Three are first-party (`actions/*`, in
+the Pages deploy job). The material one is
+**`anthropics/claude-code-action@v1`** — third-party, receiving
+`ANTHROPIC_API_KEY` with `contents: write` and `pull-requests: write`.
+A mutable tag on the single most privileged action in the repository is
+the wrong risk to carry.
+
+**Constraint:** the SHAs could not be resolved from the build
+environment — the egress proxy returns 403 for `api.github.com` on
+repositories outside the session scope, and guessing a SHA would break
+the deploy.
+
+**Corrective action (containment, not remediation):**
+`scripts/audit_controls.py` fails CI on any *new* unpinned action, with
+the four current ones on an explicit, justified exception register. The
+set cannot grow silently, and a test asserts the register suppresses
+only what it lists rather than acting as a blanket mute.
+**Owner action remains: pin these four**, `claude-code-action` first.
+
+### A3 — M5 recorded as FIXED while incomplete (MINOR — FIXED)
+
+See the correction inline above. The remediation status of a control
+must describe the control, not the hardest instance of it.
+
+### A4 — Accessibility: bypass blocks missing on 2 of 3 pages (MINOR — FIXED)
+
+`tracker.html` had a skip link; `index.html` and `dartboard.html` did
+not, failing WCAG 2.2 AA 2.4.1 (Bypass Blocks) on two thirds of the
+site. The charter commits to AA.
+
+**Corrective action:** shared `.skip-link` rule moved into `styles.css`
+(all three pages link it), skip links added to both pages, and
+`index.html`'s `<main>` given the `id` its link targets.
+
+### A5 — Stale alert issues burying the signal (MINOR — FIXED)
+
+11 open issues, all alerts from incidents since resolved, including #40
+— the very issue whose existence triggered the dedupe that hid a
+six-day outage. An alert channel with 11 stale items in it is a channel
+nobody reads.
+
+**Corrective action:** resolved incident and notification issues closed
+with reference to the fixing PR.
+
+### Checked and conforming — no action
+
+- **No-signals boundary.** Every occurrence of "recommendation",
+  "forecast", "prediction" in the pages is a *disclaimer*, and the only
+  "real-time" is "never real-time". `validate_data.py` additionally
+  fails the publish on any `direction`/`likelihood`/`signal`/
+  `target_acquired` key in generated data — the boundary is enforced
+  mechanically, not merely stated.
+- **Branch protection.** Verified by adversarial test on 2026-08-04:
+  a direct push and a force-push rewind were both rejected
+  (`GH013`), bypass list empty. `main` unchanged at `02aa614`.
+- **Data-branch split.** `main` carries only `sp500_constituents.csv`
+  (a committed input); no generated data, no `reports/`.
+- **Least privilege.** Every workflow declares a permissions block; no
+  `write-all`. Now enforced by the control auditor.
+- **Published artefact.** `check_published_freshness` reports 0 sessions
+  behind; 52-week ranges restored to 13/13 after PR #62.
+- **Documentation integrity.** Every `scripts/*.py` referenced in
+  `docs/` and `CLAUDE.md` exists.
+- **Cadence honesty.** The Rolling 500 copy says "biggest *observed*
+  **daily** moves", which matches its once-daily update. Investigated as
+  a suspected rule-13 violation and **withdrawn** — the claim is accurate.
+
+### Root cause identified during the audit (informational)
+
+The stooq outage now has a named cause. `diagnose_stooq` (PR #62)
+captured the response body: stooq returns an HTML interstitial carrying
+`robots: noindex,nofollow` and a `<noscript>` block — a **bot-detection
+challenge**, not rate limiting. GitHub runner IPs are being challenged.
+The Yahoo fallback covers it and 52-week ranges are intact, so this is
+degraded-but-serving rather than an outage. A source change would be a
+HIGH-RISK provider decision requiring owner approval per the roadmap.

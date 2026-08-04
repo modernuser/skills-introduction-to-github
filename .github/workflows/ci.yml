@@ -25,6 +25,11 @@ jobs:
       - name: Run test suite
         run: python3 -m pytest tests/python -q
 
+      # Controls the project claims to have, checked mechanically. A
+      # control nothing verifies is a claim, not a control.
+      - name: Audit controls (pins, permissions)
+        run: python3 scripts/audit_controls.py
+
       - name: Validate workflow YAML and committed JSON
         run: |
           python3 - <<'EOF'
@@ -38,3 +43,21 @@ jobs:
               json.load(open(f))
               print('json ok:', f)
           EOF
+
+  # Autonomous-change limits, enforced against the real diff. These
+  # numbers previously existed only as prose inside the agent's prompt,
+  # so an agent that ignored or never received that text met no barrier.
+  agent-limits:
+    if: contains(github.event.pull_request.labels.*.name, 'agent-maintenance')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3  # v6.0.0
+        with:
+          fetch-depth: 0        # numstat needs both sides of the diff
+
+      - name: Enforce .claude/model-policy.yml limits
+        run: |
+          git fetch --quiet origin "${{ github.base_ref }}"
+          python3 scripts/audit_controls.py --agent-pr \
+            --base "origin/${{ github.base_ref }}"

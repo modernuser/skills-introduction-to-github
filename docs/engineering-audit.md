@@ -145,7 +145,7 @@ repository scans clean. If GitHub offers secret scanning + push
 protection for this repo, enabling it in Settings → Code security is
 still worth doing — it blocks the push instead of reporting after.
 
-### M5 — Actions supply chain (PARTIALLY FIXED — see A2 below)
+### M5 — Actions supply chain (SUPERSEDED by A2 — now fully fixed)
 
 `actions/checkout` re-pinned from the v4.2.2 SHA to the **v6.0.0 commit
 SHA**; v6 persists credentials to a file under `RUNNER_TEMP` rather than
@@ -218,7 +218,7 @@ failing any PR labeled `agent-maintenance` that exceeds it. Wired into
 ci.yml as a separate `agent-limits` job. The check fails loudly when it
 cannot run (e.g. a bad base ref) rather than passing silently.
 
-### A2 — Unpinned actions, one of them credentialed (MAJOR — CONTAINED)
+### A2 — Unpinned actions, one of them credentialed (MAJOR — RESOLVED)
 
 Four actions run on mutable tags. Three are first-party (`actions/*`, in
 the Pages deploy job). The material one is
@@ -227,17 +227,42 @@ the Pages deploy job). The material one is
 A mutable tag on the single most privileged action in the repository is
 the wrong risk to carry.
 
-**Constraint:** the SHAs could not be resolved from the build
-environment — the egress proxy returns 403 for `api.github.com` on
-repositories outside the session scope, and guessing a SHA would break
-the deploy.
+**First attempt — containment only.** The SHAs appeared unresolvable:
+`api.github.com` returns 403 through the egress proxy for repositories
+outside the session scope, and guessing a SHA would break the deploy.
+The finding was therefore contained on an exception register rather than
+fixed, and left as owner action.
 
-**Corrective action (containment, not remediation):**
-`scripts/audit_controls.py` fails CI on any *new* unpinned action, with
-the four current ones on an explicit, justified exception register. The
-set cannot grow silently, and a test asserts the register suppresses
-only what it lists rather than acting as a blanket mute.
-**Owner action remains: pin these four**, `claude-code-action` first.
+**RESOLVED same day.** The blocker was a wrong assumption about the
+proxy, not a real limit. `api.github.com` is blocked; **plain git over
+HTTPS to github.com is not** — so:
+
+```
+git ls-remote --tags https://github.com/OWNER/REPO
+```
+
+resolves every tag to its SHA without touching the API. All four pinned,
+each verified by confirming the SHA is reachable under *both* its major
+tag and its exact version tag before being written:
+
+| action | SHA | version |
+|---|---|---|
+| `actions/configure-pages` | `983d7736…` | v5.0.0 |
+| `actions/upload-pages-artifact` | `56afc609…` | v3.0.1 |
+| `actions/deploy-pages` | `d6db9016…` | v4.0.5 |
+| `anthropics/claude-code-action` | `86180fa9…` | v1.0.184 |
+
+The exception register is now **empty**, and a test asserts it stays
+empty so it cannot quietly refill; a second test asserts every `uses:`
+in every workflow is SHA-pinned directly, so the check holds even if the
+checker itself regresses. The `git ls-remote` recipe is recorded in
+`scripts/audit_controls.py` so the next person does not repeat the
+false conclusion.
+
+**Lesson:** "the environment blocks it" was true of the API and false of
+the goal. One blocked path is not a blocked objective — the containment
+was real work, but it was the second-best answer to a question I had
+stopped asking too early.
 
 ### A3 — M5 recorded as FIXED while incomplete (MINOR — FIXED)
 

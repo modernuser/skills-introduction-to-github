@@ -95,7 +95,14 @@ framed. Offer data-display alternatives instead.
    hardest instance of it. Where something genuinely cannot be fixed now,
    contain it on an explicit register that CI enforces — never leave it
    implied-complete.
-15. **Measure claims, don't repeat them.** The site said "every 20 min"
+15. **"Blocked" is a claim about a path, not about the goal.** The Aug
+   2026 audit recorded four unpinned actions as un-fixable because
+   `api.github.com` 403s through the egress proxy. Plain git over HTTPS
+   to github.com was never blocked: `git ls-remote --tags
+   https://github.com/OWNER/REPO` resolves every SHA. Before reporting
+   something as environmentally impossible, name the specific mechanism
+   that failed and ask what else reaches the same data.
+16. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

@@ -139,3 +139,31 @@ def test_limit_check_reports_a_bad_base_instead_of_passing_silently(
     monkeypatch.chdir(repo)
     problems = ac.check_agent_pr("no-such-ref")
     assert problems and "could not diff" in problems[0]
+
+
+def test_pin_exception_register_is_empty():
+    """A2 closed 2026-08-04: every action is SHA-pinned.
+
+    This asserts the register stays empty rather than quietly refilling.
+    If a future change genuinely needs an exception, this test failing is
+    the prompt to justify it in review — which is the whole point of a
+    register over a silent allowance.
+    """
+    ac = load("audit_controls")
+    assert ac.PIN_EXCEPTIONS == {}, (
+        "an action was added to the pin-exception register; resolve its SHA "
+        "with `git ls-remote --tags https://github.com/OWNER/REPO` instead")
+
+
+def test_every_workflow_action_is_sha_pinned():
+    """Belt and braces: assert the real workflows directly, so this holds
+    even if the checker itself regresses."""
+    import re
+    ac = load("audit_controls")
+    unpinned = []
+    for path in (REPO / ".github" / "workflows").glob("*.yml"):
+        for ref in ac.USES.findall(path.read_text()):
+            ref = ref.strip("\"'")
+            if not ref.startswith("./") and not re.search(r"@[0-9a-f]{40}\b", ref):
+                unpinned.append(f"{path.name}: {ref}")
+    assert unpinned == []

@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-05T21:22:36Z",
+ "updated": "2026-08-05T22:29:45Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late",
+    "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:06:47 +0000"
+    "pubDate": "Wed, 05 Aug 2026 22:16:35 +0000"
    },
    {
-    "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says",
-    "link": "https://finance.yahoo.com/video/nvidia-no-longer-ai-darling-210351566.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:03:51 +0000"
+    "title": "Why Qualys Stock Crushed it on Wednesday",
+    "link": "https://www.fool.com/investing/2026/08/05/why-qualys-stock-crushed-it-on-wednesday/?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 22:13:59 +0000"
    },
    {
-    "title": "Zimmer Biomet Holdings, Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-zimmer-biomet-holdings-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:01:24 +0000"
+    "title": "Jim Cramer: SpaceX Could Reach $1 Trillion in Revenue by 2030, but \u201cShort Term, Forget About It\u201d",
+    "link": "https://247wallst.com/investing/2026/08/05/jim-cramer-spacex-could-reach-1-trillion-in-revenue-by-2030-but-short-term-forget-about-it/?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 22:09:58 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late",
+    "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:06:47 +0000"
+    "pubDate": "Wed, 05 Aug 2026 22:16:35 +0000"
    },
    {
-    "title": "Update: US Equity Indexes Mixed as Mega-Cap Communication Services, Tech Names Weigh, Strait of Hormuz Safe Route Emerges",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-mega-205616262.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 20:56:16 +0000"
+    "title": "AI's bottomless pit problem: Investors are scrutinizing costs",
+    "link": "https://www.axios.com/2026/08/05/ai-spacex-amd-elon-musk#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:57:25 +0000"
    },
    {
-    "title": "Stock Market Today: Dow Scores Record As SpaceX Craters; SharkNinja Soars",
-    "link": "https://finance.yahoo.com/m/df8bb7aa-2f8c-3068-aac6-ba6ee88129f0/stock-market-today%3A-dow.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 20:44:23 +0000"
+    "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/spacex%2C-alphabet%2C-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:04:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 20:15:00 +0000"
+   },
    {
     "title": "Can Microchip's Micron Alliance Help it Challenge AVGO & ALAB?",
     "link": "https://finance.yahoo.com/technology/articles/microchips-micron-alliance-help-challenge-181500152.html?.tsrc=rss",
@@ -45,103 +50,98 @@
     "title": "QRVO Earnings Beat Highlights a Changing Profitability Story",
     "link": "https://finance.yahoo.com/markets/stocks/articles/qrvo-earnings-beat-highlights-changing-164900240.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 16:49:00 +0000"
-   },
-   {
-    "title": "Should Investors Buy QRVO or Wait for More Visibility?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-qrvo-wait-more-164700346.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 16:47:00 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
+    "link": "https://www.barchart.com/story/news/3638932/intel-vs-tsmc-intel-is-winning-an-ai-battle-against-tsmc-that-few-investors-are-watching?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 14:41:39 +0000"
+   },
+   {
+    "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
+    "link": "https://www.fool.com/investing/2026/08/04/druckenmiller-hold-tsmc-chip-nvidia-amd/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 10:05:00 +0000"
+   },
+   {
     "title": "Taiwan Semiconductor Manufacturing (TSM) Eyes Faster 3 Nanometer Output, Is The Stock Expensive?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-eyes-181131277.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 18:11:31 +0000"
-   },
-   {
-    "title": "Sony's TSMC Sensor Venture Could Reshape Its Imaging Growth Story",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sonys-tsmc-sensor-venture-could-140000817.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 14:00:00 +0000"
-   },
-   {
-    "title": "Is TSMC (TSM) a Buy as Wall Street Analysts Look Optimistic?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-buy-wall-street-133004191.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 13:30:04 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027.",
-    "link": "https://247wallst.com/videos/wall-street-sold-off-intel-after-its-earnings-but-the-company-is-setting-up-a-monster-2027/?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 14:53:26 +0000"
-   },
-   {
     "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/spacex%2C-alphabet%2C-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 18:43:00 +0000"
+    "pubDate": "Wed, 05 Aug 2026 21:04:00 +0000"
    },
    {
-    "title": "How Intel's Earnings Turned AMD's Beat Into A Sell-Off",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intels-earnings-turned-amds-beat-093357491.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 09:33:57 +0000"
+    "title": "How To Bank 14% On MU Stock Before Buying A Single Share",
+    "link": "https://www.trefis.com/articles/610184/how-to-bank-14-on-mu-stock-before-buying-a-single-share/2026-08-05?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 18:24:36 +0000"
+   },
+   {
+    "title": "Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-won-major-spacex-171119544.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 17:11:19 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron Drops Stunning Clue About Next Memory Cycle",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-drops-stunning-clue-next-205821967.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 20:58:21 +0000"
-   },
-   {
-    "title": "This Jacked-Up Tech ETF Demands a Strong Stomach",
-    "link": "https://finance.yahoo.com/m/9030f354-1f6e-3fa3-a195-21f4081a9ba9/this-jacked-up-tech-etf.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 19:07:00 +0000"
+    "title": "Micron Retreats From Earlier Gains After Musk Flagged Surging Memory Prices",
+    "link": "https://finance.yahoo.com/m/f5eedee3-91bc-3ed5-bec2-f82ba4e8a537/micron-retreats-from-earlier.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:28:00 +0000"
    },
    {
     "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/spacex%2C-alphabet%2C-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 18:43:00 +0000"
+    "pubDate": "Wed, 05 Aug 2026 21:04:00 +0000"
+   },
+   {
+    "title": "Micron Drops Stunning Clue About Next Memory Cycle",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-drops-stunning-clue-next-205821967.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 20:58:21 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Sandisk stock sinks as revenue forecast falls short of expectations",
-    "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-sinks-as-revenue-forecast-falls-short-of-expectations-163703465.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 16:37:03 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late",
+    "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:06:47 +0000"
+    "pubDate": "Wed, 05 Aug 2026 22:16:35 +0000"
    },
    {
-    "title": "Sandisk Beats Fiscal Q4 Targets But Gives In-Line Outlook",
-    "link": "https://finance.yahoo.com/m/c3dced97-0dd5-3ad0-a46e-1575cce63f07/sandisk-beats-fiscal-q4.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:06:17 +0000"
+    "title": "SNDK Stock Dips After-Hours As Sandisk's Q1 FY27 Outlook Misses Expectations Despite Memory-Driven Q4 Profit",
+    "link": "https://stocktwits.com/news-articles/markets/equity/sandisk-s-q1-fy-27-outlook-misses-expectations-despite-memory-driven-q4-profit/cZoIPQNRJej?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:47:39 +0000"
+   },
+   {
+    "title": "Sandisk forecasts upbeat quarterly revenue on AI-driven demand",
+    "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-forecasts-upbeat-quarterly-revenue-211115527.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:11:15 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late",
+    "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 21:06:47 +0000"
+    "pubDate": "Wed, 05 Aug 2026 22:16:35 +0000"
+   },
+   {
+    "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late.",
+    "link": "https://finance.yahoo.com/m/9a33749b-0ae8-323d-b64c-01b9e68e8a66/western-digital-earnings-beat.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:16:49 +0000"
    },
    {
     "title": "Western Digital forecasts upbeat revenue but shares fall on lofty expectations",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-forecasts-upbeat-revenue-205859177.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 20:58:59 +0000"
-   },
-   {
-    "title": "Western Digital tops estimates, offers guidance; shares fall",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-tops-estimates-offers-204900191.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 20:49:00 +0000"
    }
   ],
   "STX": [
    {
-    "title": "Western Digital Stock Slumps After Earnings. Here Are The Numbers To Know.",
-    "link": "https://finance.yahoo.com/m/9a33749b-0ae8-323d-b64c-01b9e68e8a66/western-digital-stock-slumps.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 20:17:51 +0000"
+    "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late.",
+    "link": "https://finance.yahoo.com/m/9a33749b-0ae8-323d-b64c-01b9e68e8a66/western-digital-earnings-beat.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 21:16:49 +0000"
    },
    {
     "title": "Micron Slips 9% in a Month: Is This the Right Time to Buy MU Stock?",
@@ -173,9 +173,9 @@
   ],
   "SOXL": [
    {
-    "title": "This Jacked-Up Tech ETF Demands a Strong Stomach",
-    "link": "https://finance.yahoo.com/m/9030f354-1f6e-3fa3-a195-21f4081a9ba9/this-jacked-up-tech-etf.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 19:07:00 +0000"
+    "title": "This ETF Delivers a High-Octane AI Buzz. Why Holding It Long Term Is Dangerous.",
+    "link": "https://finance.yahoo.com/m/9030f354-1f6e-3fa3-a195-21f4081a9ba9/this-etf-delivers-a.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 20:22:00 +0000"
    },
    {
     "title": "Why Chip ETFs May Be Poised for a Comeback",
@@ -195,22 +195,17 @@
     "pubDate": "Wed, 05 Aug 2026 20:46:59 +0000"
    },
    {
+    "title": "The Cheapest ETFs for Building a Core Portfolio",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cheapest-etfs-building-core-portfolio-203100733.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 20:31:00 +0000"
+   },
+   {
     "title": "Fed's Schmid Delivers Blunt Warning on Interest Rates",
     "link": "https://finance.yahoo.com/economy/policy/articles/feds-schmid-delivers-blunt-warning-192244449.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 19:22:44 +0000"
-   },
-   {
-    "title": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400?",
-    "link": "https://247wallst.com/investing/2026/08/05/alphabet-is-still-up-16-in-2026-what-will-it-take-to-get-googl-stock-above-400/?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 18:30:05 +0000"
    }
   ],
   "SPY": [
-   {
-    "title": "Stocks Supported by Stellar Earnings",
-    "link": "https://www.barchart.com/story/news/3667270/stocks-supported-by-stellar-earnings?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 15:14:55 +0000"
-   },
    {
     "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131015495.html?.tsrc=rss",
@@ -220,6 +215,11 @@
     "title": "What Happens When Stock Implied Volatility Outpaces the SPY",
     "link": "https://finance.yahoo.com/markets/options/articles/happens-stock-implied-volatility-outpaces-124208065.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 12:42:08 +0000"
+   },
+   {
+    "title": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
+    "link": "https://247wallst.com/investing/2026/08/04/the-dow-just-gained-1000-points-for-the-27th-day-ever-25-of-these-days-happened-under-donald-trump/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 22:59:01 +0000"
    }
   ]
  },

@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-06T01:08:35Z",
+ "updated": "2026-08-06T03:34:45Z",
  "news": {
   "NVDA": [
    {
+    "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
+    "link": "https://www.fool.com/investing/2026/08/05/alphabet-ceo-sundar-pichai-just-made-a-200-billion/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 03:20:00 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 00:59:23 +0000"
+    "pubDate": "Thu, 06 Aug 2026 03:09:13 +0000"
    },
    {
-    "title": "Primo Brands Corporation Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-primo-brands-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 22:50:35 +0000"
-   },
-   {
-    "title": "Palmer Square Capital BDC Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-palmer-square-capital-bdc-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 22:49:54 +0000"
+    "title": "Why AMD Stock Dropped Today",
+    "link": "https://www.fool.com/investing/2026/08/05/why-amd-stock-dropped-today/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 02:32:20 +0000"
    }
   ],
   "AMD": [
    {
     "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 00:59:23 +0000"
+    "pubDate": "Thu, 06 Aug 2026 03:09:13 +0000"
+   },
+   {
+    "title": "Why AMD Stock Dropped Today",
+    "link": "https://www.fool.com/investing/2026/08/05/why-amd-stock-dropped-today/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 02:32:20 +0000"
    },
    {
     "title": "Longsys Showcases End-to-End AI Storage Solutions at FMS 2026",
     "link": "https://finance.yahoo.com/technology/ai/articles/longsys-showcases-end-end-ai-000000282.html?.tsrc=rss",
     "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000"
-   },
-   {
-    "title": "$10,000 in AMDL Became $40,270 in 7 Months, but AMD\u2019s Earnings Crash Erased $9,500 in One Day",
-    "link": "https://247wallst.com/investing/etf/2026/08/05/10000-in-amdl-became-40270-in-7-months-but-amds-earnings-crash-erased-9500-in-one-day/?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 23:52:19 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
+    "link": "https://www.fool.com/investing/2026/08/05/alphabet-ceo-sundar-pichai-just-made-a-200-billion/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 03:20:00 +0000"
+   },
    {
     "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Can Microchip's Micron Alliance Help it Challenge AVGO & ALAB?",
     "link": "https://finance.yahoo.com/technology/articles/microchips-micron-alliance-help-challenge-181500152.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 18:15:00 +0000"
-   },
-   {
-    "title": "QRVO Earnings Beat Highlights a Changing Profitability Story",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/qrvo-earnings-beat-highlights-changing-164900240.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 16:49:00 +0000"
    }
   ],
   "TSM": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
+    "link": "https://www.fool.com/investing/2026/08/05/alphabet-ceo-sundar-pichai-just-made-a-200-billion/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 03:20:00 +0000"
+   },
+   {
     "title": "Two chipmakers, one demo, and a signal for AI\u2019s next phase",
     "link": "https://www.thestreet.com/technology/microchip-micron-ai-storage-pcie-gen6?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 22:33:00 +0000"
@@ -96,18 +101,13 @@
     "title": "The SOXL ETF Is a Popular\u2014and Dangerous\u2014Way to Play Chip Stocks",
     "link": "https://finance.yahoo.com/m/9030f354-1f6e-3fa3-a195-21f4081a9ba9/the-soxl-etf-is-a-popular%E2%80%94and.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
-   },
-   {
-    "title": "Earnings Picture Remains Robust: A Closer Look",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-picture-remains-robust-closer-220600365.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 22:06:00 +0000"
    }
   ],
   "SNDK": [
    {
     "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 00:59:23 +0000"
+    "pubDate": "Thu, 06 Aug 2026 03:09:13 +0000"
    },
    {
     "title": "Sandisk Corporation (SNDK) Beats Q4 Earnings and Revenue Estimates",
@@ -124,7 +124,7 @@
    {
     "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
     "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 00:59:23 +0000"
+    "pubDate": "Thu, 06 Aug 2026 03:09:13 +0000"
    },
    {
     "title": "WDC Stock Sinks 11% After-Hours Despite Earnings Beat \u2014 Retail Questions Selloff, Blames \u2018Technicals And Algos\u2019",
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Semiconductor stocks pare losses amid fears of increased competition from China",
+    "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-pare-losses-amid-fears-of-increased-competition-from-china-133938642.html?.tsrc=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:39:38 +0000"
+   },
+   {
     "title": "Why Chip ETFs May Be Poised for a Comeback",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
@@ -164,11 +169,6 @@
     "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
     "link": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 14:20:36 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131015495.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 13:10:15 +0000"
    }
   ],
   "SOXL": [

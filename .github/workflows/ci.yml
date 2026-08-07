@@ -39,7 +39,7 @@ jobs:
               print('yaml ok:', f)
           # Generated data now lives on the `data` branch; main carries
           # only hand-maintained JSON.
-          for f in ['watchlist.json'] + glob.glob('data/*.json'):
+          for f in ['watchlist.json', 'impact/prevention_inputs.json'] + glob.glob('data/*.json'):
               json.load(open(f))
               print('json ok:', f)
           EOF

@@ -9,6 +9,15 @@ markers per docs/model-routing.md.
 *(empty — hardening series complete; daily-ops selects from Next)*
 
 ## Next
+- **Elder-fraud impact: verify parameters and load the real service log** —
+  owner action, not code. `scripts/prevention_impact.py` ships with every
+  parameter flagged `verified: false` and twelve example periods, and the
+  provenance gate blocks any headline figure until both are fixed. Highest-
+  value single measurement is the bank recovery rate (~49% of output
+  variance); highest-value new input is a log of *known failures* — people
+  reached who were defrauded anyway — which is the only quantity here that
+  can falsify the effect size rather than assume it. See
+  docs/prevention-impact.md §11.
 - **Trend-quality + dartboard page updates** — show the `trend` arm on
   dartboard.html alongside the other three, and surface
   `trend_quality.json` (slope, r2, rank) as a sortable table. Display
@@ -61,6 +70,11 @@ markers per docs/model-routing.md.
   set ANTHROPIC_API_KEY + DAILY_AI_MAINTENANCE_ENABLED=true (costs money).
 
 ## Completed
+- 2026-08-07 elder-fraud prevention impact estimator: Monte Carlo
+  counterfactual model with a national-consistency filter tied to published
+  FTC totals, a provenance gate that blocks unpublishable claims, and three
+  separated control charts (awareness rate ±2σ, exact-Poisson interdiction
+  counts, per-event severity). 50 tests. Method: docs/prevention-impact.md.
 - 2026-06/07: landing page, Pages deploy, live tracker (13 tickers,
   sparklines, 52-wk range, ±3% flags, stale alarm), sector pulse (11
   ETFs), editable watchlist, headlines panel with corroboration-free

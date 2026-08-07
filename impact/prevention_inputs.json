@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "_readme": [
+    "Owner-maintained inputs for scripts/prevention_impact.py. This file is",
+    "hand-edited; data/prevention_impact.json is generated and never edited.",
+    "",
+    "Every entry under `parameters` carries a `source` and a `verified` flag.",
+    "`verified: false` means nobody has opened the primary document and",
+    "confirmed the number. The script REFUSES to mark a headline figure",
+    "publishable while any parameter it depends on is unverified. That is the",
+    "whole point: an uncited assumption should block the claim, not decorate it.",
+    "",
+    "`periods` below is EXAMPLE DATA so the pipeline runs end to end. It",
+    "describes no real engagement. Replace it with the real service log before",
+    "any number leaves this repository."
+  ],
+
+  "business": {
+    "operator": "Christian Parker",
+    "program": "Elder fraud prevention — awareness and action",
+    "population_served": "Adults 60+ and their households",
+    "reporting_currency": "USD"
+  },
+
+  "parameters": {
+    "population_60plus": {
+      "dist": "point",
+      "value": 78000000,
+      "unit": "people",
+      "source": "US Census Bureau population estimates, ages 60+ (~78M, 2023-2024)",
+      "verified": false,
+      "note": "Denominator for the national-consistency constraint only. Does not scale the local estimate."
+    },
+
+    "national_annual_loss_low": {
+      "dist": "point",
+      "value": 10100000000,
+      "unit": "USD/year",
+      "source": "https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults",
+      "verified": false,
+      "note": "FTC 2024 low-end estimate of true (underreporting-adjusted) fraud cost to adults 60+."
+    },
+    "national_annual_loss_high": {
+      "dist": "point",
+      "value": 81500000000,
+      "unit": "USD/year",
+      "source": "https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults",
+      "verified": false,
+      "note": "FTC 2024 high-end estimate. The 8x span between low and high is the honest state of the evidence, not a rounding choice."
+    },
+
+    "loss_median_usd": {
+      "dist": "pert",
+      "low": 800,
+      "mode": 1600,
+      "high": 4000,
+      "source": "FTC Consumer Sentinel 2024: median reported individual loss exceeding $1,600 for adults 80+",
+      "verified": false,
+      "note": "MEDIAN, not mean. Reported medians understate true medians because small losses go unreported; the upper leg of the PERT carries that."
+    },
+    "loss_sigma_log": {
+      "dist": "pert",
+      "low": 2.0,
+      "mode": 2.8,
+      "high": 3.2,
+      "source": "Implied by FTC median (~$1,600) vs FBI IC3 2024 mean (~$83,000) for 60+ under a lognormal: sigma = sqrt(2*ln(mean/median)) ~ 2.81",
+      "verified": false,
+      "note": "Two independent sources reconcile at sigma ~ 2.8, which is why this shape is used rather than assumed. Populations differ (IC3 is internet-crime complainants, FTC is all fraud), so the mode is an anchor, not a fit."
+    },
+
+    "annual_incidence_60plus": {
+      "dist": "pert",
+      "low": 0.002,
+      "mode": 0.012,
+      "high": 0.060,
+      "unit": "money-losing fraud events per person per year",
+      "source": "DERIVED — no single citable figure. Prior is deliberately wide and is then constrained by `national_consistency` below.",
+      "verified": false,
+      "note": "Do not tighten this by hand. The national-consistency filter tightens it from published aggregates, which is auditable; a hand-picked value is not."
+    },
+
+    "rrr_intensive": {
+      "dist": "pert",
+      "low": 0.10,
+      "mode": 0.22,
+      "high": 0.40,
+      "unit": "relative risk reduction",
+      "source": "Langton & DeLiema, Journal of Consumer Affairs (2026), USPIS 'Fraud Fighter' RCT, N=2253: 22% relative reduction in revictimization risk (5 percentage points absolute, p=0.029). https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.70059",
+      "verified": false,
+      "note": "TRANSFER ASSUMPTION. The RCT measured a mailed campaign to prior mail-fraud victims. An in-person program with follow-up is a different dose to a different population; the mode is set AT the RCT point estimate rather than above it, so the transfer does not smuggle in optimism."
+    },
+    "rrr_standard": {
+      "dist": "pert",
+      "low": 0.05,
+      "mode": 0.12,
+      "high": 0.25,
+      "unit": "relative risk reduction",
+      "source": "Scaled below rrr_intensive; no direct RCT for a single-session dose.",
+      "verified": false,
+      "note": "Dose-response is assumed monotone, not measured. This is a named weakness, not a hidden one."
+    },
+    "rrr_brief": {
+      "dist": "pert",
+      "low": 0.00,
+      "mode": 0.03,
+      "high": 0.10,
+      "unit": "relative risk reduction",
+      "source": "Lower bound pinned at ZERO — a table at a health fair may change nothing.",
+      "verified": false,
+      "note": "A prior whose lower bound excludes zero asserts the program works. This one does not assert that."
+    },
+
+    "persistence_half_life_months": {
+      "dist": "pert",
+      "low": 3.0,
+      "mode": 9.0,
+      "high": 24.0,
+      "source": "DERIVED — awareness decay is not directly measured in the elder-fraud literature.",
+      "verified": false,
+      "note": "Protection is not permanent. Without decay the model credits a 2019 seminar for a 2026 save, which is how these estimates become fiction."
+    },
+
+    "recovery_absent_intervention": {
+      "dist": "pert",
+      "low": 0.02,
+      "mode": 0.10,
+      "high": 0.30,
+      "unit": "fraction of exposure",
+      "source": "DERIVED — bank clawback / wire recall rates vary by rail and speed.",
+      "verified": false,
+      "note": "SUBTRACTED from every interdiction. Money the bank would have reversed anyway was not prevented by Christian. Omitting this term is the single most common way interdiction tallies get inflated."
+    },
+
+    "stage_loss_probability": {
+      "contacted":    {"dist": "pert", "low": 0.02, "mode": 0.08, "high": 0.25},
+      "persuaded":    {"dist": "pert", "low": 0.25, "mode": 0.50, "high": 0.75},
+      "funds_staged": {"dist": "pert", "low": 0.55, "mode": 0.80, "high": 0.95},
+      "in_transit":   {"dist": "pert", "low": 0.70, "mode": 0.90, "high": 0.99},
+      "_source": "DERIVED — stage-conditional completion priors. Not measured; elicited. Treat as the weakest link in the interdiction channel.",
+      "_verified": false
+    },
+
+    "evidence_weight": {
+      "documented":     {"dist": "point", "value": 1.00},
+      "client_attested":{"dist": "pert", "low": 0.50, "mode": 0.75, "high": 0.90},
+      "inferred":       {"dist": "pert", "low": 0.10, "mode": 0.30, "high": 0.50},
+      "_source": "Policy choice, not an empirical quantity. Discounts cases nobody can corroborate.",
+      "_verified": true
+    }
+  },
+
+  "national_consistency": {
+    "enabled": true,
+    "note": [
+      "Rejection-sampling constraint. A draw of (annual_incidence_60plus, loss_median_usd,",
+      "loss_sigma_log) implies a national annual loss to adults 60+ of",
+      "  incidence * E[loss] * population_60plus.",
+      "Draws implying a total outside the FTC's published $10.1B-$81.5B range are",
+      "discarded. This is what keeps a local estimate tethered to national data:",
+      "any parameter set that would only make sense in a country losing $400B a",
+      "year to elder fraud is not allowed to price Christian's month."
+    ]
+  },
+
+  "cohorts": {
+    "intensive": {
+      "rrr_parameter": "rrr_intensive",
+      "description": "Multi-session engagement or ongoing household monitoring: account alerts configured, trusted-contact designations filed, follow-up contact."
+    },
+    "standard": {
+      "rrr_parameter": "rrr_standard",
+      "description": "One full awareness session (45+ min) with take-home materials and a named follow-up channel."
+    },
+    "brief": {
+      "rrr_parameter": "rrr_brief",
+      "description": "Short-form exposure: expo table, radio segment, single handout. No verified comprehension."
+    }
+  },
+
+  "control_chart": {
+    "metric": "prevented_usd_per_1000_protected_person_months",
+    "sigma_multiple": 2.0,
+    "sigma_estimator": "median_moving_range",
+    "log_scale": true,
+    "min_periods_for_limits": 8,
+    "provisional_below_periods": 20
+  },
+
+  "periods": [
+    {"period": "2025-09", "_example": true, "reach": {"intensive": 4,  "standard": 22,  "brief": 60},  "interdictions": []},
+    {"period": "2025-10", "_example": true, "reach": {"intensive": 6,  "standard": 31,  "brief": 145}, "interdictions": [
+      {"id": "EX-001", "stage": "persuaded", "exposure_usd": 9500, "evidence": "client_attested", "attribution": 1.0}
+    ]},
+    {"period": "2025-11", "_example": true, "reach": {"intensive": 5,  "standard": 18,  "brief": 40},  "interdictions": []},
+    {"period": "2025-12", "_example": true, "reach": {"intensive": 9,  "standard": 44,  "brief": 210}, "interdictions": [
+      {"id": "EX-002", "stage": "funds_staged", "exposure_usd": 24000, "evidence": "documented", "attribution": 0.5}
+    ]},
+    {"period": "2026-01", "_example": true, "reach": {"intensive": 7,  "standard": 29,  "brief": 95},  "interdictions": []},
+    {"period": "2026-02", "_example": true, "reach": {"intensive": 8,  "standard": 35,  "brief": 120}, "interdictions": [
+      {"id": "EX-003", "stage": "contacted", "exposure_usd": 3200, "evidence": "inferred", "attribution": 1.0}
+    ]},
+    {"period": "2026-03", "_example": true, "reach": {"intensive": 11, "standard": 41,  "brief": 180}, "interdictions": []},
+    {"period": "2026-04", "_example": true, "reach": {"intensive": 6,  "standard": 26,  "brief": 88},  "interdictions": [
+      {"id": "EX-004", "stage": "in_transit", "exposure_usd": 118000, "evidence": "documented", "attribution": 1.0}
+    ]},
+    {"period": "2026-05", "_example": true, "reach": {"intensive": 10, "standard": 38,  "brief": 165}, "interdictions": []},
+    {"period": "2026-06", "_example": true, "reach": {"intensive": 12, "standard": 47,  "brief": 240}, "interdictions": [
+      {"id": "EX-005", "stage": "persuaded", "exposure_usd": 15400, "evidence": "client_attested", "attribution": 1.0}
+    ]},
+    {"period": "2026-07", "_example": true, "reach": {"intensive": 9,  "standard": 33,  "brief": 110}, "interdictions": []},
+    {"period": "2026-08", "_example": true, "reach": {"intensive": 13, "standard": 52,  "brief": 275}, "interdictions": [
+      {"id": "EX-006", "stage": "funds_staged", "exposure_usd": 41000, "evidence": "documented", "attribution": 1.0}
+    ]}
+  ]
+}

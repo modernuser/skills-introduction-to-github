@@ -48,7 +48,8 @@ def write_health(q, newest, started) -> None:
         "status": "stale" if behind_close > 1 else "ok",
     }
     for name in ("news", "movers", "rotation", "portfolios", "extended",
-                 "sector_depth", "factor_lab", "trend_quality"):
+                 "sector_depth", "factor_lab", "trend_quality",
+                 "kpi_panel", "gage_rr"):
         path = f"data/{name}.json"
         if not os.path.exists(path):
             files[name] = {"present": False, "status": "missing"}
@@ -144,6 +145,29 @@ def main() -> int:
             ordered = [r["vol_30d"] for r in rows]
             if ordered != sorted(ordered, reverse=True):
                 fail(f"sector {sector} is not ordered by volatility")
+
+    if os.path.exists("data/gage_rr.json"):
+        with open("data/gage_rr.json") as f:
+            rr = json.load(f)
+        # A gate that reports PASS without having been evaluated is the
+        # exact failure this harness exists to prevent.
+        for name, gate in (rr.get("gates") or {}).items():
+            if gate.get("status") not in ("PASS", "FAIL"):
+                fail(f"gage_rr gate {name} has status {gate.get('status')!r}")
+            if gate["status"] == "PASS" and not (
+                    rr.get("kpis", {}).get(name, {}).get("evaluated")):
+                fail(f"gage_rr {name} reports PASS but was never evaluated")
+
+    if os.path.exists("data/kpi_panel.json"):
+        with open("data/kpi_panel.json") as f:
+            kp = json.load(f)
+        banned = {"direction", "likelihood", "signal", "target_acquired",
+                  "recommendation", "buy", "sell"}
+        for sym, row in (kp.get("panel") or {}).items():
+            leaked = banned & ({k.lower() for k in row}
+                               | {k.lower() for k in row.get("kpis", {})})
+            if leaked:
+                fail(f"kpi_panel {sym} emits {leaked}")
 
     if os.path.exists("data/trend_quality.json"):
         with open("data/trend_quality.json") as f:

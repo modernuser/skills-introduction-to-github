@@ -138,13 +138,26 @@ def main() -> int:
           f"{sum(len(v) for v in sectors.values())} names, "
           f"{measured} measured, {len(errors)} errors")
 
-    # Same histories, second measurement — no extra requests. Best-effort:
-    # the volatility rankings must not depend on it.
+    # Same histories, further measurements — no extra requests. All
+    # best-effort: the volatility rankings must not depend on them.
     try:
         import trend_quality
         trend_quality.main(histories=histories)
     except Exception as exc:
         print(f"trend quality failed: {type(exc).__name__}: {exc}",
+              file=sys.stderr)
+
+    # KPI panel + measurement system analysis. Histories are grouped by
+    # the source that actually served them, so Gage R&R can measure
+    # whether the sources agree — the question a per-symbol fallback
+    # makes unavoidable.
+    try:
+        import kpi_panel
+        from update_quotes import LAST_SOURCE
+        kpi_panel.main({LAST_SOURCE: histories},
+                       names={s: m["name"] for s, m in constituents.items()})
+    except Exception as exc:
+        print(f"kpi panel failed: {type(exc).__name__}: {exc}",
               file=sys.stderr)
     return 0
 

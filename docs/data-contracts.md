@@ -168,6 +168,47 @@ Written best-effort by `sector-depth.yml` after the close. The validator
 `recommendation` key in this file — the project's no-signals boundary is
 enforced at publish time here, not just by convention.
 
+## kpi_panel.json — five daily KPIs + multi-window returns
+```
+{ generated, note, return_windows: [1,5,7,10,30,60,90,100,200,360],
+  kpi_names: [...], sources_measured: [...], tickers,
+  panel: { SYMBOL: { symbol, name, as_of, last_close, sessions,
+                     kpis: { vol_30d, trend_r2_90d, slope_annual_pct,
+                             max_drawdown_90d, volume_surge },
+                     returns: { r1, r5, r7, ... r360 } } } }
+```
+All five KPIs come from OHLCV the pipeline already fetches — no new
+provider, no new request. Returns longer than the available history are
+**null**, never a shorter window relabelled: a 360-session return computed
+from 200 sessions is a different number wearing the same name.
+
+Outliers are MAD-winsorized at 4σ (shared with `factor_lab`) — clipped,
+never deleted. The validator rejects any `direction`/`likelihood`/
+`signal`/`target_acquired` key here, as it does for `factor_lab`.
+
+## gage_rr.json — measurement system analysis
+```
+{ generated, method, note, acceptance_bands: {acceptable_pct: 10,
+                                              marginal_pct: 30},
+  kpis: { <kpi>: { evaluated, parts, operators,
+                   repeatability_sd, reproducibility_sd,
+                   part_variation_sd, total_variation_sd,
+                   pct_rr, verdict, deterministic } },
+  gates: { <kpi>: { status: PASS|FAIL, reason, root_cause_required } },
+  overall: PASS|FAIL }
+```
+Parts are tickers, operators are data sources, trials are repeated
+computations. **Repeatability must be exactly 0** — this pipeline is
+deterministic, so any within-source variance is hidden state, not noise,
+and fails the gate independently of `pct_rr`. Reproducibility measures
+whether the sources agree, which is the question a per-symbol fallback
+forces.
+
+Bands are AIAG (≤10% acceptable, ≤30% marginal). The validator rejects a
+`PASS` on a KPI that was never evaluated — reporting success without
+having measured is the failure this file exists to prevent. Protocol and
+results: `docs/msa-protocol.md`.
+
 ## notified_moves.json (state)
 `{ date, symbols: [..] }` — each ticker notifies at most once per day.
 

@@ -102,7 +102,19 @@ framed. Offer data-display alternatives instead.
    https://github.com/OWNER/REPO` resolves every SHA. Before reporting
    something as environmentally impossible, name the specific mechanism
    that failed and ask what else reaches the same data.
-16. **Measure claims, don't repeat them.** The site said "every 20 min"
+16. **When a test passes where you expected failure, suspect the test.**
+   Aug 2026 MSA: a uniform x1.015 offset between sources produced zero
+   measured disagreement. The harness was right — all five KPIs are
+   scale-invariant, so a uniform scaling is invisible to them. The
+   stimulus was wrong. An unexpected PASS is a finding to investigate,
+   not a result to bank.
+17. **A procedure that guarantees its own success is not evidence.**
+   "Delete outliers until r2 >= 0.999" reaches any target by discarding
+   93-99% of the data (docs/msa-protocol.md). Same defect as an
+   in-sample `min_r2` gate: one adds noise columns, the other deletes
+   rows. Before adopting an acceptance rule, ask what result would make
+   it FAIL — if nothing would, it measures nothing.
+18. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

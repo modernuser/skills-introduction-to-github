@@ -1,58 +1,63 @@
 {
- "updated": "2026-08-07T20:54:50Z",
+ "updated": "2026-08-07T21:58:15Z",
  "news": {
   "NVDA": [
    {
-    "title": "Arko Corp. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-arko-corp-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 20:50:19 +0000"
+    "title": "Why Redwire Stock Keeps Gaining",
+    "link": "https://www.fool.com/investing/2026/08/07/why-redwire-stock-keeps-gaining/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 21:36:21 +0000"
    },
    {
-    "title": "Nvidia\u2019s (NVDA) Alpamayo Launch and the Robotaxi Bet",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-alpamayo-launch-robotaxi-200324206.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 20:03:24 +0000"
+    "title": "Essent Group Ltd. Q2 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-essent-group-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 21:36:08 +0000"
    },
    {
-    "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
-    "link": "https://finance.yahoo.com/m/4c427706-d807-397b-8248-5aafd35373c7/nvidia%2C-microsoft-partner.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 20:01:06 +0000"
+    "title": "Boost Run Announces Date of Second Quarter 2026 Financial Results Conference Call",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/boost-run-announces-date-second-213100021.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 21:31:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
-    "link": "https://finance.yahoo.com/m/4c427706-d807-397b-8248-5aafd35373c7/nvidia%2C-microsoft-partner.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 20:01:06 +0000"
+    "title": "AMD Drops 6% Post Q2 Earnings: Is the Stock a Buy on the Dip?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-drops-6-post-q2-171500161.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 17:15:00 +0000"
    },
    {
-    "title": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-reasons-behind-182404118.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 18:24:04 +0000"
+    "title": "AMD Buys AI Chip Start-Up. Can It Close the Gap to Nvidia?",
+    "link": "https://finance.yahoo.com/m/d57f7dd6-254b-39db-8491-89131221d7a8/amd-buys-ai-chip-start-up..html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:56:00 +0000"
+   },
+   {
+    "title": "AMD Is Buying Its Way Deeper Into AI Inference",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-buying-way-deeper-ai-164255362.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:42:55 +0000"
+   }
+  ],
+  "AVGO": [
+   {
+    "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+    "link": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 19:00:00 +0000"
    },
    {
     "title": "The Toughest Questions AMD Faced On Its Latest Call",
     "link": "https://www.trefis.com/articles/610570/the-toughest-questions-amd-faced-on-its-latest-call/2026-08-07?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 17:58:49 +0000"
-   }
-  ],
-  "AVGO": [
-   {
-    "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
-    "link": "https://finance.yahoo.com/technology/articles/data-center-solutions-market-reach-131600977.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:16:00 +0000"
    },
    {
-    "title": "3 AI Infrastructure Stocks That Could Make You Rich in August",
-    "link": "https://247wallst.com/investing/2026/08/07/3-ai-infrastructure-stocks-that-could-make-you-rich-in-august/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 11:00:28 +0000"
-   },
-   {
-    "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-    "link": "https://247wallst.com/investing/2026/08/07/is-broadcom-the-best-chip-stock-to-own-now-maybe/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 04:57:01 +0000"
+    "title": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
+    "link": "https://www.trefis.com/articles/610545/how-to-earn-11-on-nvda-stock-and-set-a-30-safety-net/2026-08-07?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 17:44:30 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Jim Cramer Called Linde plc (NASDAQ:LIN)\u2019s Share Price Movement \u201cStupid\u201d",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-linde-plc-183106534.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 18:31:06 +0000"
+   },
    {
     "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
     "link": "https://www.fool.com/investing/2026/08/07/forget-tsmc-2-ai-semiconductor-equipment/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "BTQ and ITRI clear first milestone in quantum-security chip roadmap",
     "link": "https://www.thestreet.com/crypto/innovation/btq-and-itri-clear-first-milestone-in-quantum-security-chip-roadmap?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 16:36:23 +0000"
-   },
-   {
-    "title": "Apple faces iPhone 18 Pro DRAM shortage weeks before launch",
-    "link": "https://www.cultofmac.com/news/iphone-18-pro-dram-shortage-launch?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:15:11 +0000"
    }
   ],
   "INTC": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 07 Aug 2026 20:16:43 +0000"
    },
    {
+    "title": "SK Hynix invests $38B in new plants amid AI memory shortages",
+    "link": "https://finance.yahoo.com/video/sk-hynix-invests-38b-plants-200856730.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 20:08:56 +0000"
+   },
+   {
     "title": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-falls-citi-slashes-195133579.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 19:51:33 +0000"
-   },
-   {
-    "title": "Micron Stock Slips as Citi Cuts Target by $250",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-citi-cuts-193230636.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 19:32:30 +0000"
    }
   ],
   "SNDK": [
@@ -127,14 +127,14 @@
     "pubDate": "Fri, 07 Aug 2026 15:47:30 +0000"
    },
    {
+    "title": "Can MU Stock Compound Its Way Higher?",
+    "link": "https://www.trefis.com/articles/610529/can-mu-stock-compound-its-way-higher/2026-08-07?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:47:25 +0000"
+   },
+   {
     "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
     "link": "https://investorshub.advfn.com/market-news/article/33690/us-jobs-report-in-focus-as-middle-east-tensions-and-corporate-news-shape-markets-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 08:35:36 +0000"
-   },
-   {
-    "title": "SNDK, WDC Rout Tests Chip Rally \u2014 Roundhill CEO Says \u2018Beat And Raise Is Not Enough\u2019 As Investors Return To NVDA",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-wdc-rout-roundhill-ceo-investors-return-to-nvda/cZoOUz6RJBI?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:14:59 +0000"
    }
   ],
   "STX": [
@@ -178,48 +178,48 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
-    "title": "Why Chip ETFs May Be Poised for a Comeback",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
-   },
-   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
+   },
+   {
+    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
+    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
    {
+    "title": "U.S. Jobs Report Delivers Stark Warning on Economy",
+    "link": "https://finance.yahoo.com/economy/articles/u-jobs-report-delivers-stark-203644145.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 20:36:44 +0000"
+   },
+   {
+    "title": "A Guide to Nasdaq ETF Investing",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/guide-nasdaq-etf-investing-175900121.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 17:59:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-172415907.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 17:24:15 +0000"
-   },
-   {
-    "title": "Tech Stocks Under Pressure: 1 Magnificent ETF to Buy on the Dip",
-    "link": "https://www.fool.com/investing/2026/08/07/tech-stocks-pressure-1-magnificent-etf-buy-the-dip/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 09:47:00 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131928036.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:19:28 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "These New Drugs Could Fuel Fresh Highs for Biotech and Pharma Stocks",
-    "link": "https://finance.yahoo.com/m/bdadf47a-cff5-37db-9b42-755f6e090009/these-new-drugs-could-fuel.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:30:00 +0000"
+    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131928036.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 13:19:28 +0000"
    },
    {
-    "title": "Jobs Numbers -23K for July, -103K in Previous Revisions",
-    "link": "https://finance.yahoo.com/economy/articles/jobs-numbers-23k-july-103k-142700474.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:27:00 +0000"
+    "title": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
+    "link": "https://stocktwits.com/news-articles/markets/equity/trump-calls-ai-bigger-than-oil-in-the-race-against-china-for-tech-crypto-dominance/cZofbMGRJBi?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 10:39:04 +0000"
    },
    {
-    "title": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
-    "link": "https://247wallst.com/investing/etf/2026/08/07/want-2000-a-month-from-spyi-heres-the-exact-investment-it-takes-and-the-catch-at-that-size/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:53:44 +0000"
+    "title": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
+    "link": "https://finance.yahoo.com/economy/articles/economy-lost-jobs-wall-street-194002543.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 19:40:02 +0000"
    }
   ]
  },

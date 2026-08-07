@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-07T03:14:37Z",
+ "updated": "2026-08-07T23:50:49Z",
  "coverage": 500,
  "gainers": [
   {
-   "symbol": "MSI",
-   "name": "Motorola Solutions",
+   "symbol": "ABNB",
+   "name": "Airbnb",
+   "sector": "Consumer Discretionary",
+   "close": 178.07,
+   "pct": 17.43
+  },
+  {
+   "symbol": "MCHP",
+   "name": "Microchip Technology",
    "sector": "Information Technology",
-   "close": 474.07,
-   "pct": 8.2
+   "close": 84.69,
+   "pct": 13.89
   },
   {
-   "symbol": "PH",
-   "name": "Parker Hannifin",
-   "sector": "Industrials",
-   "close": 1069.8,
-   "pct": 7.31
-  },
-  {
-   "symbol": "LDOS",
-   "name": "Leidos",
-   "sector": "Industrials",
-   "close": 135.26,
-   "pct": 6.63
-  },
-  {
-   "symbol": "FOX",
-   "name": "Fox Corporation (Class B)",
-   "sector": "Communication Services",
-   "close": 55.37,
-   "pct": 6.07
-  },
-  {
-   "symbol": "PTC",
-   "name": "PTC Inc.",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 147.66,
-   "pct": 5.9
+   "close": 379.13,
+   "pct": 13.44
   },
   {
-   "symbol": "ALB",
-   "name": "Albemarle Corporation",
-   "sector": "Materials",
-   "close": 125.42,
-   "pct": 5.54
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
+   "sector": "Information Technology",
+   "close": 172.01,
+   "pct": 10.32
   },
   {
-   "symbol": "APA",
-   "name": "APA Corporation",
-   "sector": "Energy",
-   "close": 36.53,
-   "pct": 5.4
-  },
-  {
-   "symbol": "FOXA",
-   "name": "Fox Corporation (Class A)",
-   "sector": "Communication Services",
-   "close": 61.79,
-   "pct": 5.3
-  },
-  {
-   "symbol": "PODD",
-   "name": "Insulet Corporation",
+   "symbol": "MRNA",
+   "name": "Moderna",
    "sector": "Health Care",
-   "close": 139.3,
-   "pct": 4.53
-  },
-  {
-   "symbol": "OXY",
-   "name": "Occidental Petroleum",
-   "sector": "Energy",
-   "close": 56.04,
-   "pct": 4.14
-  }
- ],
- "losers": [
-  {
-   "symbol": "HONA",
-   "name": "Honeywell Aerospace",
-   "sector": "Industrials",
-   "close": 156.47,
-   "pct": -23.16
-  },
-  {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Information Technology",
-   "close": 335.67,
-   "pct": -19.66
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
-   "sector": "Information Technology",
-   "close": 229.29,
-   "pct": -19.03
+   "close": 59.17,
+   "pct": 9.86
   },
   {
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "sector": "Industrials",
-   "close": 522.46,
-   "pct": -14.28
+   "close": 571.01,
+   "pct": 9.29
   },
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
+   "symbol": "HONA",
+   "name": "Honeywell Aerospace",
+   "sector": "Industrials",
+   "close": 168.51,
+   "pct": 7.69
+  },
+  {
+   "symbol": "NEM",
+   "name": "Newmont",
+   "sector": "Materials",
+   "close": 112.98,
+   "pct": 7.16
+  },
+  {
+   "symbol": "APTV",
+   "name": "Aptiv",
+   "sector": "Consumer Discretionary",
+   "close": 49.55,
+   "pct": 7.02
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
    "sector": "Information Technology",
-   "close": 451.52,
-   "pct": -13.03
+   "close": 30.05,
+   "pct": 6.64
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "TTD",
+   "name": "Trade Desk (The)",
+   "sector": "Communication Services",
+   "close": 13.8,
+   "pct": -21.9
   },
   {
-   "symbol": "VTRS",
-   "name": "Viatris",
+   "symbol": "AKAM",
+   "name": "Akamai Technologies",
+   "sector": "Information Technology",
+   "close": 110.54,
+   "pct": -6.76
+  },
+  {
+   "symbol": "ZTS",
+   "name": "Zoetis",
    "sector": "Health Care",
-   "close": 16.29,
-   "pct": -7.71
+   "close": 72.66,
+   "pct": -5.97
   },
   {
-   "symbol": "HST",
-   "name": "Host Hotels & Resorts",
-   "sector": "Real Estate",
-   "close": 23.38,
-   "pct": -6.96
+   "symbol": "RMD",
+   "name": "ResMed",
+   "sector": "Health Care",
+   "close": 211.94,
+   "pct": -5.06
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 812.76,
+   "pct": -4.71
+  },
+  {
+   "symbol": "CDW",
+   "name": "CDW Corporation",
+   "sector": "Information Technology",
+   "close": 135.81,
+   "pct": -4.34
+  },
+  {
+   "symbol": "TRGP",
+   "name": "Targa Resources",
+   "sector": "Energy",
+   "close": 256.87,
+   "pct": -4.24
   },
   {
    "symbol": "TPL",
    "name": "Texas Pacific Land Corporation",
    "sector": "Energy",
-   "close": 355.64,
-   "pct": -6.87
+   "close": 340.65,
+   "pct": -4.21
   },
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1258.58,
-   "pct": -6.81
-  },
-  {
-   "symbol": "TTD",
-   "name": "Trade Desk (The)",
+   "symbol": "NWS",
+   "name": "News Corp (Class B)",
    "sector": "Communication Services",
-   "close": 17.67,
-   "pct": -6.8
+   "close": 32.45,
+   "pct": -4.19
+  },
+  {
+   "symbol": "MNST",
+   "name": "Monster Beverage",
+   "sector": "Consumer Staples",
+   "close": 90.36,
+   "pct": -4.04
   }
  ]
 }

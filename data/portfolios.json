@@ -26,7 +26,7 @@
      "name": "Broadcom",
      "shares": 2.31775,
      "start_close": 392.23,
-     "last_close": 420.565
+     "last_close": 420.57
     },
     {
      "symbol": "TSM",
@@ -85,7 +85,7 @@
      "last_close": 132.33
     }
    ],
-   "value": 10339.52,
+   "value": 10339.53,
    "return_pct": 3.4,
    "alpha_pp": 1.96
   },

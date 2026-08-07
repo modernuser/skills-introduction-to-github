@@ -1,62 +1,62 @@
 {
- "updated": "2026-08-07T11:30:12Z",
+ "updated": "2026-08-07T12:26:49Z",
  "news": {
   "NVDA": [
    {
-    "title": "Amazon CEO Andy Jassy Just Made a Shocking Trillion-Dollar Prediction",
-    "link": "https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-made-a-shocking-trillio/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 11:05:00 +0000"
+    "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
+    "link": "https://www.fool.com/investing/2026/08/07/overlooked-chip-stock-lead-ai-memory-simo/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:05:00 +0000"
    },
    {
-    "title": "In a Down Crypto Market, Does Investing in Prediction Markets Make Sense?",
-    "link": "https://www.fool.com/investing/2026/08/07/in-a-down-crypto-market-does-investing-in-predicti/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:50:00 +0000"
+    "title": "SharonAI Holdings, Inc. Class A Common Stock Q2 Earnings Call Highlights",
+    "link": "https://www.marketbeat.com/instant-alerts/sharonai-holdings-inc-class-a-common-stock-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:03:55 +0000"
    },
    {
-    "title": "Where Will Meta Platforms Stock Be in 5 Years?",
-    "link": "https://www.fool.com/investing/2026/08/07/where-will-meta-platforms-stock-be-in-5-years/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:48:00 +0000"
+    "title": "Exxon's Profit Fell Short. Its Dividend Didn't.",
+    "link": "https://www.fool.com/investing/2026/08/07/exxons-profit-fell-short-its-dividend-didnt/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 11:50:00 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Advanced Micro Devices (AMD) Adds AI Inference Silicon With Taalas Acquisition",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-adds-121529723.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:15:29 +0000"
+   },
+   {
+    "title": "AMD acquires Taalas AI inference chip startup",
+    "link": "https://qz.com/amd-acquires-taalas-ai-inference-chip-startup-080726?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:02:09 +0000"
+   },
+   {
     "title": "AMD Stock tumbles because of SpaceX",
     "link": "https://www.thestreet.com/investing/stocks/amd-stock-record-earnings-spacex-nvidia-exclusive?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 11:03:00 +0000"
-   },
-   {
-    "title": "AMD to acquire Taalas for specialised AI inference silicon",
-    "link": "https://www.verdict.co.uk/amd-taalas-acquisition/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:36:57 +0000"
-   },
-   {
-    "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-    "link": "https://247wallst.com/investing/2026/08/07/is-broadcom-the-best-chip-stock-to-own-now-maybe/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 04:57:01 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 11:39:23 +0000"
+   },
+   {
     "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
     "link": "https://247wallst.com/investing/2026/08/07/is-broadcom-the-best-chip-stock-to-own-now-maybe/?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 04:57:01 +0000"
    },
    {
-    "title": "Microsoft vs. Broadcom: Two AI Powerhouses, One Better Investment",
-    "link": "https://247wallst.com/investing/2026/08/06/microsoft-vs-broadcom-two-ai-powerhouses-one-better-investment/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 17:30:00 +0000"
-   },
-   {
-    "title": "Broadcom Enables Enterprises to Strengthen Multi-Layer Cyber Defense and Operational Efficiency with New vDefend and Avi Load Balancer Capabilities",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-enables-enterprises-strengthen-multi-130000320.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000"
+    "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
+    "link": "https://www.trefis.com/articles/610346/earn-14-on-mrvl-stock-now-or-own-it-60-cheaper-later/2026-08-06?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:48:35 +0000"
    }
   ],
   "TSM": [
    {
     "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
     "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 11:09:34 +0000"
+    "pubDate": "Fri, 07 Aug 2026 12:03:57 +0000"
    },
    {
     "title": "Lazard Fund Beating 93% of Peers Adds Samsung During Memory Rout",
@@ -71,57 +71,62 @@
   ],
   "INTC": [
    {
-    "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
-    "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:27:44 +0000"
-   },
-   {
-    "title": "AMD Is Focused Correctly So I Continue Loading Up",
-    "link": "https://247wallst.com/investing/2026/08/07/amd-is-focused-correctly-so-i-continue-loading-up/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 04:53:52 +0000"
-   },
-   {
     "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
     "link": "https://247wallst.com/investing/2026/08/07/how-will-intel-really-be-able-to-beat-tsmc-in-the-next-year/?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 04:46:53 +0000"
+   },
+   {
+    "title": "Is the Intel stock rally back? AlphaSpace stats to know.",
+    "link": "https://finance.yahoo.com/markets/article/is-the-intel-stock-rally-back-alphaspace-stats-to-know-145758235.html?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 14:57:58 +0000"
+   },
+   {
+    "title": "SoftBank Q1 2026 earnings beat: Intel stake drives profit",
+    "link": "https://qz.com/softbank-earnings-intel-bytedance-profit-beat-080626?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 14:02:13 +0000"
    }
   ],
   "MU": [
    {
+    "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
+    "link": "https://www.fool.com/investing/2026/08/07/overlooked-chip-stock-lead-ai-memory-simo/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:05:00 +0000"
+   },
+   {
+    "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 11:39:23 +0000"
+   },
+   {
     "title": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'",
     "link": "https://finance.yahoo.com/markets/stocks/articles/steve-eisman-pushes-back-michael-094529986.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 09:45:29 +0000"
-   },
-   {
-    "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
-    "link": "https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-gave-investors-220-bill/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 09:20:00 +0000"
-   },
-   {
-    "title": "SNDK Stock Edges Up Overnight: Jefferies Slashes Price Target By Nearly 50% On Memory Growth Concerns",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-stock-edges-up-overnight-jefferies-slashes-price-target-by-nearly-50-on-memory-growth-concerns/cZoOAccRJJz?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 03:57:08 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-    "link": "https://investorshub.advfn.com/market-news/article/33690/us-jobs-report-in-focus-as-middle-east-tensions-and-corporate-news-shape-markets-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:35:36 +0000"
+    "title": "Wall Street Revises Sandisk Stock Price Target After Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-revises-sandisk-stock-120831025.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:08:31 +0000"
    },
    {
-    "title": "SNDK, WDC Rout Tests Chip Rally \u2014 Roundhill CEO Says \u2018Beat And Raise Is Not Enough\u2019 As Investors Return To NVDA",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-wdc-rout-roundhill-ceo-investors-return-to-nvda/cZoOUz6RJBI?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:14:59 +0000"
+    "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
+    "link": "https://www.fool.com/investing/2026/08/07/overlooked-chip-stock-lead-ai-memory-simo/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:05:00 +0000"
    },
    {
-    "title": "SNDK Stock Edges Up Overnight: Jefferies Slashes Price Target By Nearly 50% On Memory Growth Concerns",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-stock-edges-up-overnight-jefferies-slashes-price-target-by-nearly-50-on-memory-growth-concerns/cZoOAccRJJz?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 03:57:08 +0000"
+    "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
+    "link": "https://247wallst.com/investing/2026/08/07/here-are-fridays-top-wall-street-analyst-research-calls-baker-hughes-etsy-hubspot-instacart-jetblue-roku-spacex-tower-semiconductor-trade-desk-and-more/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 11:51:24 +0000"
    }
   ],
   "WDC": [
    {
+    "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
+    "link": "https://247wallst.com/investing/2026/08/07/here-are-fridays-top-wall-street-analyst-research-calls-baker-hughes-etsy-hubspot-instacart-jetblue-roku-spacex-tower-semiconductor-trade-desk-and-more/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 11:51:24 +0000"
+   },
+   {
     "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
     "link": "https://investorshub.advfn.com/market-news/article/33690/us-jobs-report-in-focus-as-middle-east-tensions-and-corporate-news-shape-markets-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 08:35:36 +0000"
@@ -130,18 +135,13 @@
     "title": "SNDK, WDC Rout Tests Chip Rally \u2014 Roundhill CEO Says \u2018Beat And Raise Is Not Enough\u2019 As Investors Return To NVDA",
     "link": "https://stocktwits.com/news-articles/markets/equity/sndk-wdc-rout-roundhill-ceo-investors-return-to-nvda/cZoOUz6RJBI?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 08:14:59 +0000"
-   },
-   {
-    "title": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
-    "link": "https://finance.yahoo.com/m/12b9367a-3a89-38c1-9561-9b306438de9e/earnings-have-been-excellent..html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 04:30:00 +0000"
    }
   ],
   "STX": [
    {
     "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
     "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 11:09:34 +0000"
+    "pubDate": "Fri, 07 Aug 2026 12:03:57 +0000"
    },
    {
     "title": "Micron Pares Most of Its Losses Even as Other Memory Stocks Reel",
@@ -178,17 +178,22 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
-    "title": "Why Chip ETFs May Be Poised for a Comeback",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
-   },
-   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
+   },
+   {
+    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
+    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
+   {
+    "title": "Stock Market Today: Dow Rises Ahead Of Pivotal Jobs Report; AI Stock Cloudflare Soars On Earnings (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:11:14 +0000"
+   },
    {
     "title": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
     "link": "https://stocktwits.com/news-articles/markets/equity/trump-calls-ai-bigger-than-oil-in-the-race-against-china-for-tech-crypto-dominance/cZofbMGRJBi?.tsrc=rss",
@@ -198,14 +203,14 @@
     "title": "Tech Stocks Under Pressure: 1 Magnificent ETF to Buy on the Dip",
     "link": "https://www.fool.com/investing/2026/08/07/tech-stocks-pressure-1-magnificent-etf-buy-the-dip/?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 09:47:00 +0000"
-   },
-   {
-    "title": "Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street\u2019s Second Straight Day In The Red",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-slipping-overnight-wall-street-second-day-red/cZoOFqgRJJw?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:52:05 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
+    "link": "https://finance.yahoo.com/m/06a75f44-5e05-3b22-acdb-a578a2babe99/how-a-top-t.-rowe-price.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 12:01:31 +0000"
+   },
    {
     "title": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
     "link": "https://stocktwits.com/news-articles/markets/equity/trump-calls-ai-bigger-than-oil-in-the-race-against-china-for-tech-crypto-dominance/cZofbMGRJBi?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "Chasing 17.24% Yield? XDTE Holders Are Getting Their Own Money Back\u2014and Paying for It",
     "link": "https://247wallst.com/investing/etf/2026/08/06/chasing-17-24-yield-xdte-holders-are-getting-their-own-money-back-and-paying-for-it/?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 03:45:31 +0000"
-   },
-   {
-    "title": "Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street\u2019s Second Straight Day In The Red",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-slipping-overnight-wall-street-second-day-red/cZoOFqgRJJw?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:52:05 +0000"
    }
   ]
  },

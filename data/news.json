@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-07T00:22:25Z",
+ "updated": "2026-08-07T01:02:38Z",
  "news": {
   "NVDA": [
    {
-    "title": "Four of Google's Top AI Researchers Just Left to Start One Company. Alphabet Is Investing in It.",
-    "link": "https://www.fool.com/investing/2026/08/06/four-of-googles-top-ai-researchers-just-left-to-st/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:02:00 +0000"
+    "title": "Jamie Dimon makes huge call on AI and U.S. economy",
+    "link": "https://www.thestreet.com/economy/jamie-dimon-ai-us-economy-growth?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 00:37:00 +0000"
    },
    {
-    "title": "Why Occidental Stock Is Up Today",
-    "link": "https://www.fool.com/investing/2026/08/06/why-occidental-stock-is-up-today/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 23:48:37 +0000"
+    "title": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
+    "link": "https://www.fool.com/investing/2026/08/06/2-energy-stocks-with-more-hype-than-fundamentals-r/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 00:25:00 +0000"
    },
    {
-    "title": "AMD Buys Toronto AI Chip Startup Taalas \u2014 Retail Says It\u2019s A Move To \u2018Compete More Directly With Nvidia\u2019",
-    "link": "https://stocktwits.com/news-articles/markets/equity/amd-buys-toronto-ai-chip-startup-taalas-retail-says-its-a-move-to-compete-more-directly-with-nvidia/cZoBg5yRJJM?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 23:25:52 +0000"
+    "title": "Card Network or Card Lender: Which Business Model Is the Better Long-Term Buy?",
+    "link": "https://www.fool.com/investing/2026/08/06/card-network-or-card-lender-which-business-model-i/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 00:20:00 +0000"
    }
   ],
   "AMD": [
@@ -30,33 +30,33 @@
     "pubDate": "Thu, 06 Aug 2026 22:33:00 +0000"
    },
    {
-    "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-acquires-taalas-advance-compute-200500133.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 20:05:00 +0000"
+    "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-deepens-ai-inference-bet-212723775.html?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:27:23 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Microsoft vs. Broadcom: Two AI Powerhouses, One Better Investment",
-    "link": "https://247wallst.com/investing/2026/08/06/microsoft-vs-broadcom-two-ai-powerhouses-one-better-investment/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 17:30:00 +0000"
-   },
-   {
-    "title": "Broadcom Enables Enterprises to Strengthen Multi-Layer Cyber Defense and Operational Efficiency with New vDefend and Avi Load Balancer Capabilities",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-enables-enterprises-strengthen-multi-130000320.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000"
-   },
-   {
     "title": "Anthropic SPVs Stack $71 Billion in Chip-Lease Debt in 60 Days",
     "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 00:05:14 +0000"
+   },
+   {
+    "title": "Synaptics (SYNA) Surpasses Q4 Earnings and Revenue Estimates",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-surpasses-q4-earnings-231017161.html?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:10:17 +0000"
+   },
+   {
+    "title": "Astera Labs Beat And Guided Higher, Then Fell Because The Rally Came First",
+    "link": "https://www.trefis.com/articles/610418/astera-labs-beat-and-guided-higher-then-fell-because-the-rally-came-first/2026-08-06?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 18:51:44 +0000"
    }
   ],
   "TSM": [
    {
     "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
     "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:01:52 +0000"
+    "pubDate": "Fri, 07 Aug 2026 00:53:14 +0000"
    },
    {
     "title": "TSMC\u2019s $64 Billion Investment Signals Mega-Growth: Why Pivoting Away From The Titan Makes Little Sense",
@@ -141,7 +141,7 @@
    {
     "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
     "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:01:52 +0000"
+    "pubDate": "Fri, 07 Aug 2026 00:53:14 +0000"
    },
    {
     "title": "Micron Pares Most of Its Losses Even as Other Memory Stocks Reel",
@@ -190,36 +190,36 @@
   ],
   "QQQ": [
    {
-    "title": "History Says Investing $400 per Month in This ETF Could Set You Up for Life. Here's How.",
-    "link": "https://www.fool.com/investing/2026/08/06/history-says-investing-this-etf-set-for-life-qqq/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 10:50:00 +0000"
-   },
-   {
-    "title": "SCHG Quintupled Your Money in 10 Years, and the 4-Cent Fee Is Doing Heavy Lifting",
-    "link": "https://247wallst.com/investing/etf/2026/08/06/schg-quintupled-your-money-in-10-years-and-the-4-cent-fee-is-doing-heavy-lifting/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 18:15:09 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Decline as US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-171051088.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 17:10:51 +0000"
-   }
-  ],
-  "SPY": [
-   {
-    "title": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here\u2019s the Hidden Cost Nobody Talks About",
-    "link": "https://247wallst.com/investing/etf/2026/08/05/vnq-returned-62-61-in-10-years-spy-returned-253-49-heres-the-hidden-cost-nobody-talks-about/?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 03:45:46 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131015495.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 13:10:15 +0000"
+    "title": "S&P 500 Gains as Iran-Oman Deal Eases Oil Fears",
+    "link": "https://finance.yahoo.com/energy/articles/p-500-gains-iran-oman-212717705.html?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:27:17 +0000"
    },
    {
     "title": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course \u2014 SOUN, GOOGL, SPCX, NVDA In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-hormuz-uncertainty/cZoB9g9RJJo?.tsrc=rss",
     "pubDate": "Thu, 06 Aug 2026 21:04:39 +0000"
+   },
+   {
+    "title": "SCHG Quintupled Your Money in 10 Years, and the 4-Cent Fee Is Doing Heavy Lifting",
+    "link": "https://247wallst.com/investing/etf/2026/08/06/schg-quintupled-your-money-in-10-years-and-the-4-cent-fee-is-doing-heavy-lifting/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 18:15:09 +0000"
+   }
+  ],
+  "SPY": [
+   {
+    "title": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course \u2014 SOUN, GOOGL, SPCX, NVDA In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-hormuz-uncertainty/cZoB9g9RJJo?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:04:39 +0000"
+   },
+   {
+    "title": "Can You Actually Spend SPYI\u2019s 12% and Keep Your Principal? Three Years of NAV Data Answer It",
+    "link": "https://247wallst.com/investing/etf/2026/08/06/can-you-actually-spend-spyis-12-and-keep-your-principal-three-years-of-nav-data-answer-it/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 18:55:53 +0000"
+   },
+   {
+    "title": "Guide to High Dividend-Paying ETFs",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/guide-high-dividend-paying-etfs-160000297.html?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 16:00:00 +0000"
    }
   ]
  },

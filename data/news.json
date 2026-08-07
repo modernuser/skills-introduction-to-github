@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-07T16:06:45Z",
+ "updated": "2026-08-07T17:05:26Z",
  "news": {
   "NVDA": [
    {
-    "title": "Inside the Math of Team RB's SpaceX Price Target",
-    "link": "https://www.fool.com/investing/2026/08/07/inside-the-math-of-team-rbs-spacex-price-target/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:50:00 +0000"
+    "title": "Nvidia Stock Jumps After AMD Acquires AI Startup Taalas",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-jumps-amd-acquires-164513864.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:45:13 +0000"
    },
    {
-    "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
-    "link": "https://www.fool.com/investing/2026/08/07/meet-the-low-cost-vanguard-etf-that-just-gained-11/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:47:00 +0000"
+    "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
+    "link": "https://www.fool.com/investing/2026/08/07/forget-tsmc-2-ai-semiconductor-equipment/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:50:00 +0000"
    },
    {
-    "title": "Can't Classify It? Maybe It's a Rule Breaker Stock",
-    "link": "https://www.fool.com/investing/2026/08/07/cant-classify-it-maybe-its-a-rule-breaker-stock/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:05:00 +0000"
+    "title": "Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock.",
+    "link": "https://www.fool.com/investing/2026/08/07/constellation-signed-920-megawatts-of-new-power-deals-including-a-walmart-ppa-heres-what-it-means-for-ceg-stock/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:45:58 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Is Buying Its Way Deeper Into AI Inference",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-buying-way-deeper-ai-164255362.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:42:55 +0000"
+   },
    {
     "title": "AMD Will Become a $1 Trillion Company By This Date",
     "link": "https://247wallst.com/investing/2026/08/07/amd-will-become-a-1-trillion-company-by-this-date/?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "ETFs to Buy as AMD Shares Sink 7% Despite Q2 Earnings Beat",
     "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-amd-shares-sink-145000490.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 14:50:00 +0000"
-   },
-   {
-    "title": "While everyone chases Nvidia, Caterpillar just showed where AI money goes next",
-    "link": "https://www.thestreet.com/investing/while-everyone-chases-nvidia-caterpillar-just-showed-where-ai-money-goes-next?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:07:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
+    "link": "https://www.fool.com/investing/2026/08/07/forget-tsmc-2-ai-semiconductor-equipment/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:50:00 +0000"
+   },
    {
     "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
     "link": "https://www.fool.com/investing/2026/08/07/meet-the-low-cost-vanguard-etf-that-just-gained-11/?.tsrc=rss",
@@ -45,31 +50,31 @@
     "title": "While everyone chases Nvidia, Caterpillar just showed where AI money goes next",
     "link": "https://www.thestreet.com/investing/while-everyone-chases-nvidia-caterpillar-just-showed-where-ai-money-goes-next?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 14:07:00 +0000"
-   },
-   {
-    "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
-    "link": "https://finance.yahoo.com/technology/articles/data-center-solutions-market-reach-131600977.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:16:00 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
+    "link": "https://www.fool.com/investing/2026/08/07/forget-tsmc-2-ai-semiconductor-equipment/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:50:00 +0000"
+   },
+   {
+    "title": "BTQ and ITRI clear first milestone in quantum-security chip roadmap",
+    "link": "https://www.thestreet.com/crypto/innovation/btq-and-itri-clear-first-milestone-in-quantum-security-chip-roadmap?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:36:23 +0000"
+   },
+   {
     "title": "Could Taiwan Semiconductor Manufacturing (TSM) Be the Most Critical Bottleneck in the AI Chip Boom?",
     "link": "https://finance.yahoo.com/technology/ai/articles/could-taiwan-semiconductor-manufacturing-tsm-152156862.html?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 15:21:56 +0000"
-   },
-   {
-    "title": "Semiconductor Sales Continue to Grow on AI Optimism: 4 Stocks to Grab",
-    "link": "https://finance.yahoo.com/technology/ai/articles/semiconductor-sales-continue-grow-ai-133600129.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:36:00 +0000"
-   },
-   {
-    "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
-    "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:03:57 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Should You Buy NVIDIA Stock After Its 11% Rally in a Month?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-stock-11-rally-153800151.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:38:00 +0000"
+   },
    {
     "title": "SpaceX's influence ripples across markets: AlphaCheck",
     "link": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html?.tsrc=rss",
@@ -79,48 +84,48 @@
     "title": "Can MU Stock Compound Its Way Higher?",
     "link": "https://www.trefis.com/articles/610529/can-mu-stock-compound-its-way-higher/2026-08-07?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 12:47:25 +0000"
-   },
-   {
-    "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
-    "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:27:44 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
-    "link": "https://www.fool.com/investing/2026/08/07/meet-the-low-cost-vanguard-etf-that-just-gained-11/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:47:00 +0000"
+    "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
+    "link": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:31:22 +0000"
    },
    {
-    "title": "Micron's Memory Boom Just Got a New Expiration Date",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microns-memory-boom-just-got-153321679.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:33:21 +0000"
+    "title": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/8118379d-0173-3caf-bae7-b24c96670077/sk-hynix%2C-spacex%2C-doximity%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:23:00 +0000"
    },
    {
-    "title": "Doximity, Trade Desk, SK Hynix, SpaceX, Rigetti, Atlassian, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/8118379d-0173-3caf-bae7-b24c96670077/doximity%2C-trade-desk%2C-sk.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:27:00 +0000"
+    "title": "Tech Stocks Shake Off Another Memory Stock Slide",
+    "link": "https://finance.yahoo.com/m/f939c532-ba5d-3e0d-96e7-cb850ab7ab89/tech-stocks-shake-off-another.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:47:30 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "What the vicious Sandisk bears are forgetting",
-    "link": "https://finance.yahoo.com/markets/article/what-the-vicious-sandisk-bears-are-forgetting-132927678.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:29:27 +0000"
+    "title": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
+    "link": "https://finance.yahoo.com/m/4bbd3b4d-594f-317e-abf8-1e6e0fda7e15/stock-market-rally-powers.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:35:07 +0000"
    },
    {
-    "title": "Wall Street Revises Sandisk Stock Price Target After Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-revises-sandisk-stock-120831025.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:08:31 +0000"
+    "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
+    "link": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:31:22 +0000"
    },
    {
-    "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
-    "link": "https://www.fool.com/investing/2026/08/07/overlooked-chip-stock-lead-ai-memory-simo/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:05:00 +0000"
+    "title": "Tech Stocks Shake Off Another Memory Stock Slide",
+    "link": "https://finance.yahoo.com/m/f939c532-ba5d-3e0d-96e7-cb850ab7ab89/tech-stocks-shake-off-another.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:47:30 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Tech Stocks Shake Off Another Memory Stock Slide",
+    "link": "https://finance.yahoo.com/m/f939c532-ba5d-3e0d-96e7-cb850ab7ab89/tech-stocks-shake-off-another.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:47:30 +0000"
+   },
    {
     "title": "Can MU Stock Compound Its Way Higher?",
     "link": "https://www.trefis.com/articles/610529/can-mu-stock-compound-its-way-higher/2026-08-07?.tsrc=rss",
@@ -130,31 +135,31 @@
     "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
     "link": "https://investorshub.advfn.com/market-news/article/33690/us-jobs-report-in-focus-as-middle-east-tensions-and-corporate-news-shape-markets-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 08:35:36 +0000"
-   },
-   {
-    "title": "SNDK, WDC Rout Tests Chip Rally \u2014 Roundhill CEO Says \u2018Beat And Raise Is Not Enough\u2019 As Investors Return To NVDA",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-wdc-rout-roundhill-ceo-investors-return-to-nvda/cZoOUz6RJBI?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:14:59 +0000"
    }
   ],
   "STX": [
    {
-    "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
-    "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:03:57 +0000"
-   },
-   {
-    "title": "Micron Pares Most of Its Losses Even as Other Memory Stocks Reel",
-    "link": "https://finance.yahoo.com/m/cc4bce1f-18fb-31cf-84fe-ebe8d5450eb5/micron-pares-most-of-its.html?.tsrc=rss",
-    "pubDate": "Thu, 06 Aug 2026 20:59:00 +0000"
+    "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
+    "link": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 16:31:22 +0000"
    },
    {
     "title": "SpaceX, Honeywell Aerospace, Sandisk, D-Wave, Datadog, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/5568b857-6a34-35d8-b75b-382bd81ef107/spacex%2C-honeywell-aerospace%2C.html?.tsrc=rss",
     "pubDate": "Thu, 06 Aug 2026 17:59:00 +0000"
+   },
+   {
+    "title": "Western Digital Sinks 16%, SanDisk Falls 11%, Micron Drops 6% as Memory Selloff Hits Storage Stocks",
+    "link": "https://247wallst.com/investing/2026/08/06/western-digital-sinks-16-sandisk-falls-11-micron-drops-6-as-memory-selloff-hits-storage-stocks/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 13:26:39 +0000"
    }
   ],
   "SOXX": [
+   {
+    "title": "Tech Stocks Shake Off Another Memory Stock Slide",
+    "link": "https://finance.yahoo.com/m/f939c532-ba5d-3e0d-96e7-cb850ab7ab89/tech-stocks-shake-off-another.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:47:30 +0000"
+   },
    {
     "title": "ETFs to Buy as AMD Shares Sink 7% Despite Q2 Earnings Beat",
     "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-amd-shares-sink-145000490.html?.tsrc=rss",
@@ -164,11 +169,6 @@
     "title": "Applied Optoelectronics Zooms 13% Higher on Pivotal Quarterly Print; Coherent Advances 13%, Lumentum Adds 8%",
     "link": "https://247wallst.com/investing/2026/08/07/applied-optoelectronics-zooms-13-higher-on-pivotal-quarterly-print-coherent-advances-13-lumentum-adds-8/?.tsrc=rss",
     "pubDate": "Fri, 07 Aug 2026 14:10:00 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131928036.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:19:28 +0000"
    }
   ],
   "SOXL": [
@@ -178,31 +178,31 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
-    "title": "Why Chip ETFs May Be Poised for a Comeback",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
-   },
-   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
+   },
+   {
+    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
+    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
    {
-    "title": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
-    "link": "https://247wallst.com/investing/2026/08/07/atlassian-soars-34-twilio-leaps-27-cloudflare-advances-9-in-software-stock-surge/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:54:26 +0000"
+    "title": "Tech Stocks Under Pressure: 1 Magnificent ETF to Buy on the Dip",
+    "link": "https://www.fool.com/investing/2026/08/07/tech-stocks-pressure-1-magnificent-etf-buy-the-dip/?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 09:47:00 +0000"
    },
    {
-    "title": "Jobs Numbers -23K for July, -103K in Previous Revisions",
-    "link": "https://finance.yahoo.com/economy/articles/jobs-numbers-23k-july-103k-142700474.html?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:27:00 +0000"
+    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131928036.html?.tsrc=rss",
+    "pubDate": "Fri, 07 Aug 2026 13:19:28 +0000"
    },
    {
-    "title": "Trade Desk Plunges 28% After Earnings Miss Triggers Downgrade Avalanche; Ad-Tech Peers AppLovin and Magnite Hold Firm",
-    "link": "https://247wallst.com/investing/2026/08/07/trade-desk-plunges-28-after-earnings-miss-triggers-downgrade-avalanche-ad-tech-peers-applovin-and-magnite-hold-firm/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:31:52 +0000"
+    "title": "SCHG Quintupled Your Money in 10 Years, and the 4-Cent Fee Is Doing Heavy Lifting",
+    "link": "https://247wallst.com/investing/etf/2026/08/06/schg-quintupled-your-money-in-10-years-and-the-4-cent-fee-is-doing-heavy-lifting/?.tsrc=rss",
+    "pubDate": "Thu, 06 Aug 2026 18:15:09 +0000"
    }
   ],
   "SPY": [

@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-05T23:41:28Z",
+ "updated": "2026-08-07T03:14:37Z",
  "coverage": 500,
  "gainers": [
   {
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "sector": "Health Care",
-   "close": 260.72,
-   "pct": 11.36
+   "symbol": "MSI",
+   "name": "Motorola Solutions",
+   "sector": "Information Technology",
+   "close": 474.07,
+   "pct": 8.2
   },
   {
-   "symbol": "IFF",
-   "name": "International Flavors & Fragrances",
+   "symbol": "PH",
+   "name": "Parker Hannifin",
+   "sector": "Industrials",
+   "close": 1069.8,
+   "pct": 7.31
+  },
+  {
+   "symbol": "LDOS",
+   "name": "Leidos",
+   "sector": "Industrials",
+   "close": 135.26,
+   "pct": 6.63
+  },
+  {
+   "symbol": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "sector": "Communication Services",
+   "close": 55.37,
+   "pct": 6.07
+  },
+  {
+   "symbol": "PTC",
+   "name": "PTC Inc.",
+   "sector": "Information Technology",
+   "close": 147.66,
+   "pct": 5.9
+  },
+  {
+   "symbol": "ALB",
+   "name": "Albemarle Corporation",
    "sector": "Materials",
-   "close": 88.07,
-   "pct": 8.88
+   "close": 125.42,
+   "pct": 5.54
   },
   {
-   "symbol": "AIZ",
-   "name": "Assurant",
-   "sector": "Financials",
-   "close": 301.57,
-   "pct": 7.2
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "close": 36.53,
+   "pct": 5.4
   },
   {
-   "symbol": "NEM",
-   "name": "Newmont",
-   "sector": "Materials",
-   "close": 104.29,
-   "pct": 6.71
+   "symbol": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "sector": "Communication Services",
+   "close": 61.79,
+   "pct": 5.3
   },
-  {
-   "symbol": "BKNG",
-   "name": "Booking Holdings",
-   "sector": "Consumer Discretionary",
-   "close": 207.02,
-   "pct": 6.56
-  },
-  {
-   "symbol": "MCK",
-   "name": "McKesson Corporation",
-   "sector": "Health Care",
-   "close": 877.23,
-   "pct": 5.64
-  },
-  {
-   "symbol": "LLY",
-   "name": "Lilly (Eli)",
-   "sector": "Health Care",
-   "close": 1169.86,
-   "pct": 4.86
-  },
-  {
-   "symbol": "MAR",
-   "name": "Marriott International",
-   "sector": "Consumer Discretionary",
-   "close": 361.31,
-   "pct": 4.67
-  },
-  {
-   "symbol": "AMGN",
-   "name": "Amgen",
-   "sector": "Health Care",
-   "close": 407.83,
-   "pct": 4.57
-  },
-  {
-   "symbol": "CNC",
-   "name": "Centene Corporation",
-   "sector": "Health Care",
-   "close": 66.99,
-   "pct": 4.56
-  }
- ],
- "losers": [
   {
    "symbol": "PODD",
    "name": "Insulet Corporation",
    "sector": "Health Care",
-   "close": 133.26,
-   "pct": -20.12
+   "close": 139.3,
+   "pct": 4.53
   },
   {
-   "symbol": "DVA",
-   "name": "DaVita",
-   "sector": "Health Care",
-   "close": 188.69,
-   "pct": -17.24
-  },
-  {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
-   "sector": "Information Technology",
-   "close": 140.1,
-   "pct": -9.03
-  },
-  {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Information Technology",
-   "close": 482.05,
-   "pct": -7.04
-  },
-  {
-   "symbol": "EOG",
-   "name": "EOG Resources",
+   "symbol": "OXY",
+   "name": "Occidental Petroleum",
    "sector": "Energy",
-   "close": 134.23,
-   "pct": -6.47
-  },
+   "close": 56.04,
+   "pct": 4.14
+  }
+ ],
+ "losers": [
   {
    "symbol": "HONA",
    "name": "Honeywell Aerospace",
    "sector": "Industrials",
-   "close": 203.64,
-   "pct": -5.93
+   "close": 156.47,
+   "pct": -23.16
   },
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
+   "symbol": "APP",
+   "name": "AppLovin",
    "sector": "Information Technology",
-   "close": 1350.5,
-   "pct": -5.4
+   "close": 335.67,
+   "pct": -19.66
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "close": 229.29,
+   "pct": -19.03
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 522.46,
+   "pct": -14.28
   },
   {
    "symbol": "WDC",
    "name": "Western Digital",
    "sector": "Information Technology",
-   "close": 519.17,
-   "pct": -5.36
+   "close": 451.52,
+   "pct": -13.03
   },
   {
-   "symbol": "UBER",
-   "name": "Uber",
-   "sector": "Industrials",
-   "close": 68.18,
-   "pct": -5.29
-  },
-  {
-   "symbol": "CVS",
-   "name": "CVS Health",
+   "symbol": "VTRS",
+   "name": "Viatris",
    "sector": "Health Care",
-   "close": 99.12,
-   "pct": -5.08
+   "close": 16.29,
+   "pct": -7.71
+  },
+  {
+   "symbol": "HST",
+   "name": "Host Hotels & Resorts",
+   "sector": "Real Estate",
+   "close": 23.38,
+   "pct": -6.96
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 355.64,
+   "pct": -6.87
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "close": 1258.58,
+   "pct": -6.81
+  },
+  {
+   "symbol": "TTD",
+   "name": "Trade Desk (The)",
+   "sector": "Communication Services",
+   "close": 17.67,
+   "pct": -6.8
   }
  ]
 }

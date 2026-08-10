@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-07T23:50:49Z",
- "coverage": 500,
+ "updated": "2026-08-10T23:53:21Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "ABNB",
-   "name": "Airbnb",
-   "sector": "Consumer Discretionary",
-   "close": 178.07,
-   "pct": 17.43
-  },
-  {
-   "symbol": "MCHP",
-   "name": "Microchip Technology",
+   "symbol": "DDOG",
+   "name": "Datadog",
    "sector": "Information Technology",
-   "close": 84.69,
-   "pct": 13.89
+   "close": 260.78,
+   "pct": 11.48
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 379.13,
-   "pct": 13.44
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "close": 41.02,
+   "pct": 9.01
   },
   {
-   "symbol": "PLTR",
-   "name": "Palantir Technologies",
-   "sector": "Information Technology",
-   "close": 172.01,
-   "pct": 10.32
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 59.17,
-   "pct": 9.86
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 571.01,
-   "pct": 9.29
-  },
-  {
-   "symbol": "HONA",
-   "name": "Honeywell Aerospace",
-   "sector": "Industrials",
-   "close": 168.51,
-   "pct": 7.69
-  },
-  {
-   "symbol": "NEM",
-   "name": "Newmont",
-   "sector": "Materials",
-   "close": 112.98,
-   "pct": 7.16
-  },
-  {
-   "symbol": "APTV",
-   "name": "Aptiv",
-   "sector": "Consumer Discretionary",
-   "close": 49.55,
-   "pct": 7.02
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "close": 30.05,
-   "pct": 6.64
-  }
- ],
- "losers": [
-  {
-   "symbol": "TTD",
-   "name": "Trade Desk (The)",
-   "sector": "Communication Services",
-   "close": 13.8,
-   "pct": -21.9
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "close": 320.32,
+   "pct": 7.42
   },
   {
    "symbol": "AKAM",
    "name": "Akamai Technologies",
    "sector": "Information Technology",
-   "close": 110.54,
-   "pct": -6.76
+   "close": 117.65,
+   "pct": 6.43
   },
   {
-   "symbol": "ZTS",
-   "name": "Zoetis",
-   "sector": "Health Care",
-   "close": 72.66,
-   "pct": -5.97
+   "symbol": "CF",
+   "name": "CF Industries",
+   "sector": "Materials",
+   "close": 121.48,
+   "pct": 6.24
   },
   {
-   "symbol": "RMD",
-   "name": "ResMed",
-   "sector": "Health Care",
-   "close": 211.94,
-   "pct": -5.06
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
    "sector": "Information Technology",
-   "close": 812.76,
-   "pct": -4.71
+   "close": 385.04,
+   "pct": 5.82
   },
   {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
+   "symbol": "FANG",
+   "name": "Diamondback Energy",
+   "sector": "Energy",
+   "close": 198.97,
+   "pct": 5.81
+  },
+  {
+   "symbol": "PSX",
+   "name": "Phillips 66",
+   "sector": "Energy",
+   "close": 215.52,
+   "pct": 5.69
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "sector": "Health Care",
+   "close": 523.91,
+   "pct": 5.61
+  },
+  {
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "close": 314.95,
+   "pct": 5.58
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 135.81,
-   "pct": -4.34
+   "close": 325.15,
+   "pct": -14.24
   },
   {
-   "symbol": "TRGP",
-   "name": "Targa Resources",
-   "sector": "Energy",
-   "close": 256.87,
-   "pct": -4.24
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 813.51,
+   "pct": -8.61
   },
   {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 340.65,
-   "pct": -4.21
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 387.7,
+   "pct": -5.99
   },
   {
-   "symbol": "NWS",
-   "name": "News Corp (Class B)",
-   "sector": "Communication Services",
-   "close": 32.45,
-   "pct": -4.19
+   "symbol": "VRSK",
+   "name": "Verisk Analytics",
+   "sector": "Industrials",
+   "close": 181.18,
+   "pct": -5.55
   },
   {
-   "symbol": "MNST",
-   "name": "Monster Beverage",
-   "sector": "Consumer Staples",
-   "close": 90.36,
-   "pct": -4.04
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 157.76,
+   "pct": -4.78
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 208.56,
+   "pct": -4.65
+  },
+  {
+   "symbol": "LUV",
+   "name": "Southwest Airlines",
+   "sector": "Industrials",
+   "close": 44.9,
+   "pct": -4.57
+  },
+  {
+   "symbol": "UAL",
+   "name": "United Airlines Holdings",
+   "sector": "Industrials",
+   "close": 123.76,
+   "pct": -4.48
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "close": 239.33,
+   "pct": -4.29
+  },
+  {
+   "symbol": "CCL",
+   "name": "Carnival Corporation",
+   "sector": "Consumer Discretionary",
+   "close": 27.75,
+   "pct": -4.28
   }
  ]
 }

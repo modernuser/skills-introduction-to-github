@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-10T17:23:27Z",
+ "updated": "2026-08-10T18:12:11Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:07:13 +0000"
+    "title": "Cathie Wood's ARK Bought $40 Million of Nvidia, Tesla, and SpaceX During Last Month's AI Sell-Off. Was She Right to Buy the Dip?",
+    "link": "https://www.fool.com/investing/2026/08/10/cathie-woods-ark-bought-40-million-of-nvidia-tesla/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 18:05:00 +0000"
    },
    {
-    "title": "Dow Slips While the S&P 500 Clings to Friday's Record High",
-    "link": "https://www.fool.com/investing/2026/08/10/dow-slips-while-the-sp-500-clings-to-fridays-recor/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:06:11 +0000"
+    "title": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\"",
+    "link": "https://www.proactiveinvestors.com/companies/news/1096826/bofa-nvidia-s-next-earnings-report-could-kick-off-a-multi-quarter-upgrade-cycle-1096826.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:51:00 +0000"
    },
    {
-    "title": "Should You Buy Walmart Stock Before Aug. 20?",
-    "link": "https://www.fool.com/investing/2026/08/10/should-you-buy-walmart-stock-before-aug-20/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:05:00 +0000"
+    "title": "NVDA Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push: Report",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-500b-ai-war-chesty-wall-street-biggest-names/cZojxRkRJf5?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:23:17 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL",
+    "link": "https://finance.yahoo.com/technology/ai/articles/taalas-buyout-boosts-amds-ai-161600425.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 16:16:00 +0000"
+   },
    {
     "title": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-q2-earnings-loom-buy-160700843.html?.tsrc=rss",
@@ -28,18 +33,13 @@
     "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
     "link": "https://www.trefis.com/articles/610766/qualcomms-android-growth-number-has-left-the-front-of-the-story/2026-08-10?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 15:14:59 +0000"
-   },
-   {
-    "title": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
-    "link": "https://www.trefis.com/articles/610761/micron-technology-stock-surged-on-a-shortage-the-company-had-already-described/2026-08-10?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 14:53:32 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-q2-earnings-loom-buy-160700843.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 16:07:00 +0000"
+    "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
+    "link": "https://finance.yahoo.com/technology/articles/broadcom-boosts-vcf-security-fend-161900110.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 16:19:00 +0000"
    },
    {
     "title": "Broadcom Stock Looks Like a Screaming Deal",
@@ -47,63 +47,68 @@
     "pubDate": "Mon, 10 Aug 2026 16:05:00 +0000"
    },
    {
-    "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
-    "link": "https://www.trefis.com/articles/610766/qualcomms-android-growth-number-has-left-the-front-of-the-story/2026-08-10?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:14:59 +0000"
+    "title": "Broadcom\u2019s Brilliant Positioning is Why I Am Loading Up Over and Over",
+    "link": "https://247wallst.com/investing/2026/08/10/broadcoms-brilliant-positioning-is-why-i-am-loading-up-over-and-over/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 14:49:24 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "MSFT Stock Hits Highest Level This Year: Microsoft To Reportedly Hike Production Of AI Chips",
-    "link": "https://stocktwits.com/news-articles/markets/equity/microsoft-to-reportedly-hike-production-of-ai-chips/cZojwJgRJO6?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 16:54:25 +0000"
+    "title": "Sony (SONY), TSMC (TSM) Bet $6.3B On Next-Gen Sensors",
+    "link": "https://finance.yahoo.com/technology/articles/sony-sony-tsmc-tsm-bet-175632973.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:56:32 +0000"
    },
    {
-    "title": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-holds-flat-despite-155910769.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:59:10 +0000"
+    "title": "Sector Update: Consumer Stocks Softer Monday Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-monday-174753850.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:47:53 +0000"
    },
    {
-    "title": "Microsoft's Nvidia Alternative Is Getting Much Bigger",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsofts-nvidia-alternative-getting-much-153413889.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:34:13 +0000"
+    "title": "Update: Market Chatter: Microsoft Plans to Ramp Up Homegrown AI Chip Production Next Year",
+    "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-plans-ramp-173028854.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:30:28 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:49:00 +0000"
+   },
+   {
+    "title": "Sector Update: Tech Stocks Decline Monday Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-monday-173154803.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:31:54 +0000"
+   },
+   {
     "title": "Intel Plans $15 Billion Stock Offering as AI Demand Requires Higher Capital Spending",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-plans-15-billion-stock-165728370.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 16:57:28 +0000"
-   },
-   {
-    "title": "Intel trades lower on $15B share sale",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096820/intel-trades-lower-on-15b-share-sale-1096820.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 16:50:00 +0000"
-   },
-   {
-    "title": "Intel Stock Drops After $15 Billion Share Sale. Is AI Spending Getting Too Expensive?",
-    "link": "https://247wallst.com/investing/2026/08/10/intel-stock-drops-after-15-billion-share-sale-is-ai-spending-getting-too-expensive/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 16:18:50 +0000"
    }
   ],
   "MU": [
    {
-    "title": "These Stocks Could Be Ready for Their Next Big Move",
-    "link": "https://247wallst.com/investing/2026/08/10/these-stocks-could-be-ready-for-their-next-big-move/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 16:30:51 +0000"
+    "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:49:00 +0000"
    },
    {
-    "title": "Why Micron is Decisively Better Positioned Than Intel Now",
-    "link": "https://247wallst.com/investing/2026/08/10/why-micron-is-decisively-better-positioned-than-intel-now/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:53:40 +0000"
+    "title": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-apos-earnings-outlook-174222515.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:42:22 +0000"
    },
    {
-    "title": "Samsung Just Raised Pressure on Micron",
-    "link": "https://finance.yahoo.com/technology/articles/samsung-just-raised-pressure-micron-153319405.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:33:19 +0000"
+    "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
+    "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
+    "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
+   },
    {
     "title": "Why Sandisk Stock Is Climbing Higher Today",
     "link": "https://www.fool.com/investing/2026/08/10/why-sandisk-stock-popped-today/?.tsrc=rss",
@@ -113,14 +118,14 @@
     "title": "SNDK vs. NTAP: Which Stock Is the Better Value Option?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sndk-vs-ntap-stock-better-154003570.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 15:40:03 +0000"
-   },
-   {
-    "title": "Sandisk Stock Sold Off on Earnings and Was Rewarded With an Upgrade",
-    "link": "https://finance.yahoo.com/m/8a55fc76-0073-3a8a-ba5c-9d6255be973a/sandisk-stock-sold-off-on.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:13:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
+    "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
+   },
    {
     "title": "The Two Primary Risks For SanDisk And What to Do Now",
     "link": "https://247wallst.com/investing/2026/08/10/the-two-primary-risks-for-sandisk-and-what-to-do-now/?.tsrc=rss",
@@ -130,31 +135,31 @@
     "title": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
     "link": "https://www.trefis.com/articles/610761/micron-technology-stock-surged-on-a-shortage-the-company-had-already-described/2026-08-10?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 14:53:32 +0000"
-   },
-   {
-    "title": "Sandisk Has Surged More Than 3,000% in 12 Months. Is a Stock Split Coming?",
-    "link": "https://www.fool.com/investing/2026/08/09/sandisk-has-surged-more-than-3000-in-12-months-is/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 02:35:00 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Does STX Stock Still Have More Room to Run After Solid Q4 Earnings?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/does-stx-stock-still-more-134600529.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 13:46:00 +0000"
+   },
    {
     "title": "Seagate Technology (STX) Could Keep Surging as Storage Prices Rise",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-stx-could-keep-134359983.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 13:43:59 +0000"
    },
    {
-    "title": "HDD Industry Revenue Could Top $30B In 2026",
-    "link": "https://www.forbes.com/sites/tomcoughlin/2026/08/09/hdd-industry-revenue-could-top-30b-in-2026/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 03:44:25 +0000"
-   },
-   {
-    "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
-    "link": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:31:22 +0000"
+    "title": "US Stock Market Today: S&P 500 Futures Climb On Softer Jobs Data And Yields",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081128237.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:11:28 +0000"
    }
   ],
   "SOXX": [
+   {
+    "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
+    "link": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 13:38:13 +0000"
+   },
    {
     "title": "Coherent Falls 12%, Lumentum Drops 7% as AI Optics Stocks Cool Ahead of Earnings",
     "link": "https://247wallst.com/investing/2026/08/10/coherent-falls-12-lumentum-drops-7-as-ai-optics-stocks-cool-ahead-of-earnings/?.tsrc=rss",
@@ -164,11 +169,6 @@
     "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
     "link": "https://247wallst.com/investing/2026/08/10/intel-falls-5-on-proposed-15b-share-sale-as-amd-nvidia-broadcom-hold-steady/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 13:19:20 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Monday Amid Rising Oil Prices",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-equity-131805100.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:18:05 +0000"
    }
   ],
   "SOXL": [
@@ -178,48 +178,48 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
+    "title": "Why Chip ETFs May Be Poised for a Comeback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
+   },
+   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
-   },
-   {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds, US Equities Lower After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-172211482.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:22:11 +0000"
+   },
+   {
+    "title": "Why Momentum, Fed Liquidity, & Tech Beats Signal More Upside",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-momentum-fed-liquidity-tech-161500455.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 16:15:00 +0000"
+   },
+   {
     "title": "Archer Aviation Soars 20% on Boeing Deal to Acquire Wisk, Insitu, SkyGrid; Joby, EHang Stay Grounded",
     "link": "https://247wallst.com/investing/2026/08/10/archer-aviation-soars-19-on-boeing-deal-to-acquire-wisk-insitu-skygrid-joby-ehang-stay-grounded/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 13:58:54 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Monday Amid Rising Oil Prices",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-equity-131805100.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:18:05 +0000"
-   },
-   {
-    "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
-    "link": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/?.tsrc=rss",
-    "pubDate": "Sat, 08 Aug 2026 18:34:54 +0000"
    }
   ],
   "SPY": [
    {
+    "title": "The SECURE 2.0 Rollover That Turns Leftover 529 Money Into Tax-Free Retirement Gold",
+    "link": "https://247wallst.com/personal-finance/2026/08/10/the-secure-2-0-rollover-that-turns-leftover-529-money-into-tax-free-retirement-gold/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 18:07:17 +0000"
+   },
+   {
+    "title": "Trump Media (DJT) Stock Is Sliding Today: What\u2019s Behind the Drop?",
+    "link": "https://247wallst.com/investing/2026/08/10/trump-media-djt-stock-is-sliding-today-whats-behind-the-drop/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:59:28 +0000"
+   },
+   {
     "title": "DraftKings After Earnings: Buy, Hold, or Run?",
     "link": "https://247wallst.com/investing/2026/08/10/draftkings-after-earnings-buy-hold-or-run/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 14:00:51 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Monday Amid Rising Oil Prices",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-equity-131805100.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:18:05 +0000"
-   },
-   {
-    "title": "3 Beaten-Down Healthcare Stocks to Buy in August",
-    "link": "https://247wallst.com/investing/2026/08/10/3-beaten-down-healthcare-stocks-to-buy-in-august/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 12:00:55 +0000"
    }
   ]
  },

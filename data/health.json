@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-10T17:23:34Z",
+ "generated": "2026-08-10T18:12:16Z",
  "market": {
   "session": "regular",
   "label": "Open",
-  "now_et": "2026-08-10 13:23 EDT",
+  "now_et": "2026-08-10 14:12 EDT",
   "next": "close",
   "next_at_et": "2026-08-10 16:00 EDT",
-  "minutes_to_next": 156,
+  "minutes_to_next": 107,
   "last_close_et": "2026-08-07 16:00 EDT",
   "max_expected_age_hours": 6
  },
@@ -20,7 +20,7 @@
  "files": {
   "quotes": {
    "present": true,
-   "updated": "2026-08-10T17:23:24Z",
+   "updated": "2026-08-10T18:12:10Z",
    "records": 35,
    "newest_record_age_days": 0,
    "sessions_behind_last_close": -3,
@@ -29,7 +29,7 @@
   "news": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-10T17:23:27Z",
+   "updated": "2026-08-10T18:12:11Z",
    "records": 13
   },
   "movers": {

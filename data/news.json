@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-10T19:28:47Z",
+ "updated": "2026-08-10T20:25:14Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-falls-3-billion-192611455.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 19:26:11 +0000"
+    "title": "Why Garmin Stock Soared in July and Is at an All-Time High",
+    "link": "https://www.fool.com/investing/2026/08/10/why-garmin-stock-soared-in-july-and-hit-a-record/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:21:00 +0000"
    },
    {
-    "title": "Nvidia Stock Loses $130 Billion In Market Value As Firm Reportedly Enters $500 Billion AI Financing Deal",
-    "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/10/nvidia-stock-loses-130-billion-in-market-value-as-firm-reportedly-enters-500-billion-ai-financing-deal/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:54:35 +0000"
+    "title": "US Equity Markets End Lower After Crude Oil Prices Rise Following US-Iran Disagreements",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202021991.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:20:21 +0000"
    },
    {
-    "title": "Why Lucid Stock Jumped 10% in July",
-    "link": "https://www.fool.com/investing/2026/08/10/why-lucid-stock-jumped-10-in-july/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:53:00 +0000"
+    "title": "Cathie Wood Invests $36.9 Million in Surging Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:11:43 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Brings Meta's New AI Model to PCs",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:45:58 +0000"
+   },
    {
     "title": "What Advanced Micro Devices (AMD)'s New Instinct Coder AI Stack and Data Center Push Means For Shareholders",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-instinct-181151722.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL",
     "link": "https://finance.yahoo.com/technology/ai/articles/taalas-buyout-boosts-amds-ai-161600425.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 16:16:00 +0000"
-   },
-   {
-    "title": "Is Advanced Micro (AMD) a Buy as Wall Street Analysts Look Optimistic?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-amd-buy-wall-133004464.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:30:04 +0000"
    }
   ],
   "AVGO": [
@@ -54,53 +54,53 @@
   ],
   "TSM": [
    {
-    "title": "Microsoft Rethinks Its Nvidia Reliance",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-rethinks-nvidia-reliance-185218565.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:52:18 +0000"
+    "title": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:03:47 +0000"
    },
    {
-    "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
-    "link": "https://www.fool.com/investing/2026/08/10/asml-faces-a-fresh-threat-out-of-china-is-the-dip/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:30:00 +0000"
+    "title": "Why Intel Stock Is Falling Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:57:55 +0000"
    },
    {
-    "title": "Microsoft to unveil Maia 300 AI chip this fall, targets 300,000 units",
-    "link": "https://qz.com/microsoft-maia-300-ai-chip-unveil-fall-tsmc-081026?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:28:01 +0000"
+    "title": "Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:44:03 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Why Intel Stock Is Falling Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:57:55 +0000"
+   },
+   {
+    "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-195134626.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:51:34 +0000"
+   },
+   {
     "title": "1 Mega-Cap Stock with Impressive Fundamentals and 2 We Brush Off",
     "link": "https://finance.yahoo.com/markets/stocks/articles/1-mega-cap-stock-impressive-185322801.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 18:53:22 +0000"
-   },
-   {
-    "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
-    "link": "https://www.fool.com/investing/2026/08/10/asml-faces-a-fresh-threat-out-of-china-is-the-dip/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:30:00 +0000"
-   },
-   {
-    "title": "Update: Equities Fall, Oil Rises Intraday Amid Hormuz Reopening Uncertainty",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-oil-rises-intraday-175056532.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:50:56 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron Stock Rises Despite Reported Apple Supplier Threat",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-rises-despite-reported-200751352.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:07:51 +0000"
+   },
+   {
+    "title": "Coherent (COHR) Stock Is Tumbling Today After Massive Optics vs. Memory Debate on Social Media This Weekend",
+    "link": "https://247wallst.com/investing/2026/08/10/coherent-cohr-stock-is-tumbling-today-after-massive-optics-vs-memory-debate-on-social-media-this-weekend/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:37:39 +0000"
+   },
+   {
     "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 17:49:00 +0000"
-   },
-   {
-    "title": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-apos-earnings-outlook-174222515.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:42:22 +0000"
-   },
-   {
-    "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
-    "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Mon, 10 Aug 2026 19:10:29 +0000"
    },
    {
-    "title": "Sandisk Just Got a Big Vote of Confidence",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-got-big-vote-185604551.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:56:04 +0000"
+    "title": "Sandisk Stock Sold Off on Earnings and Was Rewarded With an Upgrade",
+    "link": "https://finance.yahoo.com/m/8a55fc76-0073-3a8a-ba5c-9d6255be973a/sandisk-stock-sold-off-on.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:01:00 +0000"
    },
    {
-    "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
-    "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
+    "title": "Everyone's Watching NVIDIA - But Is Sandisk the Real AI Winner?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/everyones-watching-nvidia-sandisk-real-190000035.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:00:00 +0000"
    }
   ],
   "WDC": [
@@ -139,36 +139,36 @@
   ],
   "STX": [
    {
+    "title": "Does STX Stock Still Have More Room to Run After Solid Q4 Earnings?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/does-stx-stock-still-more-134600529.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 13:46:00 +0000"
+   },
+   {
     "title": "Seagate Technology (STX) Could Keep Surging as Storage Prices Rise",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-stx-could-keep-134359983.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 13:43:59 +0000"
    },
    {
-    "title": "HDD Industry Revenue Could Top $30B In 2026",
-    "link": "https://www.forbes.com/sites/tomcoughlin/2026/08/09/hdd-industry-revenue-could-top-30b-in-2026/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 03:44:25 +0000"
-   },
-   {
-    "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
-    "link": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/?.tsrc=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:31:22 +0000"
+    "title": "US Stock Market Today: S&P 500 Futures Climb On Softer Jobs Data And Yields",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081128237.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:11:28 +0000"
    }
   ],
   "SOXX": [
+   {
+    "title": "Software and Chips Are Pulling the Nasdaq in Different Directions",
+    "link": "https://finance.yahoo.com/m/62843794-9086-3fe6-82ff-ed2d64f02f34/software-and-chips-are.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 18:42:45 +0000"
+   },
    {
     "title": "Coherent Falls 12%, Lumentum Drops 7% as AI Optics Stocks Cool Ahead of Earnings",
     "link": "https://247wallst.com/investing/2026/08/10/coherent-falls-12-lumentum-drops-7-as-ai-optics-stocks-cool-ahead-of-earnings/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 16:25:41 +0000"
    },
    {
-    "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
-    "link": "https://247wallst.com/investing/2026/08/10/intel-falls-5-on-proposed-15b-share-sale-as-amd-nvidia-broadcom-hold-steady/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:19:20 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Monday Amid Rising Oil Prices",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-equity-131805100.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:18:05 +0000"
+    "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
+    "link": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 13:38:13 +0000"
    }
   ],
   "SOXL": [
@@ -178,14 +178,14 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
+    "title": "Why Chip ETFs May Be Poised for a Comeback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
+   },
+   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
-   },
-   {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+    "link": "https://247wallst.com/investing/2026/08/08/voo-is-about-to-become-the-first-1-trillion-etf-and-spy-holders-are-paying-3x-more-for-the-same-index/?.tsrc=rss",
+    "pubDate": "Sat, 08 Aug 2026 18:08:06 +0000"
+   },
+   {
     "title": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
     "link": "https://247wallst.com/investing/2026/08/10/spy-charges-4-7x-more-than-its-own-issuers-copy-of-the-same-500-stocks/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 19:08:42 +0000"
@@ -215,11 +220,6 @@
     "title": "The SECURE 2.0 Rollover That Turns Leftover 529 Money Into Tax-Free Retirement Gold",
     "link": "https://247wallst.com/personal-finance/2026/08/10/the-secure-2-0-rollover-that-turns-leftover-529-money-into-tax-free-retirement-gold/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 18:07:17 +0000"
-   },
-   {
-    "title": "Wary Bulls Can Take Advantage Of This Spread On The S&P 500",
-    "link": "https://finance.yahoo.com/m/064ef031-8819-3582-9c65-7f5c6041b68a/wary-bulls-can-take-advantage.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:03:42 +0000"
    }
   ]
  },

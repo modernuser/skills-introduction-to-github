@@ -87,7 +87,7 @@
    ],
    "value": 10226.1,
    "return_pct": 2.26,
-   "alpha_pp": 0.55
+   "alpha_pp": 0.56
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -172,7 +172,7 @@
    ],
    "value": 10116.41,
    "return_pct": 1.16,
-   "alpha_pp": -0.55
+   "alpha_pp": -0.54
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,11 +182,11 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 770.59
+     "last_close": 770.56
     }
    ],
-   "value": 10170.52,
-   "return_pct": 1.71,
+   "value": 10170.13,
+   "return_pct": 1.7,
    "alpha_pp": 0.0
   },
   "trend": {
@@ -268,7 +268,7 @@
    ],
    "value": 9804.27,
    "return_pct": -1.96,
-   "alpha_pp": -1.87
+   "alpha_pp": -1.86
   }
  },
  "history": [
@@ -317,7 +317,7 @@
    "date": "2026-08-11",
    "owner": 2.26,
    "dartboard": 1.16,
-   "spy": 1.71,
+   "spy": 1.7,
    "trend": -1.96
   }
  ],

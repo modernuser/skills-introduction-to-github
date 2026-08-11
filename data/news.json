@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-11T02:26:26Z",
+ "updated": "2026-08-11T09:12:20Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-    "link": "https://finance.yahoo.com/m/8edb4f71-ec17-31b7-b263-bc566a40aab3/dow-jones-futures%3A-trump.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 02:08:34 +0000"
+    "title": "U.S. Futures Flat as Trump Rejects Iran Reparations, Intel Raises $20 Billion: Dow Jones, S&P, Nasdaq, Wall Street",
+    "link": "https://investorshub.advfn.com/market-news/article/33937/u-s-futures-flat-as-trump-rejects-iran-reparations-intel-raises-20-billion-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:55:41 +0000"
    },
    {
-    "title": "Nvidia's CEO just sent strong signal to stock market investors",
-    "link": "https://www.thestreet.com/investing/stocks/nvidia-ceo-buy-the-dip-nvda?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 01:47:00 +0000"
+    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+    "link": "https://www.bbc.com/news/articles/c78gr0jv0mdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:52:02 +0000"
    },
    {
-    "title": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
-    "link": "https://www.fool.com/investing/2026/08/10/intel-is-selling-15-billion-of-stock-to-fund-the-a/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 01:43:00 +0000"
+    "title": "Why Is the U.S. Army Buying $54 Billion Worth of Patriot Missiles From Lockheed Martin?",
+    "link": "https://www.fool.com/investing/2026/08/11/us-army-buys-54-billion-worth-of-patriot-missiles/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:51:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Why AMD Stock Tumbled 18% in July",
-    "link": "https://www.fool.com/investing/2026/08/10/why-amd-stock-tumbled-18-in-july/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:39:00 +0000"
+    "title": "3 Dividend-Paying Industrial Stocks to Buy in August",
+    "link": "https://www.fool.com/investing/2026/08/11/3-dividend-paying-industrial-stocks-to-buy-in-augu/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:25:00 +0000"
    },
    {
-    "title": "AMD Brings Meta's New AI Model to PCs",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 19:45:58 +0000"
+    "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+    "link": "https://beincrypto.com/nasdaq-100-stocks-doubled-2026/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:25:00 +0000"
    },
    {
-    "title": "What Advanced Micro Devices (AMD)'s New Instinct Coder AI Stack and Data Center Push Means For Shareholders",
-    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-instinct-181151722.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 18:11:51 +0000"
+    "title": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
+    "link": "https://www.cryptoprowl.com/releases/riot-shares-jump-after-91b-ai-lease-and-q2-revenue-beat-6379?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:12:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Hock Tan Reaffirmed Broadcom's $100 Billion AI Forecast. Six Customers Carry Nearly All of It.",
+    "link": "https://www.fool.com/investing/2026/08/11/hock-tan-reaffirmed-broadcoms-100-billion-ai-forec/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:01:00 +0000"
+   },
    {
     "title": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
     "link": "https://247wallst.com/investing/etf/2026/08/10/vyms-2-2-yield-hides-141000-in-decade-long-underperformance-versus-the-sp-500/?.tsrc=rss",
@@ -45,79 +50,74 @@
     "title": "Semiconductor Equipment Makers vs. Chip Designers: Who's Actually Winning the AI Cycle?",
     "link": "https://www.fool.com/investing/2026/08/10/semiconductor-equipment-makers-vs-chip-designers-w/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 20:50:00 +0000"
-   },
-   {
-    "title": "Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line",
-    "link": "https://www.trefis.com/articles/610757/marvell-technology-stocks-multiple-leans-on-profit-from-below-the-operating-line/2026-08-10?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:01:13 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Japan\u2019s chip subsidies may swing $6.4 billion Sony bet",
+    "link": "https://www.thestreet.com/technology/tsmc-sony-japan-chip-factory-joint-venture?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 03:07:00 +0000"
+   },
+   {
+    "title": "Sony Group (TSE:6758), What Is Behind The Fresh Attention?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sony-group-tse-6758-behind-010803416.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:08:03 +0000"
+   },
+   {
     "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
     "link": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 00:50:00 +0000"
-   },
-   {
-    "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
-    "link": "https://finance.yahoo.com/m/f4a2cd6d-e861-305e-b2e4-431697498054/tsmc-sales-jump-45%25-on-strong.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:01:52 +0000"
-   },
-   {
-    "title": "Sony (SONY), TSMC (TSM) Bet $6.3B On Next-Gen Sensors",
-    "link": "https://finance.yahoo.com/technology/articles/sony-sony-tsmc-tsm-bet-175632973.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:56:32 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
-    "link": "https://www.fool.com/investing/2026/08/10/intel-is-selling-15-billion-of-stock-to-fund-the-a/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 01:43:00 +0000"
+    "title": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-dow-futures-mixed-premarket-cpi-countdown-intc-sls-spcx-rklb-asts-frmi-riot-stocks-focus/cZoZqRXRJQ5?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:33:34 +0000"
    },
    {
-    "title": "Why Intel Stock Is Down Today",
-    "link": "https://www.fool.com/investing/2026/08/10/why-intel-stock-is-down-today/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 01:27:08 +0000"
+    "title": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It.",
+    "link": "https://www.fool.com/investing/2026/08/11/intels-foundry-grew-31-last-quarter-and-lost-21-bi/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 07:27:00 +0000"
    },
    {
-    "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 23:02:45 +0000"
+    "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-announces-upsize-pricing-20-063600058.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 06:36:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
-    "link": "https://www.marketbeat.com/instant-alerts/micron-says-ai-memory-crunch-could-last-beyond-2027-as-dram-demand-soars-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 01:04:08 +0000"
+    "title": "Micron vs. SK Hynix: Which Memory Chip Giant Is the Better Buy?",
+    "link": "https://www.fool.com/investing/2026/08/11/micron-vs-sk-hynix-memory-chip-giant-better-buy/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:40:00 +0000"
    },
    {
-    "title": "Stock Screening Made Simple: A Guide",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-screening-made-simple-guide-225800443.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 22:58:00 +0000"
+    "title": "3 Dividend-Paying Industrial Stocks to Buy in August",
+    "link": "https://www.fool.com/investing/2026/08/11/3-dividend-paying-industrial-stocks-to-buy-in-augu/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:25:00 +0000"
    },
    {
-    "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:51:00 +0000"
+    "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+    "link": "https://beincrypto.com/nasdaq-100-stocks-doubled-2026/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:25:00 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+    "link": "https://beincrypto.com/nasdaq-100-stocks-doubled-2026/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:25:00 +0000"
+   },
+   {
     "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 20:51:00 +0000"
    },
    {
-    "title": "Sandisk Stock Jumps After Top Analyst Says 'Pullback Is a Buying Opportunity'",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-jumps-top-analyst-191029108.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 19:10:29 +0000"
-   },
-   {
-    "title": "Sandisk Stock Sold Off on Earnings and Was Rewarded With an Upgrade",
-    "link": "https://finance.yahoo.com/m/8a55fc76-0073-3a8a-ba5c-9d6255be973a/sandisk-stock-sold-off-on.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 19:01:00 +0000"
+    "title": "Sandisk's Pullback Looks Like a Buying Opportunity",
+    "link": "https://www.barchart.com/story/news/3763350/sandisk-s-pullback-looks-like-a-buying-opportunity?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 20:31:06 +0000"
    }
   ],
   "WDC": [
@@ -127,14 +127,14 @@
     "pubDate": "Mon, 10 Aug 2026 18:13:04 +0000"
    },
    {
+    "title": "Memory Sector Stocks Are Down 30% or More From Their Highs, But These 2 Are Worth Buying Now",
+    "link": "https://www.fool.com/investing/2026/08/09/memory-sector-stock-down-from-high-buy/?.tsrc=rss",
+    "pubDate": "Sun, 09 Aug 2026 13:15:00 +0000"
+   },
+   {
     "title": "The Next Breakout For This Tech Stock Could Be Hiding in Plain Sight",
     "link": "https://247wallst.com/investing/2026/08/10/the-next-breakout-for-this-tech-stock-could-be-hiding-in-plain-sight/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 17:30:01 +0000"
-   },
-   {
-    "title": "The Two Primary Risks For SanDisk And What to Do Now",
-    "link": "https://247wallst.com/investing/2026/08/10/the-two-primary-risks-for-sandisk-and-what-to-do-now/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 15:03:18 +0000"
    }
   ],
   "STX": [
@@ -190,22 +190,27 @@
   ],
   "QQQ": [
    {
+    "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 23:02:45 +0000"
+   },
+   {
     "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
     "link": "https://247wallst.com/investing/etf/2026/08/10/same-100-stocks-different-price-why-qqq-costs-180-annually-while-qqqm-charges-150/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 21:45:18 +0000"
    },
    {
-    "title": "Exchange-Traded Funds, US Equities Lower After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-172211482.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:22:11 +0000"
-   },
-   {
-    "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 23:02:45 +0000"
+    "title": "Growth Is Flat in 2026. Vanguard\u2019s Deep-Value Fund Is Up 22%, and Almost Nobody Owns It",
+    "link": "https://247wallst.com/investing/2026/08/10/growth-is-flat-in-2026-vanguards-deep-value-fund-is-up-22-and-almost-nobody-owns-it/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:08:14 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-dow-futures-mixed-premarket-cpi-countdown-intc-sls-spcx-rklb-asts-frmi-riot-stocks-focus/cZoZqRXRJQ5?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:33:34 +0000"
+   },
    {
     "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
     "link": "https://247wallst.com/investing/etf/2026/08/10/vyms-2-2-yield-hides-141000-in-decade-long-underperformance-versus-the-sp-500/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 22:05:16 +0000"
-   },
-   {
-    "title": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
-    "link": "https://247wallst.com/investing/2026/08/10/spy-charges-4-7x-more-than-its-own-issuers-copy-of-the-same-500-stocks/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 19:08:42 +0000"
    }
   ]
  },

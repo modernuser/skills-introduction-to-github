@@ -1,109 +1,114 @@
 {
- "updated": "2026-08-11T15:12:45Z",
+ "updated": "2026-08-11T16:23:03Z",
  "news": {
   "NVDA": [
    {
-    "title": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 15:10:04 +0000"
+    "title": "This Is Where Nvidia Beats Broadcom",
+    "link": "https://247wallst.com/investing/2026/08/11/this-is-where-nvidia-beats-broadcom/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 16:05:40 +0000"
    },
    {
-    "title": "CME Group and Silicon Data to Launch Compute Futures on October 5 to Unlock New Way to Hedge AI Risks",
-    "link": "https://finance.yahoo.com/markets/options/articles/cme-group-silicon-data-launch-150000227.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 15:00:00 +0000"
+    "title": "Research Teams at Leading Institutions Choose B3IQ to Own, Run, and Monetize Their AI Stack",
+    "link": "https://finance.yahoo.com/technology/ai/articles/research-teams-leading-institutions-choose-160500643.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 16:05:00 +0000"
    },
    {
-    "title": "Nvidia\u2019s Nemotron 3.5 Just Launched, But A Bigger 1 Trillion Parameter Model Is Reportedly Already In The Works",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-nemotron-3-5-launch-1-trillion-parameter-model-in-the-works/cZoZ6eiRJQy?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:55:25 +0000"
+    "title": "Broadcom Can Eat Nvidia\u2019s Lunch Just Like This",
+    "link": "https://247wallst.com/investing/2026/08/11/broadcom-can-eat-nvidias-lunch-just-like-this/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 16:04:01 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "NVIDIA's Falling Multiple Is A Bill, Not A Bargain",
+    "link": "https://www.trefis.com/articles/611017/nvidias-falling-multiple-is-a-bill-not-a-bargain/2026-08-11?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:31:43 +0000"
+   },
+   {
+    "title": "Rackspace Technology Q2 Earnings Call Highlights",
+    "link": "https://www.marketbeat.com/instant-alerts/rackspace-technology-q2-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:05:35 +0000"
+   },
+   {
     "title": "Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?",
     "link": "https://finance.yahoo.com/m/07231a19-d990-3bdf-97ac-46be445719e1/nvidia-rises-amid-massive.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 14:42:50 +0000"
-   },
-   {
-    "title": "Bitcoin's Biggest Rival Isn't Ethereum. It's the AI Trade",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61112998/bitcoin-ai-stocks-speculative-trade?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:39:17 +0000"
-   },
-   {
-    "title": "Nvidia Confirms $500 Bil AI Funding Deal. These Stocks Jump.",
-    "link": "https://finance.yahoo.com/m/480dd356-1341-3256-92ac-f215caf5a64e/nvidia-confirms-%24500-bil-ai.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:38:29 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "2 Unstoppable Artificial Intelligence (AI) Stocks That Will Join Amazon in the $3 Trillion Club by 2027",
-    "link": "https://www.fool.com/investing/2026/08/11/2-unstoppable-ai-stocks-that-will-join-amazon/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:05:00 +0000"
+    "title": "This Is Where Nvidia Beats Broadcom",
+    "link": "https://247wallst.com/investing/2026/08/11/this-is-where-nvidia-beats-broadcom/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 16:05:40 +0000"
    },
    {
-    "title": "AMD's Bigger Risk Sits In Its Revenue Mix, Not Its Multiple",
-    "link": "https://www.trefis.com/articles/611008/amds-bigger-risk-sits-in-its-revenue-mix-not-its-multiple/2026-08-11?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:59:11 +0000"
+    "title": "Broadcom Can Eat Nvidia\u2019s Lunch Just Like This",
+    "link": "https://247wallst.com/investing/2026/08/11/broadcom-can-eat-nvidias-lunch-just-like-this/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 16:04:01 +0000"
    },
    {
-    "title": "The 2 Chip Portfolio: Is AMD or Broadcom the Better Complement to Nvidia?",
-    "link": "https://247wallst.com/investing/2026/08/11/the-2-chip-portfolio-is-amd-or-broadcom-the-better-complement-to-nvidia/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:57:33 +0000"
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "link": "https://www.fool.com/investing/2026/08/11/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:53:00 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "TSMC's July Revenues Soar: How Should You Play the Stock Now?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-revenues-soar-play-131000173.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:10:00 +0000"
+    "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:49:20 +0000"
    },
    {
-    "title": "TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prove Their Returns, Morningstar Analyst Says",
-    "link": "https://stocktwits.com/news-articles/markets/equity/tsmc-revenue-uncertainty-2028-2029-ai-investments-prove-returns/cZoZHWrRJQO?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 11:16:31 +0000"
+    "title": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-jumps-4-1-154523781.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:45:23 +0000"
    },
    {
-    "title": "TSMC and Sony plan $4.69 billion Japan chip venture for next-generation image sensors",
-    "link": "https://investorshub.advfn.com/market-news/article/33962/tsmc-and-sony-plan-4-69-billion-japan-chip-venture-for-next-generation-image-sensors?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 10:41:27 +0000"
+    "title": "Nvidia Stock Rises As Chipmaker Rounds Up Funding For AI Buildout",
+    "link": "https://finance.yahoo.com/m/48ca3c90-5c78-3397-9b9c-21b80f939537/nvidia-stock-rises-as.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:41:11 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "AMD's Bigger Risk Sits In Its Revenue Mix, Not Its Multiple",
-    "link": "https://www.trefis.com/articles/611008/amds-bigger-risk-sits-in-its-revenue-mix-not-its-multiple/2026-08-11?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:59:11 +0000"
+    "title": "GLOBALFOUNDRIES Stock Keeps Swinging Because Its Fastest Business Is Its Smallest",
+    "link": "https://www.trefis.com/articles/611002/globalfoundries-stock-keeps-swinging-because-its-fastest-business-is-its-smallest/2026-08-11?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:51:48 +0000"
    },
    {
-    "title": "The Quiet Winner of Elon Musk\u2019s $16.8 Billion Terafab Bet Is a US Chipmaker Stock",
-    "link": "https://beincrypto.com/elon-musk-terafab-intel-stock-analysis/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:18:35 +0000"
+    "title": "Top Midday Stories: Nvidia Developing Ambitious Open-Source AI Model; Intel Upsizes Share Offering to $20 Billion",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-developing-155002577.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:50:02 +0000"
    },
    {
-    "title": "Can NVIDIA's Vera CPU Challenge Intel and AMD's Market Dominance?",
-    "link": "https://finance.yahoo.com/technology/articles/nvidias-vera-cpu-challenge-intel-130000719.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000"
+    "title": "Nvidia Stock Rises As Chipmaker Rounds Up Funding For AI Buildout",
+    "link": "https://finance.yahoo.com/m/48ca3c90-5c78-3397-9b9c-21b80f939537/nvidia-stock-rises-as.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:41:11 +0000"
    }
   ],
   "MU": [
    {
-    "title": "This Is the Big Question With Micron Technology Stock",
-    "link": "https://www.fool.com/investing/2026/08/11/this-is-the-big-question-with-micron-technology-st/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:20:33 +0000"
+    "title": "Michael Burry Has a Stark Warning for Investors Betting on Today's Market",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-stark-warning-investors-155418654.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:54:18 +0000"
    },
    {
-    "title": "The Undeniable Reasons Why Micron Stock Is a Buy This August",
-    "link": "https://247wallst.com/investing/2026/08/11/the-undeniable-reasons-why-micron-stock-is-a-buy-this-august/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:00:19 +0000"
+    "title": "Apple Already Increased the Price of iPhones Up to $300. Their Price Hikes Might Be Just Starting.",
+    "link": "https://247wallst.com/investing/2026/08/11/apple-already-increased-the-price-of-iphones-up-to-300-their-price-hikes-might-be-just-starting/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:41:26 +0000"
    },
    {
-    "title": "Can Micron's Take-or-Pay Deals Improve Revenue Growth Visibility?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microns-pay-deals-improve-revenue-133000134.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:30:00 +0000"
+    "title": "Can Silicon Motion's New MonTitan SSD Solution Drive Growth?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motions-montitan-ssd-solution-144700563.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 14:47:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Sandisk Stock Rises as $1,600 Target Reframes AI Selloff",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-rises-1-600-153841462.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:38:41 +0000"
+   },
    {
     "title": "Sandisk Q4 Earnings Call Centers on AI Demand and Long-Term Deals",
     "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-q4-earnings-call-centers-140000007.html?.tsrc=rss",
@@ -113,45 +118,40 @@
     "title": "Can Western Digital Expand Margins on Higher-Capacity Drives?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-expand-margins-higher-134900652.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 13:49:00 +0000"
-   },
-   {
-    "title": "WDC Beats Q4 Expectations: More AI-Driven Upside Ahead for the Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-beats-q4-expectations-more-134800873.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:48:00 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "WDC Q2 Deep Dive: Market Reacts to Inventory Build Despite Strong AI-Driven Demand",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-q2-deep-dive-market-143722525.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:37:22 +0000"
-   },
-   {
     "title": "Can Western Digital Expand Margins on Higher-Capacity Drives?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-expand-margins-higher-134900652.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 13:49:00 +0000"
    },
    {
-    "title": "WDC Beats Q4 Expectations: More AI-Driven Upside Ahead for the Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-beats-q4-expectations-more-134800873.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 13:48:00 +0000"
+    "title": "Is Western Digital (WDC) a Buy as Wall Street Analysts Look Optimistic?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-buy-wall-133004975.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 13:30:04 +0000"
+   },
+   {
+    "title": "Western Digital (WDC) Is Down 17.6% After AI-Fueled Earnings Surge And Dividend Boost - Has The Bull Case Changed?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-down-17-181304419.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 18:13:04 +0000"
    }
   ],
   "STX": [
    {
+    "title": "Seagate Technology Gains From AI Boom: Is Long-Term Growth Secured?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-gains-ai-boom-145000642.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 14:50:00 +0000"
+   },
+   {
+    "title": "Can Silicon Motion's New MonTitan SSD Solution Drive Growth?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motions-montitan-ssd-solution-144700563.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 14:47:00 +0000"
+   },
+   {
     "title": "Can Western Digital Expand Margins on Higher-Capacity Drives?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-expand-margins-higher-134900652.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 13:49:00 +0000"
-   },
-   {
-    "title": "Rocket One Accepted into Seagate Partner Program, Expanding AI Infrastructure and Enterprise Data Storage Ecosystem",
-    "link": "https://finance.yahoo.com/technology/ai/articles/rocket-one-accepted-seagate-partner-121200575.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 12:12:00 +0000"
-   },
-   {
-    "title": "Does STX Stock Still Have More Room to Run After Solid Q4 Earnings?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-stx-stock-still-more-134600529.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:46:00 +0000"
    }
   ],
   "SOXX": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "Archer Aviation Zooms 11% Higher as Boeing Deal Rally Extends on Earnings-Call Details; Joby, EHang Lag Behind",
+    "link": "https://247wallst.com/investing/2026/08/11/archer-aviation-zooms-11-higher-as-boeing-deal-rally-extends-on-earnings-call-details-joby-ehang-lag-behind/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 15:35:08 +0000"
+   },
+   {
+    "title": "Zacks Investment Ideas feature highlights: SpaceX, Amazon, Microsoft and Alphabet",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-144600098.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 14:46:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Amid Stalled US-Iran Talks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-130332588.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 13:03:32 +0000"
-   },
-   {
-    "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 23:02:45 +0000"
-   },
-   {
-    "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
-    "link": "https://247wallst.com/investing/etf/2026/08/10/same-100-stocks-different-price-why-qqq-costs-180-annually-while-qqqm-charges-150/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:45:18 +0000"
    }
   ],
   "SPY": [

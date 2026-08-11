@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-10T23:53:14Z",
+ "updated": "2026-08-11T02:26:26Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia gets $500bn from major investors to develop AI data centres",
-    "link": "https://www.bbc.com/news/articles/c78gr0jv0mdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 23:38:56 +0000"
+    "title": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
+    "link": "https://finance.yahoo.com/m/8edb4f71-ec17-31b7-b263-bc566a40aab3/dow-jones-futures%3A-trump.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 02:08:34 +0000"
    },
    {
-    "title": "Chart: PE consortium weighs $500 billion AI infrastructure financing for Nvidia",
-    "link": "https://pitchbook.com/news/articles/chart-pe-consortium-weighs-500-billion-ai-infrastructure-financing-for-nvidia?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 23:16:59 +0000"
+    "title": "Nvidia's CEO just sent strong signal to stock market investors",
+    "link": "https://www.thestreet.com/investing/stocks/nvidia-ceo-buy-the-dip-nvda?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:47:00 +0000"
    },
    {
-    "title": "Why Did Nvidia Stock Fall on Monday Despite a $500 Billion Wall Street AI Deal?",
-    "link": "https://beincrypto.com/nvidia-stock-ai-deal-circular-financing-risk/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 22:43:55 +0000"
+    "title": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
+    "link": "https://www.fool.com/investing/2026/08/10/intel-is-selling-15-billion-of-stock-to-fund-the-a/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:43:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Why Did FRMI Stock Rise As Much As 35% After-Hours?",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-frmi-stock-rise-as-much-as-35-after-hours/cZokPDERJfh?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 22:17:08 +0000"
-   },
-   {
-    "title": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-tripled-15b-share-213517317.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:35:17 +0000"
-   },
-   {
     "title": "Why AMD Stock Tumbled 18% in July",
     "link": "https://www.fool.com/investing/2026/08/10/why-amd-stock-tumbled-18-in-july/?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 20:39:00 +0000"
+   },
+   {
+    "title": "AMD Brings Meta's New AI Model to PCs",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:45:58 +0000"
+   },
+   {
+    "title": "What Advanced Micro Devices (AMD)'s New Instinct Coder AI Stack and Data Center Push Means For Shareholders",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-instinct-181151722.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 18:11:51 +0000"
    }
   ],
   "AVGO": [
@@ -54,9 +54,9 @@
   ],
   "TSM": [
    {
-    "title": "Applied Materials (AMAT) Gets A Demand Lift From 44.7% AI Chip Growth",
-    "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-gets-demand-210941837.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:09:41 +0000"
+    "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
+    "link": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 00:50:00 +0000"
    },
    {
     "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
@@ -64,43 +64,43 @@
     "pubDate": "Mon, 10 Aug 2026 21:01:52 +0000"
    },
    {
-    "title": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:03:47 +0000"
+    "title": "Sony (SONY), TSMC (TSM) Bet $6.3B On Next-Gen Sensors",
+    "link": "https://finance.yahoo.com/technology/articles/sony-sony-tsmc-tsm-bet-175632973.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 17:56:32 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
+    "link": "https://www.fool.com/investing/2026/08/10/intel-is-selling-15-billion-of-stock-to-fund-the-a/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:43:00 +0000"
+   },
+   {
+    "title": "Why Intel Stock Is Down Today",
+    "link": "https://www.fool.com/investing/2026/08/10/why-intel-stock-is-down-today/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:27:08 +0000"
+   },
+   {
     "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 23:02:45 +0000"
-   },
-   {
-    "title": "Wall Street ends down as expectations of Hormuz deal fade",
-    "link": "https://finance.yahoo.com/video/wall-street-ends-down-expectations-224806034.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 22:48:06 +0000"
-   },
-   {
-    "title": "Synopsys (SNPS) Just Locked Into Intel\u2019s (INTC) Next Chip Node. What\u2019s The Payoff?",
-    "link": "https://finance.yahoo.com/technology/articles/synopsys-snps-just-locked-intel-224537263.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 22:45:37 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
+    "link": "https://www.marketbeat.com/instant-alerts/micron-says-ai-memory-crunch-could-last-beyond-2027-as-dram-demand-soars-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 01:04:08 +0000"
+   },
+   {
+    "title": "Stock Screening Made Simple: A Guide",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-screening-made-simple-guide-225800443.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 22:58:00 +0000"
+   },
+   {
     "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/0d7005de-affb-3cd1-bc11-e5ad6f9e63ce/apple%2C-sionna%2C-abcellera%2C.html?.tsrc=rss",
     "pubDate": "Mon, 10 Aug 2026 20:51:00 +0000"
-   },
-   {
-    "title": "Micron poised for \"structural reset\" in earnings power, UBS says, as HBM squeeze tightens further",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096831/micron-poised-for-structural-reset-in-earnings-power-ubs-says-as-hbm-squeeze-tightens-further-1096831.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:27:00 +0000"
-   },
-   {
-    "title": "Micron Stock Rises Despite Reported Apple Supplier Threat",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-rises-despite-reported-200751352.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 20:07:51 +0000"
    }
   ],
   "SNDK": [
@@ -217,9 +217,9 @@
     "pubDate": "Mon, 10 Aug 2026 22:05:16 +0000"
    },
    {
-    "title": "You Spent 40 Years Saving. Nobody Taught You How to Turn It Into a Paycheck. These 4 ETFs Do It Without Selling a Single Share",
-    "link": "https://247wallst.com/investing/etf/2026/08/10/you-spent-40-years-saving-nobody-taught-you-how-to-turn-it-into-a-paycheck-these-4-etfs-do-it-without-selling-a-single-share/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:55:56 +0000"
+    "title": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
+    "link": "https://247wallst.com/investing/2026/08/10/spy-charges-4-7x-more-than-its-own-issuers-copy-of-the-same-500-stocks/?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 19:08:42 +0000"
    }
   ]
  },

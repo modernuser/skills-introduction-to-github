@@ -54,7 +54,7 @@
      "name": "SanDisk",
      "shares": 0.705799,
      "start_close": 1288.03,
-     "last_close": 1237.92
+     "last_close": 1271.05
     },
     {
      "symbol": "WDC",
@@ -85,9 +85,9 @@
      "last_close": 133.0
     }
    ],
-   "value": 10202.71,
-   "return_pct": 2.03,
-   "alpha_pp": 0.33
+   "value": 10226.1,
+   "return_pct": 2.26,
+   "alpha_pp": 0.56
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -315,7 +315,7 @@
   },
   {
    "date": "2026-08-11",
-   "owner": 2.03,
+   "owner": 2.26,
    "dartboard": 1.83,
    "spy": 1.7,
    "trend": -8.04

@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-12T02:42:43Z",
+ "updated": "2026-08-12T09:30:30Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-    "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 01:48:21 +0000"
+    "title": "If I Were in My 40s, I'd Buy This Vanguard ETF Warren Buffett Recommended and Hold It Forever",
+    "link": "https://www.fool.com/investing/2026/08/12/if-40-buy-vanguard-etf-warren-buffett-hold-forever/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 09:17:00 +0000"
    },
    {
-    "title": "Michael Burry Adds To NVDA, PLTR, ORCL Shorts \u2014 Why He\u2019s Thinking About 2005 Again",
-    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-nvda-pltr-orcl-shorts-why-he-is-thinking-about-2005-again/cZoNOyZRJXV?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 22:52:04 +0000"
+    "title": "1 AI Stock to Buy Before It Soars 129%, According to a Wall Street Analyst (Hint: the CEO Is Elon Musk)",
+    "link": "https://www.fool.com/investing/2026/08/12/1-ai-stock-buy-before-soar-129-wall-st-elon-musk/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 09:08:00 +0000"
    },
    {
-    "title": "Nvidia Just Recruited Wall Street to Help Fund $500 Billion in AI Infrastructure. Here\u2019s the Catch.",
-    "link": "https://www.fool.com/investing/2026/08/11/nvidia-just-recruited-wall-street-to-help-fund-usd500-billion-in-ai-infrastructure-here-s-the-catch/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 22:42:01 +0000"
+    "title": "The mega-bucks infrastructure buildout gains steam",
+    "link": "https://www.axios.com/2026/08/12/bank-of-america-infrastructure#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 09:01:04 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ex-amd-exec-nvidia-war-chest-ai-gains-play-against-intel/cZoFHKiRJg5?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 06:52:33 +0000"
+   },
    {
     "title": "AMD (AMD) Q2 2026 Earnings Call Transcript",
     "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/amd-amd-q2-2026-earnings-call-transcript/?.tsrc=rss",
@@ -28,18 +33,13 @@
     "title": "Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction",
     "link": "https://finance.yahoo.com/technology/articles/advanced-micro-devices-inc-amd-224249942.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 22:42:49 +0000"
-   },
-   {
-    "title": "Wedbush Flags Surprise AMD Catalyst From Anthropic",
-    "link": "https://finance.yahoo.com/technology/ai/articles/wedbush-flags-surprise-amd-catalyst-174133908.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 17:41:33 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "This AI Stock Is Surging. Can It Shake the \u2018Meme Stock\u2019 Label?",
-    "link": "https://finance.yahoo.com/m/0639a80e-946d-33d9-ac06-731acae17ac3/this-ai-stock-is-surging.-can.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 21:17:00 +0000"
+    "title": "Broadcom Trades at 71 Times Earnings and 27 Times Next Year's. History Says Which Side Gives.",
+    "link": "https://www.fool.com/investing/2026/08/12/broadcom-trades-at-71-times-earnings-and-27-times/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 08:47:00 +0000"
    },
    {
     "title": "What Is The Market Really Expecting From AVGO Stock?",
@@ -47,16 +47,16 @@
     "pubDate": "Tue, 11 Aug 2026 21:08:22 +0000"
    },
    {
-    "title": "The Options Market Says Marvell Stock Could Halve Or More Than Double",
-    "link": "https://www.trefis.com/articles/610998/the-options-market-says-marvell-stock-could-halve-or-more-than-double/2026-08-11?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 19:39:35 +0000"
+    "title": "Is Broadcom\u2019s (AVGO) Next Big Bet Hidden in Plain Sight?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-next-big-bet-175031316.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 17:50:31 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-    "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 01:48:21 +0000"
+    "title": "Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High",
+    "link": "https://www.fool.com/investing/2026/08/12/taiwan-semiconductors-july-revenue-rose-45-and-the/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 07:58:00 +0000"
    },
    {
     "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC",
@@ -71,36 +71,36 @@
   ],
   "INTC": [
    {
-    "title": "Intel's huge rally is helping pay for its AI comeback",
-    "link": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 16:11:30 +0000"
+    "title": "MiTAC Computing Showcases Diversified Infra for Agentic Workloads at OCP APAC Summit",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mitac-computing-showcases-diversified-infra-073300330.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 07:33:00 +0000"
    },
    {
-    "title": "Intel\u2019s CFO called his shot, but shareholders pay the price",
-    "link": "https://www.thestreet.com/investing/intel-20-billion-stock-offering-dilution?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 21:03:00 +0000"
+    "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ex-amd-exec-nvidia-war-chest-ai-gains-play-against-intel/cZoFHKiRJg5?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 06:52:33 +0000"
    },
    {
-    "title": "Intel Just Increased Its Stock Offering to $20B. Why That\u2019s Good News for ASML.",
-    "link": "https://finance.yahoo.com/m/e62806fd-a00d-3aab-8add-7a66bf40ad2a/intel-just-increased-its.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 20:27:00 +0000"
+    "title": "Intel\u2019s Next Big Bet? CEO Lip-Bu Tan Eyes Memory-CPU Stacking As Chip Shortage Deepens",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intel-s-next-big-bet-ceo-lip-bu-tan-eyes-memory-cpu-stacking-as-chip-shortage-deepens/cZoFrg8RJgG?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 04:56:55 +0000"
    }
   ],
   "MU": [
    {
+    "title": "MU, SNDK, SKHY: Memory Stocks Rise As Report Of Temasek\u2019s Planned Investments In Samsung, SK Hynix Boosts KOSPI",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-memory-stocks-rise-as-report-of-temasek-s-planned-investments-in-samsung-sk-hynix-boosts-kospi/cZoFupiRJgc?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 06:23:19 +0000"
+   },
+   {
+    "title": "Micron (MU) Stock Looks Cheap Even After A Huge Run",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-cheap-054024812.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 05:40:24 +0000"
+   },
+   {
     "title": "Peak Memory Fears Put Focus on Samsung, SK Hynix Cash Returns",
     "link": "https://finance.yahoo.com/markets/stocks/articles/peak-memory-fears-put-focus-230000810.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 23:00:00 +0000"
-   },
-   {
-    "title": "SanDisk Traded Margin Upside For Years Of Contracted Revenue",
-    "link": "https://www.trefis.com/articles/611013/sandisk-traded-margin-upside-for-years-of-contracted-revenue/2026-08-11?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 20:36:13 +0000"
-   },
-   {
-    "title": "Micron, SpaceX, Rocket Lab, Fermi, AppLovin, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/94261b05-0288-3d65-a248-d76403e2cb46/micron%2C-spacex%2C-rocket-lab%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 20:16:00 +0000"
    }
   ],
   "SNDK": [
@@ -161,14 +161,14 @@
     "pubDate": "Mon, 10 Aug 2026 13:38:13 +0000"
    },
    {
+    "title": "PHOX ETF Investors: Watch These 4 Earnings Dates Before Year-End",
+    "link": "https://247wallst.com/investing/etf/2026/08/11/phox-etf-investors-watch-these-4-earnings-dates-before-year-end/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 02:37:07 +0000"
+   },
+   {
     "title": "Trump's Polysilicon Tariffs Could Reshape These ETFs",
     "link": "https://finance.yahoo.com/economy/policy/articles/trumps-polysilicon-tariffs-could-reshape-135600837.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 13:56:00 +0000"
-   },
-   {
-    "title": "Best-Performing ETF Areas of Last Week",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/best-performing-etf-areas-last-120000689.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 12:00:00 +0000"
    }
   ],
   "SOXL": [
@@ -190,22 +190,27 @@
   ],
   "QQQ": [
    {
+    "title": "JEPQ\u2019s 10.9% Yield Hides $2,900 Annual Tax Bill Most Retirees Never See",
+    "link": "https://247wallst.com/investing/etf/2026/08/11/jepqs-10-9-yield-hides-2900-annual-tax-bill-most-retirees-never-see/?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 22:05:23 +0000"
+   },
+   {
+    "title": "U.S. Home Sales Defy Affordability Crunch",
+    "link": "https://finance.yahoo.com/real-estate/articles/u-home-sales-defy-affordability-191731884.html?.tsrc=rss",
+    "pubDate": "Tue, 11 Aug 2026 19:17:31 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-us-171120869.html?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 17:11:20 +0000"
-   },
-   {
-    "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
-    "link": "https://247wallst.com/investing/etf/2026/08/10/same-100-stocks-different-price-why-qqq-costs-180-annually-while-qqqm-charges-150/?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 21:45:18 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, US Equities Lower After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-172211482.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 17:22:11 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Don\u2019t Mourn the Fed Put. Make This Trade Before Jackson Hole Instead.",
+    "link": "https://finance.yahoo.com/m/b681983a-5df7-31df-b240-4bd851cf7406/don%E2%80%99t-mourn-the-fed-put.-make.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 05:30:00 +0000"
+   },
    {
     "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  \u2014 ORCL, AAPL, NVDA, CURLF In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "JEPQ\u2019s 10.9% Yield Hides $2,900 Annual Tax Bill Most Retirees Never See",
     "link": "https://247wallst.com/investing/etf/2026/08/11/jepqs-10-9-yield-hides-2900-annual-tax-bill-most-retirees-never-see/?.tsrc=rss",
     "pubDate": "Tue, 11 Aug 2026 22:05:23 +0000"
-   },
-   {
-    "title": "SPYI\u2019s 11.7% Yield Hides $2,927.50 Annual Fee Gap Versus SPY",
-    "link": "https://247wallst.com/investing/etf/2026/08/11/spyis-11-7-yield-hides-2927-50-annual-fee-gap-versus-spy/?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 21:45:57 +0000"
    }
   ]
  },

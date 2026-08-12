@@ -1,8 +1,12 @@
 {
- "date": "2026-08-11",
+ "date": "2026-08-12",
  "symbols": [
-  "GOOGL",
+  "INTC",
+  "MU",
   "SNDK",
-  "SOXL"
+  "SOXL",
+  "SOXX",
+  "STX",
+  "WDC"
  ]
 }

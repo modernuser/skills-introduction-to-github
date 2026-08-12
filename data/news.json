@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-12T18:38:50Z",
+ "updated": "2026-08-12T19:50:15Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Nasdaq Gains As Nvidia Rises; Wendy's Soars On Deal News(Live Coverage)",
+    "title": "Stock Market Today: Nasdaq Gains On Inflation Report As Nvidia Rises; Cisco Earnings Up Next (Live Coverage)",
     "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 18:33:00 +0000"
+    "pubDate": "Wed, 12 Aug 2026 19:22:24 +0000"
    },
    {
-    "title": "SpaceX Has Slumped Since Its Debut. Here Is Where History Says the Stock Heads Next.",
-    "link": "https://www.fool.com/investing/2026/08/12/spacex-slumped-on-its-debut-here-is-where-history/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 18:30:00 +0000"
+    "title": "Why Oracle Stock Just Jumped",
+    "link": "https://www.fool.com/investing/2026/08/12/why-oracle-stock-just-jumped/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 18:59:39 +0000"
    },
    {
-    "title": "Bloom Energy Says It's Now \"The Standard for AI Onsite Power.\" Here's What That Means for the Stock.",
-    "link": "https://www.fool.com/investing/2026/08/12/bloom-energy-says-its-now-the-standard-for-ai-onsi/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 18:25:00 +0000"
+    "title": "Saturn Cloud Integrates NVIDIA DSX OS Into Its AI Token Factory Platform",
+    "link": "https://finance.yahoo.com/technology/ai/articles/saturn-cloud-integrates-nvidia-dsx-185600352.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 18:56:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "GF Securities Revisits AI Stock Rebound",
+    "link": "https://finance.yahoo.com/technology/ai/articles/gf-securities-revisits-ai-stock-193820856.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 19:38:20 +0000"
+   },
    {
     "title": "Intel Is Up 176% This Year. Is It Time to Take Profits on INTC, AMD, Broadcom, and NVIDIA?",
     "link": "https://247wallst.com/investing/2026/08/12/intel-is-up-176-this-year-is-it-time-to-take-profits-on-intc-amd-broadcom-and-nvidia/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 18:07:57 +0000"
    },
    {
-    "title": "Jim Cramer Just Called Intel a Major Focus Name: Here\u2019s What He Sees in Lip-Bu Tan\u2019s Intel",
-    "link": "https://247wallst.com/investing/2026/08/12/jim-cramer-just-called-intel-a-major-focus-name-heres-what-he-sees-in-lip-bu-tans-intel/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 18:05:28 +0000"
-   },
-   {
-    "title": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
-    "link": "https://247wallst.com/investing/2026/08/12/5-semiconductor-stocks-jim-cramer-could-be-talking-about-on-thursday/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 17:14:41 +0000"
+    "title": "AMD Rises 3% as AI Server Demand Stays Strong",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-rises-3-ai-server-170547690.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 17:05:47 +0000"
    }
   ],
   "AVGO": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel Dropped After Strong Earnings. Here Is What $1,000 Invested Could Return Over 3 Years.",
+    "link": "https://www.fool.com/investing/2026/08/12/intel-dropped-after-strong-earnings-here-is-what-1/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 19:01:00 +0000"
+   },
+   {
     "title": "Intel Is Up 176% This Year. Is It Time to Take Profits on INTC, AMD, Broadcom, and NVIDIA?",
     "link": "https://247wallst.com/investing/2026/08/12/intel-is-up-176-this-year-is-it-time-to-take-profits-on-intc-amd-broadcom-and-nvidia/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 18:07:57 +0000"
@@ -79,14 +84,14 @@
     "title": "Jim Cramer Just Called Intel a Major Focus Name: Here\u2019s What He Sees in Lip-Bu Tan\u2019s Intel",
     "link": "https://247wallst.com/investing/2026/08/12/jim-cramer-just-called-intel-a-major-focus-name-heres-what-he-sees-in-lip-bu-tans-intel/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 18:05:28 +0000"
-   },
-   {
-    "title": "Lip-Bu Tan Puts $12 Million Into Intel's $20 Billion Raise",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lip-bu-tan-puts-12-172750520.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 17:27:50 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "The Best Value Stocks to Buy",
+    "link": "https://www.kiplinger.com/investing/stocks/the-best-value-stocks-to-buy?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 17:15:44 +0000"
+   },
    {
     "title": "Why Micron Stock Is Surging Today",
     "link": "https://www.fool.com/investing/2026/08/12/why-micron-stock-is-surging-today/?.tsrc=rss",
@@ -96,18 +101,13 @@
     "title": "Why Micron Stock Popped Wednesday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-popped-wednesday-171036477.html?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 17:10:36 +0000"
-   },
-   {
-    "title": "NLST Stock Rallies After ITC Patent Action Against MU, SMCI, HPE \u2013 Roth Capital Sees Settlement Upside",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nlst-stock-rallies-after-itc-patent-action-against-mu-smci-hpe/cZo8BkcRJWh?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 16:54:02 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Update: US Equity Indexes Mixed as Easing Inflation Lifts Fed Policy Pause Bets While No End in Sight for Iran War",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-easing-174528454.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 17:45:28 +0000"
+    "title": "Sandisk Could Be a Generational Buy at These Levels",
+    "link": "https://www.fool.com/investing/2026/08/12/sandisk-could-be-a-generational-buy-at-these-level/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 18:33:00 +0000"
    },
    {
     "title": "SanDisk Stock Jumps 10% on New AI Memory Breakthrough With Kioxia",
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
+    "link": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html?.tsrc=rss",
+    "pubDate": "Mon, 10 Aug 2026 13:38:13 +0000"
+   },
+   {
     "title": "Intel Is Up 176% This Year. Is It Time to Take Profits on INTC, AMD, Broadcom, and NVIDIA?",
     "link": "https://247wallst.com/investing/2026/08/12/intel-is-up-176-this-year-is-it-time-to-take-profits-on-intc-amd-broadcom-and-nvidia/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 18:07:57 +0000"
@@ -164,11 +169,6 @@
     "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
     "link": "https://247wallst.com/investing/2026/08/12/lumentum-rockets-15-on-blowout-earnings-coherent-climbs-9-corning-gains-5-on-optics-earnings-and-coreweave-super-micro-read-through/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 17:22:27 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Gain Pre-Bell Wednesday Amid In-Line Consumer Inflation Data, Tech Gains",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131639194.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 13:16:39 +0000"
    }
   ],
   "SOXL": [
@@ -207,14 +207,14 @@
   ],
   "SPY": [
    {
-    "title": "JPMorgan Sees S&P 500 at 8,000: ETFs That Are Worth Buying",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-p-500-8-152700914.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 15:27:00 +0000"
+    "title": "Exchange-Traded Funds, Equity Futures Gain Pre-Bell Wednesday Amid In-Line Consumer Inflation Data, Tech Gains",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131639194.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 13:16:39 +0000"
    },
    {
-    "title": "Apple Is Showing Signs Of Cratering This Month: Is One Wall Street Pro\u2019s Expectation of 33% Gains Persuasive?",
-    "link": "https://247wallst.com/investing/2026/08/12/apple-is-showing-signs-of-cratering-this-month-is-one-wall-street-pros-expectation-of-33-gains-persuasive/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 15:07:38 +0000"
+    "title": "The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year",
+    "link": "https://247wallst.com/investing/2026/08/12/the-6-9-monthly-payer-thats-beating-the-sp-by-5-points-this-year/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:37:49 +0000"
    },
    {
     "title": "The International Dividend Trade Keeps Working: These 3 ETFs Outyield SCHD by 2 Points and Beat the S&P 500 Too",

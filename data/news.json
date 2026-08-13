@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-13T16:23:01Z",
+ "updated": "2026-08-13T17:27:32Z",
  "news": {
   "NVDA": [
    {
-    "title": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-nvidia-160000531.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 16:00:00 +0000"
+    "title": "Arcos Dorados Holdings Inc. Q2 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-arcos-dorados-holdings-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:12:20 +0000"
    },
    {
-    "title": "Wall Street Is Treating Nvidia GPUs Like Forever Cash-Flow Machines. Here\u2019s What Shatters That Illusion",
-    "link": "https://247wallst.com/investing/2026/08/13/wall-street-is-treating-nvidia-gpus-like-forever-cash-flow-machines-heres-what-shatters-that-illusion/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:42:55 +0000"
+    "title": "Tapestry, Inc. Q4 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tapestry-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:11:51 +0000"
    },
    {
-    "title": "Jim Cramer Says Nvidia GPUs Are \u2018More Like Fine Jewelry\u2019 Than Cars. Here Is Why That Matters for NVDA Investors.",
-    "link": "https://247wallst.com/investing/2026/08/13/jim-cramer-says-nvidia-gpus-are-more-like-fine-jewelry-than-cars-here-is-why-that-matters-for-nvda-investors/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:41:58 +0000"
+    "title": "BofA picks AMD and Nvidia as AI chip winners in massive CPU market",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bofa-picks-amd-nvidia-ai-170830595.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:08:30 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 16:00:09 +0000"
+    "title": "BofA Reveals Its AI Stocks To Buy List",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bofa-reveals-ai-stocks-buy-170300116.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:03:00 +0000"
    },
    {
-    "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:14:16 +0000"
+    "title": "Down 15% From Its All-Time High, Is Now the Time to Load Up on AMD Stock?",
+    "link": "https://www.fool.com/investing/2026/08/13/down-15-from-its-all-time-high-is-now-the-time-to/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:57:00 +0000"
    },
    {
-    "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
-    "link": "https://247wallst.com/investing/2026/08/12/amd-intel-and-nvidia-all-rally-wednesday-after-series-of-blockbuster-ai-earnings-reports/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 22:21:27 +0000"
+    "title": "AMD Stock Gains As Chipmaker Reportedly Eyes $5B Debt Sale Amid Surging Compute Demand",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-gains-as-chipmaker-reportedly-eyes-5-b-debt-sale-amid-surging-compute-demand/cZoq0WjRJLQ?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:43:12 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High",
+    "link": "https://www.fool.com/investing/2026/08/12/taiwan-semiconductors-july-revenue-rose-45-and-the/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 07:58:00 +0000"
+   },
+   {
     "title": "Intel\u2019s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target",
     "link": "https://247wallst.com/investing/2026/08/13/intels-best-growth-in-15-years-25-revenue-surge-and-our-new-price-target/?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 14:00:30 +0000"
@@ -62,79 +67,74 @@
     "title": "The Biggest Chip Stocks All Yield Under 1%. Here's Where the Cash Actually Goes.",
     "link": "https://www.fool.com/investing/2026/08/13/the-biggest-chip-stocks-all-yield-under-1-heres-wh/?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 13:32:00 +0000"
-   },
-   {
-    "title": "Buy AI-Driven SNDK and AMKR to Benefit From Recent Stock Price Debacle",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-ai-driven-sndk-amkr-130300725.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 13:03:00 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Why Intel Stock Popped Today",
+    "link": "https://www.fool.com/investing/2026/08/13/why-intel-stock-popped-today/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:04:28 +0000"
+   },
+   {
+    "title": "Intel's $20 billion stock sale has surprising upside",
+    "link": "https://www.thestreet.com/investing/stocks/intel-intc-stock-offering-bofa-analysis?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:33:00 +0000"
+   },
+   {
     "title": "D\u00e9j\u00e0 Vu. Why Intel Is Eyeing a Return to Memory.",
     "link": "https://finance.yahoo.com/m/6a6dcc95-7d0d-3a2a-adb1-952d7b8c9d94/d%C3%A9j%C3%A0-vu.-why-intel-is-eyeing.html?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 15:27:00 +0000"
-   },
-   {
-    "title": "Intel\u2019s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target",
-    "link": "https://247wallst.com/investing/2026/08/13/intels-best-growth-in-15-years-25-revenue-surge-and-our-new-price-target/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 14:00:30 +0000"
-   },
-   {
-    "title": "Hold Intel And Strictly Follow These Binary Catalysts",
-    "link": "https://247wallst.com/investing/2026/08/13/hold-intel-and-strictly-follow-these-binary-catalysts/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 13:40:56 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Sandisk Unveils Multi-Year Financial Model and Growth Strategy, Memory Stocks Soar",
-    "link": "https://247wallst.com/investing/2026/08/13/sandisk-unveils-multi-year-financial-model-and-growth-strategy-memory-stocks-soar/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 16:06:41 +0000"
+    "title": "Micron Faces a New Burry Bet as China Memory Pressure Builds",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-faces-burry-bet-china-165751045.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:57:51 +0000"
+   },
+   {
+    "title": "Micron Just Lost Ground in Key Memory Market",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-just-lost-ground-key-165356690.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:53:56 +0000"
    },
    {
     "title": "Micron Stock Keeps Rallying. Watch Out for This New Memory-Chip Rival.",
     "link": "https://finance.yahoo.com/m/c762d1cb-0ef2-378c-b69a-2766d2b14cf8/micron-stock-keeps-rallying..html?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 15:28:00 +0000"
-   },
-   {
-    "title": "D\u00e9j\u00e0 Vu. Why Intel Is Eyeing a Return to Memory.",
-    "link": "https://finance.yahoo.com/m/6a6dcc95-7d0d-3a2a-adb1-952d7b8c9d94/d%C3%A9j%C3%A0-vu.-why-intel-is-eyeing.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:27:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Sandisk Unveils Multi-Year Financial Model and Growth Strategy, Memory Stocks Soar",
-    "link": "https://247wallst.com/investing/2026/08/13/sandisk-unveils-multi-year-financial-model-and-growth-strategy-memory-stocks-soar/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 16:06:41 +0000"
+    "title": "Memory Stocks Open Flat And Then Soar: Micron Up 6%, SK Hynix 8%, SanDisk Up 15%. Here\u2019s What\u2019s Driving the Move.",
+    "link": "https://247wallst.com/investing/2026/08/13/memory-stocks-open-flat-and-then-soar-micron-up-6-sk-hynix-8-sandisk-up-15-heres-whats-driving-the-move/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:50:54 +0000"
    },
    {
-    "title": "SanDisk unveils long-term growth strategy at 2026 Investor Day; Shares surge 12%",
-    "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-unveils-long-term-growth-155043486.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:50:43 +0000"
+    "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
+    "link": "https://finance.yahoo.com/m/d66ff9b4-c61c-3ac0-a79e-d3ff45f10fec/sandisk-stock-jumps-on.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:43:13 +0000"
    },
    {
-    "title": "Why Sandisk Stock Popped Again Today",
-    "link": "https://www.fool.com/investing/2026/08/13/why-sandisk-stock-popped-again-today/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:24:12 +0000"
+    "title": "Lam Research, Applied Materials, and Camtek Rise After SanDisk Issues Bullish Financial Targets",
+    "link": "https://247wallst.com/investing/2026/08/13/lam-research-applied-materials-and-camtek-rise-after-sandisk-issues-bullish-financial-targets/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:29:13 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "Sandisk Unveils Multi-Year Financial Model and Growth Strategy, Memory Stocks Soar",
-    "link": "https://247wallst.com/investing/2026/08/13/sandisk-unveils-multi-year-financial-model-and-growth-strategy-memory-stocks-soar/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 16:06:41 +0000"
+    "title": "Memory Stocks Open Flat And Then Soar: Micron Up 6%, SK Hynix 8%, SanDisk Up 15%. Here\u2019s What\u2019s Driving the Move.",
+    "link": "https://247wallst.com/investing/2026/08/13/memory-stocks-open-flat-and-then-soar-micron-up-6-sk-hynix-8-sandisk-up-15-heres-whats-driving-the-move/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:50:54 +0000"
    },
    {
-    "title": "Why Sandisk Stock Keeps Falling and Whether It Is Worth Buying Now",
-    "link": "https://www.fool.com/investing/2026/08/13/why-sandisk-stock-falling-is-it-buy-now/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 13:05:00 +0000"
+    "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
+    "link": "https://finance.yahoo.com/m/d66ff9b4-c61c-3ac0-a79e-d3ff45f10fec/sandisk-stock-jumps-on.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:43:13 +0000"
    },
    {
-    "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
-    "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 22:06:38 +0000"
+    "title": "Why the Dow Is Dropping but the S&P 500 Is at a Record High",
+    "link": "https://finance.yahoo.com/m/3d97d735-3e79-33c9-8955-254e11bb6604/why-the-dow-is-dropping-but.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:27:00 +0000"
    }
   ],
   "STX": [
@@ -156,9 +156,9 @@
   ],
   "SOXX": [
    {
-    "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
-    "link": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html?.tsrc=rss",
-    "pubDate": "Mon, 10 Aug 2026 13:38:13 +0000"
+    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Producer Inflation Data Release",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131321660.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 13:13:21 +0000"
    },
    {
     "title": "Lumentum and AXT Ripped Higher. Investors Looking for Broad Optics Exposure Should Consider This Brand-New ETF",
@@ -190,22 +190,27 @@
   ],
   "QQQ": [
    {
-    "title": "Stock Market Today: Dow's Gain Vanishes; Credo Technology Approaches New Entry (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/a86837ac-df8a-3747-8923-5f2f47063c11/stock-market-today%3A-dow%27s.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 15:24:53 +0000"
-   },
-   {
-    "title": "U.S. Budget Deficits Just Surged to $432.3 billion in July While Trump Weighs Brand-New Tax Cuts",
-    "link": "https://247wallst.com/investing/2026/08/13/u-s-budget-deficits-just-surged-to-432-3-billion-in-july-while-trump-weighs-brand-new-tax-cuts/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 13:45:04 +0000"
+    "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171308737.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 17:13:08 +0000"
    },
    {
     "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Producer Inflation Data Release",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131321660.html?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 13:13:21 +0000"
+   },
+   {
+    "title": "GPIQ vs QQQ: What the Rally Lag Actually Costs a $300,000 Position",
+    "link": "https://247wallst.com/investing/etf/2026/08/12/gpiq-vs-qqq-what-the-rally-lag-actually-costs-a-300000-position/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 21:45:55 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100%",
+    "link": "https://247wallst.com/investing/2026/08/13/meta-remains-a-deeply-discounted-giant-wall-street-expects-30-gains-one-analyst-expects-100/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 16:36:53 +0000"
+   },
    {
     "title": "The Broad Market ETF That Belongs in Almost Every Passive Investor's Portfolio",
     "link": "https://www.fool.com/investing/2026/08/13/broad-market-etf-belong-passive-investor-voo/?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "AppLovin at 52-Week Low: Buy, Sell or Hold?",
     "link": "https://247wallst.com/investing/2026/08/13/applovin-at-52-week-low-buy-sell-or-hold/?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 15:45:12 +0000"
-   },
-   {
-    "title": "CoreWeave\u2019s Spike Hasn\u2019t Erased 3-Month Losses: Why Trusted Wall Street Pro Expects 65% Post-Spike Gains",
-    "link": "https://247wallst.com/investing/2026/08/13/coreweaves-spike-hasnt-erased-3-month-losses-why-trusted-wall-street-pro-expects-65-post-spike-gains/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 14:28:58 +0000"
    }
   ]
  },

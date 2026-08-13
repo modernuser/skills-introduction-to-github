@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T20:24:12Z",
+ "updated": "2026-08-13T21:21:15Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -684,7 +684,7 @@
    "close": 478.2,
    "d1": -0.26,
    "w1": -2.43,
-   "m1": -6.99,
+   "m1": -8.75,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -695,7 +695,7 @@
    "close": 141.21,
    "d1": 0.34,
    "w1": 1.49,
-   "m1": -1.54,
+   "m1": -0.67,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -716,10 +716,10 @@
    "symbol": "XLK",
    "name": "Technology",
    "date": "2026-08-13",
-   "close": 190.72,
-   "d1": 0.98,
-   "w1": 2.91,
-   "m1": 5.03,
+   "close": 190.77,
+   "d1": 1.01,
+   "w1": 2.94,
+   "m1": 5.06,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -730,7 +730,7 @@
    "close": 112.55,
    "d1": 2.07,
    "w1": 1.23,
-   "m1": -0.73,
+   "m1": 0.86,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -741,7 +741,7 @@
    "close": 118.45,
    "d1": 0.48,
    "w1": 0.3,
-   "m1": 1.24,
+   "m1": 2.08,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -796,7 +796,7 @@
    "close": 185.79,
    "d1": -0.05,
    "w1": 0.56,
-   "m1": 3.18,
+   "m1": 2.13,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -804,10 +804,10 @@
    "symbol": "XLB",
    "name": "Materials",
    "date": "2026-08-13",
-   "close": 52.3,
-   "d1": -0.53,
-   "w1": 0.25,
-   "m1": 3.56,
+   "close": 52.31,
+   "d1": -0.51,
+   "w1": 0.27,
+   "m1": 3.42,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -818,7 +818,7 @@
    "close": 45.12,
    "d1": 1.42,
    "w1": 0.69,
-   "m1": 1.26,
+   "m1": 0.94,
    "significant": false,
    "source": "yahoo-fallback"
   },

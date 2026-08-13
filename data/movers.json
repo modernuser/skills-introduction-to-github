@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-12T00:02:31Z",
+ "updated": "2026-08-13T00:01:03Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "KKR",
-   "name": "KKR & Co.",
-   "sector": "Financials",
-   "close": 110.97,
-   "pct": 6.88
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 636.31,
-   "pct": 6.7
-  },
-  {
-   "symbol": "APO",
-   "name": "Apollo Global Management",
-   "sector": "Financials",
-   "close": 140.28,
-   "pct": 6.26
-  },
-  {
-   "symbol": "JBL",
-   "name": "Jabil",
+   "symbol": "SMCI",
+   "name": "Supermicro",
    "sector": "Information Technology",
-   "close": 356.61,
-   "pct": 5.94
+   "close": 37.61,
+   "pct": 19.02
   },
   {
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "sector": "Energy",
-   "close": 336.42,
-   "pct": 5.03
-  },
-  {
-   "symbol": "GNRC",
-   "name": "Generac",
-   "sector": "Industrials",
-   "close": 215.86,
-   "pct": 4.74
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "close": 281.81,
-   "pct": 4.34
-  },
-  {
-   "symbol": "BLDR",
-   "name": "Builders FirstSource",
-   "sector": "Industrials",
-   "close": 75.1,
-   "pct": 4.33
-  },
-  {
-   "symbol": "SW",
-   "name": "Smurfit Westrock",
-   "sector": "Materials",
-   "close": 49.62,
-   "pct": 4.27
-  },
-  {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 364.97,
-   "pct": 4.15
-  }
- ],
- "losers": [
-  {
-   "symbol": "MNST",
-   "name": "Monster Beverage",
-   "sector": "Consumer Staples",
-   "close": 45.53,
-   "pct": -50.2
-  },
-  {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "close": 318.68,
-   "pct": -5.99
-  },
-  {
-   "symbol": "VTR",
-   "name": "Ventas",
-   "sector": "Real Estate",
-   "close": 86.96,
-   "pct": -5.43
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 246.78,
-   "pct": -5.37
+   "close": 932.47,
+   "pct": 13.63
   },
   {
-   "symbol": "HON",
-   "name": "Honeywell Technologies",
-   "sector": "Industrials",
-   "close": 230.12,
-   "pct": -5.27
-  },
-  {
-   "symbol": "FERG",
-   "name": "Ferguson Enterprises",
-   "sector": "Industrials",
-   "close": 251.51,
-   "pct": -4.65
-  },
-  {
-   "symbol": "WELL",
-   "name": "Welltower",
-   "sector": "Real Estate",
-   "close": 226.01,
-   "pct": -3.84
-  },
-  {
-   "symbol": "GOOGL",
-   "name": "Alphabet Inc. (Class A)",
-   "sector": "Communication Services",
-   "close": 343.8,
-   "pct": -3.84
-  },
-  {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
+   "symbol": "CIEN",
+   "name": "Ciena",
    "sector": "Information Technology",
-   "close": 145.48,
-   "pct": -3.69
+   "close": 432.05,
+   "pct": 11.49
   },
   {
    "symbol": "DELL",
    "name": "Dell Technologies",
    "sector": "Information Technology",
-   "close": 440.97,
-   "pct": -3.69
+   "close": 484.5,
+   "pct": 9.87
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 355.64,
+   "pct": 8.24
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "close": 58.79,
+   "pct": 8.11
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 878.21,
+   "pct": 7.03
+  },
+  {
+   "symbol": "ANET",
+   "name": "Arista Networks",
+   "sector": "Information Technology",
+   "close": 210.5,
+   "pct": 6.39
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 402.74,
+   "pct": 6.11
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "close": 1344.29,
+   "pct": 5.76
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 342.77,
+   "pct": -6.08
+  },
+  {
+   "symbol": "COR",
+   "name": "Cencora",
+   "sector": "Health Care",
+   "close": 314.17,
+   "pct": -5.9
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "close": 226.77,
+   "pct": -5.87
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 599.78,
+   "pct": -5.74
+  },
+  {
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 150.22,
+   "pct": -4.74
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 303.76,
+   "pct": -4.68
+  },
+  {
+   "symbol": "TPR",
+   "name": "Tapestry, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 153.74,
+   "pct": -4.24
+  },
+  {
+   "symbol": "IT",
+   "name": "Gartner",
+   "sector": "Information Technology",
+   "close": 179.46,
+   "pct": -4.17
+  },
+  {
+   "symbol": "UBER",
+   "name": "Uber",
+   "sector": "Industrials",
+   "close": 75.36,
+   "pct": -4.05
+  },
+  {
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 120.87,
+   "pct": -3.77
   }
  ]
 }

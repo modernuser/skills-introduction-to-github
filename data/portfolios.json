@@ -97,63 +97,63 @@
      "name": "Tractor Supply",
      "shares": 28.311769,
      "start_close": 32.11,
-     "last_close": 35.29
+     "last_close": 36.43
     },
     {
      "symbol": "CAH",
      "name": "Cardinal Health",
      "shares": 3.85862,
      "start_close": 235.6,
-     "last_close": 240.26
+     "last_close": 234.16
     },
     {
      "symbol": "CVX",
      "name": "Chevron Corporation",
      "shares": 4.705927,
      "start_close": 193.18,
-     "last_close": 196.66
+     "last_close": 196.6
     },
     {
      "symbol": "KO",
      "name": "Coca-Cola Company (The)",
      "shares": 10.466163,
      "start_close": 86.86,
-     "last_close": 86.48
+     "last_close": 86.71
     },
     {
      "symbol": "MTD",
      "name": "Mettler Toledo",
      "shares": 0.629129,
      "start_close": 1445.0,
-     "last_close": 1437.1801
+     "last_close": 1438.53
     },
     {
      "symbol": "FDXF",
      "name": "FedEx Freight",
      "shares": 6.539281,
      "start_close": 139.02,
-     "last_close": 139.51
+     "last_close": 141.24
     },
     {
      "symbol": "ANET",
      "name": "Arista Networks",
      "shares": 4.916928,
      "start_close": 184.89,
-     "last_close": 197.85
+     "last_close": 210.5
     },
     {
      "symbol": "SPG",
      "name": "Simon Property Group",
      "shares": 3.967058,
      "start_close": 229.16,
-     "last_close": 219.53
+     "last_close": 220.56
     },
     {
      "symbol": "EFX",
      "name": "Equifax",
      "shares": 5.22136,
      "start_close": 174.11,
-     "last_close": 181.96
+     "last_close": 180.46
     },
     {
      "symbol": "RF",
@@ -167,12 +167,12 @@
      "name": "Norfolk Southern",
      "shares": 2.700404,
      "start_close": 336.65,
-     "last_close": 334.6
+     "last_close": 335.41
     }
    ],
-   "value": 10183.14,
-   "return_pct": 1.83,
-   "alpha_pp": -0.13
+   "value": 10266.8,
+   "return_pct": 2.67,
+   "alpha_pp": 0.71
   },
   "spy": {
    "label": "Just buy SPY",
@@ -200,75 +200,75 @@
      "name": "Palo Alto Networks",
      "shares": 2.729705,
      "start_close": 366.34,
-     "last_close": 383.8
+     "last_close": 387.01
     },
     {
      "symbol": "HUM",
      "name": "Humana",
      "shares": 2.761211,
      "start_close": 362.16,
-     "last_close": 372.82
+     "last_close": 388.83
     },
     {
      "symbol": "DVA",
      "name": "DaVita",
      "shares": 4.386157,
      "start_close": 227.99,
-     "last_close": 178.34
+     "last_close": 181.5
     },
     {
      "symbol": "CVS",
      "name": "CVS Health",
      "shares": 9.576709,
      "start_close": 104.42,
-     "last_close": 93.5
+     "last_close": 94.72
     },
     {
      "symbol": "STT",
      "name": "State Street Corporation",
      "shares": 5.398694,
      "start_close": 185.23,
-     "last_close": 187.22
+     "last_close": 190.11
     },
     {
      "symbol": "MNST",
      "name": "Monster Beverage",
      "shares": 10.617966,
      "start_close": 94.18,
-     "last_close": 45.53
+     "last_close": 45.98
     },
     {
      "symbol": "BXP",
      "name": "BXP, Inc.",
      "shares": 14.150276,
      "start_close": 70.67,
-     "last_close": 67.49
+     "last_close": 67.95
     },
     {
      "symbol": "MET",
      "name": "MetLife",
      "shares": 10.40258,
      "start_close": 96.13,
-     "last_close": 96.8
+     "last_close": 96.66
     },
     {
      "symbol": "AIZ",
      "name": "Assurant",
      "shares": 3.554797,
      "start_close": 281.31,
-     "last_close": 281.41
+     "last_close": 281.12
     },
     {
      "symbol": "GL",
      "name": "Globe Life",
      "shares": 5.437738,
      "start_close": 183.9,
-     "last_close": 181.04
+     "last_close": 177.91
     }
    ],
-   "value": 9195.7,
-   "return_pct": -8.04,
-   "alpha_pp": -8.2
+   "value": 9281.6,
+   "return_pct": -7.18,
+   "alpha_pp": -7.34
   }
  },
  "history": [
@@ -323,9 +323,9 @@
   {
    "date": "2026-08-12",
    "owner": 6.03,
-   "dartboard": 1.83,
+   "dartboard": 2.67,
    "spy": 1.96,
-   "trend": -8.04
+   "trend": -7.18
   }
  ],
  "asof": "2026-08-12"

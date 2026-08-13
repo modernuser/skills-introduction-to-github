@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T22:06:10Z",
+ "updated": "2026-08-13T00:00:55Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -695,7 +695,7 @@
    "close": 140.73,
    "d1": 0.88,
    "w1": -0.02,
-   "m1": -0.1,
+   "m1": -1.24,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -796,7 +796,7 @@
    "close": 185.88,
    "d1": 0.1,
    "w1": -0.25,
-   "m1": 2.63,
+   "m1": 3.01,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -807,7 +807,7 @@
    "close": 52.58,
    "d1": -1.24,
    "w1": -0.11,
-   "m1": 3.32,
+   "m1": 3.83,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -818,7 +818,7 @@
    "close": 44.49,
    "d1": 0.93,
    "w1": -1.57,
-   "m1": 0.09,
+   "m1": 0.02,
    "significant": false,
    "source": "yahoo-fallback"
   },

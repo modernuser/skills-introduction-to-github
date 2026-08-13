@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-13T02:45:28Z",
+ "updated": "2026-08-13T09:31:49Z",
  "news": {
   "NVDA": [
    {
-    "title": "CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value",
-    "link": "https://www.fool.com/investing/2026/08/12/coreweave-has-104-billion-of-contracted-revenue-an/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 01:34:00 +0000"
+    "title": "Google Parent Alphabet Just Revealed How Many SpaceX Shares It Owns... and the Figure Is a Doozy",
+    "link": "https://www.fool.com/investing/2026/08/13/googl-just-revealed-how-many-spacex-shares-it-owns/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 09:26:00 +0000"
    },
    {
-    "title": "Verizon Teams Up With Nvidia, Lockheed Martin To Turn 5G Into A Drone-Tracking System",
-    "link": "https://stocktwits.com/news-articles/markets/equity/verizon-teams-up-with-nvidia-lockheed-martin-to-turn-5-g-into-a-drone-tracking-system/cZopuP6RJW6?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 01:33:09 +0000"
+    "title": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+    "link": "https://www.fool.com/investing/2026/08/13/michael-burry-warns-of-a-1987-style-crash-2-index/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 09:20:00 +0000"
    },
    {
-    "title": "Why Nebius Stock Skyrocketed Today",
-    "link": "https://www.fool.com/investing/2026/08/12/why-nebius-stock-skyrocketed-today/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 01:25:10 +0000"
+    "title": "Nvidia Stock Investors Just Got Good News From Wall Street (Hint: It's Time to Buy)",
+    "link": "https://www.fool.com/investing/2026/08/13/nvidia-stock-investors-good-news-from-wall-street/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 09:08:00 +0000"
    }
   ],
   "AMD": [
@@ -54,22 +54,27 @@
   ],
   "TSM": [
    {
-    "title": "Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High",
-    "link": "https://www.fool.com/investing/2026/08/12/taiwan-semiconductors-july-revenue-rose-45-and-the/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 07:58:00 +0000"
+    "title": "Nvidia\u2019s biggest risk may be coming from inside its customer base",
+    "link": "https://www.thestreet.com/investing/nvidias-biggest-risk-may-be-coming-from-inside-its-customer-base?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 02:37:00 +0000"
    },
    {
-    "title": "AI Spending Remains a Concern for Other Chip Stocks, But Taiwan Semiconductor Has No Worries",
-    "link": "https://www.barchart.com/story/news/3786269/ai-spending-remains-a-concern-for-other-chip-stocks-but-taiwan-semiconductor-has-no-worries?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 18:24:49 +0000"
+    "title": "TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 17:25:57 +0000"
    },
    {
-    "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 15:49:20 +0000"
+    "title": "Azure, Foundries, and Accelerators: Grading the AI Buildout\u2019s Big Three",
+    "link": "https://247wallst.com/investing/2026/08/12/azure-foundries-and-accelerators-grading-the-ai-buildouts-big-three/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 17:00:31 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Lip-Bu Tan Investing $12 Million of His Own Money into Intel Raise: Daniel Newman Calls It a \u2018Strong Sign of Confidence\u2019 in Chipmaker\u2019s Future",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lip-bu-tan-investing-12-032115704.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 03:21:15 +0000"
+   },
    {
     "title": "Nvidia's Market Value Grew 24% Over the Past Year. Intel's Grew 474%.",
     "link": "https://www.fool.com/investing/2026/08/12/nvidias-market-value-grew-24-over-the-past-year-in/?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
     "link": "https://247wallst.com/investing/2026/08/12/amd-intel-and-nvidia-all-rally-wednesday-after-series-of-blockbuster-ai-earnings-reports/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 22:21:27 +0000"
-   },
-   {
-    "title": "Intel (INTC) Stock Looks Above Fair Value After a Very Large Run",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-above-211414577.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 21:14:14 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+    "link": "https://www.fool.com/investing/2026/08/13/michael-burry-warns-of-a-1987-style-crash-2-index/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 09:20:00 +0000"
+   },
+   {
+    "title": "What Is Micron Technology (MU) Up Against In The New AI Stock Race?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-against-ai-051413807.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 05:14:13 +0000"
+   },
+   {
     "title": "Wall Street Analysts Are Predicting a Huge Move for Micron by Mid-2027",
     "link": "https://www.fool.com/investing/2026/08/12/wall-street-analysts-are-predicting-a-huge-move-fo/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 23:20:00 +0000"
-   },
-   {
-    "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
-    "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 22:06:38 +0000"
-   },
-   {
-    "title": "Samsung Sends Fresh Signal to Micron Investors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-sends-fresh-signal-micron-201932503.html?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 20:19:32 +0000"
    }
   ],
   "SNDK": [
@@ -110,17 +110,22 @@
     "pubDate": "Wed, 12 Aug 2026 23:04:31 +0000"
    },
    {
+    "title": "MSCI Equity Indexes August 2026 Index Review",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/msci-equity-indexes-august-2026-224000599.html?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 22:40:00 +0000"
+   },
+   {
+    "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
+    "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 22:06:38 +0000"
+   }
+  ],
+  "WDC": [
+   {
     "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
     "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 22:06:38 +0000"
    },
-   {
-    "title": "Sandisk Could Be a Generational Buy at These Levels",
-    "link": "https://www.fool.com/investing/2026/08/12/sandisk-could-be-a-generational-buy-at-these-level/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 18:33:00 +0000"
-   }
-  ],
-  "WDC": [
    {
     "title": "Western Digital (WDC) Stock Gets Fair Value Boost As AI Storage Demand Lifts Outlook",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-gets-211306186.html?.tsrc=rss",
@@ -130,28 +135,23 @@
     "title": "Western Digital & 2 Momentum Stocks That Could Soar in 2026",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-2-momentum-stocks-190000114.html?.tsrc=rss",
     "pubDate": "Wed, 12 Aug 2026 19:00:00 +0000"
-   },
-   {
-    "title": "SK Hynix and SanDisk Climb 8%, Western Digital Gains 4% as Memory Shortage Deepens",
-    "link": "https://247wallst.com/investing/2026/08/12/sk-hynix-and-sandisk-climb-8-western-digital-gains-4-as-memory-shortage-deepens/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 15:01:21 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Seagate (STX) Stock Could Trade Below Fair Value While Earnings Look Full",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-could-trade-031907626.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 03:19:07 +0000"
+   },
    {
     "title": "How Seagate\u2019s Strong Fiscal 2026 Beat and HAMR Momentum May Impact Seagate Technology (STX) Investors",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-strong-fiscal-2026-beat-021142974.html?.tsrc=rss",
     "pubDate": "Thu, 13 Aug 2026 02:11:42 +0000"
    },
    {
-    "title": "Prediction: This Storage Stock Could Be a Surprising AI Winner",
-    "link": "https://247wallst.com/investing/2026/08/12/prediction-this-storage-stock-could-be-a-surprising-ai-winner/?.tsrc=rss",
-    "pubDate": "Wed, 12 Aug 2026 16:30:09 +0000"
-   },
-   {
-    "title": "Seagate Technology Gains From AI Boom: Is Long-Term Growth Secured?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-gains-ai-boom-145000642.html?.tsrc=rss",
-    "pubDate": "Tue, 11 Aug 2026 14:50:00 +0000"
+    "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
+    "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/?.tsrc=rss",
+    "pubDate": "Wed, 12 Aug 2026 22:06:38 +0000"
    }
   ],
   "SOXX": [

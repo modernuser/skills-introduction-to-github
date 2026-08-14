@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-13T23:08:43Z",
+ "generated": "2026-08-14T22:46:55Z",
  "method": "expanding-window walk-forward OLS; features standardized on training data only; returns winsorized at 4.0 MAD-sigmas",
  "note": "A diagnostic of feature predictability, not a forecast and not a recommendation. Out-of-sample R-squared near zero is the expected result for next-day returns; compare each reading against its noise_control, which measures a feature known to have no predictive power.",
  "min_train_sessions": 120,
- "median_oos_r2": -0.0238,
+ "median_oos_r2": -0.0241,
  "symbols_evaluated": 13,
  "results": [
   {
@@ -14,22 +14,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0087,
-    "information_coefficient": 0.0106,
-    "ic_t_stat": 0.2,
-    "direction_agreement_pct": 52.5
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0061,
+    "information_coefficient": 0.0187,
+    "ic_t_stat": 0.35,
+    "direction_agreement_pct": 52.8
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0098,
-    "information_coefficient": -0.0398,
-    "ic_t_stat": -0.75,
-    "direction_agreement_pct": 50.8
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0061,
+    "information_coefficient": 0.0322,
+    "ic_t_stat": 0.61,
+    "direction_agreement_pct": 55.0
    }
   },
   {
@@ -40,48 +40,48 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0383,
-    "information_coefficient": -0.1015,
-    "ic_t_stat": -1.92,
-    "direction_agreement_pct": 50.0
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0397,
+    "information_coefficient": -0.0993,
+    "ic_t_stat": -1.88,
+    "direction_agreement_pct": 50.3
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.017,
-    "information_coefficient": -0.0595,
-    "ic_t_stat": -1.13,
-    "direction_agreement_pct": 51.1
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0175,
+    "information_coefficient": -0.0018,
+    "ic_t_stat": -0.03,
+    "direction_agreement_pct": 50.6
    }
   },
   {
    "symbol": "AVGO",
    "sessions": 501,
    "rows_modelled": 480,
-   "returns_winsorized": 10,
+   "returns_winsorized": 9,
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0343,
-    "information_coefficient": 0.0245,
-    "ic_t_stat": 0.46,
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.025,
+    "information_coefficient": 0.032,
+    "ic_t_stat": 0.61,
     "direction_agreement_pct": 50.3
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.004,
-    "information_coefficient": -0.0167,
-    "ic_t_stat": -0.32,
-    "direction_agreement_pct": 53.1
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0157,
+    "information_coefficient": -0.0831,
+    "ic_t_stat": -1.57,
+    "direction_agreement_pct": 52.2
    }
   },
   {
@@ -92,22 +92,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0053,
-    "information_coefficient": 0.0728,
-    "ic_t_stat": 1.38,
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0039,
+    "information_coefficient": 0.0812,
+    "ic_t_stat": 1.54,
     "direction_agreement_pct": 53.3
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0161,
-    "information_coefficient": -0.1125,
-    "ic_t_stat": -2.13,
-    "direction_agreement_pct": 51.7
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0076,
+    "information_coefficient": -0.0269,
+    "ic_t_stat": -0.51,
+    "direction_agreement_pct": 52.5
    }
   },
   {
@@ -118,22 +118,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0173,
-    "information_coefficient": -0.0944,
-    "ic_t_stat": -1.79,
-    "direction_agreement_pct": 50.0
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0182,
+    "information_coefficient": -0.1026,
+    "ic_t_stat": -1.94,
+    "direction_agreement_pct": 49.4
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0147,
-    "information_coefficient": -0.0908,
-    "ic_t_stat": -1.72,
-    "direction_agreement_pct": 50.8
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.008,
+    "information_coefficient": -0.0267,
+    "ic_t_stat": -0.51,
+    "direction_agreement_pct": 49.2
    }
   },
   {
@@ -144,48 +144,48 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0215,
-    "information_coefficient": -0.119,
-    "ic_t_stat": -2.25,
-    "direction_agreement_pct": 51.4
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0233,
+    "information_coefficient": -0.1194,
+    "ic_t_stat": -2.26,
+    "direction_agreement_pct": 51.1
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0111,
-    "information_coefficient": -0.0309,
-    "ic_t_stat": -0.59,
-    "direction_agreement_pct": 53.1
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0143,
+    "information_coefficient": -0.0726,
+    "ic_t_stat": -1.38,
+    "direction_agreement_pct": 55.3
    }
   },
   {
    "symbol": "SNDK",
-   "sessions": 376,
-   "rows_modelled": 355,
+   "sessions": 377,
+   "rows_modelled": 356,
    "returns_winsorized": 7,
    "features": {
     "evaluated": true,
-    "oos_sessions": 235,
+    "oos_sessions": 236,
     "first_oos": "2025-09-05",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0238,
-    "information_coefficient": -0.0793,
-    "ic_t_stat": -1.21,
-    "direction_agreement_pct": 57.4
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0241,
+    "information_coefficient": -0.0781,
+    "ic_t_stat": -1.2,
+    "direction_agreement_pct": 57.6
    },
    "noise_control": {
     "evaluated": true,
-    "oos_sessions": 235,
+    "oos_sessions": 236,
     "first_oos": "2025-09-05",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0174,
-    "information_coefficient": -0.0914,
-    "ic_t_stat": -1.4,
-    "direction_agreement_pct": 58.3
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0162,
+    "information_coefficient": -0.0976,
+    "ic_t_stat": -1.5,
+    "direction_agreement_pct": 57.6
    }
   },
   {
@@ -196,21 +196,21 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0252,
-    "information_coefficient": -0.0698,
-    "ic_t_stat": -1.32,
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0269,
+    "information_coefficient": -0.0717,
+    "ic_t_stat": -1.36,
     "direction_agreement_pct": 59.7
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0156,
-    "information_coefficient": -0.0232,
-    "ic_t_stat": -0.44,
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0168,
+    "information_coefficient": -0.0373,
+    "ic_t_stat": -0.71,
     "direction_agreement_pct": 59.7
    }
   },
@@ -222,48 +222,48 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0256,
-    "information_coefficient": -0.105,
-    "ic_t_stat": -1.99,
-    "direction_agreement_pct": 57.8
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0271,
+    "information_coefficient": -0.1093,
+    "ic_t_stat": -2.07,
+    "direction_agreement_pct": 57.5
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0167,
-    "information_coefficient": -0.0214,
-    "ic_t_stat": -0.41,
-    "direction_agreement_pct": 58.3
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0185,
+    "information_coefficient": -0.0244,
+    "ic_t_stat": -0.46,
+    "direction_agreement_pct": 56.7
    }
   },
   {
    "symbol": "SOXX",
    "sessions": 501,
    "rows_modelled": 480,
-   "returns_winsorized": 9,
+   "returns_winsorized": 8,
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0286,
-    "information_coefficient": -0.0303,
-    "ic_t_stat": -0.57,
-    "direction_agreement_pct": 50.6
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0298,
+    "information_coefficient": -0.0239,
+    "ic_t_stat": -0.45,
+    "direction_agreement_pct": 50.0
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0049,
-    "information_coefficient": 0.0654,
-    "ic_t_stat": 1.24,
-    "direction_agreement_pct": 56.1
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0082,
+    "information_coefficient": 0.0609,
+    "ic_t_stat": 1.15,
+    "direction_agreement_pct": 57.2
    }
   },
   {
@@ -274,22 +274,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0325,
-    "information_coefficient": -0.0407,
-    "ic_t_stat": -0.77,
-    "direction_agreement_pct": 49.7
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0337,
+    "information_coefficient": -0.037,
+    "ic_t_stat": -0.7,
+    "direction_agreement_pct": 49.4
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0114,
-    "information_coefficient": -0.0076,
-    "ic_t_stat": -0.14,
-    "direction_agreement_pct": 55.3
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0089,
+    "information_coefficient": 0.0366,
+    "ic_t_stat": 0.69,
+    "direction_agreement_pct": 56.9
    }
   },
   {
@@ -300,22 +300,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0213,
-    "information_coefficient": -0.0951,
-    "ic_t_stat": -1.8,
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0209,
+    "information_coefficient": -0.0877,
+    "ic_t_stat": -1.66,
     "direction_agreement_pct": 52.5
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0055,
-    "information_coefficient": 0.0327,
-    "ic_t_stat": 0.62,
-    "direction_agreement_pct": 57.8
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0101,
+    "information_coefficient": -0.0633,
+    "ic_t_stat": -1.2,
+    "direction_agreement_pct": 51.7
    }
   },
   {
@@ -326,22 +326,22 @@
    "features": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.0205,
-    "information_coefficient": -0.0824,
-    "ic_t_stat": -1.56,
-    "direction_agreement_pct": 50.3
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0207,
+    "information_coefficient": -0.0775,
+    "ic_t_stat": -1.47,
+    "direction_agreement_pct": 50.6
    },
    "noise_control": {
     "evaluated": true,
     "oos_sessions": 360,
-    "first_oos": "2025-03-07",
-    "last_oos": "2026-08-12",
-    "oos_r2": -0.007,
-    "information_coefficient": 0.0354,
-    "ic_t_stat": 0.67,
-    "direction_agreement_pct": 55.0
+    "first_oos": "2025-03-10",
+    "last_oos": "2026-08-13",
+    "oos_r2": -0.0104,
+    "information_coefficient": -0.007,
+    "ic_t_stat": -0.13,
+    "direction_agreement_pct": 53.9
    }
   }
  ],

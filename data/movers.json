@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-13T00:01:03Z",
+ "updated": "2026-08-14T00:01:40Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "SMCI",
-   "name": "Supermicro",
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
    "sector": "Information Technology",
-   "close": 37.61,
-   "pct": 19.02
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 932.47,
-   "pct": 13.63
-  },
-  {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 432.05,
-   "pct": 11.49
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 484.5,
-   "pct": 9.87
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 355.64,
-   "pct": 8.24
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "close": 58.79,
-   "pct": 8.11
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 878.21,
-   "pct": 7.03
-  },
-  {
-   "symbol": "ANET",
-   "name": "Arista Networks",
-   "sector": "Information Technology",
-   "close": 210.5,
-   "pct": 6.39
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 402.74,
-   "pct": 6.11
+   "close": 206.45,
+   "pct": 17.78
   },
   {
    "symbol": "SNDK",
    "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 1344.29,
-   "pct": 5.76
+   "close": 1528.11,
+   "pct": 13.67
+  },
+  {
+   "symbol": "GDDY",
+   "name": "GoDaddy",
+   "sector": "Information Technology",
+   "close": 100.5,
+   "pct": 9.45
+  },
+  {
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 33.05,
+   "pct": 8.36
+  },
+  {
+   "symbol": "TTD",
+   "name": "Trade Desk (The)",
+   "sector": "Communication Services",
+   "close": 14.56,
+   "pct": 7.93
+  },
+  {
+   "symbol": "FISV",
+   "name": "Fiserv",
+   "sector": "Financials",
+   "close": 55.5,
+   "pct": 7.64
+  },
+  {
+   "symbol": "FDXF",
+   "name": "FedEx Freight",
+   "sector": "Industrials",
+   "close": 151.99,
+   "pct": 7.61
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "close": 487.29,
+   "pct": 7.31
+  },
+  {
+   "symbol": "GPN",
+   "name": "Global Payments",
+   "sector": "Financials",
+   "close": 94.83,
+   "pct": 7.12
+  },
+  {
+   "symbol": "INTU",
+   "name": "Intuit",
+   "sector": "Information Technology",
+   "close": 358.29,
+   "pct": 7.04
   }
  ],
  "losers": [
   {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 342.77,
-   "pct": -6.08
-  },
-  {
-   "symbol": "COR",
-   "name": "Cencora",
-   "sector": "Health Care",
-   "close": 314.17,
-   "pct": -5.9
-  },
-  {
-   "symbol": "FSLR",
-   "name": "First Solar",
-   "sector": "Information Technology",
-   "close": 226.77,
-   "pct": -5.87
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 599.78,
-   "pct": -5.74
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 150.22,
-   "pct": -4.74
-  },
-  {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "close": 303.76,
-   "pct": -4.68
-  },
-  {
    "symbol": "TPR",
    "name": "Tapestry, Inc.",
    "sector": "Consumer Discretionary",
-   "close": 153.74,
-   "pct": -4.24
+   "close": 128.39,
+   "pct": -16.49
   },
   {
-   "symbol": "IT",
-   "name": "Gartner",
+   "symbol": "CSCO",
+   "name": "Cisco",
    "sector": "Information Technology",
-   "close": 179.46,
-   "pct": -4.17
+   "close": 113.47,
+   "pct": -8.4
   },
   {
-   "symbol": "UBER",
-   "name": "Uber",
-   "sector": "Industrials",
-   "close": 75.36,
-   "pct": -4.05
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 327.23,
+   "pct": -7.99
   },
   {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 120.87,
-   "pct": -3.77
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 880.41,
+   "pct": -5.58
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 158.54,
+   "pct": -5.32
+  },
+  {
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
+   "sector": "Information Technology",
+   "close": 1362.55,
+   "pct": -4.38
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mosaic Company (The)",
+   "sector": "Materials",
+   "close": 21.78,
+   "pct": -3.63
+  },
+  {
+   "symbol": "FCX",
+   "name": "Freeport-McMoRan",
+   "sector": "Materials",
+   "close": 66.83,
+   "pct": -3.45
+  },
+  {
+   "symbol": "ANET",
+   "name": "Arista Networks",
+   "sector": "Information Technology",
+   "close": 203.62,
+   "pct": -3.27
+  },
+  {
+   "symbol": "NEM",
+   "name": "Newmont",
+   "sector": "Materials",
+   "close": 114.19,
+   "pct": -3.1
   }
  ]
 }

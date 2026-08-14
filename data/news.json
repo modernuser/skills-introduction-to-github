@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T23:02:53Z",
+ "updated": "2026-08-14T23:40:53Z",
  "news": {
   "NVDA": [
    {
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Trades Rich On Cash Flow While Earnings Look Cheaper",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-231113657.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 23:11:13 +0000"
+   },
+   {
     "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
     "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:56:38 +0000"
@@ -62,11 +67,6 @@
     "title": "Applied Materials (AMAT) Stock: A Top AI Pick After Record Q3 Results",
     "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-stock-top-213500557.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:35:00 +0000"
-   },
-   {
-    "title": "Soros Capital Loads Up On MU, AMAT, AMD And TSM In Massive Semiconductor Pivot",
-    "link": "https://stocktwits.com/news-articles/markets/equity/soros-capital-loads-up-on-mu-amat-amd-and-tsm-in-massive-semiconductor-pivot/cZotq9LRJ0D?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:25:32 +0000"
    }
   ],
   "INTC": [
@@ -110,14 +110,14 @@
     "pubDate": "Fri, 14 Aug 2026 21:04:48 +0000"
    },
    {
-    "title": "US Equity Indexes Mixed This Week After Soft Inflation Prints, Slumping Retail Sales Set to Restrain Fed Policy Hawks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:25:21 +0000"
+    "title": "SK Hynix, IBD Stock Of The Day, Forming IPO Base But Actionable Now",
+    "link": "https://finance.yahoo.com/m/4fc60d8e-3821-39d2-9199-1c930d01a5a4/sk-hynix%2C-ibd-stock-of-the.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:50:41 +0000"
    },
    {
-    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:25:00 +0000"
+    "title": "Micron Stock Edges Back Toward $1,000. How Far It Could Go.",
+    "link": "https://finance.yahoo.com/m/bb5129f1-1dc3-3588-9344-416f10ae2e35/micron-stock-edges-back.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:43:00 +0000"
    }
   ],
   "WDC": [
@@ -178,14 +178,14 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
+    "title": "Why Chip ETFs May Be Poised for a Comeback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
+    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
+   },
+   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
-   },
-   {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
@@ -195,31 +195,31 @@
     "pubDate": "Fri, 14 Aug 2026 20:31:10 +0000"
    },
    {
-    "title": "Wall Street Rethinks What Fed Does Next",
-    "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-rethinks-fed-does-182624692.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:26:24 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172121860.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:21:21 +0000"
-   }
-  ],
-  "SPY": [
-   {
     "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday Amid Retail Sales Data",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131348296.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
    },
    {
-    "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn\u2019t, and It Charges Less",
-    "link": "https://247wallst.com/investing/2026/08/14/two-funds-promise-20-income-from-the-sp-500-one-caps-your-upside-one-doesnt-and-it-charges-less/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 21:35:08 +0000"
+    "title": "QYLD\u2019s 12% Yield Looks Great. The Long-Term Cost Is Much Higher",
+    "link": "https://247wallst.com/investing/etf/2026/08/13/qylds-12-yield-looks-great-the-long-term-cost-is-much-higher/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 21:35:27 +0000"
+   }
+  ],
+  "SPY": [
+   {
+    "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",
+    "link": "https://247wallst.com/investing/2026/08/14/cash-pays-3-8-and-the-fed-may-hike-this-t-bill-fund-pays-the-same-but-sends-no-tax-bill-until-you-sell/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 19:34:15 +0000"
    },
    {
-    "title": "Stocks Are Finally Pulling Back and These Buffer ETFs Still Promise 100 Percent Downside Protection",
-    "link": "https://247wallst.com/investing/2026/08/14/stocks-are-finally-pulling-back-and-these-buffer-etfs-still-promise-100-percent-downside-protection/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:26:26 +0000"
+    "title": "Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahead",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-is-down-over-3-months-one-wall-street-pro-sees-60-gains-ahead/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:42:15 +0000"
+   },
+   {
+    "title": "U.S. Dollar to Slip Ahead? ETFs in Focus",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-slip-ahead-etfs-150000297.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000"
    }
   ]
  },

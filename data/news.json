@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-14T18:03:47Z",
+ "updated": "2026-08-14T19:09:36Z",
  "news": {
   "NVDA": [
    {
-    "title": "Goldman Sachs Takes On Nvidia's Biggest AI Challenge",
-    "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-takes-nvidias-biggest-173233945.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:32:33 +0000"
+    "title": "Nvidia's Next Earnings Could Shock Wall Street: UBS Sees Billions Above Guidance",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-next-earnings-could-shock-185110303.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:51:10 +0000"
    },
    {
-    "title": "Renaissance Nearly Triples Nvidia Stake, Slashes Micron",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/renaissance-nearly-triples-nvidia-stake-172532360.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:25:32 +0000"
+    "title": "The Best ETF to Buy and Hold for the Next Decade",
+    "link": "https://www.fool.com/investing/2026/08/14/the-best-etf-to-buy-and-hold-for-the-next-decade/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:23:00 +0000"
    },
    {
-    "title": "Goldman Sachs courts investors for Nvidia $500B AI financing deal",
-    "link": "https://qz.com/goldman-sachs-nvidia-ai-financing-investors-081426?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:55:21 +0000"
+    "title": "Why Reddit Stock Just Gained 10.7%",
+    "link": "https://www.fool.com/investing/2026/08/14/why-reddit/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:45:17 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
    {
     "title": "Bank of America\u2019s Top Pick for a $210B Market Is AMD, But Traders Prefer This Other Stock",
     "link": "https://beincrypto.com/amd-stock-bofa-ai-pick-options-analysis/?.tsrc=rss",
@@ -28,113 +33,108 @@
     "title": "China Fears Affect Nividia and AMD in Very Different Ways",
     "link": "https://247wallst.com/investing/2026/08/14/china-fears-affect-nividia-and-amd-in-very-different-ways/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 12:53:36 +0000"
-   },
-   {
-    "title": "AMD\u2019s Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month",
-    "link": "https://247wallst.com/investing/2026/08/14/amds-massive-upside-why-one-analyst-sees-160-price-appreciation-ahead-following-a-tough-month/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 12:29:45 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Broadcom Shares Plunge on Major VMware Security Threat",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-plunge-major-vmware-182433296.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:24:33 +0000"
+   },
+   {
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
+   {
     "title": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61219624/broadcom-ai-financing-370-billion?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 17:08:42 +0000"
-   },
-   {
-    "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:42:09 +0000"
-   },
-   {
-    "title": "Corning, Lumentum And Applied Optoelectronics Shares Popping To End The Week",
-    "link": "https://247wallst.com/investing/2026/08/14/corning-lumentum-and-applied-optoelectronics-shares-popping-to-end-the-week/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:17:30 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Taiwan Semiconductor (TSM) Remains at the Center of the AI Boom",
-    "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-remains-center-140337973.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 14:03:37 +0000"
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
    },
    {
-    "title": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 11:55:00 +0000"
+    "title": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-shows-softbank-initiates-165615828.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 16:56:15 +0000"
    },
    {
-    "title": "Analyst Sees Trouble Brewing for Hot Chip Stocks",
-    "link": "https://finance.yahoo.com/technology/articles/analyst-sees-trouble-brewing-hot-193124128.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 19:31:24 +0000"
+    "title": "Will There be a U.S. Recession in 2026?",
+    "link": "https://finance.yahoo.com/economy/articles/u-recession-2026-162600600.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 16:26:00 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Veteran Bank Gives Intel Foundry a Major Vote of Confidence",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-focus-23-billion-161053832.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:10:53 +0000"
+    "title": "1 Semiconductor Stock on Our Buy List and 2 We Brush Off",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-buy-list-180500555.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:05:00 +0000"
    },
    {
-    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:09:00 +0000"
+    "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
+    "link": "https://www.trefis.com/articles/611546/intel-stocks-real-opportunity-is-demand-it-cannot-yet-ship/2026-08-14?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 14:10:30 +0000"
    },
    {
-    "title": "Donald Trump Is 'the Most Powerful Socialist in the Country Today,' Former Obama Economic Advisor Says",
-    "link": "https://finance.yahoo.com/economy/policy/articles/donald-trump-most-powerful-socialist-154604027.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 15:46:04 +0000"
+    "title": "Can Strong LEAP Demand Help ASE Technology Challenge AMKR & INTC?",
+    "link": "https://finance.yahoo.com/technology/articles/strong-leap-demand-help-ase-132600307.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 13:26:00 +0000"
    }
   ],
   "MU": [
    {
+    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:02:00 +0000"
+   },
+   {
+    "title": "Micron Stock Edges Back Toward $1,000. How Far It Could Go.",
+    "link": "https://finance.yahoo.com/m/bb5129f1-1dc3-3588-9344-416f10ae2e35/micron-stock-edges-back.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 17:57:00 +0000"
+   },
+   {
     "title": "Renaissance Nearly Triples Nvidia Stake, Slashes Micron",
     "link": "https://finance.yahoo.com/markets/stocks/articles/renaissance-nearly-triples-nvidia-stake-172532360.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 17:25:32 +0000"
-   },
-   {
-    "title": "S&P Slips Back From Records",
-    "link": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:44:00 +0000"
-   },
-   {
-    "title": "Stock Market Midday, Aug. 14: Stocks Wobble on Falling Consumer Confidence, Reddit Jumps 14%",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-midday-aug-14-stocks-wobble-as-retail-sales-disappoint-reddit-jumps-14/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 16:35:37 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Sandisk Stock Soars as JPMorgan Targets $2,250 After Bullish Investor Day",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-soars-jpmorgan-targets-173142638.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:31:42 +0000"
+    "title": "Why one analyst says investors should be cautious on the memory stock rally",
+    "link": "https://finance.yahoo.com/video/why-one-analyst-says-investors-153000940.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:30:00 +0000"
    },
    {
-    "title": "A Top Analyst Says SanDisk Could Buy Back $100 Billion in Stock. If He Is Right, Memory Investors Are Badly Underpricing SNDK Stock",
-    "link": "https://247wallst.com/investing/2026/08/14/a-top-analyst-says-sandisk-could-buy-back-100-billion-in-stock-if-he-is-right-memory-investors-are-badly-underpricing-sndk-stock/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:30:39 +0000"
+    "title": "SanDisk jumps 5% as AlphaSpace chart shows AI storage rally",
+    "link": "https://finance.yahoo.com/video/sandisk-jumps-5-as-alphaspace-chart-shows-ai-storage-rally-150053701.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:00:53 +0000"
    },
    {
-    "title": "Renaissance Nearly Triples Nvidia Stake, Slashes Micron",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/renaissance-nearly-triples-nvidia-stake-172532360.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:25:32 +0000"
+    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:02:00 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook",
-    "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-surges-as-wall-street-cheers-flash-memory-makers-bullish-outlook-131502540.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:15:02 +0000"
+    "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion",
+    "link": "https://finance.yahoo.com/m/58eb3f12-5c50-35d4-97c9-518282c5a0d7/sandisk-stock-tops-the-s%26p.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 17:08:00 +0000"
+   },
+   {
+    "title": "3 Reasons Why Western Digital (WDC) Is a Great Growth Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-western-digital-164502647.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 16:45:02 +0000"
    },
    {
     "title": "Western Digital (WDC) Upgraded to Strong Buy: What Does It Mean for the Stock?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-upgraded-strong-160002329.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 16:00:02 +0000"
-   },
-   {
-    "title": "Sandisk Jumps 7%, Western Digital Gains 4%, Micron Climbs 3% as the Kospi Returns to a Bull Market",
-    "link": "https://247wallst.com/investing/2026/08/14/sandisk-jumps-7-western-digital-gains-4-micron-climbs-3-as-the-kospi-returns-to-a-bull-market/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:03:30 +0000"
    }
   ],
   "STX": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
+   {
     "title": "Nasdaq Falls 0.5% After Chip Stocks Slip",
     "link": "https://finance.yahoo.com/m/292a2a4a-114e-3d8d-ad05-ac13ac8cc2ec/nasdaq-falls-0.5%25-after-chip.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 15:44:54 +0000"
@@ -164,11 +169,6 @@
     "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
     "link": "https://247wallst.com/investing/2026/08/14/michael-burry-ramped-up-his-bets-against-micron-and-the-qqq-etf-is-the-big-short-investor-asking-for-trouble/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 14:40:07 +0000"
-   },
-   {
-    "title": "DRAM Movers: These Memory/Storage ETFs Are Soaring as Sandisk, Micron Rally",
-    "link": "https://247wallst.com/investing/2026/08/13/dram-movers-these-memory-storage-etfs-are-soaring-as-sandisk-micron-rally/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 18:12:15 +0000"
    }
   ],
   "SOXL": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday Amid Retail Sales Data",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131348296.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
+    "title": "Wall Street Rethinks What Fed Does Next",
+    "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-rethinks-fed-does-182624692.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:26:24 +0000"
    },
    {
-    "title": "QYLD\u2019s 12% Yield Looks Great. The Long-Term Cost Is Much Higher",
-    "link": "https://247wallst.com/investing/etf/2026/08/13/qylds-12-yield-looks-great-the-long-term-cost-is-much-higher/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 21:35:27 +0000"
+    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172121860.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 17:21:21 +0000"
    },
    {
-    "title": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For \u2018Larger Fall\u2019 \u2014 Here\u2019s What He Did To NVDA, PLTR And TSLA",
-    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-loads-up-on-qqq-puts-boosts-mu-short-as-he-braces-for-larger-fall-heres-what-he-did-to-nvda-pltr-and-tsla/cZoqVbeRJLw?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 20:13:07 +0000"
+    "title": "Cooling Inflation Likely to Aid These ETF Areas",
+    "link": "https://finance.yahoo.com/economy/policy/articles/cooling-inflation-likely-aid-etf-144100361.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 14:41:00 +0000"
    }
   ],
   "SPY": [

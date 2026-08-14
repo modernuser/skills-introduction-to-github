@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T21:43:53Z",
+ "updated": "2026-08-14T22:02:19Z",
  "news": {
   "NVDA": [
    {
@@ -20,6 +20,11 @@
   ],
   "AMD": [
    {
+    "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:56:38 +0000"
+   },
+   {
     "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-5-6-191626837.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 19:16:26 +0000"
@@ -28,11 +33,6 @@
     "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
     "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
-   },
-   {
-    "title": "Bank of America\u2019s Top Pick for a $210B Market Is AMD, But Traders Prefer This Other Stock",
-    "link": "https://beincrypto.com/amd-stock-bofa-ai-pick-options-analysis/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:17:16 +0000"
    }
   ],
   "AVGO": [
@@ -166,9 +166,9 @@
     "pubDate": "Fri, 14 Aug 2026 15:44:54 +0000"
    },
    {
-    "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
-    "link": "https://247wallst.com/investing/2026/08/14/michael-burry-ramped-up-his-bets-against-micron-and-the-qqq-etf-is-the-big-short-investor-asking-for-trouble/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 14:40:07 +0000"
+    "title": "Stocks Pressured by Worries About US Economy",
+    "link": "https://www.barchart.com/story/news/3854653/stocks-pressured-by-worries-about-us-economy?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:29:26 +0000"
    }
   ],
   "SOXL": [

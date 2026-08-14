@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T22:02:19Z",
+ "updated": "2026-08-14T23:02:53Z",
  "news": {
   "NVDA": [
    {
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-inc-avgo-dipped-214501928.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:45:01 +0000"
+   },
+   {
     "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-stocks-slip-as-consumer-data-disappoints-broadcom-falls-6/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:30:18 +0000"
@@ -45,31 +50,31 @@
     "title": "Broadcom (AVGO) Faces A $370 Billion AI Financing Risk Question",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-370-billion-211358853.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:13:58 +0000"
-   },
-   {
-    "title": "Broadcom Falls 6% as AI Trade Cools",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-ai-trade-195640614.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:56:40 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:56:38 +0000"
+   },
+   {
+    "title": "Applied Materials (AMAT) Stock: A Top AI Pick After Record Q3 Results",
+    "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-stock-top-213500557.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:35:00 +0000"
+   },
+   {
     "title": "Soros Capital Loads Up On MU, AMAT, AMD And TSM In Massive Semiconductor Pivot",
     "link": "https://stocktwits.com/news-articles/markets/equity/soros-capital-loads-up-on-mu-amat-amd-and-tsm-in-massive-semiconductor-pivot/cZotq9LRJ0D?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 18:25:32 +0000"
-   },
-   {
-    "title": "Taiwan Semiconductor (TSM) Remains at the Center of the AI Boom",
-    "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-remains-center-140337973.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 14:03:37 +0000"
-   },
-   {
-    "title": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 11:55:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel\u2019s stock buybacks: History & investor impact explained",
+    "link": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 22:50:04 +0000"
+   },
    {
     "title": "Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2",
     "link": "https://stocktwits.com/news-articles/markets/equity/intel-banks-150-million-paper-gain-as-joby-and-mobileye-rally-in-q2/cZotsZFRJKG?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "1 Semiconductor Stock on Our Buy List and 2 We Brush Off",
     "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-buy-list-180500555.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 18:05:00 +0000"
-   },
-   {
-    "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
-    "link": "https://www.trefis.com/articles/611546/intel-stocks-real-opportunity-is-demand-it-cannot-yet-ship/2026-08-14?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 14:10:30 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron Stock Edges Back Toward $1,000. How Far It Could Go.",
+    "link": "https://finance.yahoo.com/m/bb5129f1-1dc3-3588-9344-416f10ae2e35/micron-stock-edges-back.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:43:00 +0000"
+   },
+   {
+    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:25:00 +0000"
+   },
+   {
     "title": "Micron Stock Jumps 2.1% as Memory Pricing Tightens Again",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-jumps-2-1-191520910.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 19:15:20 +0000"
-   },
-   {
-    "title": "Lam Research bets $3 billion on speed, not size",
-    "link": "https://www.thestreet.com/technology/lam-research-3b-lab-investment-chip-bottleneck?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:13:00 +0000"
-   },
-   {
-    "title": "Soros Capital Loads Up On MU, AMAT, AMD And TSM In Massive Semiconductor Pivot",
-    "link": "https://stocktwits.com/news-articles/markets/equity/soros-capital-loads-up-on-mu-amat-amd-and-tsm-in-massive-semiconductor-pivot/cZotq9LRJ0D?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:25:32 +0000"
    }
   ],
   "SNDK": [
@@ -115,9 +115,9 @@
     "pubDate": "Fri, 14 Aug 2026 20:25:21 +0000"
    },
    {
-    "title": "Sandisk Long-Term Targets Signify Earnings Power, Wedbush Says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-long-term-targets-signify-201838454.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:18:38 +0000"
+    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:25:00 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Fri, 14 Aug 2026 15:44:54 +0000"
    },
    {
-    "title": "Stocks Pressured by Worries About US Economy",
-    "link": "https://www.barchart.com/story/news/3854653/stocks-pressured-by-worries-about-us-economy?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 15:29:26 +0000"
+    "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
+    "link": "https://247wallst.com/investing/2026/08/14/michael-burry-ramped-up-his-bets-against-micron-and-the-qqq-etf-is-the-big-short-investor-asking-for-trouble/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 14:40:07 +0000"
    }
   ],
   "SOXL": [
@@ -195,14 +195,14 @@
     "pubDate": "Fri, 14 Aug 2026 20:31:10 +0000"
    },
    {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday Amid Retail Sales Data",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131348296.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
+    "title": "Wall Street Rethinks What Fed Does Next",
+    "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-rethinks-fed-does-182624692.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:26:24 +0000"
    },
    {
-    "title": "QYLD\u2019s 12% Yield Looks Great. The Long-Term Cost Is Much Higher",
-    "link": "https://247wallst.com/investing/etf/2026/08/13/qylds-12-yield-looks-great-the-long-term-cost-is-much-higher/?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 21:35:27 +0000"
+    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172121860.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 17:21:21 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
    },
    {
+    "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn\u2019t, and It Charges Less",
+    "link": "https://247wallst.com/investing/2026/08/14/two-funds-promise-20-income-from-the-sp-500-one-caps-your-upside-one-doesnt-and-it-charges-less/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:35:08 +0000"
+   },
+   {
     "title": "Stocks Are Finally Pulling Back and These Buffer ETFs Still Promise 100 Percent Downside Protection",
     "link": "https://247wallst.com/investing/2026/08/14/stocks-are-finally-pulling-back-and-these-buffer-etfs-still-promise-100-percent-downside-protection/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 20:26:26 +0000"
-   },
-   {
-    "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",
-    "link": "https://247wallst.com/investing/2026/08/14/cash-pays-3-8-and-the-fed-may-hike-this-t-bill-fund-pays-the-same-but-sends-no-tax-bill-until-you-sell/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:34:15 +0000"
    }
   ]
  },

@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-14T20:01:53Z",
+ "updated": "2026-08-14T20:39:43Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:33:56 +0000"
+    "title": "Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More",
+    "link": "https://www.fool.com/investing/2026/08/14/vertex-pharmaceuticals-just-hit-an-all-time-high-h/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:20:00 +0000"
    },
    {
-    "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:12:01 +0000"
+    "title": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
+    "link": "https://www.coinage.media/2026/nvidia-ceo-jensen-huang-sells-wall-street-on-compute-as-a-commodity?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:18:00 +0000"
    },
    {
-    "title": "Nvidia's Next Earnings Could Shock Wall Street: UBS Sees Billions Above Guidance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-next-earnings-could-shock-185110303.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:51:10 +0000"
+    "title": "US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-200704074.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:07:04 +0000"
    }
   ],
   "AMD": [
-   {
-    "title": "Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:41:00 +0000"
-   },
    {
     "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-5-6-191626837.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 19:16:26 +0000"
    },
    {
-    "title": "What Separates AVGO From Its Peers Right Now",
-    "link": "https://www.trefis.com/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:14:13 +0000"
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
+   {
+    "title": "Bank of America\u2019s Top Pick for a $210B Market Is AMD, But Traders Prefer This Other Stock",
+    "link": "https://beincrypto.com/amd-stock-bofa-ai-pick-options-analysis/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 13:17:16 +0000"
    }
   ],
   "AVGO": [
@@ -42,14 +42,14 @@
     "pubDate": "Fri, 14 Aug 2026 19:56:40 +0000"
    },
    {
-    "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:27:54 +0000"
-   },
-   {
     "title": "What Separates AVGO From Its Peers Right Now",
     "link": "https://www.trefis.com/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 19:14:13 +0000"
+   },
+   {
+    "title": "Broadcom Shares Plunge on Major VMware Security Threat",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-plunge-major-vmware-182433296.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:24:33 +0000"
    }
   ],
   "TSM": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
+    "title": "Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 19:41:00 +0000"
+   },
+   {
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
+   {
     "title": "1 Semiconductor Stock on Our Buy List and 2 We Brush Off",
     "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-buy-list-180500555.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 18:05:00 +0000"
-   },
-   {
-    "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
-    "link": "https://www.trefis.com/articles/611546/intel-stocks-real-opportunity-is-demand-it-cannot-yet-ship/2026-08-14?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 14:10:30 +0000"
-   },
-   {
-    "title": "Can Strong LEAP Demand Help ASE Technology Challenge AMKR & INTC?",
-    "link": "https://finance.yahoo.com/technology/articles/strong-leap-demand-help-ase-132600307.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 13:26:00 +0000"
    }
   ],
   "MU": [
@@ -105,19 +105,19 @@
   ],
   "SNDK": [
    {
-    "title": "SanDisk Has Delivered A Return The Index Cannot, And The Swings That Come With It",
-    "link": "https://www.trefis.com/articles/611554/sandisk-has-delivered-a-return-the-index-cannot-and-the-swings-that-come-with-it/2026-08-14?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:56:52 +0000"
+    "title": "US Equity Indexes Mixed This Week After Soft Inflation Prints, Slumping Retail Sales Set to Restrain Fed Policy Hawks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:25:21 +0000"
    },
    {
-    "title": "Investing.com\u2019s stocks of the week",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-184718655.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:47:18 +0000"
+    "title": "Update: US Equity Indexes Fall After Retail Sales Drop Most in 14 Months, Crude Oil Rises as Iran Warned Against Economic Pain",
+    "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-retail-201926907.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:19:26 +0000"
    },
    {
-    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:02:00 +0000"
+    "title": "Sandisk Long-Term Targets Signify Earnings Power, Wedbush Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-long-term-targets-signify-201838454.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:18:38 +0000"
    }
   ],
   "WDC": [
@@ -212,9 +212,9 @@
     "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
    },
    {
-    "title": "Pantheon Drops Surprising Fed Call After July CPI",
-    "link": "https://finance.yahoo.com/economy/policy/articles/pantheon-drops-surprising-fed-call-192252600.html?.tsrc=rss",
-    "pubDate": "Thu, 13 Aug 2026 19:22:52 +0000"
+    "title": "Stocks Are Finally Pulling Back and These Buffer ETFs Still Promise 100 Percent Downside Protection",
+    "link": "https://247wallst.com/investing/2026/08/14/stocks-are-finally-pulling-back-and-these-buffer-etfs-still-promise-100-percent-downside-protection/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:26:26 +0000"
    },
    {
     "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",

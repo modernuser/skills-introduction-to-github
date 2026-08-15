@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-15T00:02:18Z",
+ "updated": "2026-08-15T01:48:34Z",
  "news": {
   "NVDA": [
    {
-    "title": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
-    "link": "https://finance.yahoo.com/m/64c7a299-0ef1-3afe-9888-95b3474ece56/third-point-exited-nvidia-and.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 22:43:00 +0000"
+    "title": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 23:58:46 +0000"
    },
    {
-    "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
-    "link": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 21:05:08 +0000"
+    "title": "NVDA Discloses $21B Stake In SpaceX \u2014 Elon Musk\u2019s Rocket Firm Becomes Nvidia\u2019s No. 2 Holding",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-discloses-21-billion-stake-in-spacex-elon-musks-rocket-firm-becomes-nvidias-no-2-holding/cZotyxyRJKP?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 23:49:54 +0000"
    },
    {
-    "title": "Super League Enterprise, Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-super-league-enterprise-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 21:01:48 +0000"
+    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 23:43:56 +0000"
    }
   ],
   "AMD": [
-   {
-    "title": "Intel\u2019s stock buybacks: History & investor impact explained",
-    "link": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 22:50:04 +0000"
-   },
    {
     "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
     "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:56:38 +0000"
    },
    {
-    "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-    "link": "https://www.trefis.com/articles/611499/qcom-a-cash-gusher-at-a-marked-down-price-2/2026-08-14?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:25:37 +0000"
+    "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-5-6-191626837.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 19:16:26 +0000"
+   },
+   {
+    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
    }
   ],
   "AVGO": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "NVDA Discloses $21B Stake In SpaceX \u2014 Elon Musk\u2019s Rocket Firm Becomes Nvidia\u2019s No. 2 Holding",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-discloses-21-billion-stake-in-spacex-elon-musks-rocket-firm-becomes-nvidias-no-2-holding/cZotyxyRJKP?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 23:49:54 +0000"
+   },
+   {
     "title": "Wall Street ends lower as investors weigh data, Middle East tensions",
     "link": "https://finance.yahoo.com/video/wall-street-ends-lower-investors-225242650.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 22:53:02 +0000"
@@ -79,14 +84,14 @@
     "title": "Intel\u2019s stock buybacks: History & investor impact explained",
     "link": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 22:50:04 +0000"
-   },
+   }
+  ],
+  "MU": [
    {
     "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
     "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 21:56:38 +0000"
-   }
-  ],
-  "MU": [
+   },
    {
     "title": "Micron Stock Edges Back Toward $1,000. How Far It Could Go.",
     "link": "https://finance.yahoo.com/m/bb5129f1-1dc3-3588-9344-416f10ae2e35/micron-stock-edges-back.html?.tsrc=rss",
@@ -96,14 +101,14 @@
     "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 20:25:00 +0000"
-   },
-   {
-    "title": "Micron Stock Jumps 2.1% as Memory Pricing Tightens Again",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-jumps-2-1-191520910.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:15:20 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+    "link": "https://www.thestreet.com/investing/stocks/sndk-sandisk-ceo-goeckeler-reveals-growth-strategy-financial-model-investor-day?.tsrc=rss",
+    "pubDate": "Sat, 15 Aug 2026 01:37:00 +0000"
+   },
    {
     "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
     "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "US Equity Indexes Mixed This Week After Soft Inflation Prints, Slumping Retail Sales Set to Restrain Fed Policy Hawks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 20:25:21 +0000"
-   },
-   {
-    "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 20:25:00 +0000"
    }
   ],
   "WDC": [
@@ -139,19 +139,19 @@
   ],
   "STX": [
    {
-    "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
-    "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 21:04:48 +0000"
+    "title": "Seagate Technology Holdings (STX) Following Strong FY2026 Results Looks Undervalued By The Narrative",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-stx-following-141220142.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 14:12:20 +0000"
    },
    {
-    "title": "Entegris, Penguin Solutions, Seagate, Applied Materials, and KLA Corporation Shares Are Soaring, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/entegris-penguin-solutions-seagate-applied-194900566.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:49:00 +0000"
+    "title": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-092100251.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:21:00 +0000"
    },
    {
-    "title": "The AI Stock Everyone Knows - But Few See Becoming a Future Winner",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-everyone-knows-few-190000637.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:00:00 +0000"
+    "title": "The AI Stock Nobody Is Talking About - but Could Be a Big Winner",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-nobody-talking-could-190000300.html?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 19:00:00 +0000"
    }
   ],
   "SOXX": [
@@ -195,31 +195,31 @@
     "pubDate": "Fri, 14 Aug 2026 20:31:10 +0000"
    },
    {
-    "title": "Wall Street Rethinks What Fed Does Next",
-    "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-rethinks-fed-does-182624692.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:26:24 +0000"
+    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday Amid Retail Sales Data",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131348296.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
    },
    {
-    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172121860.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 17:21:21 +0000"
+    "title": "QYLD\u2019s 12% Yield Looks Great. The Long-Term Cost Is Much Higher",
+    "link": "https://247wallst.com/investing/etf/2026/08/13/qylds-12-yield-looks-great-the-long-term-cost-is-much-higher/?.tsrc=rss",
+    "pubDate": "Thu, 13 Aug 2026 21:35:27 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",
-    "link": "https://247wallst.com/investing/2026/08/14/cash-pays-3-8-and-the-fed-may-hike-this-t-bill-fund-pays-the-same-but-sends-no-tax-bill-until-you-sell/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 19:34:15 +0000"
+    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday Amid Retail Sales Data",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131348296.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 13:13:48 +0000"
    },
    {
-    "title": "Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahead",
-    "link": "https://247wallst.com/investing/2026/08/14/broadcom-is-down-over-3-months-one-wall-street-pro-sees-60-gains-ahead/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 15:42:15 +0000"
+    "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn\u2019t, and It Charges Less",
+    "link": "https://247wallst.com/investing/2026/08/14/two-funds-promise-20-income-from-the-sp-500-one-caps-your-upside-one-doesnt-and-it-charges-less/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 21:35:08 +0000"
    },
    {
-    "title": "U.S. Dollar to Slip Ahead? ETFs in Focus",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-slip-ahead-etfs-150000297.html?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000"
+    "title": "Stocks Are Finally Pulling Back and These Buffer ETFs Still Promise 100 Percent Downside Protection",
+    "link": "https://247wallst.com/investing/2026/08/14/stocks-are-finally-pulling-back-and-these-buffer-etfs-still-promise-100-percent-downside-protection/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:26:26 +0000"
    }
   ]
  },

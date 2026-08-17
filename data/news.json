@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-17T17:53:05Z",
+ "updated": "2026-08-17T18:54:03Z",
  "news": {
   "NVDA": [
    {
-    "title": "Sector Update: Tech Stocks Rise Monday Afternoon",
-    "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-monday-173150965.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:31:50 +0000"
+    "title": "How IREN Is Cashing In on the AI Data Center Boom",
+    "link": "https://www.fool.com/investing/2026/08/17/how-hot-ticker-is-cashing-in-on-the-data-center-bo/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:30:00 +0000"
    },
    {
-    "title": "SEC guidance removes risk rules from Nvidia $500B AI financing push",
-    "link": "https://qz.com/sec-guidance-nvidia-ai-data-center-financing-500-billion-081726?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:31:41 +0000"
+    "title": "Billionaire Bill Ackman Just Invested in Netflix Stock. Here's Why Investors Should Care.",
+    "link": "https://www.fool.com/investing/2026/08/17/billionaire-bill-ackman-netflix-stock-investors/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:25:00 +0000"
    },
    {
-    "title": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61256057/nvidia-openai-deal-circular-financing?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:22:04 +0000"
+    "title": "These 3 Monthly Dividend ETFs Can Cover the Average American Mortgage Payment, Here Is How Much You Need Invested",
+    "link": "https://247wallst.com/investing/2026/08/17/these-3-monthly-dividend-etfs-can-cover-the-average-american-mortgage-payment-here-is-how-much-you-need-invested/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:24:35 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "AMD Rises on $4.75 Billion Debt Offering",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-rises-4-75-billion-181426707.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:14:26 +0000"
+   },
+   {
+    "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
+    "link": "https://finance.yahoo.com/m/badd95c3-60f3-3400-b02b-19b6385bb030/four-reasons-to-put-this.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:00:28 +0000"
+   },
+   {
     "title": "Why AMD Stock Is Down Today",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-down-today-173725648.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 17:37:25 +0000"
-   },
-   {
-    "title": "Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
-    "link": "https://247wallst.com/investing/2026/08/17/cerebras-shares-skyrocket-monday-intel-gains-while-amd-is-down-slightly/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:12:15 +0000"
-   },
-   {
-    "title": "AMD CEO Gives Investors New Reason to Watch",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-ceo-gives-investors-reason-163254569.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:32:54 +0000"
    }
   ],
   "AVGO": [
@@ -54,11 +54,6 @@
   ],
   "TSM": [
    {
-    "title": "The Market Is Sending a Signal And These Stocks Stand Out",
-    "link": "https://247wallst.com/investing/2026/08/17/the-market-is-sending-a-signal-and-these-stocks-stand-out/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 14:00:12 +0000"
-   },
-   {
     "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
     "link": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/?.tsrc=rss",
     "pubDate": "Sun, 16 Aug 2026 22:13:14 +0000"
@@ -67,6 +62,11 @@
     "title": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says.",
     "link": "https://www.fool.com/investing/2026/08/16/should-you-buy-taiwan-semiconductor-stock-below-44/?.tsrc=rss",
     "pubDate": "Sun, 16 Aug 2026 11:55:00 +0000"
+   },
+   {
+    "title": "How Investors May Respond To SoftBank Group (TSE:9984) Shifting From TSMC To Capital One After Q1 Results",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-softbank-group-150941472.html?.tsrc=rss",
+    "pubDate": "Sat, 15 Aug 2026 15:09:41 +0000"
    }
   ],
   "INTC": [
@@ -88,70 +88,70 @@
   ],
   "MU": [
    {
+    "title": "Hedge Fund Heavyweights Are Dumping Micron (MU). Except One Billionaire.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-heavyweights-dumping-micron-180820254.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:08:20 +0000"
+   },
+   {
     "title": "Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026",
     "link": "https://qz.com/druckenmiller-duquesne-micron-intel-amazon-081726?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 17:20:50 +0000"
    },
    {
-    "title": "Not Micron, Not Sandisk. This AI Stock Will Be the Biggest Beneficiary of the Next Infrastructure Bottleneck",
-    "link": "https://www.fool.com/investing/2026/08/17/not-micron-not-sandisk-this-ai-stock-will-be-the-b/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:43:00 +0000"
-   },
-   {
-    "title": "Micron Stock Claws Back From Lows To A Buy Point",
-    "link": "https://finance.yahoo.com/m/a9e860f1-5825-3f1e-9921-166ed0c916ff/micron-stock-claws-back-from.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:41:31 +0000"
+    "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk%2C-micron%2C-coherent%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 16:54:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SanDisk Rallied On Contracts It Had Already Signed",
+    "link": "https://www.trefis.com/articles/611683/sandisk-rallied-on-contracts-it-had-already-signed/2026-08-17?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:29:01 +0000"
+   },
    {
     "title": "Sandisk Stock Surges 8% as Analysts Chase $2,250 Target",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-surges-8-analysts-174725325.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 17:47:25 +0000"
    },
    {
-    "title": "Not Micron, Not Sandisk. This AI Stock Will Be the Biggest Beneficiary of the Next Infrastructure Bottleneck",
-    "link": "https://www.fool.com/investing/2026/08/17/not-micron-not-sandisk-this-ai-stock-will-be-the-b/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:43:00 +0000"
-   },
-   {
-    "title": "Investors Remember Why They Love Memory-Chip Stocks",
-    "link": "https://finance.yahoo.com/m/6ede66af-a739-3e24-9b0b-0f14b0945416/investors-remember-why-they.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:06:20 +0000"
+    "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk%2C-micron%2C-coherent%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 16:54:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "SanDisk Rallied On Contracts It Had Already Signed",
+    "link": "https://www.trefis.com/articles/611683/sandisk-rallied-on-contracts-it-had-already-signed/2026-08-17?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 18:29:01 +0000"
+   },
    {
     "title": "Western Digital Stock Jumps Over 6% as Memory Rally Accelerates",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-jumps-over-174310099.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 17:43:10 +0000"
    },
    {
-    "title": "Can Western Digital (WDC) Run Higher on Rising Earnings Estimates?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-run-higher-162003791.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:20:03 +0000"
-   },
-   {
-    "title": "Why Western Digital Stock Popped Today",
-    "link": "https://www.fool.com/investing/2026/08/17/why-western-digital-stock-popped-today/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 15:51:08 +0000"
+    "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk%2C-micron%2C-coherent%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 16:54:00 +0000"
    }
   ],
   "STX": [
    {
+    "title": "3 Reasons Why Growth Investors Shouldn't Overlook Seagate (STX)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164502021.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 16:45:02 +0000"
+   },
+   {
+    "title": "Nasdaq treads water as investors brace for a busy week of retail results",
+    "link": "https://www.proactiveinvestors.com/companies/news/1097132/wall-street-eyes-retail-earnings-as-futures-drift-ahead-of-the-bell-1097132.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:48:00 +0000"
+   },
+   {
     "title": "Seagate Technology Holdings (STX) Following Strong FY2026 Results Looks Undervalued By The Narrative",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-stx-following-141220142.html?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 14:12:20 +0000"
-   },
-   {
-    "title": "3 Reasons We Love Seagate (STX)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-seagate-stx-171020504.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:10:20 +0000"
-   },
-   {
-    "title": "Chip stocks rally as US pressure on Chinese memory suppliers boosts sentiment",
-    "link": "https://www.proactiveinvestors.com/companies/news/1097146/chip-stocks-rally-as-us-pressure-on-chinese-memory-suppliers-boosts-sentiment-1097146.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:03:00 +0000"
    }
   ],
   "SOXX": [
@@ -166,9 +166,9 @@
     "pubDate": "Mon, 17 Aug 2026 15:29:21 +0000"
    },
    {
-    "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-    "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
-    "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday Amid Lower Rate Hike Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131346618.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    }
   ],
   "SOXL": [
@@ -178,14 +178,14 @@
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
    },
    {
-    "title": "Why Chip ETFs May Be Poised for a Comeback",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-chip-etfs-may-poised-174800735.html?.tsrc=rss",
-    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0000"
-   },
-   {
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
+   },
+   {
+    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
+    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
+    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [
@@ -200,9 +200,9 @@
     "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    },
    {
-    "title": "History Shows Right Now Could Be a Fantastic Time to Invest in the Stock Market. Here's Why.",
-    "link": "https://www.fool.com/investing/2026/08/17/history-shows-right-now-could-be-a-fantastic-time/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 13:05:00 +0000"
+    "title": "History Says a $10,000 Investment in the QQQ Will Be Worth $66,000 in 10 Years",
+    "link": "https://www.fool.com/investing/2026/08/17/history-says-investment-qqq-worth-66000-10-years/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 12:35:00 +0000"
    }
   ],
   "SPY": [

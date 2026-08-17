@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-17T11:37:22Z",
+ "updated": "2026-08-17T11:57:38Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion",
+    "link": "https://qz.com/nvidia-openai-ohio-data-center-backstop-081726?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:45:17 +0000"
+   },
    {
     "title": "Nvidia Likely to Post Strong Results But Investors to Focus More on Long-Term Growth Drivers, Morgan Stanley Says",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-likely-post-strong-results-105234888.html?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "The Global Market for Computing and AI for Data Centers Report 2026\u20132040: Evaluating GPUs, Custom ASICs, Arm vs x86, and Strategies of Nvidia, AMD, Google, and AWS",
     "link": "https://finance.yahoo.com/technology/ai/articles/global-market-computing-ai-data-111600912.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 11:16:00 +0000"
-   },
-   {
-    "title": "AM Applications Analysis: Parts Produced 2025-2034 Delivers 10-Year Additive Manufacturing Market Forecast",
-    "link": "https://finance.yahoo.com/technology/articles/am-applications-analysis-parts-produced-100300365.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:03:00 +0000"
    }
   ],
   "AMD": [
@@ -25,14 +25,14 @@
     "pubDate": "Mon, 17 Aug 2026 11:16:00 +0000"
    },
    {
-    "title": "Stocks Mostly Up Pre-Bell as Traders Await Fed Meeting Minutes, Retail Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-traders-110959890.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 11:09:59 +0000"
+    "title": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-you-could-have-heard-it-first-as-big-tech-s-3-t-ai-spending-risk-comes-into-focus/cZo6sZzRJKV?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 05:52:11 +0000"
    },
    {
-    "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/intel%2C-oracle%2C-marvell%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:43:00 +0000"
+    "title": "AMD (AMD) Stock Trades Up, Here Is Why",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-trades-why-031700093.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 03:17:00 +0000"
    }
   ],
   "AVGO": [
@@ -88,36 +88,36 @@
   ],
   "MU": [
    {
+    "title": "Micron stock heats up again, crossing $1,000",
+    "link": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:53:04 +0000"
+   },
+   {
+    "title": "MU Remains BofA's Top Memory Pick \u2013 SNDK Signals Memory Growth May Be Structural, BofA Says",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-250-eps-bull-case-sndk-signals-memory-growth-structural-bofa/cZYGbtPRJ12?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:36:24 +0000"
+   },
+   {
     "title": "The Global DRAM Market Report 2026\u20132036: Evaluating HBM4, DDR5/GDDR7 Adoption, CMOS-Bonded Arrays, and Strategies of SK Hynix, Samsung, Micron, and ASML",
     "link": "https://finance.yahoo.com/technology/articles/global-dram-market-report-2026-110100507.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 11:01:00 +0000"
-   },
-   {
-    "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/intel%2C-oracle%2C-marvell%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:43:00 +0000"
-   },
-   {
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103403952.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:34:03 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Sandisk Stock Is Getting Its Mojo Back Amid China Memory-Chip Move",
-    "link": "https://finance.yahoo.com/m/9c58832a-ac31-3e6c-9340-793142d64a4d/sandisk-stock-is-getting-its.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:52:00 +0000"
+    "title": "SanDisk extends rally, Snap faces fresh pressure in premarket trade",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-extends-rally-snap-faces-114856736.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:48:56 +0000"
    },
    {
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103403952.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:34:03 +0000"
+    "title": "MU Remains BofA's Top Memory Pick \u2013 SNDK Signals Memory Growth May Be Structural, BofA Says",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-250-eps-bull-case-sndk-signals-memory-growth-structural-bofa/cZYGbtPRJ12?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:36:24 +0000"
    },
    {
-    "title": "Elon Musk Just Uttered 3 Massively Bullish Words for Micron, Sandisk, and SK Hynix",
-    "link": "https://www.fool.com/investing/2026/08/17/elon-musk-just-uttered-3-massively-bullish-words-f/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 10:26:00 +0000"
+    "title": "Stocks Mostly Up Pre-Bell as Traders Await Fed Meeting Minutes, Retail Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-traders-110959890.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 11:09:59 +0000"
    }
   ],
   "WDC": [

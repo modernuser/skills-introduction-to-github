@@ -33,7 +33,7 @@
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 430.949
+     "last_close": 430.97
     },
     {
      "symbol": "INTC",
@@ -82,10 +82,10 @@
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 151.5665
+     "last_close": 151.53
     }
    ],
-   "value": 11411.41,
+   "value": 11411.17,
    "return_pct": 14.11,
    "alpha_pp": 12.13
   },
@@ -182,10 +182,10 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 772.66
+     "last_close": 772.67
     }
    ],
-   "value": 10197.84,
+   "value": 10197.98,
    "return_pct": 1.98,
    "alpha_pp": -0.0
   },

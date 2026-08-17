@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T22:03:50Z",
+ "updated": "2026-08-17T22:44:19Z",
  "news": {
   "NVDA": [
    {
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Situational Awareness\u2019 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
+    "link": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 21:48:19 +0000"
+   },
+   {
     "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/08/17/stock-market-today-aug-17-markets-inch-lower-and-treasury-yields-rise-as-investors-wait-for-retail-earnings/?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 21:30:24 +0000"
@@ -113,11 +118,6 @@
     "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
     "link": "https://finance.yahoo.com/m/161621c8-7f5e-35ac-89ec-13480079526c/dow-jones-futures%3A-trump.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 21:02:17 +0000"
-   },
-   {
-    "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk%2C-micron%2C-coherent%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 20:52:00 +0000"
    }
   ],
   "WDC": [
@@ -161,14 +161,14 @@
     "pubDate": "Mon, 17 Aug 2026 15:37:21 +0000"
    },
    {
-    "title": "The Stock Market Is Struggling More Than It Looks",
-    "link": "https://finance.yahoo.com/m/008dd208-036b-3aa1-8fae-5abd46e9b79a/the-stock-market-is.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 15:29:21 +0000"
-   },
-   {
     "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
     "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
     "pubDate": "Fri, 14 Aug 2026 18:07:38 +0000"
+   },
+   {
+    "title": "Nasdaq Falls 0.5% After Chip Stocks Slip",
+    "link": "https://finance.yahoo.com/m/292a2a4a-114e-3d8d-ad05-ac13ac8cc2ec/nasdaq-falls-0.5%25-after-chip.html?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 15:44:54 +0000"
    }
   ],
   "SOXL": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    },
    {
-    "title": "CoreWeave for $105: A Reasonable Bull Case On Offer",
-    "link": "https://247wallst.com/investing/2026/08/17/coreweave-for-105-a-reasonable-bull-case-on-offer/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 14:00:15 +0000"
+    "title": "Situational Awareness\u2019 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
+    "link": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 21:48:19 +0000"
    },
    {
-    "title": "The Top 5% of Americans Are Outspending Their Own Paychecks. That's the Risk to Watch.",
-    "link": "https://finance.yahoo.com/economy/articles/top-5-americans-outspending-own-130232816.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 13:02:32 +0000"
+    "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage \u2014 TSLA, PSKY, MSTR, BABA, NVDA In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 21:46:04 +0000"
    }
   ]
  },

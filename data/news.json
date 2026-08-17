@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T08:58:34Z",
+ "updated": "2026-08-17T09:55:23Z",
  "news": {
   "NVDA": [
    {
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Billionaire Stanley Druckenmiller Dumped Micron and Intel, and More Than 11X'd Duquesne Family Office's Stake in an AI Pioneer",
+    "link": "https://www.fool.com/investing/2026/08/17/billionaire-stanley-druckenmiller-mu-intc-buy-amzn/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 09:26:00 +0000"
+   },
+   {
     "title": "Higgsfield Hits $5.4 Billion Valuation: Is AI Video Back?",
     "link": "https://beincrypto.com/higgsfield-ai-video-valuation-funding/?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 06:15:08 +0000"
@@ -79,14 +84,14 @@
     "title": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
     "link": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 05:46:52 +0000"
-   },
-   {
-    "title": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
-    "link": "https://stocktwits.com/news-articles/markets/equity/ai-money-moves-put-these-five-stocks-in-spotlight-last-week-nvda-intc-orcl-amd-sndk/cZo6V2KRJKf?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 01:48:19 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Billionaire Stanley Druckenmiller Dumped Micron and Intel, and More Than 11X'd Duquesne Family Office's Stake in an AI Pioneer",
+    "link": "https://www.fool.com/investing/2026/08/17/billionaire-stanley-druckenmiller-mu-intc-buy-amzn/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 09:26:00 +0000"
+   },
    {
     "title": "Micron Stock Inches Closer to $1,000 Per Share, but Time Is Running Out for a Stock Split in 2026",
     "link": "https://www.fool.com/investing/2026/08/17/micron-stock-inches-closer-to-1000-per-share-but-t/?.tsrc=rss",
@@ -96,28 +101,23 @@
     "title": "SNDK, MU Rise Overnight: Analyst Target Hikes, KOSPI Rebound Power Surge",
     "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-rise-overnight-analyst-target-hikes-kospi-rebound-power-surge/cZo6v4ORJKA?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 07:28:41 +0000"
-   },
-   {
-    "title": "Micron Nears $1,000 \u2013 And Apple Could Be The Next Catalyst",
-    "link": "https://stocktwits.com/news-articles/markets/equity/micron-nears-1-000-and-apple-could-be-the-next-catalyst/cZo6Ff1RJKh?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 02:34:38 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "SNDK, MU Rise Overnight: Analyst Target Hikes, KOSPI Rebound Power Surge",
+    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-rise-overnight-analyst-target-hikes-kospi-rebound-power-surge/cZo6v4ORJKA?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 07:28:41 +0000"
+   },
+   {
+    "title": "What Does Western Digital (WDC) Signal With A $93.9 Billion Spin Off Backlog?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/does-western-digital-wdc-signal-050802694.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 05:08:02 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
     "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 03:06:02 +0000"
-   },
-   {
-    "title": "SanDisk Stock Locks In $94B Backlog, Targets 80% Margins by 2030",
-    "link": "https://beincrypto.com/sandisk-stock-backlog-80-percent-margins-2030/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 02:55:00 +0000"
-   },
-   {
-    "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
-    "link": "https://www.fool.com/investing/2026/08/16/these-2-potential-stock-splits-look-like-screaming/?.tsrc=rss",
-    "pubDate": "Sun, 16 Aug 2026 06:50:00 +0000"
    }
   ],
   "WDC": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
-    "title": "This ETF Is the Most Important in the Market. You Probably Haven\u2019t Heard of It.",
-    "link": "https://www.barchart.com/story/news/3875975/this-etf-is-the-most-important-in-the-market-you-probably-havent-heard-of-it?.tsrc=rss",
-    "pubDate": "Sun, 16 Aug 2026 14:00:02 +0000"
+    "title": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?",
+    "link": "https://www.fool.com/coverage/etfs/2026/08/15/which-is-the-better-etf-state-street-s-broad-market-exposure-through-spy-or-invesco-s-tech-focused-qqq/?.tsrc=rss",
+    "pubDate": "Sat, 15 Aug 2026 17:41:47 +0000"
    },
    {
-    "title": "If You Invest $100 a Month in VGT Starting Today, Here's What History Says You Could Have in 20 Years",
-    "link": "https://www.fool.com/investing/2026/08/16/if-invest-100-month-vgt-etf-today-20-years/?.tsrc=rss",
-    "pubDate": "Sun, 16 Aug 2026 11:50:00 +0000"
+    "title": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
+    "link": "https://247wallst.com/investing/2026/08/15/schg-vs-qqq-vs-vug-we-compared-the-three-biggest-growth-etfs-and-one-is-the-clear-winner-for-the-next-decade/?.tsrc=rss",
+    "pubDate": "Sat, 15 Aug 2026 12:17:11 +0000"
    },
    {
-    "title": "JEPQ vs. SPYI: Nearly Identical Yields, and One ETF Charges You Twice the Fee",
-    "link": "https://247wallst.com/investing/etf/2026/08/15/jepq-vs-spyi-nearly-identical-yields-and-one-etf-charges-you-twice-the-fee/?.tsrc=rss",
-    "pubDate": "Sat, 15 Aug 2026 22:45:07 +0000"
+    "title": "QDTE\u2019s Yield Keeps Shrinking as Volatility Slides Below 15",
+    "link": "https://247wallst.com/investing/etf/2026/08/14/qdtes-yield-keeps-shrinking-as-volatility-slides-below-15/?.tsrc=rss",
+    "pubDate": "Fri, 14 Aug 2026 20:31:10 +0000"
    }
   ],
   "SPY": [

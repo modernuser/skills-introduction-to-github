@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-18T00:01:22Z",
+ "updated": "2026-08-18T01:49:58Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia Backs 8-GW Ohio AI Campus for OpenAI With $1.5 Billion Investment",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-8-gw-ohio-013000089.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 01:30:00 +0000"
+   },
    {
     "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
     "link": "https://www.fool.com/investing/2026/08/17/nvidia-lines-up-105-billion-for-openai-heres-what-it-means-for-investors/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock\u2019s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI",
     "link": "https://finance.yahoo.com/technology/ai/articles/blackrock-blk-nvidia-corporation-nvda-213145577.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 21:31:45 +0000"
-   },
-   {
-    "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia",
-    "link": "https://finance.yahoo.com/technology/ai/articles/openai-lease-massive-ai-data-205913179.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 20:59:13 +0000"
    }
   ],
   "AMD": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+    "link": "https://finance.yahoo.com/m/161621c8-7f5e-35ac-89ec-13480079526c/dow-jones-futures%3A-trump.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 00:20:43 +0000"
+   },
+   {
     "title": "Situational Awareness\u2019 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
     "link": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 21:48:19 +0000"
@@ -113,11 +118,6 @@
     "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/08/17/stock-market-today-aug-17-markets-inch-lower-and-treasury-yields-rise-as-investors-wait-for-retail-earnings/?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 21:30:24 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-    "link": "https://finance.yahoo.com/m/161621c8-7f5e-35ac-89ec-13480079526c/dow-jones-futures%3A-trump.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 21:02:17 +0000"
    }
   ],
   "WDC": [

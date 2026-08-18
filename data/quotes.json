@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T23:41:10Z",
+ "updated": "2026-08-18T00:01:18Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -729,8 +729,8 @@
    "date": "2026-08-17",
    "close": 110.82,
    "d1": -1.89,
-   "w1": -0.9,
-   "m1": 0.15,
+   "w1": -0.39,
+   "m1": -1.62,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -817,8 +817,8 @@
    "date": "2026-08-17",
    "close": 44.83,
    "d1": -0.97,
-   "w1": 0.97,
-   "m1": -1.3,
+   "w1": -0.33,
+   "m1": -1.39,
    "significant": false,
    "source": "yahoo-fallback"
   },

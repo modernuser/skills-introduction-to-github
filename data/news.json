@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T16:03:59Z",
+ "updated": "2026-08-18T16:45:48Z",
  "news": {
   "NVDA": [
    {
@@ -105,14 +105,14 @@
   ],
   "SNDK": [
    {
+    "title": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell Off; Micron, Sandisk And A Fintech Fall (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 16:02:47 +0000"
+   },
+   {
     "title": "Why Did Sandisk Stock Drop Today?",
     "link": "https://www.fool.com/investing/2026/08/18/why-sandisk-stock-dropped-today/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 15:25:47 +0000"
-   },
-   {
-    "title": "Stock Market Today: Nasdaq Falls As Treasury Yields Rise; Micron, Sandisk And Fabrinet All Slide (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 14:21:08 +0000"
    },
    {
     "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
@@ -149,9 +149,9 @@
     "pubDate": "Mon, 17 Aug 2026 20:15:35 +0000"
    },
    {
-    "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
-    "link": "https://247wallst.com/investing/2026/08/18/micron-technology-falls-5-sandisk-sinks-6-western-digital-drops-7-as-higher-rates-test-the-memory-boom/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:40:15 +0000"
+    "title": "3 Reasons Why Growth Investors Shouldn't Overlook Seagate (STX)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164502021.html?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 16:45:02 +0000"
    }
   ],
   "SOXX": [
@@ -217,9 +217,9 @@
     "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    },
    {
-    "title": "New Reports Show Cooling Economy, Bond Yields Climb",
-    "link": "https://finance.yahoo.com/economy/articles/reports-show-cooling-economy-bond-143700395.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 14:37:00 +0000"
+    "title": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell Off; Micron, Sandisk And A Fintech Fall (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 16:02:47 +0000"
    }
   ]
  },

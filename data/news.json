@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-18T19:59:55Z",
+ "updated": "2026-08-18T20:35:36Z",
  "news": {
   "NVDA": [
    {
-    "title": "Bank of America Thinks Nvidia Stock Could Go 50% Higher",
-    "link": "https://beincrypto.com/nvidia-stock-bofa-350-target/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 19:29:15 +0000"
+    "title": "Nvidia Stock Drops as Bond Yields Attack AI Valuations",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-drops-bond-yields-202537086.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:25:37 +0000"
    },
    {
-    "title": "Market Chatter: Nvidia Talent Being Recruited by AI Chip Startup Etched",
-    "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-talent-being-190056632.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 19:00:56 +0000"
+    "title": "Where Will the Vanguard S&P 500 ETF Be in 20 Years? History Has Good and Bad News for Investors.",
+    "link": "https://www.fool.com/investing/2026/08/18/where-will-the-vanguard-sp-500-etf-be-in-20-years/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:25:00 +0000"
    },
    {
-    "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 19:35:26 +0000"
+    "title": "Why The Direxion Daily Semiconductor Bull 3X ETF Plunged Nearly 20% Today",
+    "link": "https://www.fool.com/investing/2026/08/18/why-the-direxion-daily-semiconductor-bull-3x-etf-p/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:07:59 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-gets-fair-201000939.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:10:00 +0000"
+   },
    {
     "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Cerebras, Intel, and AMD Shares Fall Ahead of Tonight\u2019s \u2018Supernova\u2019 Event",
     "link": "https://247wallst.com/investing/2026/08/18/cerebras-intel-and-amd-shares-fall-ahead-of-tonights-supernova-event/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 17:56:07 +0000"
-   },
-   {
-    "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61279181/nvidia-amd-tech-stocks-bond-yields?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 15:42:44 +0000"
    }
   ],
   "AVGO": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron Stock Crashes 7% as AI Memory Trade Suddenly Reverses",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-crashes-7-ai-201821626.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:18:21 +0000"
+   },
+   {
     "title": "Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage)",
     "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 19:25:46 +0000"
@@ -96,11 +101,6 @@
     "title": "Why Micron Stock and Its Memory Peers Are Falling",
     "link": "https://finance.yahoo.com/m/f866eb13-2624-3cd0-9539-95404ae80fbb/why-micron-stock-and-its.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 18:20:00 +0000"
-   },
-   {
-    "title": "Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/50aebea7-647e-3adc-9ba2-a10e96115411/micron%2C-coherent%2C-spacex%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:19:00 +0000"
    }
   ],
   "SNDK": [
@@ -212,14 +212,14 @@
     "pubDate": "Tue, 18 Aug 2026 15:12:25 +0000"
    },
    {
+    "title": "Why Does the JEPI ETF Pay Less Than It Did in January When Its Sister Fund Pays More?",
+    "link": "https://247wallst.com/investing/etf/2026/08/18/why-does-the-jepi-etf-pay-less-than-it-did-in-january-when-its-sister-fund-pays-more/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:00:19 +0000"
+   },
+   {
     "title": "Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage)",
     "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 19:25:46 +0000"
-   },
-   {
-    "title": "Most of the SPYI ETF\u2019s 12% Payout Is Your Own Money Coming Back. The IRS Waits Until You Sell.",
-    "link": "https://247wallst.com/investing/etf/2026/08/18/most-of-the-spyi-etfs-12-payout-is-your-own-money-coming-back-the-irs-waits-until-you-sell/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:55:53 +0000"
    }
   ]
  },

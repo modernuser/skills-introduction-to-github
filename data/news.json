@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-18T13:05:59Z",
+ "updated": "2026-08-18T13:55:34Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-tech.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:54:05 +0000"
+    "title": "Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:39:03 +0000"
    },
    {
-    "title": "September Is Historically the Worst Month for Stocks and These 3 ETFs Pay Up to 9 Percent While You Wait It Out",
-    "link": "https://247wallst.com/investing/2026/08/18/september-is-historically-the-worst-month-for-stocks-and-these-3-etfs-pay-up-to-9-percent-while-you-wait-it-out/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:49:50 +0000"
+    "title": "New Investors: 3 Rock-Solid Dividend Stocks to Build Your Portfolio Around",
+    "link": "https://www.fool.com/investing/2026/08/18/new-investors-3-rock-solid-dividend-stocks-to-build-your-portfolio-around/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:24:49 +0000"
    },
    {
-    "title": "Billionaire David Tepper Is Short Apple And Even Bet Against Buffett\u2019s Berkshire Hathaway. What Does He See?",
-    "link": "https://247wallst.com/investing/2026/08/18/billionaire-david-tepper-is-short-apple-and-even-bet-against-buffetts-berkshire-hathaway-what-does-he-see/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:48:23 +0000"
+    "title": "Global bond sell-off pressures stocks: AlphaCheck",
+    "link": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:50:11 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets",
+    "link": "https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:34:44 +0000"
+   },
    {
     "title": "Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs",
     "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-adds-nvidia-stake-sells-amd-stock-across-four-etfs/cZYcEriRJSs?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 04:33:13 +0000"
-   },
-   {
-    "title": "Microsoft Just Announced Great News for AMD Investors",
-    "link": "https://www.fool.com/investing/2026/08/18/microsoft-just-announced-great-news-for-amd-invest/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 04:20:00 +0000"
    }
   ],
   "AVGO": [
@@ -59,9 +59,9 @@
     "pubDate": "Mon, 17 Aug 2026 14:20:28 +0000"
    },
    {
-    "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-    "link": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/?.tsrc=rss",
-    "pubDate": "Sun, 16 Aug 2026 22:13:14 +0000"
+    "title": "David Tepper\u2019s 3 Biggest Bets in The Second Quarter: Buy, Sell or Hold?",
+    "link": "https://247wallst.com/investing/2026/08/18/david-teppers-3-biggest-bets-in-the-second-quarter-buy-sell-or-hold/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:00:03 +0000"
    },
    {
     "title": "Billionaire David Tepper\u2019s Top 5 Holdings Just Revealed",
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets",
+    "link": "https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:34:44 +0000"
+   },
+   {
     "title": "SoftBank Group put 67% of U.S. portfolio into Intel stock",
     "link": "https://qz.com/softbank-intel-13f-sec-filing-081826?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 12:15:39 +0000"
@@ -79,31 +84,31 @@
     "title": "Intel (INTC) Is Up 6.1% After $20 Billion Equity Raise To Fund AI Build-Out - What's Changed",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-6-1-20-020946989.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 02:09:46 +0000"
-   },
-   {
-    "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
-    "link": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 22:56:01 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-tech.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:54:05 +0000"
+    "title": "The Billionaire Famous for Betting Big on Micron Just Bought Airline Stocks",
+    "link": "https://247wallst.com/investing/2026/08/18/the-billionaire-famous-for-betting-big-on-micron-just-bought-airline-stocks/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:05:35 +0000"
+   },
+   {
+    "title": "Bank of America raises Micron price target to $1,550",
+    "link": "https://qz.com/bank-of-america-micron-price-target-sandisk-investor-day-081826?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:59:51 +0000"
    },
    {
     "title": "Billionaire David Tepper\u2019s Top 5 Holdings Just Revealed",
     "link": "https://247wallst.com/investing/2026/08/18/billionaire-david-teppers-top-5-holdings-just-revealed/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 12:36:10 +0000"
-   },
-   {
-    "title": "Micron Vs. SK Hynix: The Newcomer is a Legitimate Threat",
-    "link": "https://247wallst.com/investing/2026/08/18/micron-vs-sk-hynix-the-newcomer-is-a-legitimate-threat/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:19:17 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Cramer\u2019s Career-Long Trading Rule Just Got Shattered by SanDisk\u2019s Parabolic Run",
+    "link": "https://247wallst.com/investing/2026/08/18/cramers-career-long-trading-rule-just-got-shattered-by-sandisks-parabolic-run/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:25:05 +0000"
+   },
    {
     "title": "The $93 Billion Reason Sandisk Is a Must-Own AI Stock",
     "link": "https://247wallst.com/investing/2026/08/18/the-93-billion-reason-sandisk-is-a-must-own-ai-stock/?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Situational Awareness 13F: Micron and Sandisk dominated fund before July collapse",
     "link": "https://qz.com/situational-awareness-13f-micron-sandisk-july-collapse-081826?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 11:36:00 +0000"
-   },
-   {
-    "title": "Meet the Vanguard ETF That's Crushing the S&P 500 and Nasdaq-100 Despite Not Owning Micron, Sandisk, or Any of the \"Magnificent Seven\" Stocks",
-    "link": "https://www.fool.com/investing/2026/08/18/meet-the-vanguard-etf-thats-crushing-the-sp-500-an/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 11:10:00 +0000"
    }
   ],
   "WDC": [
@@ -156,19 +156,19 @@
   ],
   "SOXX": [
    {
+    "title": "Marvell Technology Drops 6% as Rising Treasury Yields Swamp a Bullish UBS AI Note",
+    "link": "https://247wallst.com/investing/2026/08/18/marvell-technology-drops-6-as-rising-treasury-yields-swamp-a-bullish-ubs-ai-note/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:46:02 +0000"
+   },
+   {
+    "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets",
+    "link": "https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:34:44 +0000"
+   },
+   {
     "title": "The AI Trade Had 1 Sure Bet. Now Even That\u2019s Gone.",
     "link": "https://finance.yahoo.com/m/af310123-cf20-327c-8966-834550176dc3/the-ai-trade-had-1-sure-bet..html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 06:00:00 +0000"
-   },
-   {
-    "title": "Super Micro Computer Pulls Back 4%, Dell Falls 3% as DDR5 Patent Fight Hits AI Server Makers",
-    "link": "https://247wallst.com/investing/2026/08/17/super-micro-computer-pulls-back-4-dell-falls-3-as-ddr5-patent-fight-hits-ai-server-makers/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 15:37:21 +0000"
-   },
-   {
-    "title": "The Stock Market Is Struggling More Than It Looks",
-    "link": "https://finance.yahoo.com/m/008dd208-036b-3aa1-8fae-5abd46e9b79a/the-stock-market-is.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 15:29:21 +0000"
    }
   ],
   "SOXL": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    },
    {
-    "title": "Bitcoin Holds Near $64K, While Crypto Stocks Slide \u2013 Glassnode Says BTC Is Losing Ground To The S&P 500",
-    "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-holds-64k-while-crypto-stocks-slide-btc-losing-ground-to-the-s-and-p-500/cZYces3RJSy?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 11:30:05 +0000"
+    "title": "Berkshire\u2019s Biggest Second-Quarter Move Was This Stock. Should You Buy, Sell or Hold?",
+    "link": "https://247wallst.com/investing/2026/08/18/berkshires-biggest-second-quarter-move-was-this-stock-should-you-buy-sell-or-hold/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:30:02 +0000"
    },
    {
-    "title": "Situational Awareness\u2019 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
-    "link": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 21:48:19 +0000"
+    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Tuesday Amid Rising Oil Prices",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-130233447.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:02:33 +0000"
    }
   ]
  },

@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-18T18:52:45Z",
+ "updated": "2026-08-18T19:35:24Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Market Chatter: Nvidia Talent Being Recruited by AI Chip Startup Etched",
+    "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-talent-being-190056632.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 19:00:56 +0000"
+   },
    {
     "title": "Why CoreWeave Stock Is Down 11.8%",
     "link": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 18:35:02 +0000"
    },
    {
-    "title": "1 Quantum Stock Near 52-Week Lows With Nvidia Partnership Backing Is Poised to Rebound",
-    "link": "https://www.fool.com/investing/2026/08/18/1-quantum-stock-near-52-week-lows-with-nvidia-part/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:17:00 +0000"
-   },
-   {
-    "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:06:35 +0000"
+    "title": "1 Rock-Solid Dividend ETF That Can Generate Passive Income for Decades",
+    "link": "https://www.fool.com/investing/2026/08/18/1-unstoppable-dividend-etf-that-can-generate-passi/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 19:02:35 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom Stock Tumbles as $10.8 Billion AI Boom Meets Reality",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-tumbles-10-8-185409371.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:54:09 +0000"
+   },
+   {
     "title": "Broadcom's Stock Has Beaten the Market in 12 of the Past 13 Years, and It Could Do It Again in 2026",
     "link": "https://www.fool.com/investing/2026/08/18/broadcom-s-stock-has-beaten-the-market-in-12-of-the-past-13-years-and-it-could-do-it-again-in-2026/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 17:35:23 +0000"
@@ -45,11 +50,6 @@
     "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
     "link": "https://finance.yahoo.com/technology/ai/articles/alab-vs-avgo-ai-infrastructure-173000601.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 17:30:00 +0000"
-   },
-   {
-    "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61279181/nvidia-amd-tech-stocks-bond-yields?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 15:42:44 +0000"
    }
   ],
   "TSM": [
@@ -88,26 +88,26 @@
   ],
   "MU": [
    {
-    "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
+    "title": "Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage)",
     "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:35:06 +0000"
+    "pubDate": "Tue, 18 Aug 2026 19:25:46 +0000"
    },
    {
-    "title": "SanDisk sends strong signal to Micron investors, BofA says",
-    "link": "https://www.thestreet.com/investing/stocks/micron-stock-sandisk-bofa?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:33:00 +0000"
+    "title": "Why Micron Stock and Its Memory Peers Are Falling",
+    "link": "https://finance.yahoo.com/m/f866eb13-2624-3cd0-9539-95404ae80fbb/why-micron-stock-and-its.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:20:00 +0000"
    },
    {
-    "title": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.",
-    "link": "https://www.fool.com/investing/2026/08/18/nvidia-vs-micron-one-sells-ai-chips-one-sells-the/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:21:00 +0000"
+    "title": "Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/50aebea7-647e-3adc-9ba2-a10e96115411/micron%2C-coherent%2C-spacex%2C.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:19:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
+    "title": "Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage)",
     "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:35:06 +0000"
+    "pubDate": "Tue, 18 Aug 2026 19:25:46 +0000"
    },
    {
     "title": "WSJ Report Sends Memory Stocks Down. SanDisk Down 9%, Micron Down 7%, Western Digital Down 5%",
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
-    "title": "Exchange-Traded Funds Fall, US Equities Mixed After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-fall-us-171229685.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:12:29 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday Amid Lower Rate Hike Expectations",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131346618.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
+    "title": "United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries",
+    "link": "https://247wallst.com/investing/2026/08/18/united-microelectronics-falls-7-tower-semiconductor-sinks-10-globalfoundries-drops-7-as-ai-spending-fears-hit-foundries/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:39:58 +0000"
    },
    {
     "title": "Exchange-Traded Funds Lower as US Equities Decline After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-171526743.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 17:15:26 +0000"
+   },
+   {
+    "title": "QQQI\u2019s 14% Yield Erases a $500,000 Cost Basis in Seven Years, Then the Tax Bill Lands",
+    "link": "https://247wallst.com/investing/etf/2026/08/17/qqqis-14-yield-erases-a-500000-cost-basis-in-seven-years-then-the-tax-bill-lands/?.tsrc=rss",
+    "pubDate": "Mon, 17 Aug 2026 22:05:17 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Tue, 18 Aug 2026 15:12:25 +0000"
    },
    {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday Amid Lower Rate Hike Expectations",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131346618.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
+    "title": "Most of the SPYI ETF\u2019s 12% Payout Is Your Own Money Coming Back. The IRS Waits Until You Sell.",
+    "link": "https://247wallst.com/investing/etf/2026/08/18/most-of-the-spyi-etfs-12-payout-is-your-own-money-coming-back-the-irs-waits-until-you-sell/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:55:53 +0000"
    },
    {
-    "title": "Forget the 4 Percent Rule: These 3 ETFs Pay Up to 12 Percent So You Never Have to Sell a Share",
-    "link": "https://247wallst.com/investing/2026/08/18/forget-the-4-percent-rule-these-3-etfs-pay-up-to-12-percent-so-you-never-have-to-sell-a-share/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:17:08 +0000"
+    "title": "The Top 5% of Americans Are Outspending Their Own Paychecks. That's the Risk to Watch.",
+    "link": "https://finance.yahoo.com/economy/articles/top-5-americans-outspending-own-180048553.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 18:00:48 +0000"
    }
   ]
  },

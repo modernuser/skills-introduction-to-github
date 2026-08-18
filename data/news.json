@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-18T13:55:34Z",
+ "updated": "2026-08-18T14:47:18Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:39:03 +0000"
+    "title": "Nvidia's attack plan: Dominate every single aspect of AI",
+    "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:39:05 +0000"
    },
    {
-    "title": "New Investors: 3 Rock-Solid Dividend Stocks to Build Your Portfolio Around",
-    "link": "https://www.fool.com/investing/2026/08/18/new-investors-3-rock-solid-dividend-stocks-to-build-your-portfolio-around/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:24:49 +0000"
+    "title": "Nvidia Backs OpenAI's Ohio AI Hub With $100 Billion",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-openais-ohio-ai-144319382.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:43:19 +0000"
    },
    {
-    "title": "Global bond sell-off pressures stocks: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:50:11 +0000"
+    "title": "Inside NVIDIA\u2019s Portfolio: A $30 Billion Intel Bet and Other Surprising Holdings",
+    "link": "https://247wallst.com/investing/2026/08/18/inside-nvidias-portfolio-a-30-billion-intel-bet-and-other-surprising-holdings/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:28:44 +0000"
    }
   ],
   "AMD": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel Owns Just 2 Stocks Worth $620 Million: Here\u2019s What That Concentrated Bet Reveals",
+    "link": "https://247wallst.com/investing/2026/08/18/intel-owns-just-2-stocks-worth-620-million-heres-what-that-concentrated-bet-reveals/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:00:02 +0000"
+   },
+   {
     "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets",
     "link": "https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 13:34:44 +0000"
@@ -79,79 +84,74 @@
     "title": "SoftBank Group put 67% of U.S. portfolio into Intel stock",
     "link": "https://qz.com/softbank-intel-13f-sec-filing-081826?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 12:15:39 +0000"
-   },
-   {
-    "title": "Intel (INTC) Is Up 6.1% After $20 Billion Equity Raise To Fund AI Build-Out - What's Changed",
-    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-6-1-20-020946989.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 02:09:46 +0000"
    }
   ],
   "MU": [
    {
-    "title": "The Billionaire Famous for Betting Big on Micron Just Bought Airline Stocks",
-    "link": "https://247wallst.com/investing/2026/08/18/the-billionaire-famous-for-betting-big-on-micron-just-bought-airline-stocks/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:05:35 +0000"
-   },
-   {
-    "title": "Bank of America raises Micron price target to $1,550",
-    "link": "https://qz.com/bank-of-america-micron-price-target-sandisk-investor-day-081826?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:59:51 +0000"
+    "title": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
+    "link": "https://www.fool.com/investing/2026/08/18/will-micron-stock-jump-another-200-by-2027-history-has-a-clear-answer/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:20:01 +0000"
    },
    {
     "title": "Billionaire David Tepper\u2019s Top 5 Holdings Just Revealed",
-    "link": "https://247wallst.com/investing/2026/08/18/billionaire-david-teppers-top-5-holdings-just-revealed/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:36:10 +0000"
+    "link": "https://247wallst.com/investing/2026/08/18/billionaire-david-teppers-top-5-holdings-just-revealed-2/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:58:22 +0000"
+   },
+   {
+    "title": "Memory\u2019s Cyclicality is No More, So I Keep Loading Up on Micron",
+    "link": "https://247wallst.com/investing/2026/08/18/memorys-cyclicality-is-no-more-so-i-keep-loading-up-on-micron/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:53:15 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Stock Market Today: Nasdaq Falls As Treasury Yields Rise; Micron, Sandisk And Fabrinet All Slide (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 14:21:08 +0000"
+   },
+   {
+    "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+    "link": "https://247wallst.com/investing/2026/08/18/micron-technology-falls-5-sandisk-sinks-6-western-digital-drops-7-as-higher-rates-test-the-memory-boom/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:40:15 +0000"
+   },
+   {
     "title": "Cramer\u2019s Career-Long Trading Rule Just Got Shattered by SanDisk\u2019s Parabolic Run",
     "link": "https://247wallst.com/investing/2026/08/18/cramers-career-long-trading-rule-just-got-shattered-by-sandisks-parabolic-run/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 13:25:05 +0000"
-   },
-   {
-    "title": "The $93 Billion Reason Sandisk Is a Must-Own AI Stock",
-    "link": "https://247wallst.com/investing/2026/08/18/the-93-billion-reason-sandisk-is-a-must-own-ai-stock/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 12:14:08 +0000"
-   },
-   {
-    "title": "Situational Awareness 13F: Micron and Sandisk dominated fund before July collapse",
-    "link": "https://qz.com/situational-awareness-13f-micron-sandisk-july-collapse-081826?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 11:36:00 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "Western Digital Stock Jumps Over 6% as Memory Rally Accelerates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-jumps-over-174310099.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 17:43:10 +0000"
-   },
-   {
-    "title": "Can Western Digital (WDC) Run Higher on Rising Earnings Estimates?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-run-higher-162003791.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:20:03 +0000"
+    "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+    "link": "https://247wallst.com/investing/2026/08/18/micron-technology-falls-5-sandisk-sinks-6-western-digital-drops-7-as-higher-rates-test-the-memory-boom/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:40:15 +0000"
    },
    {
     "title": "Jim Cramer names 4 memory stocks to buy amid AI boom",
     "link": "https://qz.com/jim-cramer-memory-stocks-ai-boom-micron-sandisk-081826?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 11:22:44 +0000"
+   },
+   {
+    "title": "Memory\u2019s Cyclicality is No More, So I Keep Loading Up on Micron",
+    "link": "https://247wallst.com/investing/2026/08/18/memorys-cyclicality-is-no-more-so-i-keep-loading-up-on-micron/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:53:15 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Seagate's Growth Engine Gains Momentum Across 3 Fronts",
+    "link": "https://finance.yahoo.com/technology/articles/seagates-growth-engine-gains-momentum-132100292.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:21:00 +0000"
+   },
    {
     "title": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stock-gains-ai-storage-201535856.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 20:15:35 +0000"
    },
    {
-    "title": "3 Reasons Why Growth Investors Shouldn't Overlook Seagate (STX)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164502021.html?.tsrc=rss",
-    "pubDate": "Mon, 17 Aug 2026 16:45:02 +0000"
-   },
-   {
-    "title": "Jim Cramer names 4 memory stocks to buy amid AI boom",
-    "link": "https://qz.com/jim-cramer-memory-stocks-ai-boom-micron-sandisk-081826?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 11:22:44 +0000"
+    "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+    "link": "https://247wallst.com/investing/2026/08/18/micron-technology-falls-5-sandisk-sinks-6-western-digital-drops-7-as-higher-rates-test-the-memory-boom/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:40:15 +0000"
    }
   ],
   "SOXX": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 17 Aug 2026 13:13:46 +0000"
    },
    {
+    "title": "Top Analyst Sees the S&P 500 at 10,000. He Says He Can\u2019t Find a Reason It Won\u2019t Happen",
+    "link": "https://247wallst.com/investing/2026/08/18/top-analyst-sees-the-sp-500-at-10000-he-says-he-cant-find-a-reason-it-wont-happen/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:50:19 +0000"
+   },
+   {
     "title": "Berkshire\u2019s Biggest Second-Quarter Move Was This Stock. Should You Buy, Sell or Hold?",
     "link": "https://247wallst.com/investing/2026/08/18/berkshires-biggest-second-quarter-move-was-this-stock-should-you-buy-sell-or-hold/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 13:30:02 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Tuesday Amid Rising Oil Prices",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-130233447.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 13:02:33 +0000"
    }
   ]
  },

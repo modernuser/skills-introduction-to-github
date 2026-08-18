@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-18T23:08:43Z",
+ "updated": "2026-08-18T23:40:36Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+    "link": "https://www.fool.com/investing/2026/08/18/broadcom-vs-nvidia-1-metric-shows-which-artificial/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 23:15:00 +0000"
+   },
    {
     "title": "Here's Why Nvidia (NVDA) Fell More Than Broader Market",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-nvidia-nvda-fell-214503878.html?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
     "link": "https://finance.yahoo.com/m/47aad014-8127-390d-b5bf-5fe35d3c29d4/micron%2C-other-chip-stocks.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 21:11:07 +0000"
-   },
-   {
-    "title": "China\u2019s Favorite Budget Meal? Burgers",
-    "link": "https://app.moby.co/home/news/news-chinas-favorite-balanced-budget-meals-are-burgers?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 21:04:31 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+    "link": "https://www.fool.com/investing/2026/08/18/broadcom-vs-nvidia-1-metric-shows-which-artificial/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 23:15:00 +0000"
+   },
+   {
     "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
     "link": "https://www.fool.com/investing/2026/08/18/broadcom-artificial-intelligence-ai-revenues-forec/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 22:41:00 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom (AVGO) Faces Rising Hedge Fund Caution",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-faces-rising-hedge-221059949.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 22:10:59 +0000"
-   },
-   {
-    "title": "Broadcom Stock Tumbles as $10.8 Billion AI Boom Meets Reality",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-tumbles-10-8-185409371.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:54:09 +0000"
    }
   ],
   "TSM": [
@@ -90,7 +90,7 @@
    {
     "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
     "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 22:48:06 +0000"
+    "pubDate": "Tue, 18 Aug 2026 23:32:31 +0000"
    },
    {
     "title": "Micron (MU) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -107,7 +107,7 @@
    {
     "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
     "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 22:48:06 +0000"
+    "pubDate": "Tue, 18 Aug 2026 23:32:31 +0000"
    },
    {
     "title": "Stock Market Today: Nasdaq Slides Along With Chip Names; Sandisk, Micron Lose Big",
@@ -195,14 +195,14 @@
     "pubDate": "Tue, 18 Aug 2026 18:39:58 +0000"
    },
    {
-    "title": "Exchange-Traded Funds Lower as US Equities Decline After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-171526743.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:15:26 +0000"
-   },
-   {
     "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
     "link": "https://247wallst.com/investing/etf/2026/08/18/voos-0-03-fee-hides-the-real-cost-38-of-your-sp-500-money-is-now-in-one-sector/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 22:25:18 +0000"
+   },
+   {
+    "title": "QYLD Holders Left $56,700 Per $10,000 on the Table Chasing Twelve Years of Monthly Income",
+    "link": "https://247wallst.com/investing/etf/2026/08/18/qyld-holders-left-56700-per-10000-on-the-table-chasing-twelve-years-of-monthly-income/?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 21:45:59 +0000"
    }
   ],
   "SPY": [
@@ -217,9 +217,9 @@
     "pubDate": "Tue, 18 Aug 2026 22:25:07 +0000"
    },
    {
-    "title": "Why Does the JEPI ETF Pay Less Than It Did in January When Its Sister Fund Pays More?",
-    "link": "https://247wallst.com/investing/etf/2026/08/18/why-does-the-jepi-etf-pay-less-than-it-did-in-january-when-its-sister-fund-pays-more/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 20:00:19 +0000"
+    "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh \u2014 BABA, AAPL, GRRR, KLAR, CRWD In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/us-stocks-end-third-session-lower-as-higher-treasury-yields-oil-prices-weigh/cZYcnUERJjD?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 21:35:08 +0000"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T19:34:43Z",
+ "updated": "2026-08-19T20:01:10Z",
  "news": {
   "NVDA": [
    {
@@ -13,9 +13,9 @@
     "pubDate": "Wed, 19 Aug 2026 19:25:00 +0000"
    },
    {
-    "title": "Why Is NVDA The Discount Option Among Its Peers?",
-    "link": "https://www.trefis.com/articles/611930/why-is-nvda-the-discount-option-among-its-peers/2026-08-19?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 19:11:17 +0000"
+    "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194639070.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 19:46:39 +0000"
    }
   ],
   "AMD": [
@@ -37,14 +37,14 @@
   ],
   "AVGO": [
    {
+    "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
+    "link": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 19:34:35 +0000"
+   },
+   {
     "title": "Broadcom Falls 2% as Google Adds Marvell to Its AI Chip Bench",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-2-google-adds-180130465.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 18:01:30 +0000"
-   },
-   {
-    "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
-    "link": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 17:56:20 +0000"
    },
    {
     "title": "Inside Google\u2019s $12 Billion Stake in Marvell\u2014and Why It\u2019s Bad News for Broadcom.",
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "SoundHound AI vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/08/19/soundhound-ai-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 19:51:17 +0000"
+   },
+   {
     "title": "One of Wall Street\u2019s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks",
     "link": "https://247wallst.com/investing/2026/08/19/one-of-wall-streets-best-known-hedge-funds-just-loaded-up-on-these-5-stocks/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 16:03:28 +0000"
@@ -62,11 +67,6 @@
     "title": "How Intel and TSMC Could Benefit From Samsung Hiking Chipmaking Prices",
     "link": "https://finance.yahoo.com/m/694e7e12-b22d-3a8b-829b-5206bfc76001/how-intel-and-tsmc-could.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 14:54:00 +0000"
-   },
-   {
-    "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
-    "link": "https://stocktwits.com/news-articles/markets/equity/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 11:02:34 +0000"
    }
   ],
   "INTC": [

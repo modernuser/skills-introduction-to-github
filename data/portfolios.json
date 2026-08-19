@@ -40,7 +40,7 @@
      "name": "Intel",
      "shares": 9.99001,
      "start_close": 91.0,
-     "last_close": 96.685
+     "last_close": 96.69
     },
     {
      "symbol": "MU",
@@ -85,7 +85,7 @@
      "last_close": 129.1
     }
    ],
-   "value": 10627.12,
+   "value": 10627.17,
    "return_pct": 6.27,
    "alpha_pp": 4.98
   },

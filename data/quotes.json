@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T01:51:55Z",
+ "updated": "2026-08-19T08:52:02Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -186,10 +186,10 @@
    "symbol": "INTC",
    "name": "Intel",
    "date": "2026-08-18",
-   "close": 96.685,
-   "d1": -6.58,
-   "w1": -1.05,
-   "m1": -0.39,
+   "close": 96.69,
+   "d1": -6.57,
+   "w1": -1.04,
+   "m1": -0.38,
    "significant": true,
    "source": "yahoo-fallback",
    "recent": [
@@ -222,7 +222,7 @@
     104.56,
     102.5,
     103.49,
-    96.685
+    96.69
    ],
    "hi52": 140.94,
    "lo52": 23.5
@@ -681,7 +681,7 @@
    "symbol": "LIN",
    "name": "Linde (Materials)",
    "date": "2026-08-18",
-   "close": 478.705,
+   "close": 478.71,
    "d1": 0.92,
    "w1": -2.41,
    "m1": -8.07,
@@ -695,7 +695,7 @@
    "close": 140.02,
    "d1": -0.43,
    "w1": 0.37,
-   "m1": -6.69,
+   "m1": -5.06,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -796,7 +796,7 @@
    "close": 183.57,
    "d1": -1.48,
    "w1": -1.15,
-   "m1": 1.95,
+   "m1": 3.06,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -818,7 +818,7 @@
    "close": 44.63,
    "d1": -0.45,
    "w1": 1.25,
-   "m1": -1.83,
+   "m1": -1.33,
    "significant": false,
    "source": "yahoo-fallback"
   },

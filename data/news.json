@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-19T10:44:15Z",
+ "updated": "2026-08-19T11:36:46Z",
  "news": {
   "NVDA": [
    {
-    "title": "Is Joby Aviation the Best Growth Stock in the Industrial Sector?",
-    "link": "https://www.fool.com/investing/2026/08/19/is-joby-the-best-growth-stock-in-the-industr/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 10:25:00 +0000"
+    "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
+    "link": "https://stocktwits.com/news-articles/markets/equity/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:02:34 +0000"
    },
    {
-    "title": "3 High-Yield Dividend Stocks I'd Buy With $5,000 Right Now",
-    "link": "https://www.fool.com/investing/2026/08/19/3-high-yield-dividend-stocks-i-d-buy-with-usd5-000-right-now/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 10:20:03 +0000"
+    "title": "Oklo Vs. X-Energy: Is the New Nuclear IPO the Better Buy?",
+    "link": "https://www.fool.com/investing/2026/08/19/oklo-vs-x-energy-is-the-new-nuclear-ipo-the-better/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:30:00 +0000"
    },
    {
-    "title": "Micron Is Trading at About 7 Times Next Year's Earnings Estimate Even After Crossing $1 Trillion in Market Cap. Here's Why That Multiple Looks Nothing Like Nvidia's.",
-    "link": "https://www.fool.com/investing/2026/08/19/micron-7-times-earnings-trillion-nvidia/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 10:07:00 +0000"
+    "title": "5 of JP Morgan\u2019s Top Stock Picks Pay Big Dividends and One Yields Over 12%",
+    "link": "https://247wallst.com/investing/2026/08/19/5-of-jpmorgans-top-stock-picks-pay-big-dividends-and-one-yields-over-12/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:20:55 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "3 AI Networking Stocks Quietly Dominating Their Niche in August",
+    "link": "https://247wallst.com/investing/2026/08/19/3-ai-networking-stocks-quietly-dominating-their-niche-in-august-3/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:03:17 +0000"
+   },
+   {
     "title": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
     "link": "https://www.fool.com/investing/2026/08/19/spacex-micron-and-sandisk-are-getting-all-the-hype/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 04:20:00 +0000"
@@ -45,14 +50,14 @@
     "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
     "link": "https://www.fool.com/investing/2026/08/18/broadcom-vs-nvidia-1-metric-shows-which-artificial/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 23:15:00 +0000"
-   },
-   {
-    "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-    "link": "https://www.fool.com/investing/2026/08/18/broadcom-artificial-intelligence-ai-revenues-forec/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 22:41:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
+    "link": "https://stocktwits.com/news-articles/markets/equity/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:02:34 +0000"
+   },
    {
     "title": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
     "link": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
     "link": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 08:29:56 +0000"
-   },
-   {
-    "title": "Michael Burry Flags New AI Chip Startup By Harvard Dropouts As \u2018Serious Competition\u2019 For Nvidia",
-    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-flags-new-ai-chip-startup-by-harvard-dropouts-as-serious-competition-for-nvidia/cZYdJbiRJk0?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 07:11:09 +0000"
    }
   ],
   "INTC": [
@@ -88,9 +88,9 @@
   ],
   "MU": [
    {
-    "title": "Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
-    "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall-after.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 10:33:28 +0000"
+    "title": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
+    "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-waver-after.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:16:12 +0000"
    },
    {
     "title": "Micron Is Trading at About 7 Times Next Year's Earnings Estimate Even After Crossing $1 Trillion in Market Cap. Here's Why That Multiple Looks Nothing Like Nvidia's.",
@@ -105,9 +105,9 @@
   ],
   "SNDK": [
    {
-    "title": "Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
-    "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall-after.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 10:33:28 +0000"
+    "title": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
+    "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-waver-after.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 11:16:12 +0000"
    },
    {
     "title": "David Tepper Sold His Entire Sandisk Stake the Quarter the Stock Peaked",

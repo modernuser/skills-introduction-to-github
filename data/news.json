@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-19T20:01:10Z",
+ "updated": "2026-08-19T20:39:35Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Why Is Circle Internet Group Stock Up Today?",
+    "link": "https://www.fool.com/investing/2026/08/19/why-is-circle-internet-group-stock-up-today/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 19:59:38 +0000"
+   },
    {
     "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
     "link": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
     "link": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 19:25:00 +0000"
-   },
-   {
-    "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194639070.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 19:46:39 +0000"
    }
   ],
   "AMD": [
@@ -25,21 +25,21 @@
     "pubDate": "Wed, 19 Aug 2026 14:14:46 +0000"
    },
    {
+    "title": "AMD Appoints Tim Ryan to Board of Directors",
+    "link": "https://finance.yahoo.com/technology/articles/amd-appoints-tim-ryan-board-201500345.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 20:15:00 +0000"
+   },
+   {
     "title": "Cathie Wood Cuts AMD Again, Adds Rocket Lab",
     "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-cuts-amd-again-185919295.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 18:59:19 +0000"
-   },
-   {
-    "title": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-tumbles-nearly-4-173526864.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 17:35:26 +0000"
    }
   ],
   "AVGO": [
    {
     "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
     "link": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 19:34:35 +0000"
+    "pubDate": "Wed, 19 Aug 2026 20:20:43 +0000"
    },
    {
     "title": "Broadcom Falls 2% as Google Adds Marvell to Its AI Chip Bench",
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
+    "link": "https://finance.yahoo.com/m/642b6381-df48-3594-a5ee-3051d399c3b8/u.s.-markets-prepare-for-ai.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 20:24:14 +0000"
+   },
+   {
     "title": "SoundHound AI vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/08/19/soundhound-ai-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 19:51:17 +0000"
@@ -62,11 +67,6 @@
     "title": "One of Wall Street\u2019s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks",
     "link": "https://247wallst.com/investing/2026/08/19/one-of-wall-streets-best-known-hedge-funds-just-loaded-up-on-these-5-stocks/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 16:03:28 +0000"
-   },
-   {
-    "title": "How Intel and TSMC Could Benefit From Samsung Hiking Chipmaking Prices",
-    "link": "https://finance.yahoo.com/m/694e7e12-b22d-3a8b-829b-5206bfc76001/how-intel-and-tsmc-could.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 14:54:00 +0000"
    }
   ],
   "INTC": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "C3.ai vs. Seagate Technology: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/08/19/c3ai-vs-seagate-technology-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 20:22:07 +0000"
+   },
+   {
     "title": "Seagate's Growth Engine Gains Momentum Across 3 Fronts",
     "link": "https://finance.yahoo.com/technology/articles/seagates-growth-engine-gains-momentum-132100292.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 13:21:00 +0000"
@@ -147,11 +152,6 @@
     "title": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stock-gains-ai-storage-201535856.html?.tsrc=rss",
     "pubDate": "Mon, 17 Aug 2026 20:15:35 +0000"
-   },
-   {
-    "title": "MU, SNDK Dip Overnight: KOSPI Hits Halt Amid Asian Tech Chip Rout, SoftBank, Samsung, SK Hynix Retreat",
-    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-soft-bank-samsung-sk-hynix-retreat/cZYdEEaRJkB?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 05:24:38 +0000"
    }
   ],
   "SOXX": [
@@ -200,9 +200,9 @@
     "pubDate": "Wed, 19 Aug 2026 19:16:17 +0000"
    },
    {
-    "title": "A Top Strategist Says Buy \u201cAnything but the S&P 500\u201d as Small Caps Quietly Steal the Lead",
-    "link": "https://247wallst.com/investing/2026/08/19/a-top-strategist-says-buy-anything-but-the-sp-500-as-small-caps-quietly-steal-the-lead/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 18:10:02 +0000"
+    "title": "Higher Fees, Better Returns: The Case for Equal-Weighted ETFs",
+    "link": "https://finance.yahoo.com/m/5118b7e2-0b2c-37cf-9421-1a89ff5581c5/higher-fees%2C-better-returns%3A.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000"
    }
   ],
   "SPY": [

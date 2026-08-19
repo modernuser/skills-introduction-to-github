@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T22:09:18Z",
+ "updated": "2026-08-19T23:09:58Z",
  "news": {
   "NVDA": [
    {
@@ -20,11 +20,6 @@
   ],
   "AMD": [
    {
-    "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 14:14:46 +0000"
-   },
-   {
     "title": "Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/08/19/advanced-micro-devices-vs-salesforce-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 21:24:50 +0000"
@@ -33,9 +28,19 @@
     "title": "AMD Appoints Tim Ryan to Board of Directors",
     "link": "https://finance.yahoo.com/technology/articles/amd-appoints-tim-ryan-board-201500345.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 20:15:00 +0000"
+   },
+   {
+    "title": "Cathie Wood Cuts AMD Again, Adds Rocket Lab",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-cuts-amd-again-185919295.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 18:59:19 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 22:06:02 +0000"
+   },
    {
     "title": "Broadcom Gets Fresh Google Warning",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom (AVGO) Is Down More Than 20%\u2014Why TD Cowen Still Sees 27% Upside",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-down-more-20-214954022.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 21:49:54 +0000"
-   },
-   {
-    "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
-    "link": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 20:20:43 +0000"
    }
   ],
   "TSM": [
@@ -100,7 +100,7 @@
    {
     "title": "Micron Gained Memory Market Share. The Stock Is Dropping Anyway.",
     "link": "https://finance.yahoo.com/m/7fcdccf7-e817-35f6-a973-510145bd5987/micron-gained-memory-market.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 18:30:00 +0000"
+    "pubDate": "Wed, 19 Aug 2026 20:51:00 +0000"
    }
   ],
   "SNDK": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "NEOS\u2019s \u2018Boosted\u2019 S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
+    "link": "https://247wallst.com/investing/2026/08/19/neoss-boosted-sp-fund-pays-17-while-the-nasdaq-version-pays-21/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 22:25:42 +0000"
+   },
+   {
     "title": "A Top Strategist Says Buy \u201cAnything but the S&P 500\u201d as Small Caps Quietly Steal the Lead",
     "link": "https://247wallst.com/investing/2026/08/19/a-top-strategist-says-buy-anything-but-the-sp-500-as-small-caps-quietly-steal-the-lead/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 18:10:02 +0000"
@@ -215,11 +220,6 @@
     "title": "5 Income ETFs to Buy Once and Collect Monthly Checks Forever",
     "link": "https://247wallst.com/investing/2026/08/19/5-income-etfs-to-buy-once-and-collect-monthly-checks-forever/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 17:20:50 +0000"
-   },
-   {
-    "title": "Dollar Cost Averaging Into the SCHG ETF Worked for Ten Years. This Year It Is Buying You Less Than the SPY.",
-    "link": "https://247wallst.com/investing/etf/2026/08/19/dollar-cost-averaging-into-the-schg-etf-worked-for-ten-years-this-year-it-is-buying-you-less-than-the-spy/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 16:35:37 +0000"
    }
   ]
  },

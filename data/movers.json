@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-18T23:08:50Z",
- "coverage": 500,
+ "updated": "2026-08-19T23:10:05Z",
+ "coverage": 499,
  "gainers": [
   {
-   "symbol": "TRGP",
-   "name": "Targa Resources",
-   "sector": "Energy",
-   "close": 297.77,
-   "pct": 7.13
-  },
-  {
-   "symbol": "PODD",
-   "name": "Insulet Corporation",
+   "symbol": "MRNA",
+   "name": "Moderna",
    "sector": "Health Care",
-   "close": 148.03,
-   "pct": 5.96
+   "close": 174.38,
+   "pct": 176.97
   },
   {
-   "symbol": "ULTA",
-   "name": "Ulta Beauty",
-   "sector": "Consumer Discretionary",
-   "close": 516.74,
-   "pct": 4.75
-  },
-  {
-   "symbol": "INTU",
-   "name": "Intuit",
-   "sector": "Information Technology",
-   "close": 350.41,
-   "pct": 4.41
-  },
-  {
-   "symbol": "MNST",
-   "name": "Monster Beverage",
+   "symbol": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
    "sector": "Consumer Staples",
-   "close": 47.38,
-   "pct": 4.09
+   "close": 98.01,
+   "pct": 16.3
   },
   {
-   "symbol": "ERIE",
-   "name": "Erie Indemnity",
-   "sector": "Financials",
-   "close": 256.95,
-   "pct": 3.71
-  },
-  {
-   "symbol": "GDDY",
-   "name": "GoDaddy",
-   "sector": "Information Technology",
-   "close": 95.8,
-   "pct": 3.71
-  },
-  {
-   "symbol": "TYL",
-   "name": "Tyler Technologies",
-   "sector": "Information Technology",
-   "close": 332.21,
-   "pct": 3.66
-  },
-  {
-   "symbol": "LLY",
-   "name": "Lilly (Eli)",
+   "symbol": "MRK",
+   "name": "Merck & Co.",
    "sector": "Health Care",
-   "close": 1225.73,
-   "pct": 3.6
+   "close": 152.2,
+   "pct": 12.6
   },
   {
-   "symbol": "ADBE",
-   "name": "Adobe Inc.",
-   "sector": "Information Technology",
-   "close": 263.14,
-   "pct": 3.58
-  }
- ],
- "losers": [
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 306.43,
-   "pct": -12.75
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 873.31,
-   "pct": -9.87
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 903.68,
-   "pct": -9.16
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1625.78,
-   "pct": -9.01
-  },
-  {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 405.54,
-   "pct": -8.9
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 404.29,
-   "pct": -8.77
-  },
-  {
-   "symbol": "JBL",
-   "name": "Jabil",
-   "sector": "Information Technology",
-   "close": 338.62,
-   "pct": -8.45
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "close": 50.55,
+   "pct": 10.27
   },
   {
    "symbol": "MRVL",
    "name": "Marvell Technology",
    "sector": "Information Technology",
-   "close": 216.0,
-   "pct": -7.82
+   "close": 237.27,
+   "pct": 9.85
   },
   {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 160.2,
+   "pct": 9.55
+  },
+  {
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "close": 70.44,
+   "pct": 8.37
+  },
+  {
+   "symbol": "NEM",
+   "name": "Newmont",
+   "sector": "Materials",
+   "close": 125.08,
+   "pct": 7.85
+  },
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
    "sector": "Information Technology",
-   "close": 159.9,
-   "pct": -7.68
+   "close": 1161.59,
+   "pct": 7.74
   },
   {
-   "symbol": "FIX",
-   "name": "Comfort Systems USA",
-   "sector": "Industrials",
-   "close": 1739.08,
-   "pct": -7.55
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 33.73,
+   "pct": 7.49
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 832.56,
+   "pct": -7.87
+  },
+  {
+   "symbol": "STLD",
+   "name": "Steel Dynamics",
+   "sector": "Materials",
+   "close": 231.01,
+   "pct": -7.53
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "close": 462.09,
+   "pct": -6.87
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "close": 437.55,
+   "pct": -6.64
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 307.17,
+   "pct": -6.33
+  },
+  {
+   "symbol": "KEYS",
+   "name": "Keysight Technologies",
+   "sector": "Information Technology",
+   "close": 319.45,
+   "pct": -6.32
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 287.47,
+   "pct": -6.19
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 379.65,
+   "pct": -6.09
+  },
+  {
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
+   "sector": "Information Technology",
+   "close": 113.03,
+   "pct": -6.0
+  },
+  {
+   "symbol": "NUE",
+   "name": "Nucor",
+   "sector": "Materials",
+   "close": 248.74,
+   "pct": -5.85
   }
  ]
 }

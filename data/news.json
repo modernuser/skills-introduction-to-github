@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-19T00:01:05Z",
+ "updated": "2026-08-19T01:51:58Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Why Kulicke & Soffa Stock Slumped by Nearly 10% Today",
+    "link": "https://www.fool.com/investing/2026/08/18/why-kulicke-soffa-stock-slumped-by-nearly-10-today/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 00:21:16 +0000"
+   },
    {
     "title": "Why Amylyx Pharmaceuticals Stock Skyrocketed Today",
     "link": "https://www.fool.com/investing/2026/08/18/why-amylyx-pharmaceuticals-stock-skyrocketed-today/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
     "link": "https://www.fool.com/investing/2026/08/18/broadcom-vs-nvidia-1-metric-shows-which-artificial/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 23:15:00 +0000"
-   },
-   {
-    "title": "Here's Why Nvidia (NVDA) Fell More Than Broader Market",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-nvidia-nvda-fell-214503878.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 21:45:03 +0000"
    }
   ],
   "AMD": [
@@ -71,27 +71,22 @@
   ],
   "INTC": [
    {
+    "title": "CEO Lip-Bu Tan Just Bought Another 105,000 Shares of Intel Stock",
+    "link": "https://www.barchart.com/story/news/3914404/ceo-lip-bu-tan-just-bought-another-105-000-shares-of-intel-stock?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 19:33:01 +0000"
+   },
+   {
+    "title": "Intel Stock Has Plunged 32% \u2014 What Investors Need to Know Beyond Dilution",
+    "link": "https://www.barchart.com/story/news/3914205/intel-stock-has-plunged-32-what-investors-need-to-know-beyond-dilution?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 19:12:04 +0000"
+   },
+   {
     "title": "Intel Stock Plunges 7% as UBS Cuts Price Target to $112",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-7-ubs-182632378.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 18:26:32 +0000"
-   },
-   {
-    "title": "Why Intel Stock Is Falling Today",
-    "link": "https://www.fool.com/investing/2026/08/18/why-intel-stock-is-falling-today/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:13:23 +0000"
-   },
-   {
-    "title": "Cerebras, Intel, and AMD Shares Fall Ahead of Tonight\u2019s \u2018Supernova\u2019 Event",
-    "link": "https://247wallst.com/investing/2026/08/18/cerebras-intel-and-amd-shares-fall-ahead-of-tonights-supernova-event/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 17:56:07 +0000"
    }
   ],
   "MU": [
-   {
-    "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
-    "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 23:45:58 +0000"
-   },
    {
     "title": "Micron (MU) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-sees-more-significant-214503679.html?.tsrc=rss",
@@ -101,13 +96,18 @@
     "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
     "link": "https://finance.yahoo.com/m/47aad014-8127-390d-b5bf-5fe35d3c29d4/micron%2C-other-chip-stocks.html?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 21:11:07 +0000"
+   },
+   {
+    "title": "Why Micron Stock and Its Memory Peers Are Falling",
+    "link": "https://finance.yahoo.com/m/f866eb13-2624-3cd0-9539-95404ae80fbb/why-micron-stock-and-its.html?.tsrc=rss",
+    "pubDate": "Tue, 18 Aug 2026 20:46:00 +0000"
    }
   ],
   "SNDK": [
    {
     "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
     "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 23:45:58 +0000"
+    "pubDate": "Wed, 19 Aug 2026 01:34:15 +0000"
    },
    {
     "title": "Stock Market Today: Nasdaq Slides Along With Chip Names; Sandisk, Micron Lose Big",
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Drone Stocks See Limited Losses Tuesday During Nasdaq Sell-Off: Red Cat, Ondas Flat While AeroVironment Tumbles",
+    "link": "https://247wallst.com/investing/2026/08/18/drone-stocks-see-limited-losses-tuesday-during-nasdaq-sell-off-red-cat-ondas-flat-while-aerovironment-tumbles/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 00:46:54 +0000"
+   },
+   {
     "title": "Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks",
     "link": "https://247wallst.com/investing/2026/08/18/netflix-salesforce-and-adobe-rally-as-investors-rotate-out-of-semiconductors-and-into-beaten-down-stocks/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 20:46:46 +0000"
@@ -164,11 +169,6 @@
     "title": "Software Stocks Soar in Rotational Trade: Monday.com Up 7%, HubSpot Up 6%, Intuit Up 5%",
     "link": "https://247wallst.com/investing/2026/08/18/software-stocks-soar-in-rotational-trade-monday-com-up-7-hubspot-up-6-intuit-up-5/?.tsrc=rss",
     "pubDate": "Tue, 18 Aug 2026 20:39:15 +0000"
-   },
-   {
-    "title": "United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries",
-    "link": "https://247wallst.com/investing/2026/08/18/united-microelectronics-falls-7-tower-semiconductor-sinks-10-globalfoundries-drops-7-as-ai-spending-fears-hit-foundries/?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 18:39:58 +0000"
    }
   ],
   "SOXL": [

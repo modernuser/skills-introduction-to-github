@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-20T00:01:47Z",
+ "updated": "2026-08-20T01:50:23Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stifel Has Message For Nvidia Investors Before Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-message-nvidia-investors-earnings-215114118.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 21:51:14 +0000"
+    "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
+    "link": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 01:20:00 +0000"
    },
    {
-    "title": "Lowe's Companies, Inc. Q2 2027 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lowes-companies-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 21:03:25 +0000"
+    "title": "Nvidia Guided to $91 Billion. Wall Street Penciled In $92 Billion.",
+    "link": "https://www.fool.com/investing/2026/08/19/nvidia-guided-to-usd91-billion-wall-street-penciled-in-usd92-billion/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 00:57:01 +0000"
    },
    {
-    "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-    "link": "https://www.fool.com/investing/2026/08/19/teslas-model-y-l-is-coming-to-america-will-it-reig/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 22:25:00 +0000"
+    "title": "SOXL Turns Every 1% Nvidia Move Into 3%. Here\u2019s What $10,000 Did in the Last 12 Months",
+    "link": "https://247wallst.com/investing/etf/2026/08/19/soxl-turns-every-1-nvidia-move-into-3-heres-what-10000-did-in-the-last-12-months/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 23:35:42 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Jim Cramer makes aggressive Micron prediction, lists top memory buys",
+    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-micron-memory-stocks-ai-double-mu?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 01:37:00 +0000"
+   },
+   {
     "title": "Tech & Energy Fuel S&P 500 Growth Engine",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tech-energy-fuel-p-500-222300083.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 22:23:00 +0000"
@@ -96,11 +101,6 @@
     "title": "Micron Trades 59% Above GF Value as Semiconductor Selloff Deepens",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-trades-59-above-gf-220234763.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 22:02:34 +0000"
-   },
-   {
-    "title": "Billionaire Stanley Druckenmiller Just Dumped Micron and Intel While Adding These 2 AI Stocks. Should Investors Follow Suit?",
-    "link": "https://www.fool.com/investing/2026/08/19/billionaire-stanley-druckenmiller-just-dumped-micr/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 21:52:00 +0000"
    }
   ],
   "SNDK": [
@@ -173,6 +173,11 @@
   ],
   "SOXL": [
    {
+    "title": "SOXL Turns Every 1% Nvidia Move Into 3%. Here\u2019s What $10,000 Did in the Last 12 Months",
+    "link": "https://247wallst.com/investing/etf/2026/08/19/soxl-turns-every-1-nvidia-move-into-3-heres-what-10000-did-in-the-last-12-months/?.tsrc=rss",
+    "pubDate": "Wed, 19 Aug 2026 23:35:42 +0000"
+   },
+   {
     "title": "The SOXL ETF Is a Popular\u2014and Dangerous\u2014Way to Play Chip Stocks",
     "link": "https://finance.yahoo.com/m/9030f354-1f6e-3fa3-a195-21f4081a9ba9/the-soxl-etf-is-a-popular%E2%80%94and.html?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 22:07:00 +0000"
@@ -181,11 +186,6 @@
     "title": "This 3x Semiconductor ETF Turned $10,000 Into $56,000, Then Lost a Fifth in One Month",
     "link": "https://247wallst.com/investing/etf/2026/08/04/this-3x-semiconductor-etf-turned-10000-into-56000-then-lost-a-fifth-in-one-month/?.tsrc=rss",
     "pubDate": "Wed, 05 Aug 2026 02:09:34 +0000"
-   },
-   {
-    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped Today",
-    "link": "https://www.fool.com/investing/2026/08/04/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
-    "pubDate": "Tue, 04 Aug 2026 15:42:47 +0000"
    }
   ],
   "QQQ": [

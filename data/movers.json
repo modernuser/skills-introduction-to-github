@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-19T23:10:05Z",
- "coverage": 499,
+ "updated": "2026-08-20T23:43:25Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 174.38,
-   "pct": 176.97
-  },
-  {
-   "symbol": "EL",
-   "name": "Est\u00e9e Lauder Companies (The)",
-   "sector": "Consumer Staples",
-   "close": 98.01,
-   "pct": 16.3
-  },
-  {
-   "symbol": "MRK",
-   "name": "Merck & Co.",
-   "sector": "Health Care",
-   "close": 152.2,
-   "pct": 12.6
-  },
-  {
-   "symbol": "ARE",
-   "name": "Alexandria Real Estate Equities",
-   "sector": "Real Estate",
-   "close": 50.55,
-   "pct": 10.27
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 237.27,
-   "pct": 9.85
+   "symbol": "NDSN",
+   "name": "Nordson Corporation",
+   "sector": "Industrials",
+   "close": 334.7,
+   "pct": 8.0
   },
   {
    "symbol": "COIN",
    "name": "Coinbase",
    "sector": "Financials",
-   "close": 160.2,
-   "pct": 9.55
+   "close": 172.35,
+   "pct": 7.58
   },
   {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "close": 70.44,
-   "pct": 8.37
+   "symbol": "DE",
+   "name": "Deere & Company",
+   "sector": "Industrials",
+   "close": 620.94,
+   "pct": 6.94
   },
   {
-   "symbol": "NEM",
-   "name": "Newmont",
-   "sector": "Materials",
-   "close": 125.08,
-   "pct": 7.85
-  },
-  {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 1161.59,
-   "pct": 7.74
+   "close": 879.28,
+   "pct": 6.24
   },
   {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
+   "symbol": "Q",
+   "name": "Qnity Electronics",
+   "sector": "Information Technology",
+   "close": 133.52,
+   "pct": 5.93
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 251.01,
+   "pct": 5.79
+  },
+  {
+   "symbol": "CF",
+   "name": "CF Industries",
+   "sector": "Materials",
+   "close": 125.7,
+   "pct": 5.61
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mosaic Company (The)",
+   "sector": "Materials",
+   "close": 23.35,
+   "pct": 5.04
+  },
+  {
+   "symbol": "CBOE",
+   "name": "Cboe Global Markets",
+   "sector": "Financials",
+   "close": 294.11,
+   "pct": 4.76
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
    "sector": "Real Estate",
-   "close": 33.73,
-   "pct": 7.49
+   "close": 52.94,
+   "pct": 4.73
   }
  ],
  "losers": [
   {
-   "symbol": "STX",
-   "name": "Seagate Technology",
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 133.32,
+   "pct": -23.55
+  },
+  {
+   "symbol": "WMT",
+   "name": "Walmart",
+   "sector": "Consumer Staples",
+   "close": 103.84,
+   "pct": -9.15
+  },
+  {
+   "symbol": "ISRG",
+   "name": "Intuitive Surgical",
+   "sector": "Health Care",
+   "close": 374.48,
+   "pct": -5.84
+  },
+  {
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
    "sector": "Information Technology",
-   "close": 832.56,
-   "pct": -7.87
+   "close": 190.34,
+   "pct": -5.6
   },
   {
    "symbol": "STLD",
    "name": "Steel Dynamics",
    "sector": "Materials",
-   "close": 231.01,
-   "pct": -7.53
+   "close": 219.0,
+   "pct": -5.2
   },
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 462.09,
-   "pct": -6.87
+   "symbol": "BSX",
+   "name": "Boston Scientific",
+   "sector": "Health Care",
+   "close": 49.37,
+   "pct": -5.08
   },
   {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 437.55,
-   "pct": -6.64
+   "symbol": "CCL",
+   "name": "Carnival Corporation",
+   "sector": "Consumer Discretionary",
+   "close": 25.37,
+   "pct": -4.95
   },
   {
-   "symbol": "LRCX",
-   "name": "Lam Research",
-   "sector": "Information Technology",
-   "close": 307.17,
-   "pct": -6.33
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 614.26,
+   "pct": -4.87
   },
   {
-   "symbol": "KEYS",
-   "name": "Keysight Technologies",
-   "sector": "Information Technology",
-   "close": 319.45,
-   "pct": -6.32
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 32.26,
+   "pct": -4.36
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 287.47,
-   "pct": -6.19
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 379.65,
-   "pct": -6.09
-  },
-  {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "close": 113.03,
-   "pct": -6.0
-  },
-  {
-   "symbol": "NUE",
-   "name": "Nucor",
-   "sector": "Materials",
-   "close": 248.74,
-   "pct": -5.85
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 115.36,
+   "pct": -4.33
   }
  ]
 }

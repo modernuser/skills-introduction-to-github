@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-20T22:48:04Z",
+ "generated": "2026-08-20T22:51:25Z",
  "market": {
   "session": "after",
   "label": "After hours",
-  "now_et": "2026-08-20 18:48 EDT",
+  "now_et": "2026-08-20 18:51 EDT",
   "next": "after-hours end",
   "next_at_et": "2026-08-20 20:00 EDT",
-  "minutes_to_next": 71,
+  "minutes_to_next": 68,
   "last_close_et": "2026-08-20 16:00 EDT",
   "max_expected_age_hours": 8
  },
- "duration_ms": 4,
+ "duration_ms": 5,
  "source_errors": [],
  "primary_source_failures_count": 35,
  "week52_ranges": {
@@ -20,7 +20,7 @@
  "files": {
   "quotes": {
    "present": true,
-   "updated": "2026-08-20T22:47:55Z",
+   "updated": "2026-08-20T21:47:14Z",
    "records": 35,
    "newest_record_age_days": 0,
    "sessions_behind_last_close": 0,
@@ -29,7 +29,7 @@
   "news": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-20T22:47:57Z",
+   "updated": "2026-08-20T21:47:16Z",
    "records": 13
   },
   "movers": {
@@ -53,25 +53,25 @@
   "extended": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-20T22:47:57Z",
+   "updated": "2026-08-20T21:47:16Z",
    "records": 0
   },
   "sector_depth": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-19T22:49:05Z",
+   "updated": "2026-08-20T22:51:03Z",
    "records": 110
   },
   "factor_lab": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-19T22:49:26Z",
+   "updated": "2026-08-20T22:51:25Z",
    "records": 0
   },
   "trend_quality": {
    "present": true,
    "status": "ok",
-   "updated": "2026-08-19T22:49:05Z",
+   "updated": "2026-08-20T22:51:03Z",
    "records": 0
   },
   "kpi_panel": {

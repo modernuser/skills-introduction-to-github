@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-20T12:00:29Z",
+ "updated": "2026-08-20T13:09:10Z",
  "news": {
   "NVDA": [
    {
-    "title": "Cloudera Teams With NVIDIA to Lower Cloud Compute Spend and Accelerate Apache Spark Pipelines",
-    "link": "https://finance.yahoo.com/technology/ai/articles/cloudera-teams-nvidia-lower-cloud-114300224.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 11:43:00 +0000"
+    "title": "A Famed Billionaire Tech Investor Just Sold Nvidia Shares to Buy These 2 AI Chip Stocks",
+    "link": "https://www.fool.com/investing/2026/08/20/billionaire-investor-sold-nvidia-ai-chip-stock/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:55:00 +0000"
    },
    {
-    "title": "If You'd Invested $10,000 in Each of These 3 High-Yield Stocks 10 Years Ago, Here's How Much Income You'd Collect Today",
-    "link": "https://www.fool.com/investing/2026/08/20/if-you-d-invested-usd10-000-in-each-of-these-3-high-yield-stocks-10-years-ago-here-s-how-much-income-you-d-collect-today/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 11:35:01 +0000"
+    "title": "Private Credit Is Wall Street\u2019s Favorite Trade and These 3 ETFs Hand Regular Investors Up to 11 Percent",
+    "link": "https://247wallst.com/investing/2026/08/20/private-credit-is-wall-streets-favorite-trade-and-these-3-etfs-hand-regular-investors-up-to-11-percent/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:35:51 +0000"
    },
    {
-    "title": "Billionaire Dan Loeb of Third Point Dumped Nvidia, Broadcom, and Meta, but Increased His Stake in This Virtual Monopoly by Almost 500%",
-    "link": "https://www.fool.com/investing/2026/08/20/billionaire-dan-loeb-sold-nvda-avgo-meta-buy-googl/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 11:26:00 +0000"
+    "title": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It.",
+    "link": "https://www.fool.com/investing/2026/08/20/morgan-stanley-says-ai-data-centers-face-a-38-giga/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:25:00 +0000"
    }
   ],
   "AMD": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Taiwan Semiconductor Manufacturing (TSM) On July Revenue Growth And A Valuation Debate",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-july-121138319.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:11:38 +0000"
+   },
+   {
     "title": "Taiwan Semiconductor vs. ASML: Which Semiconductor Titan Is the Better Buy Today?",
     "link": "https://www.fool.com/investing/2026/08/20/taiwan-semiconductor-vs-asml-which-semiconductor-t/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 08:55:00 +0000"
@@ -62,11 +67,6 @@
     "title": "TSMC Trades 30.87% Above GF Value as Chip Capacity Tightens",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 22:06:12 +0000"
-   },
-   {
-    "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
-    "link": "https://finance.yahoo.com/m/642b6381-df48-3594-a5ee-3051d399c3b8/u.s.-markets-prepare-for-ai.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 20:24:14 +0000"
    }
   ],
   "INTC": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Why Micron Won\u2019t Join the Great Memory Stock Buyback\u2014Yet",
+    "link": "https://finance.yahoo.com/m/ddc253bf-3397-3b35-bf19-c0dd18b2380b/why-micron-won%E2%80%99t-join-the.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:35:00 +0000"
+   },
+   {
     "title": "Jim Cramer makes aggressive Micron prediction, lists top memory buys",
     "link": "https://www.thestreet.com/investing/stocks/jim-cramer-micron-memory-stocks-ai-double-mu?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 01:37:00 +0000"
@@ -96,14 +101,14 @@
     "title": "Tech & Energy Fuel S&P 500 Growth Engine",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tech-energy-fuel-p-500-222300083.html?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 22:23:00 +0000"
-   },
-   {
-    "title": "Micron Trades 59% Above GF Value as Semiconductor Selloff Deepens",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-trades-59-above-gf-220234763.html?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 22:02:34 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Sandisk vs. SK Hynix: Which Memory Stock Will Deliver Bigger Gains By the End of 2027?",
+    "link": "https://www.fool.com/investing/2026/08/20/sandisk-vs-sk-hynix-which-memory-stock-will-delive/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:43:00 +0000"
+   },
    {
     "title": "Forced Out of $5.6B in Sandisk, Leopold\u2019s Bull Case Is Still Alive. Here\u2019s How You Should Play It.",
     "link": "https://www.barchart.com/story/news/3938557/forced-out-of-5-6b-in-sandisk-leopolds-bull-case-is-still-alive-heres-how-you-should-play-it?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Why Is Sandisk Stock Still Dropping?",
     "link": "https://www.fool.com/investing/2026/08/19/why-is-sandisk-stock-still-dropping/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 16:13:11 +0000"
-   },
-   {
-    "title": "SanDisk Is Up 3,911% Over Twelve Months. Hedge Funds Can\u2019t Agree on What to Do.",
-    "link": "https://247wallst.com/investing/2026/08/19/sandisk-is-up-3911-over-twelve-months-hedge-funds-cant-agree-on-what-to-do/?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 14:00:17 +0000"
    }
   ],
   "WDC": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "She Inherited a $300,000 IRA and Let It Grow Untouched for Nine Years, Exactly What the IRS Was Hoping For.",
+    "link": "https://247wallst.com/personal-finance/2026/08/20/she-inherited-a-300000-ira-and-let-it-grow-untouched-for-nine-years-exactly-what-the-irs-was-hoping-for/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 12:32:11 +0000"
+   },
+   {
     "title": "US Stock Index Futures Climb As Yields Cool Off Amid Treasury Support \u2014 NVDA, MRNA, MRVL, LOWE In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 23:15:36 +0000"
@@ -215,11 +220,6 @@
     "title": "NEOS\u2019s \u2018Boosted\u2019 S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
     "link": "https://247wallst.com/investing/2026/08/19/neoss-boosted-sp-fund-pays-17-while-the-nasdaq-version-pays-21/?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 22:25:42 +0000"
-   },
-   {
-    "title": "The Market Is in a Bubble. Why I\u2019m Focusing on Quantum Computing Stocks Now.",
-    "link": "https://www.barchart.com/story/news/3937170/the-market-is-in-a-bubble-why-im-focusing-on-quantum-computing-stocks-now?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 20:17:00 +0000"
    }
   ]
  },

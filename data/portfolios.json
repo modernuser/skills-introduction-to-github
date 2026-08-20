@@ -47,7 +47,7 @@
      "name": "Micron Technology",
      "shares": 1.09595,
      "start_close": 829.5,
-     "last_close": 937.105
+     "last_close": 937.11
     },
     {
      "symbol": "SNDK",
@@ -85,7 +85,7 @@
      "last_close": 120.74
     }
    ],
-   "value": 10234.62,
+   "value": 10234.63,
    "return_pct": 2.35,
    "alpha_pp": 0.85
   },

@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-20T19:09:28Z",
+ "updated": "2026-08-20T19:53:55Z",
  "news": {
   "NVDA": [
    {
-    "title": "Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.",
-    "link": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:53:00 +0000"
+    "title": "Burger King's $700 Million Fix Is Paying Off for Restaurant Brands International",
+    "link": "https://www.fool.com/investing/2026/08/20/burger-kings-700-million-fix-is-paying-off-for-res/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:35:00 +0000"
    },
    {
-    "title": "1 Vanguard ETF Up 23% in 12 Months (Hint: It's Not VOO). Here's What History Says Investors Should Do.",
-    "link": "https://www.fool.com/investing/2026/08/20/1-vanguard-etf-up-12-months-not-voo-history-says/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:35:00 +0000"
+    "title": "DeepSeek Sends Strong Signal to Nvidia Investors",
+    "link": "https://finance.yahoo.com/technology/ai/articles/deepseek-sends-strong-signal-nvidia-190958401.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:09:58 +0000"
    },
    {
-    "title": "Nvidia Holds Flat as Analysts Defend Up to 30% Upside",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-holds-flat-analysts-defend-180410777.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:04:10 +0000"
+    "title": "Why Does Bitcoin Keep Gaining?",
+    "link": "https://www.fool.com/investing/2026/08/20/why-does-bitcoin-keep-gaining/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:06:13 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Cathie Wood Sends Fresh Warning on AMD Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sends-fresh-warning-193315526.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:33:15 +0000"
+   },
+   {
+    "title": "AMD Falls as Google Expands Its $120 Billion Custom-Chip Push",
+    "link": "https://finance.yahoo.com/technology/articles/amd-falls-google-expands-120-192101116.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:21:01 +0000"
+   },
+   {
     "title": "Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.",
     "link": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 18:53:00 +0000"
-   },
-   {
-    "title": "Is Advanced Micro Devices (AMD) Priced For Perfection Or Trading At A Discount?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-priced-170912043.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 17:09:12 +0000"
-   },
-   {
-    "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
-    "link": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 13:32:32 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom Stabilizes After Google's $120 Billion Marvell Shock",
+    "link": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-googles-120-billion-193122196.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:31:22 +0000"
+   },
    {
     "title": "Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.",
     "link": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Shareholders Should Be Paying Attention to What Just Happened With Marvell and Google",
     "link": "https://247wallst.com/investing/2026/08/20/broadcom-shareholders-should-be-paying-attention-to-what-just-happened-with-marvell-and-google/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 18:10:19 +0000"
-   },
-   {
-    "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
-    "link": "https://247wallst.com/investing/2026/08/20/2-ai-stocks-1-winner-which-has-more-upside/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:00:08 +0000"
    }
   ],
   "TSM": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Is SanDisk's New Growth Rate The One You Own It For?",
+    "link": "https://www.trefis.com/articles/612242/is-sandisks-new-growth-rate-the-one-you-own-it-for/2026-08-20?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:35:37 +0000"
+   },
+   {
     "title": "JPMorgan Just Announced a Huge Price Target for This Tech Stock",
     "link": "https://www.fool.com/investing/2026/08/20/jpmorgan-just-announced-a-huge-price-target-for/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 17:05:00 +0000"
@@ -113,11 +118,6 @@
     "title": "3 Next-Gen AI Stocks That 3G Capital Bought in Q2",
     "link": "https://www.barchart.com/story/news/3949620/3-next-gen-ai-stocks-that-3g-capital-bought-in-q2?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 13:00:02 +0000"
-   },
-   {
-    "title": "Sandisk vs. SK Hynix: Which Memory Stock Will Deliver Bigger Gains By the End of 2027?",
-    "link": "https://www.fool.com/investing/2026/08/20/sandisk-vs-sk-hynix-which-memory-stock-will-delive/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 12:43:00 +0000"
    }
   ],
   "WDC": [

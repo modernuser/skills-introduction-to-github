@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-20T19:53:55Z",
+ "updated": "2026-08-20T20:40:34Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Waymo is making its own AI chip for its robotaxi service",
+    "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:43:18 +0000"
+   },
+   {
+    "title": "Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence",
+    "link": "https://finance.yahoo.com/technology/ai/articles/waymo-builds-own-chip-reduces-195532671.html?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:55:32 +0000"
+   },
    {
     "title": "Burger King's $700 Million Fix Is Paying Off for Restaurant Brands International",
     "link": "https://www.fool.com/investing/2026/08/20/burger-kings-700-million-fix-is-paying-off-for-res/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 19:35:00 +0000"
-   },
-   {
-    "title": "DeepSeek Sends Strong Signal to Nvidia Investors",
-    "link": "https://finance.yahoo.com/technology/ai/articles/deepseek-sends-strong-signal-nvidia-190958401.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 19:09:58 +0000"
-   },
-   {
-    "title": "Why Does Bitcoin Keep Gaining?",
-    "link": "https://www.fool.com/investing/2026/08/20/why-does-bitcoin-keep-gaining/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 19:06:13 +0000"
    }
   ],
   "AMD": [
@@ -37,19 +37,19 @@
   ],
   "AVGO": [
    {
+    "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into",
+    "link": "https://www.fool.com/investing/2026/08/20/billionaire-stanley-druckenmiller-sold-broadcom-an/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 20:20:00 +0000"
+   },
+   {
+    "title": "The Line In The Sand For AVGO Stock",
+    "link": "https://www.trefis.com/articles/612184/the-line-in-the-sand-for-avgo-stock-2/2026-08-20?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 19:56:34 +0000"
+   },
+   {
     "title": "Broadcom Stabilizes After Google's $120 Billion Marvell Shock",
     "link": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-googles-120-billion-193122196.html?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 19:31:22 +0000"
-   },
-   {
-    "title": "Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.",
-    "link": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:53:00 +0000"
-   },
-   {
-    "title": "Broadcom Shareholders Should Be Paying Attention to What Just Happened With Marvell and Google",
-    "link": "https://247wallst.com/investing/2026/08/20/broadcom-shareholders-should-be-paying-attention-to-what-just-happened-with-marvell-and-google/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 18:10:19 +0000"
    }
   ],
   "TSM": [
@@ -81,9 +81,9 @@
     "pubDate": "Thu, 20 Aug 2026 17:07:34 +0000"
    },
    {
-    "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
-    "link": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 13:32:32 +0000"
+    "title": "Tiger Global Added to Its Position in Intel in Q2",
+    "link": "https://www.barchart.com/story/news/3951714/tiger-global-added-to-its-position-in-intel-in-q2?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 14:11:45 +0000"
    }
   ],
   "MU": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion",
+    "link": "https://www.fool.com/investing/2026/08/20/billionaire-investor-david-tepper-recently-dumped/?.tsrc=rss",
+    "pubDate": "Thu, 20 Aug 2026 20:25:00 +0000"
+   },
+   {
     "title": "Is SanDisk's New Growth Rate The One You Own It For?",
     "link": "https://www.trefis.com/articles/612242/is-sandisks-new-growth-rate-the-one-you-own-it-for/2026-08-20?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 19:35:37 +0000"
@@ -113,11 +118,6 @@
     "title": "JPMorgan Just Announced a Huge Price Target for This Tech Stock",
     "link": "https://www.fool.com/investing/2026/08/20/jpmorgan-just-announced-a-huge-price-target-for/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 17:05:00 +0000"
-   },
-   {
-    "title": "3 Next-Gen AI Stocks That 3G Capital Bought in Q2",
-    "link": "https://www.barchart.com/story/news/3949620/3-next-gen-ai-stocks-that-3g-capital-bought-in-q2?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 13:00:02 +0000"
    }
   ],
   "WDC": [

@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-20T23:43:25Z",
+ "updated": "2026-08-21T23:09:52Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "NDSN",
-   "name": "Nordson Corporation",
-   "sector": "Industrials",
-   "close": 334.7,
-   "pct": 8.0
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "close": 108.13,
+   "pct": 13.7
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 145.13,
+   "pct": 8.86
   },
   {
    "symbol": "COIN",
    "name": "Coinbase",
    "sector": "Financials",
-   "close": 172.35,
-   "pct": 7.58
+   "close": 186.49,
+   "pct": 8.2
   },
   {
-   "symbol": "DE",
-   "name": "Deere & Company",
-   "sector": "Industrials",
-   "close": 620.94,
-   "pct": 6.94
+   "symbol": "FCX",
+   "name": "Freeport-McMoRan",
+   "sector": "Materials",
+   "close": 76.66,
+   "pct": 7.64
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
+   "symbol": "ALB",
+   "name": "Albemarle Corporation",
+   "sector": "Materials",
+   "close": 143.25,
+   "pct": 6.75
+  },
+  {
+   "symbol": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "sector": "Consumer Staples",
+   "close": 101.94,
+   "pct": 6.02
+  },
+  {
+   "symbol": "HCA",
+   "name": "HCA Healthcare",
+   "sector": "Health Care",
+   "close": 429.19,
+   "pct": 5.64
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 362.86,
+   "pct": 5.14
+  },
+  {
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 121.07,
+   "pct": 4.65
+  },
+  {
+   "symbol": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "sector": "Consumer Discretionary",
+   "close": 36.9,
+   "pct": 4.56
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
    "sector": "Information Technology",
-   "close": 879.28,
-   "pct": 6.24
+   "close": 237.04,
+   "pct": -5.57
+  },
+  {
+   "symbol": "SRE",
+   "name": "Sempra",
+   "sector": "Utilities",
+   "close": 82.89,
+   "pct": -5.14
+  },
+  {
+   "symbol": "EIX",
+   "name": "Edison International",
+   "sector": "Utilities",
+   "close": 71.59,
+   "pct": -4.11
+  },
+  {
+   "symbol": "AEP",
+   "name": "American Electric Power",
+   "sector": "Utilities",
+   "close": 120.94,
+   "pct": -3.79
+  },
+  {
+   "symbol": "CNP",
+   "name": "CenterPoint Energy",
+   "sector": "Utilities",
+   "close": 38.77,
+   "pct": -3.56
+  },
+  {
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "close": 639.34,
+   "pct": -3.49
   },
   {
    "symbol": "Q",
    "name": "Qnity Electronics",
    "sector": "Information Technology",
-   "close": 133.52,
-   "pct": 5.93
+   "close": 128.88,
+   "pct": -3.48
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 251.01,
-   "pct": 5.79
-  },
-  {
-   "symbol": "CF",
-   "name": "CF Industries",
-   "sector": "Materials",
-   "close": 125.7,
-   "pct": 5.61
-  },
-  {
-   "symbol": "MOS",
-   "name": "Mosaic Company (The)",
-   "sector": "Materials",
-   "close": 23.35,
-   "pct": 5.04
-  },
-  {
-   "symbol": "CBOE",
-   "name": "Cboe Global Markets",
-   "sector": "Financials",
-   "close": 294.11,
-   "pct": 4.76
-  },
-  {
-   "symbol": "ARE",
-   "name": "Alexandria Real Estate Equities",
-   "sector": "Real Estate",
-   "close": 52.94,
-   "pct": 4.73
-  }
- ],
- "losers": [
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 133.32,
-   "pct": -23.55
-  },
-  {
-   "symbol": "WMT",
-   "name": "Walmart",
-   "sector": "Consumer Staples",
-   "close": 103.84,
-   "pct": -9.15
-  },
-  {
-   "symbol": "ISRG",
-   "name": "Intuitive Surgical",
-   "sector": "Health Care",
-   "close": 374.48,
-   "pct": -5.84
-  },
-  {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "close": 190.34,
-   "pct": -5.6
-  },
-  {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
-   "sector": "Materials",
-   "close": 219.0,
-   "pct": -5.2
-  },
-  {
-   "symbol": "BSX",
-   "name": "Boston Scientific",
-   "sector": "Health Care",
-   "close": 49.37,
-   "pct": -5.08
-  },
-  {
-   "symbol": "CCL",
-   "name": "Carnival Corporation",
-   "sector": "Consumer Discretionary",
-   "close": 25.37,
-   "pct": -4.95
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 614.26,
-   "pct": -4.87
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 32.26,
-   "pct": -4.36
-  },
-  {
-   "symbol": "NRG",
-   "name": "NRG Energy",
+   "symbol": "XEL",
+   "name": "Xcel Energy",
    "sector": "Utilities",
-   "close": 115.36,
-   "pct": -4.33
+   "close": 76.3,
+   "pct": -3.06
+  },
+  {
+   "symbol": "BG",
+   "name": "Bunge Global",
+   "sector": "Consumer Staples",
+   "close": 113.11,
+   "pct": -2.97
+  },
+  {
+   "symbol": "EXC",
+   "name": "Exelon",
+   "sector": "Utilities",
+   "close": 43.78,
+   "pct": -2.84
   }
  ]
 }

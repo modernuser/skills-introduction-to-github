@@ -1,68 +1,68 @@
 {
- "updated": "2026-08-21T21:42:38Z",
+ "updated": "2026-08-21T22:02:18Z",
  "session": "after",
  "quotes": {
   "AAPL": {
-   "price": 309.35,
+   "price": 309.57,
    "prev_close": 311.3,
-   "pct": -0.63,
-   "time": "2026-08-21T21:42:15Z",
+   "pct": -0.56,
+   "time": "2026-08-21T22:02:13Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "GOOGL": {
-   "price": 345.0201,
+   "price": 345.29,
    "prev_close": 340.67,
-   "pct": 1.28,
-   "time": "2026-08-21T21:42:33Z",
+   "pct": 1.36,
+   "time": "2026-08-21T22:02:15Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "AMZN": {
-   "price": 259.29,
+   "price": 259.1941,
    "prev_close": 260.11,
-   "pct": -0.32,
-   "time": "2026-08-21T21:42:34Z",
+   "pct": -0.35,
+   "time": "2026-08-21T22:02:16Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "WMT": {
-   "price": 103.55,
+   "price": 103.56,
    "prev_close": 103.5925,
-   "pct": -0.04,
-   "time": "2026-08-21T21:42:36Z",
+   "pct": -0.03,
+   "time": "2026-08-21T22:02:12Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "XOM": {
-   "price": 165.2665,
+   "price": 164.92,
    "prev_close": 166.15,
-   "pct": -0.53,
-   "time": "2026-08-21T21:41:44Z",
+   "pct": -0.74,
+   "time": "2026-08-21T22:00:29Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "JPM": {
-   "price": 351.65,
+   "price": 351.95,
    "prev_close": 351.55,
-   "pct": 0.03,
-   "time": "2026-08-21T21:39:18Z",
+   "pct": 0.11,
+   "time": "2026-08-21T22:02:07Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "LLY": {
-   "price": 1256.0,
+   "price": 1255.1993,
    "prev_close": 1244.4,
-   "pct": 0.93,
-   "time": "2026-08-21T21:42:32Z",
+   "pct": 0.87,
+   "time": "2026-08-21T22:01:58Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "GE": {
-   "price": 349.33,
+   "price": 348.68,
    "prev_close": 344.64,
-   "pct": 1.36,
-   "time": "2026-08-21T21:29:15Z",
+   "pct": 1.17,
+   "time": "2026-08-21T22:02:03Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
@@ -70,7 +70,7 @@
    "price": 487.0,
    "prev_close": 481.29,
    "pct": 1.19,
-   "time": "2026-08-21T21:33:59Z",
+   "time": "2026-08-21T21:47:35Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
@@ -83,114 +83,114 @@
    "source": "yahoo-chart-prepost"
   },
   "NEE": {
-   "price": 83.85,
+   "price": 83.91,
    "prev_close": 85.03,
-   "pct": -1.39,
-   "time": "2026-08-21T21:41:17Z",
+   "pct": -1.32,
+   "time": "2026-08-21T22:00:49Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "NVDA": {
-   "price": 215.0499,
+   "price": 215.12,
    "prev_close": 216.85,
-   "pct": -0.83,
-   "time": "2026-08-21T21:42:37Z",
+   "pct": -0.8,
+   "time": "2026-08-21T22:02:15Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "AMD": {
-   "price": 471.85,
+   "price": 472.4896,
    "prev_close": 469.455,
-   "pct": 0.51,
-   "time": "2026-08-21T21:42:13Z",
+   "pct": 0.65,
+   "time": "2026-08-21T22:02:17Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "AVGO": {
-   "price": 367.9,
+   "price": 367.969,
    "prev_close": 364.03,
-   "pct": 1.06,
-   "time": "2026-08-21T21:42:36Z",
+   "pct": 1.08,
+   "time": "2026-08-21T22:02:15Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "TSM": {
-   "price": 419.0606,
+   "price": 419.5,
    "prev_close": 416.0,
-   "pct": 0.74,
-   "time": "2026-08-21T21:42:14Z",
+   "pct": 0.84,
+   "time": "2026-08-21T22:02:15Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "INTC": {
-   "price": 90.04,
+   "price": 90.0,
    "prev_close": 92.13,
-   "pct": -2.27,
-   "time": "2026-08-21T21:42:37Z",
+   "pct": -2.31,
+   "time": "2026-08-21T22:02:12Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "MU": {
-   "price": 964.33,
+   "price": 962.64,
    "prev_close": 974.33,
-   "pct": -1.03,
-   "time": "2026-08-21T21:42:33Z",
+   "pct": -1.2,
+   "time": "2026-08-21T22:02:17Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "SNDK": {
-   "price": 1598.6,
+   "price": 1596.6902,
    "prev_close": 1600.62,
-   "pct": -0.13,
-   "time": "2026-08-21T21:42:37Z",
+   "pct": -0.25,
+   "time": "2026-08-21T22:02:01Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "WDC": {
-   "price": 460.65,
+   "price": 460.49,
    "prev_close": 469.05,
-   "pct": -1.79,
-   "time": "2026-08-21T21:40:05Z",
+   "pct": -1.82,
+   "time": "2026-08-21T22:02:16Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "STX": {
-   "price": 850.43,
+   "price": 850.5,
    "prev_close": 850.24,
-   "pct": 0.02,
-   "time": "2026-08-21T21:40:11Z",
+   "pct": 0.03,
+   "time": "2026-08-21T22:01:42Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "SOXX": {
-   "price": 519.5,
+   "price": 520.038,
    "prev_close": 522.35,
-   "pct": -0.55,
-   "time": "2026-08-21T21:42:01Z",
+   "pct": -0.44,
+   "time": "2026-08-21T22:01:38Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "SOXL": {
-   "price": 119.93,
+   "price": 120.13,
    "prev_close": 122.21,
-   "pct": -1.87,
-   "time": "2026-08-21T21:42:39Z",
+   "pct": -1.7,
+   "time": "2026-08-21T22:02:12Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "QQQ": {
-   "price": 713.18,
+   "price": 713.4,
    "prev_close": 710.93,
-   "pct": 0.32,
-   "time": "2026-08-21T21:42:40Z",
+   "pct": 0.35,
+   "time": "2026-08-21T22:01:53Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   },
   "SPY": {
-   "price": 766.0984,
+   "price": 766.4001,
    "prev_close": 762.6,
-   "pct": 0.46,
-   "time": "2026-08-21T21:42:38Z",
+   "pct": 0.5,
+   "time": "2026-08-21T22:02:15Z",
    "session": "after",
    "source": "yahoo-chart-prepost"
   }

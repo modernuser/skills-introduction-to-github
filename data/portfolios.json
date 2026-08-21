@@ -19,7 +19,7 @@
      "name": "Advanced Micro Devices",
      "shares": 1.875807,
      "start_close": 484.64,
-     "last_close": 469.455
+     "last_close": 469.46
     },
     {
      "symbol": "AVGO",
@@ -85,7 +85,7 @@
      "last_close": 122.21
     }
    ],
-   "value": 10353.64,
+   "value": 10353.65,
    "return_pct": 3.54,
    "alpha_pp": 2.89
   },

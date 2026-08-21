@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T20:36:06Z",
+ "updated": "2026-08-21T21:02:58Z",
  "news": {
   "NVDA": [
    {
@@ -8,17 +8,22 @@
     "pubDate": "Fri, 21 Aug 2026 20:02:51 +0000"
    },
    {
-    "title": "Jefferies Drops Hot Take on Nvidia Before Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-drops-hot-nvidia-earnings-201706386.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 20:17:06 +0000"
+    "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
+    "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 20:48:30 +0000"
    },
    {
-    "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 20:17:03 +0000"
+    "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 20:40:25 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 20:40:25 +0000"
+   },
    {
     "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
     "link": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
     "link": "https://www.fool.com/coverage/charts/2026/08/21/advanced-micro-devices-vs-arm-holdings-comparing-revenue-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 20:01:41 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk\u2019s NVIDIA (NVDA) Pledge Sinks the Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 19:48:27 +0000"
    }
   ],
   "AVGO": [

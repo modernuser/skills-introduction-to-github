@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-21T13:08:40Z",
+ "updated": "2026-08-21T13:56:36Z",
  "news": {
   "NVDA": [
    {
-    "title": "Here's what Nvidia needs to do to unlock an even better stock valuation",
-    "link": "https://finance.yahoo.com/markets/stocks/article/heres-what-nvidia-needs-to-do-to-unlock-an-even-better-stock-valuation-120651570.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:06:51 +0000"
+    "title": "Cloverleaf Infrastructure Forms Strategic Partnership with NVIDIA to Accelerate Data Center Infrastructure Development",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cloverleaf-infrastructure-forms-strategic-partnership-133000685.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:30:00 +0000"
    },
    {
-    "title": "Chamath Palihapitiya: AI Has \u201cLiterally Zero\u201d To Do With Big Company Earnings, as Nvidia Sits On A 945% Five Year Run",
-    "link": "https://247wallst.com/investing/2026/08/21/chamath-palihapitiya-ai-has-literally-zero-to-do-with-big-company-earnings-as-nvidia-sits-on-a-945-five-year-run/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:55:40 +0000"
+    "title": "BMO starts chip stocks coverage: Here are its preferred picks",
+    "link": "https://finance.yahoo.com/technology/articles/bmo-starts-chip-stocks-coverage-132807386.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:28:07 +0000"
    },
    {
-    "title": "Nvidia\u2019s Ruthless Way to Beat the Competition Has 2 Problems",
-    "link": "https://finance.yahoo.com/m/53fc7654-c784-3671-a6af-7633aa300b61/nvidia%E2%80%99s-ruthless-way-to-beat.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:15:00 +0000"
+    "title": "Nvidia in advanced talks to invest hundreds of millions in Cloverleaf Infrastructure \u2013 WSJ",
+    "link": "https://investorshub.advfn.com/market-news/article/34803/nvidia-in-advanced-talks-to-invest-hundreds-of-millions-in-cloverleaf-infrastructure-wsj?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:23:27 +0000"
    }
   ],
   "AMD": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Billionaire Investor Philippe Laffont Has Nearly 23% of Coatue Management's Portfolio Invested in 3 Artificial Intelligence (AI) Stocks",
+    "link": "https://www.fool.com/investing/2026/08/21/billionaire-investor-philippe-laffont-has-nearly-2/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:09:00 +0000"
+   },
+   {
     "title": "History of TSMC & its stock: Company timeline, facts & milestones",
     "link": "https://www.thestreet.com/investing/stocks/history-of-taiwant-semiconductor-manufacturing-company-timeline-facts?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 22:04:41 +0000"
@@ -62,14 +67,14 @@
     "title": "This Stock Is Riding an AI Wave That Shows No Signs of Slowing",
     "link": "https://247wallst.com/investing/2026/08/20/this-stock-is-riding-an-ai-wave-that-shows-no-signs-of-slowing/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 13:00:20 +0000"
-   },
-   {
-    "title": "TSMC vs. GlobalFoundries: Which Foundry Stock Is the Better Buy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-globalfoundries-foundry-stock-123500621.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 12:35:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "\u2018It\u2019s Done\u2019: Investor Warns Warren Buffett\u2019s Berkshire Can\u2019t Beat the S&P 500 \u2014 Bets on PayPal and Intel Instead",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/done-investor-warns-warren-buffett-123111231.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 12:31:11 +0000"
+   },
    {
     "title": "Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics",
     "link": "https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/?.tsrc=rss",
@@ -79,14 +84,14 @@
     "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
     "link": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 23:24:53 +0000"
-   },
-   {
-    "title": "The Engine Behind INTC Stock Has Real Parts",
-    "link": "https://www.trefis.com/articles/612199/the-engine-behind-intc-stock-has-real-parts/2026-08-20?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 21:29:00 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "BMO starts chip stocks coverage: Here are its preferred picks",
+    "link": "https://finance.yahoo.com/technology/articles/bmo-starts-chip-stocks-coverage-132807386.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:28:07 +0000"
+   },
    {
     "title": "Micron CEO Delivers Blunt Message For Stock Investors",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-ceo-delivers-blunt-message-121958557.html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Micron CEO Sanjay Mehrotra says AI has changed memory demand",
     "link": "https://qz.com/microns-ceo-is-arguing-ai-has-permanently-broken-memorys-boom-bust-cycle?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 12:03:42 +0000"
-   },
-   {
-    "title": "Micron Technology Stock Has Become A Bet On Memory Prices",
-    "link": "https://www.trefis.com/articles/612378/micron-technology-stock-has-become-a-bet-on-memory-prices/2026-08-21?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 11:47:53 +0000"
    }
   ],
   "SNDK": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
+    "link": "https://247wallst.com/investing/etf/2026/08/21/qqq-cut-its-fee-after-26-years-on-250000-the-vgt-etf-still-saves-you-225-every-year/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:25:29 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Fall as US Equities Decline After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-fall-us-171203079.html?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 17:12:03 +0000"
@@ -198,11 +203,6 @@
     "title": "How Much of Your Portfolio Should Actually Be in FTXL",
     "link": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 21:15:32 +0000"
-   },
-   {
-    "title": "Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund",
-    "link": "https://247wallst.com/investing/2026/08/20/goldman-sachs-just-paid-2-25-billion-for-the-family-behind-your-14-income-fund/?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 21:05:19 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Thu, 20 Aug 2026 21:15:32 +0000"
    },
    {
+    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:15:05 +0000"
+   },
+   {
     "title": "Chamath Palihapitiya: AI Has \u201cLiterally Zero\u201d To Do With Big Company Earnings, as Nvidia Sits On A 945% Five Year Run",
     "link": "https://247wallst.com/investing/2026/08/21/chamath-palihapitiya-ai-has-literally-zero-to-do-with-big-company-earnings-as-nvidia-sits-on-a-945-five-year-run/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 12:55:40 +0000"
-   },
-   {
-    "title": "$207 Billion Left the Banking System in a Month. Nobody Flinched",
-    "link": "https://247wallst.com/investing/2026/08/21/207-billion-left-the-banking-system-in-a-month-nobody-flinched/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 10:48:25 +0000"
    }
   ]
  },

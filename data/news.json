@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-21T21:42:38Z",
+ "updated": "2026-08-21T22:44:58Z",
  "news": {
   "NVDA": [
    {
-    "title": "The Buckle, Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-buckle-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 21:01:03 +0000"
+    "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
+    "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-nvidia-stock-forecast-ahead-of-q2-fy27-earnings?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:17:00 +0000"
    },
    {
-    "title": "Nvidia Reportedly Strikes $7B Licensing And Investment Deal With AI Startup Poolside \u2014 NVDA Stock Ends Week 5% Lower",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-reportedly-strikes-7-b-licensing-and-investment-deal-with-ai-startup-poolside/cZY9I4kRJVB?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 20:51:55 +0000"
+    "title": "Why Did Critical Metals Stock Just Gain 22.6%?",
+    "link": "https://www.fool.com/investing/2026/08/21/why-did-critical-metals-corp-stock-just-gain-226/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:14:57 +0000"
    },
    {
-    "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
-    "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 20:48:30 +0000"
+    "title": "Nvidia Stock Suffers Longest Losing Streak Since 2022: Will Q2 Earnings End It?",
+    "link": "https://beincrypto.com/nvidia-stock-losing-streak-earnings/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:10:03 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom (AVGO) Is Down 6.2% After Google Expands AI Chip Ties With Marvell - What's Changed",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-down-6-2-221237826.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:12:37 +0000"
+   },
+   {
     "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-friday-172901231.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 17:29:01 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
     "link": "https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 17:19:25 +0000"
-   },
-   {
-    "title": "Broadcom\u2019s AI Boom: Is a 2x Stock Gain Still Within Reach?",
-    "link": "https://247wallst.com/investing/2026/08/21/broadcoms-ai-boom-is-a-2x-stock-gain-still-within-reach/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 17:00:14 +0000"
    }
   ],
   "TSM": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 21 Aug 2026 14:47:00 +0000"
    },
    {
+    "title": "Micron CEO gives investors $10 billion reason to listen",
+    "link": "https://www.thestreet.com/investing/stocks/micron-10-billion-research-bet?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:07:00 +0000"
+   },
+   {
     "title": "Micron Falls as Wall Street Questions Its $1 Trillion Valuation",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-wall-street-questions-194755819.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 19:47:55 +0000"
-   },
-   {
-    "title": "MU Stock Alert: BMO Names Micron a Top AI Memory Play With $1,300 Price Target",
-    "link": "https://finance.yahoo.com/technology/ai/articles/mu-stock-alert-bmo-names-181410478.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 18:14:10 +0000"
    }
   ],
   "SNDK": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "DIVO Holders Gave Up $79,300 on a $500,000 Position Over Five Years for Downside Comfort",
+    "link": "https://247wallst.com/investing/etf/2026/08/21/divo-holders-gave-up-79300-on-a-500000-position-over-five-years-for-downside-comfort/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 22:05:31 +0000"
+   },
+   {
     "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
     "link": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 21:05:02 +0000"
@@ -215,11 +220,6 @@
     "title": "BofA Sees a Stock Market Setup Starting to Change",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-stock-market-setup-193717505.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 19:37:17 +0000"
-   },
-   {
-    "title": "There Are Two SPY ETFs Now, and You Probably Own the Wrong One",
-    "link": "https://247wallst.com/investing/etf/2026/08/21/there-are-two-spy-etfs-now-and-you-probably-own-the-wrong-one/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 14:20:32 +0000"
    }
   ]
  },

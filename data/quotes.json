@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-21T20:00:03Z",
+ "updated": "2026-08-21T20:36:04Z",
  "significant_pct": 3.0,
  "quotes": [
   {
    "symbol": "NVDA",
    "name": "NVIDIA",
    "date": "2026-08-21",
-   "close": 214.61,
-   "d1": -1.03,
-   "w1": -4.69,
-   "m1": 2.8,
+   "close": 214.72,
+   "d1": -0.98,
+   "w1": -4.64,
+   "m1": 2.85,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -42,7 +42,7 @@
     219.74,
     217.56,
     216.85,
-    214.61
+    214.72
    ],
    "hi52": 235.74,
    "lo52": 165.17
@@ -51,10 +51,10 @@
    "symbol": "AMD",
    "name": "Advanced Micro Devices",
    "date": "2026-08-21",
-   "close": 473.14,
-   "d1": 0.78,
-   "w1": -8.02,
-   "m1": -12.33,
+   "close": 473.25,
+   "d1": 0.81,
+   "w1": -8.0,
+   "m1": -12.31,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -87,7 +87,7 @@
     484.39,
     466.42,
     469.46,
-    473.14
+    473.25
    ],
    "hi52": 580.91,
    "lo52": 151.14
@@ -96,10 +96,10 @@
    "symbol": "AVGO",
    "name": "Broadcom",
    "date": "2026-08-21",
-   "close": 368.35,
-   "d1": 1.19,
-   "w1": -6.27,
-   "m1": -6.15,
+   "close": 368.45,
+   "d1": 1.21,
+   "w1": -6.24,
+   "m1": -6.12,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -132,7 +132,7 @@
     380.0,
     362.48,
     364.03,
-    368.35
+    368.45
    ],
    "hi52": 481.57,
    "lo52": 289.6
@@ -141,10 +141,10 @@
    "symbol": "TSM",
    "name": "TSMC",
    "date": "2026-08-21",
-   "close": 418.905,
-   "d1": 0.7,
-   "w1": -1.75,
-   "m1": 0.8,
+   "close": 418.95,
+   "d1": 0.71,
+   "w1": -1.74,
+   "m1": 0.81,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -177,7 +177,7 @@
     413.41,
     412.09,
     416.0,
-    418.905
+    418.95
    ],
    "hi52": 477.57,
    "lo52": 227.33
@@ -186,10 +186,10 @@
    "symbol": "INTC",
    "name": "Intel",
    "date": "2026-08-21",
-   "close": 90.0,
-   "d1": -2.31,
-   "w1": -12.2,
-   "m1": -10.21,
+   "close": 90.07,
+   "d1": -2.24,
+   "w1": -12.13,
+   "m1": -10.14,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -222,7 +222,7 @@
     96.69,
     92.8,
     92.13,
-    90.0
+    90.07
    ],
    "hi52": 140.94,
    "lo52": 23.5
@@ -231,10 +231,10 @@
    "symbol": "MU",
    "name": "Micron Technology",
    "date": "2026-08-21",
-   "close": 965.585,
-   "d1": -0.9,
-   "w1": -0.63,
-   "m1": -2.49,
+   "close": 966.78,
+   "d1": -0.77,
+   "w1": -0.5,
+   "m1": -2.37,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -267,7 +267,7 @@
     940.76,
     937.11,
     974.33,
-    965.585
+    966.78
    ],
    "hi52": 1213.5601,
    "lo52": 115.79
@@ -276,7 +276,7 @@
    "symbol": "SNDK",
    "name": "SanDisk",
    "date": "2026-08-21",
-   "close": 1596.1782,
+   "close": 1596.08,
    "d1": -0.28,
    "w1": -2.74,
    "m1": -0.88,
@@ -312,7 +312,7 @@
     1625.78,
     1568.87,
     1600.62,
-    1596.1782
+    1596.08
    ],
    "hi52": 2335.0,
    "lo52": 45.5
@@ -321,10 +321,10 @@
    "symbol": "WDC",
    "name": "Western Digital",
    "date": "2026-08-21",
-   "close": 459.2,
-   "d1": -2.1,
-   "w1": -9.75,
-   "m1": -17.75,
+   "close": 459.44,
+   "d1": -2.05,
+   "w1": -9.7,
+   "m1": -17.71,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -357,7 +357,7 @@
     496.16,
     462.09,
     469.05,
-    459.2
+    459.44
    ],
    "hi52": 746.23,
    "lo52": 74.66
@@ -366,10 +366,10 @@
    "symbol": "STX",
    "name": "Seagate Technology",
    "date": "2026-08-21",
-   "close": 850.28,
-   "d1": 0.0,
-   "w1": -12.65,
-   "m1": -6.91,
+   "close": 850.0,
+   "d1": -0.03,
+   "w1": -12.68,
+   "m1": -6.94,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -402,7 +402,7 @@
     903.68,
     832.56,
     850.24,
-    850.28
+    850.0
    ],
    "hi52": 1094.04,
    "lo52": 154.6
@@ -411,10 +411,10 @@
    "symbol": "SOXX",
    "name": "iShares Semiconductor ETF",
    "date": "2026-08-21",
-   "close": 519.96,
-   "d1": -0.46,
-   "w1": -5.53,
-   "m1": -5.67,
+   "close": 520.05,
+   "d1": -0.44,
+   "w1": -5.52,
+   "m1": -5.66,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -447,7 +447,7 @@
     531.39,
     519.67,
     522.35,
-    519.96
+    520.05
    ],
    "hi52": 655.01,
    "lo52": 241.68
@@ -456,10 +456,10 @@
    "symbol": "SOXL",
    "name": "Direxion Semi Bull 3X",
    "date": "2026-08-21",
-   "close": 120.56,
-   "d1": -1.35,
-   "w1": -16.83,
-   "m1": -23.45,
+   "close": 120.6,
+   "d1": -1.32,
+   "w1": -16.8,
+   "m1": -23.43,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -492,7 +492,7 @@
     129.1,
     120.74,
     122.21,
-    120.56
+    120.6
    ],
    "hi52": 300.77,
    "lo52": 24.91
@@ -501,10 +501,10 @@
    "symbol": "QQQ",
    "name": "Nasdaq-100 ETF (benchmark)",
    "date": "2026-08-21",
-   "close": 713.165,
-   "d1": 0.31,
-   "w1": -2.45,
-   "m1": 3.06,
+   "close": 713.44,
+   "d1": 0.35,
+   "w1": -2.41,
+   "m1": 3.1,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -537,7 +537,7 @@
     717.51,
     716.08,
     710.93,
-    713.165
+    713.44
    ],
    "hi52": 746.16,
    "lo52": 558.28
@@ -546,10 +546,10 @@
    "symbol": "SPY",
    "name": "S&P 500 ETF (benchmark)",
    "date": "2026-08-21",
-   "close": 765.49,
-   "d1": 0.38,
-   "w1": -1.4,
-   "m1": 3.7,
+   "close": 765.72,
+   "d1": 0.41,
+   "w1": -1.37,
+   "m1": 3.73,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
@@ -582,7 +582,7 @@
     767.45,
     769.06,
     762.6,
-    765.49
+    765.72
    ],
    "hi52": 777.88,
    "lo52": 631.97
@@ -593,10 +593,10 @@
    "symbol": "AAPL",
    "name": "Apple (Technology)",
    "date": "2026-08-21",
-   "close": 309.21,
-   "d1": -0.67,
-   "w1": 1.07,
-   "m1": -3.87,
+   "close": 309.35,
+   "d1": -0.63,
+   "w1": 1.12,
+   "m1": -3.83,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -604,10 +604,10 @@
    "symbol": "GOOGL",
    "name": "Alphabet (Communication Services)",
    "date": "2026-08-21",
-   "close": 344.7,
-   "d1": 1.18,
-   "w1": -0.35,
-   "m1": 8.5,
+   "close": 344.82,
+   "d1": 1.22,
+   "w1": -0.31,
+   "m1": 8.54,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -615,10 +615,10 @@
    "symbol": "AMZN",
    "name": "Amazon (Consumer Discretionary)",
    "date": "2026-08-21",
-   "close": 258.56,
-   "d1": -0.6,
-   "w1": -1.56,
-   "m1": 10.66,
+   "close": 258.63,
+   "d1": -0.57,
+   "w1": -1.53,
+   "m1": 10.69,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -626,10 +626,10 @@
    "symbol": "WMT",
    "name": "Walmart (Consumer Staples)",
    "date": "2026-08-21",
-   "close": 103.71,
+   "close": 103.7,
    "d1": -0.13,
-   "w1": -10.03,
-   "m1": -4.33,
+   "w1": -10.04,
+   "m1": -4.34,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -637,10 +637,10 @@
    "symbol": "XOM",
    "name": "Exxon Mobil (Energy)",
    "date": "2026-08-21",
-   "close": 165.1,
+   "close": 165.11,
    "d1": -0.63,
-   "w1": 3.12,
-   "m1": 5.23,
+   "w1": 3.13,
+   "m1": 5.24,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -648,10 +648,10 @@
    "symbol": "JPM",
    "name": "JPMorgan Chase (Financials)",
    "date": "2026-08-21",
-   "close": 351.67,
-   "d1": 0.03,
-   "w1": -3.08,
-   "m1": 0.51,
+   "close": 351.58,
+   "d1": 0.01,
+   "w1": -3.1,
+   "m1": 0.48,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -659,10 +659,10 @@
    "symbol": "LLY",
    "name": "Eli Lilly (Health Care)",
    "date": "2026-08-21",
-   "close": 1254.77,
-   "d1": 0.83,
-   "w1": 6.32,
-   "m1": 5.81,
+   "close": 1255.4,
+   "d1": 0.88,
+   "w1": 6.38,
+   "m1": 5.86,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -670,10 +670,10 @@
    "symbol": "GE",
    "name": "GE Aerospace (Industrials)",
    "date": "2026-08-21",
-   "close": 348.41,
-   "d1": 1.09,
-   "w1": -5.42,
-   "m1": -0.17,
+   "close": 348.37,
+   "d1": 1.08,
+   "w1": -5.43,
+   "m1": -0.18,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -692,10 +692,10 @@
    "symbol": "PLD",
    "name": "Prologis (Real Estate)",
    "date": "2026-08-21",
-   "close": 141.805,
+   "close": 141.8,
    "d1": 0.8,
    "w1": 0.55,
-   "m1": -2.28,
+   "m1": -2.29,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -716,10 +716,10 @@
    "symbol": "XLK",
    "name": "Technology",
    "date": "2026-08-21",
-   "close": 183.325,
-   "d1": 0.12,
-   "w1": -3.52,
-   "m1": 2.73,
+   "close": 183.31,
+   "d1": 0.11,
+   "w1": -3.53,
+   "m1": 2.72,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -727,10 +727,10 @@
    "symbol": "XLC",
    "name": "Communication Services",
    "date": "2026-08-21",
-   "close": 111.39,
-   "d1": 0.64,
-   "w1": -1.38,
-   "m1": 5.7,
+   "close": 111.4,
+   "d1": 0.65,
+   "w1": -1.37,
+   "m1": 5.71,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -738,10 +738,10 @@
    "symbol": "XLY",
    "name": "Consumer Discretionary",
    "date": "2026-08-21",
-   "close": 118.0,
-   "d1": 1.13,
-   "w1": -0.17,
-   "m1": 8.5,
+   "close": 118.02,
+   "d1": 1.15,
+   "w1": -0.15,
+   "m1": 8.51,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -760,10 +760,10 @@
    "symbol": "XLE",
    "name": "Energy",
    "date": "2026-08-21",
-   "close": 63.62,
-   "d1": -0.2,
-   "w1": 2.76,
-   "m1": 7.14,
+   "close": 63.64,
+   "d1": -0.17,
+   "w1": 2.79,
+   "m1": 7.17,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -793,8 +793,8 @@
    "symbol": "XLI",
    "name": "Industrials",
    "date": "2026-08-21",
-   "close": 180.24,
-   "d1": 0.26,
+   "close": 180.25,
+   "d1": 0.27,
    "w1": -3.36,
    "m1": -0.93,
    "significant": false,
@@ -804,10 +804,10 @@
    "symbol": "XLB",
    "name": "Materials",
    "date": "2026-08-21",
-   "close": 53.52,
-   "d1": 2.1,
-   "w1": 1.87,
-   "m1": 6.42,
+   "close": 53.54,
+   "d1": 2.14,
+   "w1": 1.9,
+   "m1": 6.46,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -815,10 +815,10 @@
    "symbol": "XLRE",
    "name": "Real Estate",
    "date": "2026-08-21",
-   "close": 45.07,
-   "d1": -0.02,
-   "w1": -0.44,
-   "m1": 0.27,
+   "close": 45.08,
+   "d1": 0.0,
+   "w1": -0.42,
+   "m1": 0.29,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -826,10 +826,10 @@
    "symbol": "XLU",
    "name": "Utilities",
    "date": "2026-08-21",
-   "close": 42.76,
-   "d1": -2.31,
-   "w1": -3.5,
-   "m1": -7.43,
+   "close": 42.77,
+   "d1": -2.28,
+   "w1": -3.48,
+   "m1": -7.4,
    "significant": false,
    "source": "yahoo-fallback"
   }

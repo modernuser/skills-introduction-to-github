@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-21T13:56:36Z",
+ "updated": "2026-08-21T14:48:47Z",
  "news": {
   "NVDA": [
    {
-    "title": "Cloverleaf Infrastructure Forms Strategic Partnership with NVIDIA to Accelerate Data Center Infrastructure Development",
-    "link": "https://finance.yahoo.com/technology/ai/articles/cloverleaf-infrastructure-forms-strategic-partnership-133000685.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 13:30:00 +0000"
+    "title": "The Billionaire Investor Who Predicted Black Monday Was Recently Making Moves Around His Top 4 AI Stock Holdings",
+    "link": "https://www.fool.com/investing/2026/08/21/billionaire-investor-who-predicted-black-monday/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:05:00 +0000"
    },
    {
-    "title": "BMO starts chip stocks coverage: Here are its preferred picks",
-    "link": "https://finance.yahoo.com/technology/articles/bmo-starts-chip-stocks-coverage-132807386.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 13:28:07 +0000"
+    "title": "The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia\u2019s Trap and Microsoft\u2019s Opportunity",
+    "link": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-capex-gap-140007152.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:00:07 +0000"
    },
    {
-    "title": "Nvidia in advanced talks to invest hundreds of millions in Cloverleaf Infrastructure \u2013 WSJ",
-    "link": "https://investorshub.advfn.com/market-news/article/34803/nvidia-in-advanced-talks-to-invest-hundreds-of-millions-in-cloverleaf-infrastructure-wsj?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 13:23:27 +0000"
+    "title": "Starcloud Raises $250 Million at $2.3 Billion Valuation to Scale AI with Orbital Data Centers",
+    "link": "https://finance.yahoo.com/technology/ai/articles/starcloud-raises-250-million-2-140000211.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Why the AI Cycle Means Broadcom Stock Has 25% Upside After the Recent Selloff",
+    "link": "https://finance.yahoo.com/m/901a82a8-7268-3f57-9277-cd94dd85efe3/why-the-ai-cycle-means.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 12:28:00 +0000"
+   },
+   {
     "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More",
     "link": "https://247wallst.com/investing/2026/08/21/here-are-fridays-top-wall-street-analyst-research-calls-broadcom-equifax-hubbell-marvell-technology-nvidia-spacex-portland-general-electric-taylor-devices-teradyne-and-more/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 11:59:19 +0000"
@@ -45,11 +50,6 @@
     "title": "Here\u2019s Why I\u2019m Buying More Broadcom as Spiking Treasury Yields Rock AI Stocks",
     "link": "https://247wallst.com/investing/2026/08/21/heres-why-im-buying-more-broadcom-as-spiking-treasury-yields-rock-ai-stocks/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 11:42:13 +0000"
-   },
-   {
-    "title": "Broadcom\u2019s (AVGO) Massive New Debt Deal Points To Where AI Is Headed",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-massive-debt-deal-094528841.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 09:45:28 +0000"
    }
   ],
   "TSM": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
+    "title": "This Stock Could Be a Major AI Winner Through 2027. What\u2019s It Worth?",
+    "link": "https://247wallst.com/investing/2026/08/21/this-stock-could-be-a-major-ai-winner-through-2027-whats-it-worth/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:30:32 +0000"
+   },
+   {
+    "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving MU\u2019s Low Valuation.",
+    "link": "https://finance.yahoo.com/m/dba4afdf-cea3-3eb9-a7a3-1c29298d7e0e/is-micron-a-commodity-or-an.html?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 13:30:00 +0000"
+   },
+   {
     "title": "BMO starts chip stocks coverage: Here are its preferred picks",
     "link": "https://finance.yahoo.com/technology/articles/bmo-starts-chip-stocks-coverage-132807386.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 13:28:07 +0000"
-   },
-   {
-    "title": "Micron CEO Delivers Blunt Message For Stock Investors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-ceo-delivers-blunt-message-121958557.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:19:58 +0000"
-   },
-   {
-    "title": "Micron CEO Sanjay Mehrotra says AI has changed memory demand",
-    "link": "https://qz.com/microns-ceo-is-arguing-ai-has-permanently-broken-memorys-boom-bust-cycle?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:03:42 +0000"
    }
   ],
   "SNDK": [
@@ -127,14 +127,14 @@
     "pubDate": "Wed, 19 Aug 2026 08:14:28 +0000"
    },
    {
+    "title": "This Stock Could Be a Major AI Winner Through 2027. What\u2019s It Worth?",
+    "link": "https://247wallst.com/investing/2026/08/21/this-stock-could-be-a-major-ai-winner-through-2027-whats-it-worth/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:30:32 +0000"
+   },
+   {
     "title": "MU, SNDK Dip Overnight: KOSPI Hits Halt Amid Asian Tech Chip Rout, SoftBank, Samsung, SK Hynix Retreat",
     "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-soft-bank-samsung-sk-hynix-retreat/cZYdEEaRJkB?.tsrc=rss",
     "pubDate": "Wed, 19 Aug 2026 05:24:38 +0000"
-   },
-   {
-    "title": "Western Digital, Nova, and Penguin Solutions Shares Plummet, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-nova-penguin-solutions-210133950.html?.tsrc=rss",
-    "pubDate": "Tue, 18 Aug 2026 21:01:33 +0000"
    }
   ],
   "STX": [
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
+    "title": "There Are Two SPY ETFs Now, and You Probably Own the Wrong One",
+    "link": "https://247wallst.com/investing/etf/2026/08/21/there-are-two-spy-etfs-now-and-you-probably-own-the-wrong-one/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:20:32 +0000"
+   },
+   {
     "title": "How Much of Your Portfolio Should Actually Be in FTXL",
     "link": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/?.tsrc=rss",
     "pubDate": "Thu, 20 Aug 2026 21:15:32 +0000"
    },
    {
-    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 13:15:05 +0000"
-   },
-   {
-    "title": "Chamath Palihapitiya: AI Has \u201cLiterally Zero\u201d To Do With Big Company Earnings, as Nvidia Sits On A 945% Five Year Run",
-    "link": "https://247wallst.com/investing/2026/08/21/chamath-palihapitiya-ai-has-literally-zero-to-do-with-big-company-earnings-as-nvidia-sits-on-a-945-five-year-run/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 12:55:40 +0000"
+    "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61356024/sp-500-8100-ubs-prediction-markets?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 14:06:53 +0000"
    }
   ]
  },

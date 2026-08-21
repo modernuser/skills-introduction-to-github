@@ -1,10 +1,10 @@
 {
- "generated": "2026-08-20T11:46:23Z",
+ "generated": "2026-08-21T11:45:20Z",
  "tests": {
   "passed": 226,
   "failed": 0,
   "ok": true,
-  "summary": "226 passed in 16.83s"
+  "summary": "226 passed in 17.62s"
  },
  "broken_internal_links": [],
  "secret_scan": {
@@ -22,8 +22,8 @@
  "published_freshness": {
   "checked": true,
   "ok": true,
-  "published_newest": "2026-08-19",
-  "expected_through": "2026-08-19",
+  "published_newest": "2026-08-20",
+  "expected_through": "2026-08-20",
   "sessions_behind": 0
  },
  "workflow_reliability": {
@@ -37,5 +37,5 @@
   "high": 0,
   "note": "per docs/engineering-audit.md (H1/M1/M2 fixed, M3 fixed by test suite)"
  },
- "last_successful_maintenance": "2026-08-20"
+ "last_successful_maintenance": "2026-08-21"
 }

@@ -131,5 +131,12 @@
   "tests_failed": 0,
   "health": "ok",
   "action": "Findings require attention: primary price source degraded: 35 symbol(s) served by the fallback (52-week ranges are unavailable on fallback data)"
+ },
+ {
+  "date": "2026-08-21",
+  "tests_passed": 226,
+  "tests_failed": 0,
+  "health": "ok",
+  "action": "Findings require attention: primary price source degraded: 35 symbol(s) served by the fallback (52-week ranges are unavailable on fallback data)"
  }
 ]

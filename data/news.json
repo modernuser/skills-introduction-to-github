@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-21T23:09:42Z",
+ "updated": "2026-08-21T23:42:13Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Why Cardano Was on Fire Today",
+    "link": "https://www.fool.com/investing/2026/08/21/why-cardano-was-on-fire-today/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 23:30:35 +0000"
+   },
+   {
+    "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+    "link": "https://www.fool.com/investing/2026/08/21/the-best-semiconductor-stock-to-buy-isnt-amd-or-qu/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 23:13:00 +0000"
+   },
    {
     "title": "Nvidia\u2019s $7 Billion Poolside Deal Reveals a Licensing Playbook That Sidesteps Acquisition Scrutiny",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 22:43:13 +0000"
-   },
-   {
-    "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
-    "link": "https://www.fool.com/investing/2026/08/21/billionaire-david-tepper-piled-into-a-debt-laden-a/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 22:39:00 +0000"
-   },
-   {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-data-center-developer-223738407.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+    "link": "https://www.fool.com/investing/2026/08/21/the-best-semiconductor-stock-to-buy-isnt-amd-or-qu/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 23:13:00 +0000"
+   },
    {
     "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
     "link": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 20:08:22 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-    "link": "https://www.fool.com/coverage/charts/2026/08/21/advanced-micro-devices-vs-arm-holdings-comparing-revenue-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 20:01:41 +0000"
    }
   ],
   "AVGO": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 21 Aug 2026 14:47:00 +0000"
    },
    {
+    "title": "Micron Fell 7% on Tuesday. Is This an Opportunity to Buy?",
+    "link": "https://www.fool.com/investing/2026/08/21/micron-fell-7-on-tuesday-is-this-an-opportunity-to/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 23:35:00 +0000"
+   },
+   {
     "title": "Micron CEO gives investors $10 billion reason to listen",
     "link": "https://www.thestreet.com/investing/stocks/micron-10-billion-research-bet?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 22:07:00 +0000"
-   },
-   {
-    "title": "Micron Falls as Wall Street Questions Its $1 Trillion Valuation",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-wall-street-questions-194755819.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 19:47:55 +0000"
    }
   ],
   "SNDK": [
@@ -127,14 +127,14 @@
     "pubDate": "Wed, 19 Aug 2026 08:14:28 +0000"
    },
    {
+    "title": "Micron Fell 7% on Tuesday. Is This an Opportunity to Buy?",
+    "link": "https://www.fool.com/investing/2026/08/21/micron-fell-7-on-tuesday-is-this-an-opportunity-to/?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 23:35:00 +0000"
+   },
+   {
     "title": "This Stock Could Be a Major AI Winner Through 2027. What\u2019s It Worth?",
     "link": "https://247wallst.com/investing/2026/08/21/this-stock-could-be-a-major-ai-winner-through-2027-whats-it-worth/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 14:30:32 +0000"
-   },
-   {
-    "title": "MU, SNDK Dip Overnight: KOSPI Hits Halt Amid Asian Tech Chip Rout, SoftBank, Samsung, SK Hynix Retreat",
-    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-soft-bank-samsung-sk-hynix-retreat/cZYdEEaRJkB?.tsrc=rss",
-    "pubDate": "Wed, 19 Aug 2026 05:24:38 +0000"
    }
   ],
   "STX": [

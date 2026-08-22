@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T23:42:13Z",
+ "updated": "2026-08-22T01:49:15Z",
  "news": {
   "NVDA": [
    {
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Marvell vs. Broadcom: the custom silicon shift",
+    "link": "https://www.thestreet.com/technology/marvell-google-broadcom-custom-silicon-shift?.tsrc=rss",
+    "pubDate": "Sat, 22 Aug 2026 00:37:00 +0000"
+   },
+   {
     "title": "Why Broadcom Stock Inched Higher on Friday",
     "link": "https://www.fool.com/investing/2026/08/21/why-broadcom-stock-inched-higher-on-friday/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 22:47:43 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom (AVGO) Is Down 6.2% After Google Expands AI Chip Ties With Marvell - What's Changed",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-down-6-2-221237826.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 22:12:37 +0000"
-   },
-   {
-    "title": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-laps-stock-214502693.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 21:45:02 +0000"
    }
   ],
   "TSM": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
+    "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
+    "link": "https://www.fool.com/investing/2026/08/21/intel-sold-usd20-billion-of-stock-at-usd95-a-share-it-now-trades-below-usd93/?.tsrc=rss",
+    "pubDate": "Sat, 22 Aug 2026 00:32:01 +0000"
+   },
+   {
+    "title": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
+    "link": "https://www.barchart.com/story/news/3975219/coatue-management-bought-9-72-million-shares-of-hut-8-in-q2-how-to-play-hut-stock-now?.tsrc=rss",
+    "pubDate": "Fri, 21 Aug 2026 18:33:07 +0000"
+   },
+   {
     "title": "\u2018It\u2019s Done\u2019: Investor Warns Warren Buffett\u2019s Berkshire Can\u2019t Beat the S&P 500 \u2014 Bets on PayPal and Intel Instead",
     "link": "https://finance.yahoo.com/markets/stocks/articles/done-investor-warns-warren-buffett-123111231.html?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 12:31:11 +0000"
-   },
-   {
-    "title": "Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics",
-    "link": "https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 07:25:00 +0000"
-   },
-   {
-    "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
-    "link": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html?.tsrc=rss",
-    "pubDate": "Thu, 20 Aug 2026 23:24:53 +0000"
    }
   ],
   "MU": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 21 Aug 2026 14:47:00 +0000"
    },
    {
+    "title": "Micron Committed $10 Billion Over 10 Years to a Research Lab That Breaks Ground in 2027",
+    "link": "https://www.fool.com/investing/2026/08/21/micron-committed-usd10-billion-over-10-years-to-a-research-lab-that-breaks-ground-in-2027/?.tsrc=rss",
+    "pubDate": "Sat, 22 Aug 2026 01:38:01 +0000"
+   },
+   {
     "title": "Micron Fell 7% on Tuesday. Is This an Opportunity to Buy?",
     "link": "https://www.fool.com/investing/2026/08/21/micron-fell-7-on-tuesday-is-this-an-opportunity-to/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 23:35:00 +0000"
-   },
-   {
-    "title": "Micron CEO gives investors $10 billion reason to listen",
-    "link": "https://www.thestreet.com/investing/stocks/micron-10-billion-research-bet?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 22:07:00 +0000"
    }
   ],
   "SNDK": [

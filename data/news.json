@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T11:42:05Z",
+ "updated": "2026-08-24T12:01:56Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia, software giants' earnings: What to watch the week of August 24th",
+    "link": "https://finance.yahoo.com/video/nvidia-software-giants-earnings-watch-120000803.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 12:00:00 +0000"
+   },
+   {
+    "title": "Nvidia pays $6 billion to license Poolside AI model software",
+    "link": "https://qz.com/nvidia-poolside-6-billion-license-ai-model-082426?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 11:55:20 +0000"
+   },
    {
     "title": "Nvidia, Fed Outlooks Dull Wall Street Bell; Asia Off, Europe Up",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-fed-outlooks-dull-wall-111402533.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 11:14:02 +0000"
-   },
-   {
-    "title": "The Bear Case on Agents and Compute is Wrong So I Buy More Nvidia",
-    "link": "https://247wallst.com/investing/2026/08/24/the-bear-case-on-agents-and-compute-is-wrong-so-i-buy-more-nvidia/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 11:11:13 +0000"
-   },
-   {
-    "title": "Apple Vs. Nvidia: He Who Controls Compute Wins",
-    "link": "https://247wallst.com/investing/2026/08/24/apple-vs-nvidia-he-who-controls-compute-wins/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 11:08:09 +0000"
    }
   ],
   "AMD": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Rapidus to receive $944 allocation from Japanese government for AI chip manufacturing",
+    "link": "https://www.verdict.co.uk/japan-allocate-further-944m-rapidus/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 11:37:43 +0000"
+   },
+   {
     "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
     "link": "https://finance.yahoo.com/technology/articles/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-062221305.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 06:22:21 +0000"
@@ -62,11 +67,6 @@
     "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
     "link": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/?.tsrc=rss",
     "pubDate": "Sun, 23 Aug 2026 15:50:00 +0000"
-   },
-   {
-    "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
-    "link": "https://www.fool.com/investing/2026/08/22/tsmcs-100-billion-arizona-expansion-stock-buy/?.tsrc=rss",
-    "pubDate": "Sat, 22 Aug 2026 19:05:00 +0000"
    }
   ],
   "INTC": [

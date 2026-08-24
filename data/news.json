@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T21:13:20Z",
+ "updated": "2026-08-24T21:47:19Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:35:41 +0000"
+   },
+   {
+    "title": "NVIDIA Earnings: A Quick Look at Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-quick-look-expectations-212800994.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:28:00 +0000"
+   },
    {
     "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
     "link": "https://finance.yahoo.com/m/a28a6eae-87d9-3229-b7dc-430baf4250e1/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:59:29 +0000"
-   },
-   {
-    "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
-   },
-   {
-    "title": "How to Find the Market's Long-Term Winners",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:43:00 +0000"
    }
   ],
   "AMD": [
@@ -93,14 +93,14 @@
     "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
    },
    {
+    "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
+    "link": "https://finance.yahoo.com/m/34467ff4-e06b-35a3-9015-2a0ad4609022/micron-stock-drops-after.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:29:00 +0000"
+   },
+   {
     "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:09:36 +0000"
-   },
-   {
-    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Mon, 24 Aug 2026 18:06:39 +0000"
    },
    {
-    "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:57:25 +0000"
-   },
-   {
     "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
+   },
+   {
+    "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/7eb54b1a-9c04-36c6-9efc-08ba3ba3c669/marvell%2C-micron%2C-spacex%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:37:00 +0000"
    }
   ],
   "WDC": [

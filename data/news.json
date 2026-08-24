@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T21:47:19Z",
+ "updated": "2026-08-24T22:11:19Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia customers face 15% AI price shock",
+    "link": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 22:03:00 +0000"
+   },
+   {
+    "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+    "link": "https://finance.yahoo.com/video/p-500-nasdaq-end-down-215152032.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:51:52 +0000"
+   },
    {
     "title": "Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 21:35:41 +0000"
-   },
-   {
-    "title": "NVIDIA Earnings: A Quick Look at Expectations",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-quick-look-expectations-212800994.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 21:28:00 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
-    "link": "https://finance.yahoo.com/m/a28a6eae-87d9-3229-b7dc-430baf4250e1/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:59:29 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
+    "link": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:34:57 +0000"
+   },
+   {
     "title": "AVGO Stock Slips Nearly 3% \u2014 Broadcom\u2019s AI Spending Is Pushing Credit Risks Higher",
     "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:42:40 +0000"
@@ -45,14 +50,14 @@
     "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
     "link": "https://www.thestreet.com/investing/stocks/steve-cohen-point72-13f-swaps-broadcom-avgo-for-oracle-orcl?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:23:00 +0000"
-   },
-   {
-    "title": "Worried About Broadcom's Debt? Bet on These Semiconductor ETFs Instead",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/worried-broadcoms-debt-bet-semiconductor-184600516.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:46:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214503484.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:45:03 +0000"
+   },
    {
     "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
     "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Could Taiwan Semiconductor Manufacturing Co. (TSM) Be the Biggest Long-Term Winner\u00a0From\u00a0the AI Chip Boom?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/could-taiwan-semiconductor-manufacturing-co-134836039.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:48:36 +0000"
-   },
-   {
-    "title": "Rapidus to receive $944 allocation from Japanese government for AI chip manufacturing",
-    "link": "https://www.verdict.co.uk/japan-allocate-further-944m-rapidus/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 11:37:43 +0000"
    }
   ],
   "INTC": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
+    "title": "What You Actually Pay To Join The MU Run",
+    "link": "https://www.trefis.com/articles/612528/what-you-actually-pay-to-join-the-mu-run-2/2026-08-24?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:45:30 +0000"
+   },
+   {
+    "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-214502820.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 21:45:02 +0000"
+   },
+   {
     "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
-   },
-   {
-    "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
-    "link": "https://finance.yahoo.com/m/34467ff4-e06b-35a3-9015-2a0ad4609022/micron-stock-drops-after.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:29:00 +0000"
-   },
-   {
-    "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:09:36 +0000"
    }
   ],
   "SNDK": [

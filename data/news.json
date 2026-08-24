@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-24T19:52:29Z",
+ "updated": "2026-08-24T20:43:39Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:17:38 +0000"
+    "title": "Nvidia results 'so important' for gauging AI funding fears, expert says",
+    "link": "https://finance.yahoo.com/video/nvidia-results-important-gauging-ai-202543088.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:25:43 +0000"
    },
    {
-    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
+    "title": "Coinbase Enters the Tokenized Stock Wars",
+    "link": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:25:42 +0000"
    },
    {
-    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:36:59 +0000"
+    "title": "Nvidia Makes Waves With Poolside Deal, AI Investments",
+    "link": "https://finance.yahoo.com/m/627f948b-5a8e-395c-81a5-a5080e2ef4bb/nvidia-makes-waves-with.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:18:24 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Sinks 2.9% Before Nvidia's Critical Earnings Test",
+    "link": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:56:30 +0000"
+   },
    {
     "title": "Advanced Micro Devices (AMD) Is Down 6.5% After $4.75 Billion Debt Raise And Taiwan AI Push",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-down-191037909.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
     "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
-   },
-   {
-    "title": "Can AMD (AMD) Win\u00a0From\u00a0the Shift Toward More CPU-Heavy AI Data\u00a0Centers?",
-    "link": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:13:07 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
+    "link": "https://www.thestreet.com/investing/stocks/steve-cohen-point72-13f-swaps-broadcom-avgo-for-oracle-orcl?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:23:00 +0000"
+   },
    {
     "title": "Worried About Broadcom's Debt? Bet on These Semiconductor ETFs Instead",
     "link": "https://finance.yahoo.com/markets/stocks/articles/worried-broadcoms-debt-bet-semiconductor-184600516.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Drops Nearly 2% as Custom-Chip Competition Tightens",
     "link": "https://finance.yahoo.com/technology/articles/broadcom-drops-nearly-2-custom-181638758.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:16:38 +0000"
-   },
-   {
-    "title": "Broadcom credit risk measures rise amid AI financing deals",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-credit-risk-measures-rise-181552128.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:15:52 +0000"
    }
   ],
   "TSM": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:09:36 +0000"
+   },
+   {
     "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
     "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
@@ -96,11 +101,6 @@
     "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 19:36:59 +0000"
-   },
-   {
-    "title": "Micron's Customers Are Putting Up $22 Billion, and Its CEO Says Data Centers Want 50% More Memory Than It Can Ship",
-    "link": "https://www.fool.com/investing/2026/08/24/micron-s-customers-are-putting-up-usd22-billion-and-its-ceo-says-data-centers-want-50-more-memory-than-it-can-ship/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:37:01 +0000"
    }
   ],
   "SNDK": [
@@ -122,19 +122,19 @@
   ],
   "WDC": [
    {
+    "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:09:36 +0000"
+   },
+   {
+    "title": "WD to Participate in Upcoming Investor Conference",
+    "link": "https://finance.yahoo.com/technology/articles/wd-participate-upcoming-investor-conference-200200302.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:02:00 +0000"
+   },
+   {
     "title": "Why Western Digital (WDC) Is Down 14.3% After Rotation From AI-Chip Winners To Other Sectors",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-down-190934609.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 19:09:34 +0000"
-   },
-   {
-    "title": "WDC's Strong Q4 Raises the Stakes for Its Fiscal 2027 Product Ramp",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdcs-strong-q4-raises-stakes-150700053.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:07:00 +0000"
-   },
-   {
-    "title": "WDC Fell 11.6% in the Past Month. Is the Weakness an Opportunity?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-fell-11-6-past-150600150.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:06:00 +0000"
    }
   ],
   "STX": [

@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-24T19:09:01Z",
+ "updated": "2026-08-24T19:52:29Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Nvidia Dips, Steel Gains Melt (Live Coverage)",
+    "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+    "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:17:38 +0000"
+   },
+   {
+    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
+   },
+   {
+    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:26:58 +0000"
-   },
-   {
-    "title": "Nvidia-Backed Hugging Face Could Fetch $13 Billion in a Sale",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-hugging-face-could-182628890.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:26:28 +0000"
-   },
-   {
-    "title": "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
-    "link": "https://www.fool.com/investing/2026/08/24/nvidia-reports-earnings-on-aug-26-here-are-3-other/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:23:21 +0000"
+    "pubDate": "Mon, 24 Aug 2026 19:36:59 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Advanced Micro Devices (AMD) Is Down 6.5% After $4.75 Billion Debt Raise And Taiwan AI Push",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-down-191037909.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:10:37 +0000"
+   },
    {
     "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
     "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Can AMD (AMD) Win\u00a0From\u00a0the Shift Toward More CPU-Heavy AI Data\u00a0Centers?",
     "link": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:13:07 +0000"
-   },
-   {
-    "title": "AMD Stock Gets Stunning Price Target From Wall Street",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-stunning-price-124347643.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:43:47 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
+   },
+   {
     "title": "Could Taiwan Semiconductor Manufacturing Co. (TSM) Be the Biggest Long-Term Winner\u00a0From\u00a0the AI Chip Boom?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/could-taiwan-semiconductor-manufacturing-co-134836039.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:48:36 +0000"
@@ -62,14 +67,14 @@
     "title": "Rapidus to receive $944 allocation from Japanese government for AI chip manufacturing",
     "link": "https://www.verdict.co.uk/japan-allocate-further-944m-rapidus/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 11:37:43 +0000"
-   },
-   {
-    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-    "link": "https://finance.yahoo.com/technology/articles/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-062221305.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 06:22:21 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel (INTC) Joins City Scale Open 5G And NextG Testing Push",
+    "link": "https://finance.yahoo.com/technology/articles/intel-intc-joins-city-scale-190930730.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:09:30 +0000"
+   },
    {
     "title": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
     "link": "https://finance.yahoo.com/technology/ai/articles/gf-securities-picks-3-ai-173809626.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 17:38:09 +0000"
-   },
-   {
-    "title": "Nancy Pelosi Adds Intel and Bloom Energy Positions",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-adds-intel-bloom-172107014.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 17:21:07 +0000"
    }
   ],
   "MU": [
    {
+    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
+   },
+   {
+    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:36:59 +0000"
+   },
+   {
     "title": "Micron's Customers Are Putting Up $22 Billion, and Its CEO Says Data Centers Want 50% More Memory Than It Can Ship",
     "link": "https://www.fool.com/investing/2026/08/24/micron-s-customers-are-putting-up-usd22-billion-and-its-ceo-says-data-centers-want-50-more-memory-than-it-can-ship/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:37:01 +0000"
-   },
-   {
-    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Nvidia Dips, Steel Gains Melt (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:26:58 +0000"
-   },
-   {
-    "title": "Micron Opens State-of-the-Art Training Center in Boise to Strengthen America\u2019s Semiconductor Workforce",
-    "link": "https://finance.yahoo.com/technology/articles/micron-opens-state-art-training-160000447.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 16:00:00 +0000"
    }
   ],
   "SNDK": [
@@ -115,12 +115,17 @@
     "pubDate": "Mon, 24 Aug 2026 13:57:25 +0000"
    },
    {
-    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Nvidia Dips, Steel Gains Melt (Live Coverage)",
+    "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:26:58 +0000"
+    "pubDate": "Mon, 24 Aug 2026 19:36:59 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Why Western Digital (WDC) Is Down 14.3% After Rotation From AI-Chip Winners To Other Sectors",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-down-190934609.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:09:34 +0000"
+   },
    {
     "title": "WDC's Strong Q4 Raises the Stakes for Its Fiscal 2027 Product Ramp",
     "link": "https://finance.yahoo.com/markets/stocks/articles/wdcs-strong-q4-raises-stakes-150700053.html?.tsrc=rss",
@@ -129,11 +134,6 @@
    {
     "title": "WDC Fell 11.6% in the Past Month. Is the Weakness an Opportunity?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-fell-11-6-past-150600150.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:06:00 +0000"
-   },
-   {
-    "title": "Is WDC Still a Buy as Growth Surges but Valuation Stays Expensive?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-still-buy-growth-surges-150600468.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 15:06:00 +0000"
    }
   ],

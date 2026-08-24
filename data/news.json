@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-24T13:10:49Z",
+ "updated": "2026-08-24T14:02:04Z",
  "news": {
   "NVDA": [
    {
-    "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
-    "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:54:06 +0000"
+    "title": "Stock Market Today (Aug. 24, 2026): Nasdaq slides on Iran sanctions, U.S.-Canada tariff threats",
+    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-24-2026?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:48:34 +0000"
    },
    {
-    "title": "Michael Burry Is Shorting Nvidia Heading Into Earnings, Here\u2019s What He\u2019s Buying Instead",
-    "link": "https://247wallst.com/investing/2026/08/24/michael-burry-is-shorting-nvidia-heading-into-earnings-heres-what-hes-buying-instead/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:36:45 +0000"
+    "title": "U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+    "link": "https://investorshub.advfn.com/market-news/article/34924/u-s-stocks-set-for-cautious-open-ahead-of-nvidia-earnings-and-jackson-hole-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:17:15 +0000"
    },
    {
-    "title": "A $30 Billion Reason Why Nvidia Stock In Focus",
-    "link": "https://finance.yahoo.com/technology/ai/articles/30-billion-reason-why-nvidia-123500863.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:35:00 +0000"
+    "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:16:01 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Can AMD (AMD) Win\u00a0From\u00a0the Shift Toward More CPU-Heavy AI Data\u00a0Centers?",
+    "link": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:13:07 +0000"
+   },
    {
     "title": "AMD Stock Gets Stunning Price Target From Wall Street",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-stunning-price-124347643.html?.tsrc=rss",
@@ -28,31 +33,31 @@
     "title": "AMD CEO Lisa Su Once Said Her Parents Expected All A\u2019s, the Best Schools and a PhD \u2014 \u2018I Just Thought, Wow, That\u2019s a Lot to Do,\u2019 But It Helped Shape 'Who I Am'",
     "link": "https://finance.yahoo.com/technology/articles/amd-ceo-lisa-su-once-120102520.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 12:01:02 +0000"
-   },
-   {
-    "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
-    "link": "https://www.fool.com/investing/2026/08/24/beyond-nvidia-amd-and-broadcom-why-this-chip-stock/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 09:35:00 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
+    "link": "https://247wallst.com/investing/2026/08/24/the-ai-opportunity-qualcomm-investors-may-be-underestimating/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:30:01 +0000"
+   },
+   {
+    "title": "The Big Difference Between Broadcom and Marvell Technology",
+    "link": "https://247wallst.com/investing/2026/08/24/the-big-difference-between-broadcom-and-marvell-technology/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:05:18 +0000"
+   },
+   {
     "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
     "link": "https://www.fool.com/investing/2026/08/24/beyond-nvidia-amd-and-broadcom-why-this-chip-stock/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 09:35:00 +0000"
-   },
-   {
-    "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
-    "link": "https://www.fool.com/investing/2026/08/24/billionaire-stanley-druckenmiller-sold-micron-2027/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 06:05:00 +0000"
-   },
-   {
-    "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-    "link": "https://www.fool.com/investing/2026/08/23/broadcom-has-seen-its-biggest-customer-drop-a-key-chip-before-history-says-what-the-stock-did-next/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 02:46:01 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Could Taiwan Semiconductor Manufacturing Co. (TSM) Be the Biggest Long-Term Winner\u00a0From\u00a0the AI Chip Boom?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/could-taiwan-semiconductor-manufacturing-co-134836039.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:48:36 +0000"
+   },
    {
     "title": "Rapidus to receive $944 allocation from Japanese government for AI chip manufacturing",
     "link": "https://www.verdict.co.uk/japan-allocate-further-944m-rapidus/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
     "link": "https://finance.yahoo.com/technology/articles/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-062221305.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 06:22:21 +0000"
-   },
-   {
-    "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
-    "link": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/?.tsrc=rss",
-    "pubDate": "Sun, 23 Aug 2026 15:50:00 +0000"
    }
   ],
   "INTC": [
@@ -88,36 +88,36 @@
   ],
   "MU": [
    {
+    "title": "Micron\u2019s CEO Says Memory Is No Longer a Commodity, and He Is Betting $10 Billion On It",
+    "link": "https://247wallst.com/investing/2026/08/24/microns-ceo-says-memory-is-no-longer-a-commodity-and-he-is-betting-10-billion-on-it/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:15:47 +0000"
+   },
+   {
+    "title": "Analyst calls MU, SNDK pre-market drop on CXMT Apple report an overreaction",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-calls-mu-sndk-pre-131247307.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:12:47 +0000"
+   },
+   {
     "title": "Primemas Shatters AI Memory Wall at FMS 2026 with CXL Full-Stack Products and Micron Collaboration on the Abaco Project",
     "link": "https://finance.yahoo.com/technology/ai/articles/primemas-shatters-ai-memory-wall-130000143.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:00:00 +0000"
-   },
-   {
-    "title": "Prediction: If You Invest $10,000 in Micron Stock Today, It Will Be Worth This Much by 2030",
-    "link": "https://www.fool.com/investing/2026/08/24/prediction-if-you-invest-10000-in-micron-stock-tod/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 10:34:00 +0000"
-   },
-   {
-    "title": "8 Billionaire Money Managers Dumped Micron in the Second Quarter, With Several Favoring This Foundational AI Stock Instead",
-    "link": "https://www.fool.com/investing/2026/08/24/8-billionaire-money-managers-dump-mu-in-favor-tsm/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 09:26:00 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
+    "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:57:25 +0000"
+   },
+   {
+    "title": "Analyst calls MU, SNDK pre-market drop on CXMT Apple report an overreaction",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-calls-mu-sndk-pre-131247307.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:12:47 +0000"
+   },
+   {
     "title": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
     "link": "https://www.fool.com/investing/2026/08/23/sandisk-rode-an-estimated-70-jump-in-nand-prices-trendforce-sees-10-to-15-this-quarter/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 03:58:01 +0000"
-   },
-   {
-    "title": "Micron, Sandisk, and SK Hynix: History Says This About the Memory Trio's Rally",
-    "link": "https://www.fool.com/investing/2026/08/23/micron-sandisk-and-sk-hynix-history-says-this-abou/?.tsrc=rss",
-    "pubDate": "Sun, 23 Aug 2026 23:35:00 +0000"
-   },
-   {
-    "title": "Sandisk (SNDK) Stock Sees Fair Value Lift After Investor Day And Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-sees-fair-020804936.html?.tsrc=rss",
-    "pubDate": "Sun, 23 Aug 2026 02:08:04 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Applied Optoelectronics Sinks 12% on $600M Equity Offering, Lumentum and Coherent Drop 5%",
+    "link": "https://247wallst.com/investing/2026/08/24/applied-optoelectronics-sinks-12-on-600m-equity-offering-lumentum-and-coherent-drop-5/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:22:35 +0000"
+   },
+   {
     "title": "Michael Burry Is Shorting Nvidia Heading Into Earnings, Here\u2019s What He\u2019s Buying Instead",
     "link": "https://247wallst.com/investing/2026/08/24/michael-burry-is-shorting-nvidia-heading-into-earnings-heres-what-hes-buying-instead/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 12:36:45 +0000"
@@ -164,11 +169,6 @@
     "title": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
     "link": "https://247wallst.com/investing/2026/08/21/michael-burry-says-the-ai-buildout-is-repeating-2008-the-shenanigans-are-apparent-today/?.tsrc=rss",
     "pubDate": "Fri, 21 Aug 2026 18:10:47 +0000"
-   },
-   {
-    "title": "Marvell Sinks 6% as Google Warrant Dilution Overtakes the Deal Rally; Broadcom Ticks Up",
-    "link": "https://247wallst.com/investing/2026/08/21/marvell-sinks-6-as-google-warrant-dilution-overtakes-the-deal-rally-broadcom-ticks-up/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 16:06:09 +0000"
    }
   ],
   "SOXL": [

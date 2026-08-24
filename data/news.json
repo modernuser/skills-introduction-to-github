@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T22:11:19Z",
+ "updated": "2026-08-24T22:47:00Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+    "link": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 22:16:04 +0000"
+   },
+   {
+    "title": "NVIDIA and 4 Other Spectacular Earnings Charts You Must See",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-4-other-spectacular-earnings-220900555.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 22:09:00 +0000"
+   },
    {
     "title": "Nvidia customers face 15% AI price shock",
     "link": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 22:03:00 +0000"
-   },
-   {
-    "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
-    "link": "https://finance.yahoo.com/video/p-500-nasdaq-end-down-215152032.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 21:51:52 +0000"
-   },
-   {
-    "title": "Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 21:35:41 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
+    "link": "https://247wallst.com/investing/2026/08/24/the-fastest-etf-in-history-just-hit-25-billion-in-four-months-it-owns-memory-chips/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 22:35:41 +0000"
+   },
+   {
     "title": "What You Actually Pay To Join The MU Run",
     "link": "https://www.trefis.com/articles/612528/what-you-actually-pay-to-join-the-mu-run-2/2026-08-24?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 21:45:30 +0000"
@@ -96,11 +101,6 @@
     "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-214502820.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 21:45:02 +0000"
-   },
-   {
-    "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
    }
   ],
   "SNDK": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
+    "link": "https://247wallst.com/investing/2026/08/24/the-fastest-etf-in-history-just-hit-25-billion-in-four-months-it-owns-memory-chips/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 22:35:41 +0000"
+   },
+   {
     "title": "Worried About Broadcom's Debt? Bet on These Semiconductor ETFs Instead",
     "link": "https://finance.yahoo.com/markets/stocks/articles/worried-broadcoms-debt-bet-semiconductor-184600516.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:46:00 +0000"
@@ -164,11 +169,6 @@
     "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips as Semi-Sector Positioning Shifts",
     "link": "https://247wallst.com/investing/2026/08/24/marvell-falls-4-ahead-of-august-27-earnings-broadcom-slips/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:01:13 +0000"
-   },
-   {
-    "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
-    "link": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 16:20:25 +0000"
    }
   ],
   "SOXL": [

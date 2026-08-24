@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-24T14:02:04Z",
+ "updated": "2026-08-24T14:54:39Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock Market Today (Aug. 24, 2026): Nasdaq slides on Iran sanctions, U.S.-Canada tariff threats",
-    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-24-2026?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:48:34 +0000"
+    "title": "Micron's Big AI Test Is Coming This Week",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microns-big-ai-test-coming-144549533.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:45:49 +0000"
    },
    {
-    "title": "U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-    "link": "https://investorshub.advfn.com/market-news/article/34924/u-s-stocks-set-for-cautious-open-ahead-of-nvidia-earnings-and-jackson-hole-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:17:15 +0000"
+    "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+    "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
    },
    {
-    "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:16:01 +0000"
+    "title": "Super Micro Sinks 7% as Taiwan Indicts Employees Over Illegal AI Server Exports to China, Dell Slips",
+    "link": "https://247wallst.com/investing/2026/08/24/super-micro-sinks-7-as-taiwan-indicts-employees-over-illegal-ai-server-exports-to-china-dell-slips/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:41:06 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+    "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
+   },
    {
     "title": "Can AMD (AMD) Win\u00a0From\u00a0the Shift Toward More CPU-Heavy AI Data\u00a0Centers?",
     "link": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "AMD Stock Gets Stunning Price Target From Wall Street",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-stunning-price-124347643.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 12:43:47 +0000"
-   },
-   {
-    "title": "AMD CEO Lisa Su Once Said Her Parents Expected All A\u2019s, the Best Schools and a PhD \u2014 \u2018I Just Thought, Wow, That\u2019s a Lot to Do,\u2019 But It Helped Shape 'Who I Am'",
-    "link": "https://finance.yahoo.com/technology/articles/amd-ceo-lisa-su-once-120102520.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:01:02 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom\u2019s $60 Billion AI Debt Deal Hides a $370 Billion Question Nobody on Wall Street Wants to Answer",
+    "link": "https://247wallst.com/investing/2026/08/24/broadcoms-60-billion-ai-debt-deal-hides-a-370-billion-question-nobody-on-wall-street-wants-to-answer/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 13:59:48 +0000"
+   },
    {
     "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
     "link": "https://247wallst.com/investing/2026/08/24/the-ai-opportunity-qualcomm-investors-may-be-underestimating/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "The Big Difference Between Broadcom and Marvell Technology",
     "link": "https://247wallst.com/investing/2026/08/24/the-big-difference-between-broadcom-and-marvell-technology/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:05:18 +0000"
-   },
-   {
-    "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
-    "link": "https://www.fool.com/investing/2026/08/24/beyond-nvidia-amd-and-broadcom-why-this-chip-stock/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 09:35:00 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+    "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
+   },
+   {
     "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
     "link": "https://www.fool.com/investing/2026/08/24/billionaire-stanley-druckenmiller-sold-micron-2027/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 06:05:00 +0000"
@@ -79,28 +84,23 @@
     "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
     "link": "https://www.fool.com/investing/2026/08/21/intel-sold-usd20-billion-of-stock-at-usd95-a-share-it-now-trades-below-usd93/?.tsrc=rss",
     "pubDate": "Sat, 22 Aug 2026 00:32:01 +0000"
-   },
-   {
-    "title": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
-    "link": "https://www.barchart.com/story/news/3975219/coatue-management-bought-9-72-million-shares-of-hut-8-in-q2-how-to-play-hut-stock-now?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 18:33:07 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron\u2019s CEO Says Memory Is No Longer a Commodity, and He Is Betting $10 Billion On It",
-    "link": "https://247wallst.com/investing/2026/08/24/microns-ceo-says-memory-is-no-longer-a-commodity-and-he-is-betting-10-billion-on-it/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:15:47 +0000"
+    "title": "Micron's Big AI Test Is Coming This Week",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microns-big-ai-test-coming-144549533.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:45:49 +0000"
    },
    {
-    "title": "Analyst calls MU, SNDK pre-market drop on CXMT Apple report an overreaction",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-calls-mu-sndk-pre-131247307.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:12:47 +0000"
+    "title": "Why Micron Stock Dropped This Morning",
+    "link": "https://www.fool.com/investing/2026/08/24/why-micron-stock-dropped-this-morning/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:16:07 +0000"
    },
    {
-    "title": "Primemas Shatters AI Memory Wall at FMS 2026 with CXL Full-Stack Products and Micron Collaboration on the Abaco Project",
-    "link": "https://finance.yahoo.com/technology/ai/articles/primemas-shatters-ai-memory-wall-130000143.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:00:00 +0000"
+    "title": "Micron Stock Drops After Chinese Memory IPO Filing. Can It Fight Off the Competition?",
+    "link": "https://finance.yahoo.com/m/34467ff4-e06b-35a3-9015-2a0ad4609022/micron-stock-drops-after.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:07:00 +0000"
    }
   ],
   "SNDK": [
@@ -115,9 +115,9 @@
     "pubDate": "Mon, 24 Aug 2026 13:12:47 +0000"
    },
    {
-    "title": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
-    "link": "https://www.fool.com/investing/2026/08/23/sandisk-rode-an-estimated-70-jump-in-nand-prices-trendforce-sees-10-to-15-this-quarter/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 03:58:01 +0000"
+    "title": "Micron, Sandisk, SpaceX, Tesla, Alibaba, Steel Dynamics, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/7eb54b1a-9c04-36c6-9efc-08ba3ba3c669/micron%2C-sandisk%2C-spacex%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 12:57:00 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+    "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
+   },
+   {
     "title": "Applied Optoelectronics Sinks 12% on $600M Equity Offering, Lumentum and Coherent Drop 5%",
     "link": "https://247wallst.com/investing/2026/08/24/applied-optoelectronics-sinks-12-on-600m-equity-offering-lumentum-and-coherent-drop-5/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:22:35 +0000"
@@ -164,11 +169,6 @@
     "title": "Michael Burry Is Shorting Nvidia Heading Into Earnings, Here\u2019s What He\u2019s Buying Instead",
     "link": "https://247wallst.com/investing/2026/08/24/michael-burry-is-shorting-nvidia-heading-into-earnings-heres-what-hes-buying-instead/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 12:36:45 +0000"
-   },
-   {
-    "title": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
-    "link": "https://247wallst.com/investing/2026/08/21/michael-burry-says-the-ai-buildout-is-repeating-2008-the-shenanigans-are-apparent-today/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 18:10:47 +0000"
    }
   ],
   "SOXL": [

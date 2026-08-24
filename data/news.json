@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T15:51:12Z",
+ "updated": "2026-08-24T16:51:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Poised to Report Fiscal Q2 Beat, Wedbush Says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-poised-report-fiscal-q2-154229663.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:42:29 +0000"
+    "title": "Analyst rethinks Nvidia stock ahead of earnings",
+    "link": "https://www.thestreet.com/investing/stocks/citi-nvidia-stock-maintains-buy-300-target-ahead-of-earnings?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:33:00 +0000"
    },
    {
-    "title": "Nvidia Makes Waves With Poolside Deal, AI Investments",
-    "link": "https://finance.yahoo.com/m/627f948b-5a8e-395c-81a5-a5080e2ef4bb/nvidia-makes-waves-with.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:41:49 +0000"
+    "title": "NVDA Stock Dips Despite SpaceXAI Deal: Analyst Flags 5 Catalysts Going Into Q2 Earnings",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-dips-despite-space-xai-deal-analyst-flags-5-catalysts-going-into-q2-earnings/cZYKNKtRJFE?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:23:23 +0000"
    },
    {
-    "title": "1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026",
-    "link": "https://www.fool.com/investing/2026/08/24/1-new-way-to-invest-in-cryptocurrency-that-could-h/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:25:00 +0000"
+    "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
+    "link": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:20:25 +0000"
    }
   ],
   "AMD": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
+    "title": "Micron Opens State-of-the-Art Training Center in Boise to Strengthen America\u2019s Semiconductor Workforce",
+    "link": "https://finance.yahoo.com/technology/articles/micron-opens-state-art-training-160000447.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:00:00 +0000"
+   },
+   {
+    "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 15:56:19 +0000"
+   },
+   {
     "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
     "link": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 15:29:36 +0000"
-   },
-   {
-    "title": "Micron Stock Slips as Samsung's 9% Plunge Rattles Memory Trade",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-samsungs-9-150705778.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:07:05 +0000"
-   },
-   {
-    "title": "Micron's Big AI Test Is Coming This Week",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microns-big-ai-test-coming-144549533.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 14:45:49 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Mon, 24 Aug 2026 13:57:25 +0000"
    },
    {
-    "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
-    "link": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 15:29:36 +0000"
+    "title": "Why Sandisk Stock Dropped This Morning",
+    "link": "https://www.fool.com/investing/2026/08/24/why-sandisk-stock-dropped-this-morning/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:28:35 +0000"
    },
    {
-    "title": "Analyst calls MU, SNDK pre-market drop on CXMT Apple report an overreaction",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-calls-mu-sndk-pre-131247307.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 13:12:47 +0000"
+    "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 15:56:19 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
+    "link": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:20:25 +0000"
+   },
+   {
     "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
     "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
@@ -164,11 +169,6 @@
     "title": "Applied Optoelectronics Sinks 12% on $600M Equity Offering, Lumentum and Coherent Drop 5%",
     "link": "https://247wallst.com/investing/2026/08/24/applied-optoelectronics-sinks-12-on-600m-equity-offering-lumentum-and-coherent-drop-5/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 13:22:35 +0000"
-   },
-   {
-    "title": "Michael Burry Is Shorting Nvidia Heading Into Earnings, Here\u2019s What He\u2019s Buying Instead",
-    "link": "https://247wallst.com/investing/2026/08/24/michael-burry-is-shorting-nvidia-heading-into-earnings-heres-what-hes-buying-instead/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 12:36:45 +0000"
    }
   ],
   "SOXL": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
+    "link": "https://247wallst.com/investing/2026/08/24/drone-stocks-slide-as-risk-appetite-fades-unusual-machines-tumbles-9-red-cat-falls-7-ondas-declines-5/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:35:43 +0000"
+   },
+   {
+    "title": "Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6%",
+    "link": "https://247wallst.com/investing/2026/08/24/quantum-stocks-unwind-a-revenue-headline-rally-rigetti-computing-and-infleqtion-down-7-ionq-down-6/?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 16:31:10 +0000"
+   },
+   {
     "title": "The Smartest ETF to Buy With $750 Right Now",
     "link": "https://www.fool.com/investing/2026/08/22/the-smartest-etf-to-buy-with-750-right-now/?.tsrc=rss",
     "pubDate": "Sat, 22 Aug 2026 17:55:00 +0000"
-   },
-   {
-    "title": "Two Years of Friday Paydays: The 44% Fund Has Kept Its NAV and Beaten Half of Wall Street",
-    "link": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 21:35:03 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-170917052.html?.tsrc=rss",
-    "pubDate": "Fri, 21 Aug 2026 17:09:17 +0000"
    }
   ],
   "SPY": [

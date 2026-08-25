@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-25T01:51:08Z",
+ "updated": "2026-08-25T08:57:37Z",
  "news": {
   "NVDA": [
    {
-    "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
-    "link": "https://www.fool.com/investing/2026/08/24/berkshire-hathaway-rose-while-every-major-chip-stock-fell-monday/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 01:07:01 +0000"
+    "title": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 08:05:27 +0000"
    },
    {
-    "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
-    "link": "https://finance.yahoo.com/m/a28a6eae-87d9-3229-b7dc-430baf4250e1/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 01:04:31 +0000"
+    "title": "Nvidia employee charged with smuggling advanced chips into China",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-employee-charged-with-smuggling-advanced-chips-into-china-053111460.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 05:31:11 +0000"
    },
    {
-    "title": "Nvidia\u2019s $20 Billion Groq Bet Is Going Live Before the End of 2026. Here\u2019s What It Means for Investors.",
-    "link": "https://www.fool.com/investing/2026/08/24/nvidia-s-usd20-billion-groq-bet-is-going-live-before-the-end-of-2026-here-s-what-it-means-for-investors/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 23:03:01 +0000"
+    "title": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 08:22:54 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 04:33:10 +0000"
+   },
    {
     "title": "AMD Sinks 2.9% Before Nvidia's Critical Earnings Test",
     "link": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Advanced Micro Devices (AMD) Is Down 6.5% After $4.75 Billion Debt Raise And Taiwan AI Push",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-down-191037909.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 19:10:37 +0000"
-   },
-   {
-    "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
-    "link": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 14:43:50 +0000"
    }
   ],
   "AVGO": [
@@ -54,19 +54,19 @@
   ],
   "TSM": [
    {
+    "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
+    "link": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 07:43:01 +0000"
+   },
+   {
+    "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
+    "link": "https://stocktwits.com/news-articles/markets/equity/are-emerging-markets-now-an-ai-trade-tsmc-samsung-sk-hynix-drive-more-than-half-the-gains/cZYkBgSRJFU?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 03:45:21 +0000"
+   },
+   {
     "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214503484.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 21:45:03 +0000"
-   },
-   {
-    "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:49:32 +0000"
-   },
-   {
-    "title": "George Soros Quietly Raised His Taiwan Semi Stake by 1,000%. Here\u2019s Why You Should Be Buying Too.",
-    "link": "https://www.barchart.com/story/news/4007211/george-soros-quietly-raised-his-taiwan-semi-stake-by-1-000-heres-why-you-should-be-buying-too?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:16:23 +0000"
    }
   ],
   "INTC": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "Western Digital Sits 46% Below Its High and Has Still More Than Doubled This Year",
+    "link": "https://www.fool.com/investing/2026/08/24/western-digital-sits-46-below-its-high-and-has-still-more-than-doubled-this-year/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 03:12:01 +0000"
+   },
+   {
     "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:09:36 +0000"
@@ -130,11 +135,6 @@
     "title": "WD to Participate in Upcoming Investor Conference",
     "link": "https://finance.yahoo.com/technology/articles/wd-participate-upcoming-investor-conference-200200302.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:02:00 +0000"
-   },
-   {
-    "title": "Why Western Digital (WDC) Is Down 14.3% After Rotation From AI-Chip Winners To Other Sectors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-down-190934609.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:09:34 +0000"
    }
   ],
   "STX": [

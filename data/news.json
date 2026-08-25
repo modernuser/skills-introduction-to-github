@@ -1,7 +1,12 @@
 {
- "updated": "2026-08-24T23:40:29Z",
+ "updated": "2026-08-25T00:01:50Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+    "link": "https://finance.yahoo.com/m/a28a6eae-87d9-3229-b7dc-430baf4250e1/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 23:55:37 +0000"
+   },
    {
     "title": "Nvidia\u2019s $20 Billion Groq Bet Is Going Live Before the End of 2026. Here\u2019s What It Means for Investors.",
     "link": "https://www.fool.com/investing/2026/08/24/nvidia-s-usd20-billion-groq-bet-is-going-live-before-the-end-of-2026-here-s-what-it-means-for-investors/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "link": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 22:16:04 +0000"
-   },
-   {
-    "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-under-pressure-us-220952003.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 22:09:52 +0000"
    }
   ],
   "AMD": [

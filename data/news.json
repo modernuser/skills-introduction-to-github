@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-25T11:40:29Z",
+ "updated": "2026-08-25T12:02:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "S&P 500, Nasdaq futures rise ahead of Nvidia earnings",
-    "link": "https://qz.com/wall-street-futures-nvidia-earnings-inflation-data-082526?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 11:27:30 +0000"
+    "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
+    "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:53:14 +0000"
    },
    {
-    "title": "This Hedge Fund Just Sold Nvidia and Bought AMD Stock. Which Artificial Intelligence (AI) Chipmaker Is the Better Buy?",
-    "link": "https://www.fool.com/investing/2026/08/25/this-hedge-fund-just-sold-nvidia-and-bought-amd-st/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 11:10:00 +0000"
+    "title": "SuperX Secures $38.8 Million NVIDIA B300 Server Order from Woodman, Accelerating Expansion into Japan's AI Infrastructure Market",
+    "link": "https://finance.yahoo.com/technology/ai/articles/superx-secures-38-8-million-120000652.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000"
    },
    {
-    "title": "Nvidia Earnings Put Rubin Growth Story and AI Financing Strategy Under the Spotlight",
-    "link": "https://investorshub.advfn.com/market-news/article/34989/nvidia-earnings-put-rubin-growth-story-and-ai-financing-strategy-under-the-spotlight?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 11:08:47 +0000"
+    "title": "For Investors in Their 30s, Here's 1 Glorious Growth ETF to Buy Hand Over Fist and Hold Forever",
+    "link": "https://www.fool.com/investing/2026/08/25/investors-glorious-growth-etf-buy-hold-mgk/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:50:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy",
-    "link": "https://investorshub.advfn.com/market-news/article/34991/advanced-micro-devices-shares-rise-after-raymond-james-upgrades-stock-to-strong-buy?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 11:10:55 +0000"
+    "title": "Anjuna Security Brings Confidential Computing Platform to On-Premises Data Centers with Just One Click",
+    "link": "https://finance.yahoo.com/technology/ai/articles/anjuna-security-brings-confidential-computing-120000764.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000"
    },
    {
-    "title": "AMD Stock Gains After Upgrade: Analyst Sees \u2018Strongest Combination\u2019 Of Earnings Leverage, Data Center Gains",
-    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-upgrade-strongest-combination-earnings-leverage-data-center-gains/cZYklV4RJ80?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 10:46:23 +0000"
+    "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Dynatrace, Five Below, Fortune Brands, Klarna Group, Jersey Mike\u2019s Subs, Moderna, Sherwin-Williams, and More",
+    "link": "https://247wallst.com/investing/2026/08/25/here-are-tuesdays-top-wall-street-analyst-research-calls-advanced-micro-devices-dynatrace-five-below-fortune-brands-klarna-group-jersey-mikes-subs-moderna-sherwin-williams-and-more/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:45:44 +0000"
    },
    {
-    "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 04:33:10 +0000"
+    "title": "Premarket movers: AMD upgraded, Bloom energy surges",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-amd-upgraded-bloom-114430949.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:44:30 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Is Broadcom in Trouble Now That Alphabet Is Getting Chips From Marvell Too?",
+    "link": "https://www.fool.com/investing/2026/08/25/is-broadcom-in-trouble-now-that-alphabet-is-gettin/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:35:00 +0000"
+   },
    {
     "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
     "link": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "AVGO Stock Slips Nearly 3% \u2014 Broadcom\u2019s AI Spending Is Pushing Credit Risks Higher",
     "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:42:40 +0000"
-   },
-   {
-    "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
-    "link": "https://www.thestreet.com/investing/stocks/steve-cohen-point72-13f-swaps-broadcom-avgo-for-oracle-orcl?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:23:00 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel\u2019s Skid Continues: One of The Biggest Global Banks Says It Will Provide 130% Returns From Here",
+    "link": "https://247wallst.com/investing/2026/08/25/intels-skid-continues-one-of-the-biggest-global-banks-says-it-will-provide-130-returns-from-here/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:40:04 +0000"
+   },
+   {
     "title": "Intel (INTC) Joins City Scale Open 5G And NextG Testing Push",
     "link": "https://finance.yahoo.com/technology/articles/intel-intc-joins-city-scale-190930730.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 19:09:30 +0000"
@@ -79,11 +84,6 @@
     "title": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:34:32 +0000"
-   },
-   {
-    "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
-    "link": "https://finance.yahoo.com/technology/ai/articles/gf-securities-picks-3-ai-173809626.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 17:38:09 +0000"
    }
   ],
   "MU": [
@@ -105,11 +105,6 @@
   ],
   "SNDK": [
    {
-    "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 20:43:08 +0000"
-   },
-   {
     "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/7eb54b1a-9c04-36c6-9efc-08ba3ba3c669/marvell%2C-micron%2C-spacex%2C.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:37:00 +0000"
@@ -118,6 +113,11 @@
     "title": "Sandisk Sinks 37%, but Wall Street Still Backs SNDK Stock",
     "link": "https://www.barchart.com/story/news/4007273/sandisk-sinks-37-but-wall-street-still-backs-sndk-stock?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 18:27:06 +0000"
+   },
+   {
+    "title": "Wall Street is rotating out of 2026's biggest winners: Chart of the Day",
+    "link": "https://finance.yahoo.com/markets/article/wall-street-is-rotating-out-of-2026s-biggest-winners-chart-of-the-day-180639239.html?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 18:06:39 +0000"
    }
   ],
   "WDC": [

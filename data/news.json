@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-25T14:02:07Z",
+ "updated": "2026-08-25T14:58:38Z",
  "news": {
   "NVDA": [
    {
-    "title": "Elon Musk says SpaceX's Nvidia-powered orbital data center could be ready next year",
-    "link": "https://finance.yahoo.com/video/elon-musk-says-spacexs-nvidia-135333519.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:53:33 +0000"
+    "title": "SpaceX orbital data center launch moved up to 2027, Musk says",
+    "link": "https://finance.yahoo.com/markets/stocks/article/spacex-orbital-data-center-launch-moved-up-to-2027-musk-says-142539276.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:25:39 +0000"
    },
    {
-    "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:52:58 +0000"
+    "title": "Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
+    "link": "https://www.fool.com/investing/2026/08/25/jensen-huang-told-investors-in-seoul-to-buy-at-a-d/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:42:00 +0000"
    },
    {
-    "title": "Nvidia stock hopes to snap seven-day losing streak ahead of earnings",
-    "link": "https://finance.yahoo.com/video/nvidia-stock-hopes-snap-seven-135037753.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:50:37 +0000"
+    "title": "Kalshi's Nvidia Compute Markets Hit $4.4M: Is AI Compute the 'New Oil'?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61411352/kalshi-nvidia-compute-markets?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:41:29 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
+    "link": "https://finance.yahoo.com/m/a5ddfc6e-703b-393b-85de-1b997023dd13/amd-stock-upgraded-to-strong.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:00:32 +0000"
+   },
    {
     "title": "Company News for Aug 25, 2026",
     "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-25-2026-133700863.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 13:37:00 +0000"
    },
    {
-    "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
-    "link": "https://247wallst.com/investing/2026/08/25/amd-and-intel-rise-3-on-a-strong-buy-upgrade-and-a-pelosi-disclosure-nvidia-and-broadcom-tick-up/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:18:00 +0000"
-   },
-   {
-    "title": "Linux Foundation Welcomes TRACE to Advance Verifiable Runtime Evidence for AI Workloads",
-    "link": "https://finance.yahoo.com/technology/ai/articles/linux-foundation-welcomes-trace-advance-130000633.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000"
+    "title": "AMD Chips Away at Nvidia\u2019s Moat. The Chip Maker Could Dominate the CPU Market and Rise 40%.",
+    "link": "https://finance.yahoo.com/m/2b5d5922-6f25-3fae-8c61-cf5dc7d071a6/amd-chips-away-at-nvidia%E2%80%99s.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:23:00 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads",
+    "link": "https://247wallst.com/investing/2026/08/25/top-investors-name-5-ai-stocks-that-could-win-no-matter-which-model-leads/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:26:31 +0000"
+   },
+   {
     "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
     "link": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 07:43:01 +0000"
@@ -62,11 +67,6 @@
     "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
     "link": "https://stocktwits.com/news-articles/markets/equity/are-emerging-markets-now-an-ai-trade-tsmc-samsung-sk-hynix-drive-more-than-half-the-gains/cZYkBgSRJFU?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 03:45:21 +0000"
-   },
-   {
-    "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214503484.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 21:45:03 +0000"
    }
   ],
   "INTC": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
+    "title": "Memory Shortage Deepens to Worst Levels Since 2017 \u2014 Here\u2019s Why Micron Investors Will Cash In",
+    "link": "https://247wallst.com/investing/2026/08/25/memory-shortage-deepens-to-worst-levels-since-2017-heres-why-micron-investors-will-cash-in/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:37:32 +0000"
+   },
+   {
+    "title": "One AI Stock I\u2019d Watch Before Nvidia\u2019s Earnings",
+    "link": "https://247wallst.com/investing/2026/08/25/one-ai-stock-id-watch-before-nvidias-earnings/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:15:15 +0000"
+   },
+   {
     "title": "Broadcom Vs. Micron: Why They\u2019re So Strong as Capital Shifts to Inference and Agentic AI",
     "link": "https://247wallst.com/investing/2026/08/25/broadcom-vs-micron-why-theyre-so-strong-as-capital-shifts-to-inference-and-agentic-ai/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 13:50:50 +0000"
-   },
-   {
-    "title": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
-    "link": "https://www.fool.com/investing/2026/08/25/these-2-artificial-intelligence-ai-stocks-could-soar-by-66-and-46-according-to-wall-street/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:35:01 +0000"
-   },
-   {
-    "title": "Is It Too Late to Buy Micron Stock After Its 981% Surge?",
-    "link": "https://www.fool.com/investing/2026/08/25/is-it-too-late-to-buy-micron-stock-after-its-981-surge/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 12:20:01 +0000"
    }
   ],
   "SNDK": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Super Micro Surges 8% as Taiwan Indicts Employees but Not the Company, Dell Climbs 4%",
+    "link": "https://247wallst.com/investing/2026/08/25/super-micro-surges-8-as-taiwan-indicts-employees-but-not-the-company-dell-climbs-4/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 14:45:27 +0000"
+   },
+   {
     "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
     "link": "https://247wallst.com/investing/2026/08/25/amd-and-intel-rise-3-on-a-strong-buy-upgrade-and-a-pelosi-disclosure-nvidia-and-broadcom-tick-up/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 13:18:00 +0000"
@@ -164,11 +169,6 @@
     "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
     "link": "https://247wallst.com/investing/2026/08/24/the-fastest-etf-in-history-just-hit-25-billion-in-four-months-it-owns-memory-chips/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 22:35:41 +0000"
-   },
-   {
-    "title": "Worried About Broadcom's Debt? Bet on These Semiconductor ETFs Instead",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/worried-broadcoms-debt-bet-semiconductor-184600516.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:46:00 +0000"
    }
   ],
   "SOXL": [

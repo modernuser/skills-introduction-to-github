@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-25T10:47:40Z",
+ "updated": "2026-08-25T11:40:29Z",
  "news": {
   "NVDA": [
    {
-    "title": "Software is crushing chips by a record margin: Chart of the Day",
-    "link": "https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 10:00:00 +0000"
+    "title": "S&P 500, Nasdaq futures rise ahead of Nvidia earnings",
+    "link": "https://qz.com/wall-street-futures-nvidia-earnings-inflation-data-082526?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:27:30 +0000"
    },
    {
-    "title": "Prediction: This Stock Will Outperform the \"Magnificent Seven\" in the Second Half of 2026",
-    "link": "https://www.fool.com/investing/2026/08/25/prediction-this-stock-will-outperform-the-magnific/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 10:35:00 +0000"
+    "title": "This Hedge Fund Just Sold Nvidia and Bought AMD Stock. Which Artificial Intelligence (AI) Chipmaker Is the Better Buy?",
+    "link": "https://www.fool.com/investing/2026/08/25/this-hedge-fund-just-sold-nvidia-and-bought-amd-st/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:10:00 +0000"
    },
    {
-    "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 10:02:34 +0000"
+    "title": "Nvidia Earnings Put Rubin Growth Story and AI Financing Strategy Under the Spotlight",
+    "link": "https://investorshub.advfn.com/market-news/article/34989/nvidia-earnings-put-rubin-growth-story-and-ai-financing-strategy-under-the-spotlight?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:08:47 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy",
+    "link": "https://investorshub.advfn.com/market-news/article/34991/advanced-micro-devices-shares-rise-after-raymond-james-upgrades-stock-to-strong-buy?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 11:10:55 +0000"
+   },
+   {
+    "title": "AMD Stock Gains After Upgrade: Analyst Sees \u2018Strongest Combination\u2019 Of Earnings Leverage, Data Center Gains",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-upgrade-strongest-combination-earnings-leverage-data-center-gains/cZYklV4RJ80?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 10:46:23 +0000"
+   },
+   {
     "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 04:33:10 +0000"
-   },
-   {
-    "title": "AMD Sinks 2.9% Before Nvidia's Critical Earnings Test",
-    "link": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:56:30 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices (AMD) Is Down 6.5% After $4.75 Billion Debt Raise And Taiwan AI Push",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-down-191037909.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 19:10:37 +0000"
    }
   ],
   "AVGO": [

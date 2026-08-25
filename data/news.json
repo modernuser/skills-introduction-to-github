@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-25T09:49:38Z",
+ "updated": "2026-08-25T10:47:40Z",
  "news": {
   "NVDA": [
    {
-    "title": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 08:05:27 +0000"
+    "title": "Software is crushing chips by a record margin: Chart of the Day",
+    "link": "https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 10:00:00 +0000"
    },
    {
-    "title": "Forget Nvidia. This ETF Could Be the Next Big Winner From the AI Boom",
-    "link": "https://www.fool.com/investing/2026/08/25/forget-nvidia-this-etf-next-big-ai-boom-winner-vpu/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 09:40:00 +0000"
+    "title": "Prediction: This Stock Will Outperform the \"Magnificent Seven\" in the Second Half of 2026",
+    "link": "https://www.fool.com/investing/2026/08/25/prediction-this-stock-will-outperform-the-magnific/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 10:35:00 +0000"
    },
    {
-    "title": "U.S. Expands Iran Sanctions as Bitcoin Breaks $80,000 and Markets Await Nvidia: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-    "link": "https://investorshub.advfn.com/market-news/article/34957/u-s-expands-iran-sanctions-as-bitcoin-breaks-80000-and-markets-await-nvidia-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 09:24:05 +0000"
+    "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 10:02:34 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Why Micron Will Miss Out on a 50% Rise in Memory Prices",
+    "link": "https://finance.yahoo.com/m/4e569a6e-22c3-33e2-86e0-8926425cd069/why-micron-will-miss-out-on-a.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 10:25:00 +0000"
+   },
+   {
     "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
     "link": "https://247wallst.com/investing/2026/08/24/the-fastest-etf-in-history-just-hit-25-billion-in-four-months-it-owns-memory-chips/?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 22:35:41 +0000"
@@ -96,19 +101,9 @@
     "title": "Micron CEO Sounds Alarm on AI Memory Crunch \u2014 Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)",
     "link": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sounds-alarm-ai-223107015.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 22:31:07 +0000"
-   },
-   {
-    "title": "What You Actually Pay To Join The MU Run",
-    "link": "https://www.trefis.com/articles/612528/what-you-actually-pay-to-join-the-mu-run-2/2026-08-24?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 21:45:30 +0000"
    }
   ],
   "SNDK": [
-   {
-    "title": "Wall Street is rotating out of 2026's biggest winners: Chart of the Day",
-    "link": "https://finance.yahoo.com/markets/article/wall-street-is-rotating-out-of-2026s-biggest-winners-chart-of-the-day-180639239.html?.tsrc=rss",
-    "pubDate": "Mon, 24 Aug 2026 18:06:39 +0000"
-   },
    {
     "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
     "link": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
@@ -118,6 +113,11 @@
     "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/7eb54b1a-9c04-36c6-9efc-08ba3ba3c669/marvell%2C-micron%2C-spacex%2C.html?.tsrc=rss",
     "pubDate": "Mon, 24 Aug 2026 20:37:00 +0000"
+   },
+   {
+    "title": "Sandisk Sinks 37%, but Wall Street Still Backs SNDK Stock",
+    "link": "https://www.barchart.com/story/news/4007273/sandisk-sinks-37-but-wall-street-still-backs-sndk-stock?.tsrc=rss",
+    "pubDate": "Mon, 24 Aug 2026 18:27:06 +0000"
    }
   ],
   "WDC": [

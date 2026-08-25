@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-25T19:53:55Z",
+ "updated": "2026-08-25T20:40:26Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-    "link": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:20:16 +0000"
+    "title": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
+    "link": "https://finance.yahoo.com/video/story-nvidias-margins-balance-sheet-200000914.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 20:00:00 +0000"
    },
    {
-    "title": "Nvidia Jumps 2.4% as $352 Target Raises Tomorrow's Stakes",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jumps-2-4-352-192812721.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:28:12 +0000"
+    "title": "1 High-Yield Dividend Stock Worth Loading Up On Right Now",
+    "link": "https://www.fool.com/investing/2026/08/25/1-high-yield-dividend-stock-worth-loading-up-on-ri/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 20:25:00 +0000"
    },
    {
-    "title": "Nvidia Stock Could Swing 6% After Q2 Earnings",
-    "link": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-could-swing-6-192524688.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:25:24 +0000"
+    "title": "Why Rezolve AI Stock Rocketed Higher Today",
+    "link": "https://www.fool.com/investing/2026/08/25/why-rezolve-ai-stock-rocketed-higher-today/?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 20:16:26 +0000"
    }
   ],
   "AMD": [
@@ -25,17 +25,22 @@
     "pubDate": "Tue, 25 Aug 2026 16:47:20 +0000"
    },
    {
-    "title": "AMD May Have Found Its Next Big AI Growth Engine",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-may-found-next-big-193300082.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:33:00 +0000"
+    "title": "AMD Just Got a Major AI Vote of Confidence",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-got-major-ai-195827847.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:58:27 +0000"
    },
    {
-    "title": "AMD Jumps 3.9% as $641 Target Reprices Server CPUs",
-    "link": "https://finance.yahoo.com/technology/articles/amd-jumps-3-9-641-192702008.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:27:02 +0000"
+    "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:42:44 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:53:21 +0000"
+   },
    {
     "title": "Broadcom Stabilizes as Google Turns Custom Chips Into a Contest",
     "link": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-google-turns-custom-181929334.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Broadcom (AVGO) Debuts VMware Cloud Foundation 9.1 In Managed Multitenant Cloud",
     "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-debuts-vmware-cloud-170916891.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 17:09:16 +0000"
-   },
-   {
-    "title": "Broadcom Vs. Micron: Why They\u2019re So Strong as Capital Shifts to Inference and Agentic AI",
-    "link": "https://247wallst.com/investing/2026/08/25/broadcom-vs-micron-why-theyre-so-strong-as-capital-shifts-to-inference-and-agentic-ai/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 13:50:50 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
+    "link": "https://finance.yahoo.com/technology/articles/tsmc-jumps-nvidia-tests-capacity-195825384.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:58:25 +0000"
+   },
    {
     "title": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads",
     "link": "https://247wallst.com/investing/2026/08/25/top-investors-name-5-ai-stocks-that-could-win-no-matter-which-model-leads/?.tsrc=rss",
@@ -62,14 +67,14 @@
     "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
     "link": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 07:43:01 +0000"
-   },
-   {
-    "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
-    "link": "https://stocktwits.com/news-articles/markets/equity/are-emerging-markets-now-an-ai-trade-tsmc-samsung-sk-hynix-drive-more-than-half-the-gains/cZYkBgSRJFU?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 03:45:21 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel Rises as Pelosi's $1.5 Million Bet Meets $20 Billion Dilution",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-pelosis-1-5-195836165.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:58:36 +0000"
+   },
    {
     "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
     "link": "https://247wallst.com/investing/2026/08/25/amd-and-intel-rise-3-on-a-strong-buy-upgrade-and-a-pelosi-disclosure-nvidia-and-broadcom-tick-up/?.tsrc=rss",
@@ -79,14 +84,14 @@
     "title": "OPAQUE, AMD, Intel, TII, and Other Industry Leaders Collaborate on TRACE, an Open Standard to Advance Runtime Verification for AI",
     "link": "https://finance.yahoo.com/technology/ai/articles/opaque-amd-intel-tii-other-130000273.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000"
-   },
-   {
-    "title": "Intel Stock Jumps After Nancy Pelosi Reveals New Stake",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-nancy-pelosi-121849247.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 12:18:49 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Micron Rebounds 1.4% as $25 Billion Cash Engine Defies Memory Panic",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-rebounds-1-4-25-195830525.html?.tsrc=rss",
+    "pubDate": "Tue, 25 Aug 2026 19:58:30 +0000"
+   },
    {
     "title": "Micron Technology (MU) Showed A Rack Scale AI Memory Pooling Breakthrough",
     "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-showed-rack-190659119.html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Micron\u2019s Long-Term Contracts Cap Memory-Boom Upside",
     "link": "https://finance.yahoo.com/m/4e569a6e-22c3-33e2-86e0-8926425cd069/micron%E2%80%99s-long-term-contracts.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 18:31:00 +0000"
-   },
-   {
-    "title": "Memory Shortage Deepens to Worst Levels Since 2017 \u2014 Here\u2019s Why Micron Investors Will Cash In",
-    "link": "https://247wallst.com/investing/2026/08/25/memory-shortage-deepens-to-worst-levels-since-2017-heres-why-micron-investors-will-cash-in/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 14:37:32 +0000"
    }
   ],
   "SNDK": [

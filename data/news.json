@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-26T00:02:09Z",
+ "updated": "2026-08-26T01:57:28Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
-    "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 23:47:13 +0000"
+    "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+    "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:43:44 +0000"
    },
    {
-    "title": "Prediction: Nvidia's Shares Will Fall for a 5th Consecutive Quarter After Reporting Earnings on Aug. 26",
-    "link": "https://www.fool.com/investing/2026/08/25/prediction-nvda-shares-fall-5th-straight-quarter/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 23:26:00 +0000"
+    "title": "2 Monster Stocks to Hold for the Next 10 Years",
+    "link": "https://www.fool.com/investing/2026/08/25/2-monster-stocks-to-hold-for-the-next-10-years/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:25:00 +0000"
    },
    {
-    "title": "Wall Street ends higher as tech rebounds before Nvidia results",
-    "link": "https://finance.yahoo.com/video/wall-street-ends-higher-tech-230913221.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 23:09:13 +0000"
+    "title": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
+    "link": "https://www.fool.com/investing/2026/08/25/nvda-stock-earnings-q2-date-aug-26/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:59:48 +0000"
    }
   ],
   "AMD": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "Western Digital (WDC) Is Assessing New Iran Sanctions Exposure",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-assessing-iran-002036591.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:20:36 +0000"
+   },
+   {
     "title": "Western Digital vs. Seagate Technology: Which Data Storage Stock Is the Better Buy?",
     "link": "https://www.fool.com/investing/2026/08/25/western-digital-vs-seagate-technology-which-data-s/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 16:59:00 +0000"
@@ -130,11 +135,6 @@
     "title": "Western Digital vs. Teradata: Which AI Data Stock Has Stronger Upside?",
     "link": "https://finance.yahoo.com/technology/ai/articles/western-digital-vs-teradata-ai-134400522.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 13:44:00 +0000"
-   },
-   {
-    "title": "Western Digital Sits 46% Below Its High and Has Still More Than Doubled This Year",
-    "link": "https://www.fool.com/investing/2026/08/24/western-digital-sits-46-below-its-high-and-has-still-more-than-doubled-this-year/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 03:12:01 +0000"
    }
   ],
   "STX": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading \u2014 MRNA, SPCX, PSKY, OpenAI In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:02:57 +0000"
+   },
+   {
     "title": "Jane Street turns bullish on volatile AI stock",
     "link": "https://www.thestreet.com/investing/stocks/jane-street-bullish-sandisk-sndk-stock?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 18:16:53 +0000"
@@ -215,11 +220,6 @@
     "title": "Core Compounders Should Do This With Walmart",
     "link": "https://247wallst.com/investing/2026/08/25/core-compounders-should-do-this-with-walmart/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 16:03:14 +0000"
-   },
-   {
-    "title": "Johnson & Johnson Is Near a Record High. Is There Still Room to Run?",
-    "link": "https://247wallst.com/investing/2026/08/25/johnson-johnson-is-near-a-record-high-is-there-still-room-to-run/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 16:00:04 +0000"
    }
   ]
  },

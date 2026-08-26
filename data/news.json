@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-26T10:50:14Z",
+ "updated": "2026-08-26T11:42:12Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day",
-    "link": "https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 10:00:00 +0000"
+    "title": "Nvidia, Oil Outlooks Limit Wall Street Pre-Bell; Asia, Europe Up",
+    "link": "https://finance.yahoo.com/markets/articles/nvidia-oil-outlooks-limit-wall-112704730.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:27:04 +0000"
    },
    {
-    "title": "Nvidia earnings preview: The report the entire market is waiting on",
-    "link": "https://www.euronews.com/2026/08/26/nvidia-earnings-preview-the-report-the-entire-market-is-waiting-on?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 10:40:44 +0000"
+    "title": "S&P 500, Nasdaq futures flat before PCE data, Nvidia Q2 earnings",
+    "link": "https://qz.com/wall-street-pce-inflation-nvidia-earnings-082626?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:25:43 +0000"
    },
    {
-    "title": "Billionaire Ken Griffin Increased His Stake in This Dividend King by 547% in Q2. Wall Street Thinks It's Still a Buy.",
-    "link": "https://www.fool.com/investing/2026/08/26/billionaire-ken-griffin-increased-his-stake-in-thi/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 10:40:00 +0000"
+    "title": "Nvidia under pressure after stock's 7-day losing streak",
+    "link": "https://www.axios.com/2026/08/26/nvidia-earnings-preview-jensen-huang-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:10:05 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts",
+    "link": "https://www.fool.com/investing/2026/08/26/2-ai-stocks-can-skyrocket-up-to-484-wall-street/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:26:00 +0000"
+   },
    {
     "title": "What Is Advanced Micro Devices (AMD) Telling Investors With Its AI Security Push?",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-telling-071013777.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "Attindas Hygiene Partners Announces Plans to Acquire Activ M\u00e9dical Disposable",
     "link": "https://finance.yahoo.com/healthcare/articles/attindas-hygiene-partners-announces-plans-050000926.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000"
-   },
-   {
-    "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now",
-    "link": "https://www.fool.com/investing/2026/08/25/amd-stock-is-rising-heres-why-this-top-ai-stock-is/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 04:15:17 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "3 AI Networking Stocks Dominating a Quiet Niche",
+    "link": "https://247wallst.com/investing/2026/08/26/3-ai-networking-stocks-dominating-a-quiet-niche/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:00:40 +0000"
+   },
    {
     "title": "BMO sees writing on the wall for Broadcom stock after earnings",
     "link": "https://www.thestreet.com/investing/stocks/bmo-sets-broadcom-avgo-stock-target-to-455-outperform?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "S&P 100 Is Quietly Sending a Powerful Signal",
     "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 19:53:21 +0000"
-   },
-   {
-    "title": "Broadcom Stabilizes as Google Turns Custom Chips Into a Contest",
-    "link": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-google-turns-custom-181929334.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 18:19:29 +0000"
    }
   ],
   "TSM": [

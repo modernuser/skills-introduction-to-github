@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-26T11:42:12Z",
+ "updated": "2026-08-26T12:04:15Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia, Oil Outlooks Limit Wall Street Pre-Bell; Asia, Europe Up",
-    "link": "https://finance.yahoo.com/markets/articles/nvidia-oil-outlooks-limit-wall-112704730.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 11:27:04 +0000"
+    "title": "Nvidia earnings, PCE data: What investors need to watch Wednesday",
+    "link": "https://finance.yahoo.com/video/nvidia-earnings-pce-data-investors-120000582.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000"
    },
    {
-    "title": "S&P 500, Nasdaq futures flat before PCE data, Nvidia Q2 earnings",
-    "link": "https://qz.com/wall-street-pce-inflation-nvidia-earnings-082626?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 11:25:43 +0000"
+    "title": "Is Nvidia's AI data center dominance slipping as the market expands?",
+    "link": "https://finance.yahoo.com/video/nvidias-ai-data-center-dominance-120000341.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000"
    },
    {
-    "title": "Nvidia under pressure after stock's 7-day losing streak",
-    "link": "https://www.axios.com/2026/08/26/nvidia-earnings-preview-jensen-huang-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 11:10:05 +0000"
+    "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+    "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 11:55:34 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron Announces Leadership Appointments to Accelerate Innovation and Growth",
+    "link": "https://finance.yahoo.com/technology/articles/micron-announces-leadership-appointments-accelerate-120000952.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000"
+   },
+   {
     "title": "Zacks Investment Ideas feature highlights: Bloom Energy, Micron, Nvidia, UBS and Moderna",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-092000705.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 09:20:00 +0000"
@@ -96,11 +101,6 @@
     "title": "MU, SNDK See August Rebound, But China Risks Loom: After CXMT, Flash Memory Maker YMTC Prepares For Massive IPO",
     "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-see-august-rebound-but-china-risks-loom-after-cxmt-flash-memory-maker-ymtc-prepares-for-massive-ipo/cZYNYcIRJYe?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 09:04:24 +0000"
-   },
-   {
-    "title": "Schwab Strategist Flags Wall Street's Growth Is Concentrated in Two Firms",
-    "link": "https://beincrypto.com/micron-wall-street-earnings-concentration-bitcoin/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 01:18:21 +0000"
    }
   ],
   "SNDK": [

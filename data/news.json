@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-26T18:27:42Z",
+ "updated": "2026-08-26T20:58:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia's $91 Billion Quarter Faces a 75% Margin Test",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-91-billion-quarter-faces-181326719.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 18:13:26 +0000"
+    "title": "Nvidia reports impressive Q2 earnings as AI boom rolls on",
+    "link": "https://finance.yahoo.com/video/nvidia-reports-impressive-q2-earnings-as-ai-boom-rolls-on-203300281.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:33:00 +0000"
    },
    {
-    "title": "\u201cThey\u2019re Financing\u201d a Rival: Jim Cramer Challenges Nvidia\u2019s $30 Billion OpenAI Investment",
-    "link": "https://247wallst.com/investing/2026/08/26/theyre-financing-a-rival-jim-cramer-challenges-nvidias-30-billion-openai-investment/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 18:05:52 +0000"
+    "title": "Nvidia Stock Slips Ahead Of Earnings Call, Despite Q2 Beat",
+    "link": "https://finance.yahoo.com/m/2c85f5e2-5d51-37a6-ac7d-103fd18836b6/nvidia-stock-slips-ahead-of.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:54:56 +0000"
    },
    {
-    "title": "Cramer\u2019s Problem With Jensen Huang Is Not That His Bets Failed. It Is That Every One of Them Worked",
-    "link": "https://247wallst.com/investing/2026/08/26/cramers-problem-with-jensen-huang-is-not-that-his-bets-failed-it-is-that-every-one-of-them-worked/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 18:00:51 +0000"
+    "title": "For Now, Profitability Remains Strong",
+    "link": "https://finance.yahoo.com/m/1fd8bded-dd43-3daa-b727-f5a4308b2776/for-now%2C-profitability.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:54:41 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "/C O R R E C T I O N -- OPAQUE/",
+    "link": "https://finance.yahoo.com/technology/ai/articles/c-o-r-r-e-191500967.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:15:00 +0000"
+   },
    {
     "title": "Prediction: AMD\u2019s Next Move Could Be HUGE and Here\u2019s Where The Stock is Going",
     "link": "https://247wallst.com/investing/2026/08/26/prediction-amds-next-move-could-be-huge-and-heres-where-the-stock-is-going/?.tsrc=rss",
@@ -28,82 +33,82 @@
     "title": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here\u2019s How Their Strategies Differ",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 17:02:03 +0000"
-   },
-   {
-    "title": "1 Wall Street Analyst Just Upgraded AMD Stock and Estimates 30% Upside. Here's Why He's Bullish on This Semiconductor Stock.",
-    "link": "https://www.fool.com/investing/2026/08/26/wall-street-analyst-upgrade-amd-stock-bull/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 16:45:56 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026?",
+    "link": "https://247wallst.com/investing/2026/08/26/nvda-vs-avgo-which-ai-chip-giant-actually-wins-for-retirement-portfolios-in-2026/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:59:49 +0000"
+   },
+   {
+    "title": "OpenAI's New AI Chip Could Be Good News for Broadcom",
+    "link": "https://finance.yahoo.com/technology/ai/articles/openais-ai-chip-could-good-194049805.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:40:49 +0000"
+   },
+   {
     "title": "A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit?",
     "link": "https://www.fool.com/investing/2026/08/26/a-leading-hedge-fund-just-placed-massive-bets-on-b/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 15:40:00 +0000"
-   },
-   {
-    "title": "Broadcom's Real Risk Is Its Customer List",
-    "link": "https://www.trefis.com/articles/613000/broadcoms-real-risk-is-its-customer-list/2026-08-26?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 12:31:50 +0000"
-   },
-   {
-    "title": "3 AI Networking Stocks Dominating a Quiet Niche",
-    "link": "https://247wallst.com/investing/2026/08/26/3-ai-networking-stocks-dominating-a-quiet-niche/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 11:00:40 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
+    "link": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:08:19 +0000"
+   },
+   {
+    "title": "TSMC's July Surge Raises the Bar for Nvidia's Foundry",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:03:25 +0000"
+   },
+   {
     "title": "Price Prediction: TSM Will Trade at This Price in 2027",
     "link": "https://247wallst.com/investing/2026/08/26/price-prediction-tsm-will-trade-at-this-price-in-2027/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 14:30:12 +0000"
-   },
-   {
-    "title": "EvCap Investments and Point Acquisitions Acquire North Phoenix Retail Center",
-    "link": "https://finance.yahoo.com/real-estate/articles/evcap-investments-point-acquisitions-acquire-123200212.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 12:32:00 +0000"
-   },
-   {
-    "title": "He Followed TSMC From Taiwan to Phoenix at 60. Social Security Said His 30-Year Career Had Just Begun.",
-    "link": "https://247wallst.com/personal-finance/social-security/2026/08/26/he-followed-tsmc-from-taiwan-to-phoenix-at-60-social-security-said-his-30-year-career-had-just-begun/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 09:03:59 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Intel Sees Strong Cash Flow Growth: Will the Trend Persist?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-sees-strong-cash-flow-170700151.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 17:07:00 +0000"
+    "title": "Goldman Sachs (GS) & Intel (INTC) Just Backed the Same AI Video Startup",
+    "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-intel-intc-202549508.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:25:49 +0000"
    },
    {
-    "title": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here\u2019s How Their Strategies Differ",
-    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 17:02:03 +0000"
+    "title": "Jim Cramer Points to Government Stake for Intel (INTC) Drop",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-points-government-stake-202447079.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:24:47 +0000"
    },
    {
-    "title": "A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit?",
-    "link": "https://www.fool.com/investing/2026/08/26/a-leading-hedge-fund-just-placed-massive-bets-on-b/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 15:40:00 +0000"
+    "title": "Intel Raises $23B to Fund AI Chip Capacity as 14A Roadmap Gains Momentum",
+    "link": "https://www.marketbeat.com/instant-alerts/event-intel-raises-23b-to-fund-ai-chip-capacity-as-14a-roadmap-gains-momentum-2026-08-26/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:02:05 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:16:26 +0000"
+   },
+   {
+    "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
+    "link": "https://finance.yahoo.com/technology/articles/micron-technology-report-fiscal-fourth-200100507.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:01:00 +0000"
+   },
+   {
     "title": "Micron Reshuffles Its Leadership for the Next Phase of the AI Boom",
     "link": "https://finance.yahoo.com/technology/ai/articles/micron-reshuffles-leadership-next-phase-180606304.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 18:06:06 +0000"
-   },
-   {
-    "title": "Micron Technology Has Fantastic News for Memory Stock Investors",
-    "link": "https://www.fool.com/investing/2026/08/26/micron-technology-has-fantastic-news-for-memory-st/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 15:39:00 +0000"
-   },
-   {
-    "title": "Prediction: These 3 AI Stocks Could Be the Next Big Winners",
-    "link": "https://247wallst.com/investing/2026/08/26/these-3-ai-stocks-could-be-the-next-big-winners/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 15:00:22 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Jim Cramer Highlights Sandisk\u2019s (SNDK) Massive Buybacks After Stock Surge",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-sandisk-sndk-190403019.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:04:03 +0000"
+   },
    {
     "title": "MU, SNDK See August Rebound, But China Risks Loom: After CXMT, Flash Memory Maker YMTC Prepares For Massive IPO",
     "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-see-august-rebound-but-china-risks-loom-after-cxmt-flash-memory-maker-ymtc-prepares-for-massive-ipo/cZYNYcIRJYe?.tsrc=rss",
@@ -113,14 +118,14 @@
     "title": "Memory Companies Are Rewriting the Rules of AI Compute",
     "link": "https://247wallst.com/videos/memory-companies-are-rewriting-the-rules-of-ai-compute/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 02:24:25 +0000"
-   },
-   {
-    "title": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/could-sandisk-sndk-gain-2tb-021539069.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 02:15:39 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Western Digital Stock Is Down Sharply: Why the Bull Case Still Looks Strong",
+    "link": "https://www.barchart.com/story/news/4107375/western-digital-stock-is-down-sharply-why-the-bull-case-still-looks-strong?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 14:06:14 +0000"
+   },
    {
     "title": "Western Digital (WDC) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-may-bottom-135502952.html?.tsrc=rss",
@@ -130,11 +135,6 @@
     "title": "Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-seagate-085700224.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 08:57:00 +0000"
-   },
-   {
-    "title": "Western Digital (WDC) Is Assessing New Iran Sanctions Exposure",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-assessing-iran-002036591.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 00:20:36 +0000"
    }
   ],
   "STX": [

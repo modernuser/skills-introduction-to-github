@@ -1,41 +1,46 @@
 {
- "updated": "2026-08-26T01:57:28Z",
+ "updated": "2026-08-26T09:00:01Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
-    "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 01:43:44 +0000"
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 08:18:34 +0000"
    },
    {
-    "title": "2 Monster Stocks to Hold for the Next 10 Years",
-    "link": "https://www.fool.com/investing/2026/08/25/2-monster-stocks-to-hold-for-the-next-10-years/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 01:25:00 +0000"
+    "title": "2 Dividend Stocks to Buy and Hold for Long-Term Safety and Income",
+    "link": "https://www.fool.com/investing/2026/08/26/2-dividend-stocks-buy-hold-long-term-safety/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 08:50:00 +0000"
    },
    {
-    "title": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
-    "link": "https://www.fool.com/investing/2026/08/25/nvda-stock-earnings-q2-date-aug-26/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 00:59:48 +0000"
+    "title": "Nvidia Stock Has a New $500 Billion Opportunity in the Artificial Intelligence (AI) Boom",
+    "link": "https://www.fool.com/investing/2026/08/26/nvidia-stock-new-500-billion-opportunity-ai-boom/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 08:32:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
-    "link": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 16:47:20 +0000"
+    "title": "What Is Advanced Micro Devices (AMD) Telling Investors With Its AI Security Push?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-telling-071013777.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 07:10:13 +0000"
    },
    {
-    "title": "What You Actually Pay To Join The AMD Run",
-    "link": "https://www.trefis.com/articles/612797/what-you-actually-pay-to-join-the-amd-run-2/2026-08-25?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 22:34:27 +0000"
+    "title": "Attindas Hygiene Partners Announces Plans to Acquire Activ M\u00e9dical Disposable",
+    "link": "https://finance.yahoo.com/healthcare/articles/attindas-hygiene-partners-announces-plans-050000926.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000"
    },
    {
-    "title": "What Could a $10,000 Investment in Advanced Micro Devices Stock Be Worth by 2030?",
-    "link": "https://www.fool.com/investing/2026/08/25/what-could-a-10000-investment-in-advanced-micro-de/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 22:17:00 +0000"
+    "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now",
+    "link": "https://www.fool.com/investing/2026/08/25/amd-stock-is-rising-heres-why-this-top-ai-stock-is/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 04:15:17 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "BMO sees writing on the wall for Broadcom stock after earnings",
+    "link": "https://www.thestreet.com/investing/stocks/bmo-sets-broadcom-avgo-stock-target-to-455-outperform?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 02:17:00 +0000"
+   },
    {
     "title": "S&P 100 Is Quietly Sending a Powerful Signal",
     "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Stabilizes as Google Turns Custom Chips Into a Contest",
     "link": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-google-turns-custom-181929334.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 18:19:29 +0000"
-   },
-   {
-    "title": "Broadcom (AVGO) Debuts VMware Cloud Foundation 9.1 In Managed Multitenant Cloud",
-    "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-debuts-vmware-cloud-170916891.html?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 17:09:16 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "The Market Has Priced Intel Anywhere Between $24 and $142 in the Past 12 Months",
+    "link": "https://www.fool.com/investing/2026/08/26/the-market-has-priced-intel-anywhere-between-usd24-and-usd142-in-the-past-12-months/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 08:12:01 +0000"
+   },
+   {
     "title": "Nancy Pelosi makes intriguing first-ever bet on AI power stock",
     "link": "https://www.thestreet.com/investing/stocks/nancy-pelosi-buys-intc-intel-stock-be-bloom-energy-stock?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 23:17:00 +0000"
@@ -79,14 +84,14 @@
     "title": "Intel Rises as Pelosi's $1.5 Million Bet Meets $20 Billion Dilution",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-pelosis-1-5-195836165.html?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 19:58:36 +0000"
-   },
-   {
-    "title": "A $20 Billion Reason to Buy Intel Stock as Its Biggest Comeback Gets Real",
-    "link": "https://www.barchart.com/story/news/4024552/a-20-billion-reason-to-buy-intel-stock-as-its-biggest-comeback-gets-real?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 14:42:05 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Schwab Strategist Flags Wall Street's Growth Is Concentrated in Two Firms",
+    "link": "https://beincrypto.com/micron-wall-street-earnings-concentration-bitcoin/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:18:21 +0000"
+   },
    {
     "title": "Finance giant sets aggressive Micron stock target after earnings",
     "link": "https://www.thestreet.com/investing/stocks/bmo-sets-micron-mu-stock-target-1300-outperform?.tsrc=rss",
@@ -96,28 +101,23 @@
     "title": "Can You Stomach The Plunge In Micron Stock?",
     "link": "https://www.trefis.com/articles/612783/can-you-stomach-the-plunge-in-micron-stock-2/2026-08-25?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 22:23:44 +0000"
-   },
-   {
-    "title": "Prediction: This Memory Stock Will Soar 165% in 3 Years (Hint: It's not Micron or Sandisk)",
-    "link": "https://www.fool.com/investing/2026/08/25/prediction-this-memory-stock-will-soar-165-in-3-years-hint-it-s-not-micron-or-sandisk/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 21:21:01 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Memory Companies Are Rewriting the Rules of AI Compute",
+    "link": "https://247wallst.com/videos/memory-companies-are-rewriting-the-rules-of-ai-compute/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 02:24:25 +0000"
+   },
+   {
+    "title": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/could-sandisk-sndk-gain-2tb-021539069.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 02:15:39 +0000"
+   },
+   {
     "title": "Prediction: This Memory Stock Will Soar 165% in 3 Years (Hint: It's not Micron or Sandisk)",
     "link": "https://www.fool.com/investing/2026/08/25/prediction-this-memory-stock-will-soar-165-in-3-years-hint-it-s-not-micron-or-sandisk/?.tsrc=rss",
     "pubDate": "Tue, 25 Aug 2026 21:21:01 +0000"
-   },
-   {
-    "title": "Jane Street turns bullish on volatile AI stock",
-    "link": "https://www.thestreet.com/investing/stocks/jane-street-bullish-sandisk-sndk-stock?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 18:16:53 +0000"
-   },
-   {
-    "title": "Why Sandisk Stock Popped, Then Dropped Today",
-    "link": "https://www.fool.com/investing/2026/08/25/why-sandisk-stock-popped-then-dropped-today/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 17:02:17 +0000"
    }
   ],
   "WDC": [

@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-25T23:42:04Z",
+ "updated": "2026-08-27T09:45:26Z",
  "coverage": 501,
  "gainers": [
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 158.83,
-   "pct": 14.36
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 38.46,
-   "pct": 9.35
-  },
-  {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 112.09,
-   "pct": 8.17
-  },
-  {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
-   "sector": "Information Technology",
-   "close": 142.09,
-   "pct": 7.23
-  },
   {
    "symbol": "LITE",
    "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 885.565,
-   "pct": 6.67
+   "close": 939.03,
+   "pct": 6.04
+  },
+  {
+   "symbol": "ANET",
+   "name": "Arista Networks",
+   "sector": "Information Technology",
+   "close": 202.25,
+   "pct": 5.92
+  },
+  {
+   "symbol": "CHRW",
+   "name": "C.H. Robinson",
+   "sector": "Industrials",
+   "close": 151.73,
+   "pct": 5.62
+  },
+  {
+   "symbol": "WMB",
+   "name": "Williams Companies",
+   "sector": "Energy",
+   "close": 74.41,
+   "pct": 4.68
+  },
+  {
+   "symbol": "FFIV",
+   "name": "F5, Inc.",
+   "sector": "Information Technology",
+   "close": 399.59,
+   "pct": 4.4
+  },
+  {
+   "symbol": "SJM",
+   "name": "J.M. Smucker Company (The)",
+   "sector": "Consumer Staples",
+   "close": 130.9,
+   "pct": 4.34
+  },
+  {
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 404.03,
+   "pct": 4.22
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "close": 468.88,
+   "pct": 4.02
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 152.78,
+   "pct": 3.82
+  },
+  {
+   "symbol": "KMI",
+   "name": "Kinder Morgan",
+   "sector": "Energy",
+   "close": 32.02,
+   "pct": 3.49
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 149.66,
+   "pct": -5.77
   },
   {
    "symbol": "RDDT",
    "name": "Reddit",
    "sector": "Communication Services",
-   "close": 162.45,
-   "pct": 6.39
+   "close": 155.36,
+   "pct": -4.36
   },
   {
-   "symbol": "IBKR",
-   "name": "Interactive Brokers",
-   "sector": "Financials",
-   "close": 98.19,
-   "pct": 5.52
-  },
-  {
-   "symbol": "CDNS",
-   "name": "Cadence Design Systems",
+   "symbol": "GDDY",
+   "name": "GoDaddy",
    "sector": "Information Technology",
-   "close": 331.9,
-   "pct": 5.06
+   "close": 95.54,
+   "pct": -4.26
   },
   {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Information Technology",
-   "close": 479.18,
-   "pct": 4.91
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 240.38,
-   "pct": 4.84
-  }
- ],
- "losers": [
-  {
-   "symbol": "ALB",
-   "name": "Albemarle Corporation",
-   "sector": "Materials",
-   "close": 133.18,
-   "pct": -5.89
-  },
-  {
-   "symbol": "DOW",
-   "name": "Dow Inc.",
-   "sector": "Materials",
-   "close": 30.16,
-   "pct": -4.07
-  },
-  {
-   "symbol": "LYB",
-   "name": "LyondellBasell",
-   "sector": "Materials",
-   "close": 62.55,
-   "pct": -4.06
-  },
-  {
-   "symbol": "ERIE",
-   "name": "Erie Indemnity",
-   "sector": "Financials",
-   "close": 257.98,
-   "pct": -3.97
-  },
-  {
-   "symbol": "TGT",
-   "name": "Target Corporation",
-   "sector": "Consumer Staples",
-   "close": 163.47,
-   "pct": -3.78
-  },
-  {
-   "symbol": "APA",
-   "name": "APA Corporation",
-   "sector": "Energy",
-   "close": 41.35,
-   "pct": -3.75
-  },
-  {
-   "symbol": "COO",
-   "name": "Cooper Companies (The)",
+   "symbol": "LLY",
+   "name": "Lilly (Eli)",
    "sector": "Health Care",
-   "close": 73.04,
-   "pct": -3.64
+   "close": 1189.41,
+   "pct": -3.59
   },
   {
-   "symbol": "DECK",
-   "name": "Deckers Brands",
-   "sector": "Consumer Discretionary",
-   "close": 88.74,
-   "pct": -3.63
+   "symbol": "BSX",
+   "name": "Boston Scientific",
+   "sector": "Health Care",
+   "close": 48.17,
+   "pct": -3.39
   },
   {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 118.33,
-   "pct": -3.62
-  },
-  {
-   "symbol": "IT",
-   "name": "Gartner",
+   "symbol": "INTU",
+   "name": "Intuit",
    "sector": "Information Technology",
-   "close": 195.79,
-   "pct": -3.45
+   "close": 345.88,
+   "pct": -3.24
+  },
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "close": 108.54,
+   "pct": -3.17
+  },
+  {
+   "symbol": "ACN",
+   "name": "Accenture",
+   "sector": "Information Technology",
+   "close": 181.38,
+   "pct": -2.97
+  },
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 181.78,
+   "pct": -2.87
+  },
+  {
+   "symbol": "TKO",
+   "name": "TKO Group Holdings",
+   "sector": "Communication Services",
+   "close": 187.9,
+   "pct": -2.85
   }
  ]
 }

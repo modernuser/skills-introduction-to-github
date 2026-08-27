@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-27T00:51:09Z",
+ "updated": "2026-08-27T09:45:17Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-    "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 00:38:49 +0000"
+    "title": "Even Elon Musk Now Admits Natural Gas Isn't Going Away. Here's What That Means for Nuclear Energy Stocks, Including NuScale Power and Oklo",
+    "link": "https://www.fool.com/investing/2026/08/27/even-elon-musk-now-admits-natural-gas-isnt-going-a/?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 09:35:00 +0000"
    },
    {
-    "title": "The Glaring Flaw in Nvidia's Operating Results That Wall Street and Investors Keep Overlooking",
-    "link": "https://www.fool.com/investing/2026/08/26/glaring-flaw-nvidia-results-wall-street-overlook/?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 00:19:00 +0000"
+    "title": "Wall Street Is Now Backing the Clarity Act. Here's the Most Likely Scenario for What Happens Next With Crypto.",
+    "link": "https://www.fool.com/investing/2026/08/27/wall-street-is-now-backing-the-clarity-act-heres-t/?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 09:33:00 +0000"
    },
    {
-    "title": "Review & Preview: Nvidia to the Rescue?",
-    "link": "https://finance.yahoo.com/m/723f6ec3-aec8-3f67-bac7-78575f6ebd09/review-%26-preview%3A-nvidia-to.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:55:00 +0000"
+    "title": "Chip Stocks Driven Higher by Nvidia Results and Guidance",
+    "link": "https://finance.yahoo.com/m/47169cc1-2ec7-3793-9485-f657621df535/chip-stocks-driven-higher-by.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 09:27:46 +0000"
    }
   ],
   "AMD": [
@@ -30,12 +30,17 @@
     "pubDate": "Wed, 26 Aug 2026 19:15:00 +0000"
    },
    {
-    "title": "Prediction: AMD\u2019s Next Move Could Be HUGE and Here\u2019s Where The Stock is Going",
-    "link": "https://247wallst.com/investing/2026/08/26/prediction-amds-next-move-could-be-huge-and-heres-where-the-stock-is-going/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 17:30:02 +0000"
+    "title": "AMD Is Building an AI \u2018Escape Hatch\u2019 From Nvidia. Here\u2019s What It Means for AMD Stock.",
+    "link": "https://www.barchart.com/story/news/4130124/amd-is-building-an-ai-escape-hatch-from-nvidia-heres-what-it-means-for-amd-stock?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:00:02 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "On Nvidia Earnings Day, Cathie Wood\u2019s ARK Loaded Up $20M On Rival Chip Stock",
+    "link": "https://stocktwits.com/news-articles/markets/equity/on-nvidia-earnings-day-cathie-wood-s-ark-loaded-up-20-m-on-rival-chip-stock/cZY8YJSRJpk?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:44:37 +0000"
+   },
    {
     "title": "NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026?",
     "link": "https://247wallst.com/investing/2026/08/26/nvda-vs-avgo-which-ai-chip-giant-actually-wins-for-retirement-portfolios-in-2026/?.tsrc=rss",
@@ -45,28 +50,23 @@
     "title": "OpenAI's New AI Chip Could Be Good News for Broadcom",
     "link": "https://finance.yahoo.com/technology/ai/articles/openais-ai-chip-could-good-194049805.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 19:40:49 +0000"
-   },
-   {
-    "title": "A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit?",
-    "link": "https://www.fool.com/investing/2026/08/26/a-leading-hedge-fund-just-placed-massive-bets-on-b/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 15:40:00 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Movandi Redefines Synthesizer PLL Efficiency, Delivering Peak Performance at Lower Power for Next-Gen Wireless and AI Infrastructure",
+    "link": "https://finance.yahoo.com/technology/ai/articles/movandi-redefines-synthesizer-pll-efficiency-070100746.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 07:01:00 +0000"
+   },
+   {
+    "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Winning More 3nm AI Chip Work?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/why-taiwan-semiconductor-manufacturing-tsm-061348015.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 06:13:48 +0000"
+   },
+   {
     "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
     "link": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 19:08:19 +0000"
-   },
-   {
-    "title": "TSMC's July Surge Raises the Bar for Nvidia's Foundry",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 19:03:25 +0000"
-   },
-   {
-    "title": "Price Prediction: TSM Will Trade at This Price in 2027",
-    "link": "https://247wallst.com/investing/2026/08/26/price-prediction-tsm-will-trade-at-this-price-in-2027/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 14:30:12 +0000"
    }
   ],
   "INTC": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
-    "title": "Prediction: Micron Stock Will Reach $1,300 by the End of 2026",
-    "link": "https://www.fool.com/investing/2026/08/26/prediction-micron-stock-will-reach-1300-by-end-of/?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 21:17:00 +0000"
+    "title": "Why Are Nasdaq, S&P 500 Futures Soaring Premarket? NVDA, MU, MRVL, OKTA, CRM, WEN, RKLB Stocks In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-futures-soaring-premarket-nvda-mu-mrvl-okta-crm-wen-rklb-stocks-in-focus/cZY8vxLRJpv?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 08:54:14 +0000"
    },
    {
-    "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:16:26 +0000"
+    "title": "Zacks Earnings Trends Highlights: Alphabet, Micron and  Nvidia",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-alphabet-080800952.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 08:08:00 +0000"
    },
    {
-    "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
-    "link": "https://finance.yahoo.com/technology/articles/micron-technology-report-fiscal-fourth-200100507.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:01:00 +0000"
+    "title": "MU, SNDK, SKHY: Memory Stocks Surge Overnight After Nvidia More Than Doubles Purchases",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-memory-stocks-surge-overnight-after-nvidia-more-than-doubles-purchases/cZY8omTRJp1?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:18:05 +0000"
    }
   ],
   "SNDK": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "Seagate Technology Holdings (STX) Will Present At The Six Five Summit 2026",
+    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-holdings-stx-present-043817684.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:38:17 +0000"
+   },
+   {
     "title": "Prediction: Seagate Could Be One of AI\u2019s Most Unexpected Winners",
     "link": "https://247wallst.com/investing/2026/08/26/prediction-seagate-could-be-one-of-ais-most-unexpected-winners/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 14:00:11 +0000"
@@ -147,11 +152,6 @@
     "title": "Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-seagate-085700224.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 08:57:00 +0000"
-   },
-   {
-    "title": "Seagate Says AI Is Making Data Storage More Strategic Than Ever",
-    "link": "https://www.marketbeat.com/instant-alerts/event-seagate-says-ai-is-making-data-storage-more-strategic-than-ever-2026-08-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 22:02:10 +0000"
    }
   ],
   "SOXX": [

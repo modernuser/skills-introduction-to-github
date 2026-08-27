@@ -1,24 +1,29 @@
 {
- "updated": "2026-08-26T20:58:42Z",
+ "updated": "2026-08-27T00:51:09Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia reports impressive Q2 earnings as AI boom rolls on",
-    "link": "https://finance.yahoo.com/video/nvidia-reports-impressive-q2-earnings-as-ai-boom-rolls-on-203300281.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:33:00 +0000"
+    "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+    "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 00:38:49 +0000"
    },
    {
-    "title": "Nvidia Stock Slips Ahead Of Earnings Call, Despite Q2 Beat",
-    "link": "https://finance.yahoo.com/m/2c85f5e2-5d51-37a6-ac7d-103fd18836b6/nvidia-stock-slips-ahead-of.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:54:56 +0000"
+    "title": "The Glaring Flaw in Nvidia's Operating Results That Wall Street and Investors Keep Overlooking",
+    "link": "https://www.fool.com/investing/2026/08/26/glaring-flaw-nvidia-results-wall-street-overlook/?.tsrc=rss",
+    "pubDate": "Thu, 27 Aug 2026 00:19:00 +0000"
    },
    {
-    "title": "For Now, Profitability Remains Strong",
-    "link": "https://finance.yahoo.com/m/1fd8bded-dd43-3daa-b727-f5a4308b2776/for-now%2C-profitability.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:54:41 +0000"
+    "title": "Review & Preview: Nvidia to the Rescue?",
+    "link": "https://finance.yahoo.com/m/723f6ec3-aec8-3f67-bac7-78575f6ebd09/review-%26-preview%3A-nvidia-to.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 23:55:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Top analyst resets AMD stock price target for rest of 2026",
+    "link": "https://www.thestreet.com/investing/stocks/top-analyst-raises-amd-stock-price-target-for-rest-of-2026?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 21:33:00 +0000"
+   },
    {
     "title": "/C O R R E C T I O N -- OPAQUE/",
     "link": "https://finance.yahoo.com/technology/ai/articles/c-o-r-r-e-191500967.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Prediction: AMD\u2019s Next Move Could Be HUGE and Here\u2019s Where The Stock is Going",
     "link": "https://247wallst.com/investing/2026/08/26/prediction-amds-next-move-could-be-huge-and-heres-where-the-stock-is-going/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 17:30:02 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here\u2019s How Their Strategies Differ",
-    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 17:02:03 +0000"
    }
   ],
   "AVGO": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/cca03820-a665-3555-8f42-1379277d10e1/nvidia%2C-meta%2C-revolution.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 21:43:00 +0000"
+   },
+   {
     "title": "Goldman Sachs (GS) & Intel (INTC) Just Backed the Same AI Video Startup",
     "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-intel-intc-202549508.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 20:25:49 +0000"
@@ -79,14 +84,14 @@
     "title": "Jim Cramer Points to Government Stake for Intel (INTC) Drop",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-points-government-stake-202447079.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 20:24:47 +0000"
-   },
-   {
-    "title": "Intel Raises $23B to Fund AI Chip Capacity as 14A Roadmap Gains Momentum",
-    "link": "https://www.marketbeat.com/instant-alerts/event-intel-raises-23b-to-fund-ai-chip-capacity-as-14a-roadmap-gains-momentum-2026-08-26/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 20:02:05 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Prediction: Micron Stock Will Reach $1,300 by the End of 2026",
+    "link": "https://www.fool.com/investing/2026/08/26/prediction-micron-stock-will-reach-1300-by-end-of/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 21:17:00 +0000"
+   },
    {
     "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
     "link": "https://finance.yahoo.com/technology/articles/micron-technology-report-fiscal-fourth-200100507.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 20:01:00 +0000"
-   },
-   {
-    "title": "Micron Reshuffles Its Leadership for the Next Phase of the AI Boom",
-    "link": "https://finance.yahoo.com/technology/ai/articles/micron-reshuffles-leadership-next-phase-180606304.html?.tsrc=rss",
-    "pubDate": "Wed, 26 Aug 2026 18:06:06 +0000"
    }
   ],
   "SNDK": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Review & Preview: Nvidia to the Rescue?",
+    "link": "https://finance.yahoo.com/m/723f6ec3-aec8-3f67-bac7-78575f6ebd09/review-%26-preview%3A-nvidia-to.html?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 23:55:00 +0000"
+   },
+   {
     "title": "Lumentum Climbs 4% as the AI Optics Trade Extends a Second Session, Coherent and Applied Optoelectronics Drift",
     "link": "https://247wallst.com/investing/2026/08/26/lumentum-climbs-4-as-the-ai-optics-trade-extends-a-second-session-coherent-and-applied-optoelectronics-drift/?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 16:34:00 +0000"
@@ -164,11 +169,6 @@
     "title": "Nvidia Stock Falls in Early Trading",
     "link": "https://finance.yahoo.com/m/b1af613a-fac9-3510-9652-8ec35a15754a/nvidia-stock-falls-in-early.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 13:45:19 +0000"
-   },
-   {
-    "title": "Super Micro Surges 8% as Taiwan Indicts Employees but Not the Company, Dell Climbs 4%",
-    "link": "https://247wallst.com/investing/2026/08/25/super-micro-surges-8-as-taiwan-indicts-employees-but-not-the-company-dell-climbs-4/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 14:45:27 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "QQQI\u2019s 14% Yield Hides a Negative SEC Yield: The Fund Earns Nothing Before It Sells Options",
+    "link": "https://247wallst.com/investing/etf/2026/08/26/qqqis-14-yield-hides-a-negative-sec-yield-the-fund-earns-nothing-before-it-sells-options/?.tsrc=rss",
+    "pubDate": "Wed, 26 Aug 2026 21:15:02 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Fall as US Equities Decline After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-fall-us-170936910.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 17:09:36 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday Amid Inflation Data Release",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131226701.html?.tsrc=rss",
     "pubDate": "Wed, 26 Aug 2026 13:12:26 +0000"
-   },
-   {
-    "title": "Wall Street Just Invented the \u2018Neocloud\u2019 ETF. It Owns the Companies Renting AI Compute to Everyone Else",
-    "link": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else/?.tsrc=rss",
-    "pubDate": "Tue, 25 Aug 2026 19:34:17 +0000"
    }
   ],
   "SPY": [

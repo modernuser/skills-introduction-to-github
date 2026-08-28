@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-28T05:27:52Z",
+ "updated": "2026-08-28T11:21:26Z",
  "news": {
   "NVDA": [
    {
-    "title": "Meet the 3 Stocks Nvidia Has Invested Billions Into",
-    "link": "https://www.fool.com/investing/2026/08/28/meet-the-3-stocks-nvidia-has-invested-billions-int/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 05:20:00 +0000"
+    "title": "Dow Jones Futures: Fed Chief Warsh Speech Due; Marvell, Affirm, PayPal, Elastic Are Big Movers",
+    "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures%3A-fed-chief.html?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:03:19 +0000"
    },
    {
-    "title": "Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
-    "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 04:57:32 +0000"
+    "title": "3 Under-the-Radar AI Stocks Wall Street Is Missing",
+    "link": "https://247wallst.com/investing/2026/08/28/3-under-the-radar-ai-stocks-wall-street-is-missing/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:01:03 +0000"
    },
    {
-    "title": "Bill Ackman Just Made His Biggest Portfolio Overhaul in Years, Adding Netflix, Visa, and Mastercard to Pershing Square. What's the Thesis Behind the Switch?",
-    "link": "https://www.fool.com/investing/2026/08/28/bill-ackman-just-made-his-biggest-portfolio-overha/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 04:20:00 +0000"
+    "title": "3 Semiconductor Stocks to Buy Heading Into September",
+    "link": "https://247wallst.com/investing/2026/08/28/3-semiconductor-stocks-to-buy-heading-into-september/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:01:01 +0000"
    }
   ],
   "AMD": [
@@ -37,19 +37,19 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom Built Something Nearly Perfect So I Keep Buying",
+    "link": "https://247wallst.com/investing/2026/08/28/broadcom-built-something-nearly-perfect-so-i-keep-buying/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:11:58 +0000"
+   },
+   {
+    "title": "Kyndryl, Broadcom deepen partnership to build AI-ready private clouds",
+    "link": "https://www.verdict.co.uk/kyndryl-broadcom-deepen-partnership/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 10:32:02 +0000"
+   },
+   {
     "title": "Spicy Stocks: Why BNP Thinks Jalape\u00f1o Could Benefit Broadcom Stock",
     "link": "https://www.barchart.com/story/news/4246124/spicy-stocks-why-bnp-thinks-jalapeno-could-benefit-broadcom-stock?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 21:03:51 +0000"
-   },
-   {
-    "title": "Cathie Wood Sends a $20 Million Signal on Broadcom Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sends-20-million-191855720.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 19:18:55 +0000"
-   },
-   {
-    "title": "Broadcom Faces New AI Challenge as Google Deepens Marvell Partnership",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-ai-challenge-google-190817740.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 19:08:17 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "5G Edge Cloud Network and Services Market 2026-2030 Report Now Available, Forecasts $12.90B in Market Growth Through 2030, Profiling Oracle, HPE, Intel, Huawei, Cisco, and 15 Other Key Vendors",
+    "link": "https://finance.yahoo.com/technology/articles/5g-edge-cloud-network-services-080900990.html?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 08:09:00 +0000"
+   },
+   {
     "title": "Amkor, FormFactor, Vishay Intertechnology, Allegro MicroSystems, and Intel Shares Skyrocket, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-formfactor-vishay-intertechnology-allegro-040907487.html?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 04:09:07 +0000"
@@ -79,48 +84,48 @@
     "title": "Nancy Pelosi Buys Intel. What Comes Next and If You Should Buy INTC Stock Too.",
     "link": "https://www.barchart.com/story/news/4250726/nancy-pelosi-buys-intel-what-comes-next-and-if-you-should-buy-intc-stock-too?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 21:57:22 +0000"
-   },
-   {
-    "title": "Intel Jumps 3.6% as Nvidia's $5 Billion Entry Price Looks Tiny",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-jumps-3-6-nvidias-170742097.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 17:07:42 +0000"
    }
   ],
   "MU": [
    {
-    "title": "How Micron\u2019s New AI Research Push And Leadership Shuffle At Micron Technology (MU) Has Changed Its Investment Story",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-ai-research-push-leadership-231135875.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 23:11:35 +0000"
+    "title": "3 Semiconductor Stocks to Buy Heading Into September",
+    "link": "https://247wallst.com/investing/2026/08/28/3-semiconductor-stocks-to-buy-heading-into-september/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:01:01 +0000"
    },
    {
-    "title": "Micron Should Profit from Nvidia\u2019s Memory Price Warning. Its Stock Hasn\u2019t Budged.",
-    "link": "https://finance.yahoo.com/m/2ed0401b-84f4-3cd7-8f26-04b189cdedfb/micron-should-profit-from.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 21:07:00 +0000"
+    "title": "Jim Cramer Said Micron Technology, Inc. (NASDAQ:MU) Fell Because Of Samsung\u2019s Share Buybacks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-micron-technology-091630456.html?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 09:16:30 +0000"
    },
    {
-    "title": "Micron Technology Doubles Capex as AI Memory Shortage Deepens",
-    "link": "https://www.marketbeat.com/instant-alerts/event-micron-technology-doubles-capex-as-ai-memory-shortage-deepens-2026-08-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 21:02:31 +0000"
+    "title": "Palo Alto Networks CEO Nikesh Arora Warns Memory \u2018Supercycle\u2019 Will Eventually Turn Cyclical, Flagging Risk For Micron, SanDisk",
+    "link": "https://stocktwits.com/news-articles/markets/equity/palo-alto-networks-ceo-nikesh-arora-warns-memory-supercycle-will-eventually-turn-cyclical-flagging-risk-for-micron-san-disk/cZYAGAKRJAe?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 07:27:05 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "These Stock Perpetuals Explode to 62% of US Spot Volume as Tokenized Equity Trading Surges",
+    "link": "https://www.ccn.com/news/crypto/stock-perpetuals-us-spot-volume-tokenized-equity-trading/?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 08:20:21 +0000"
+   },
+   {
+    "title": "Palo Alto Networks CEO Nikesh Arora Warns Memory \u2018Supercycle\u2019 Will Eventually Turn Cyclical, Flagging Risk For Micron, SanDisk",
+    "link": "https://stocktwits.com/news-articles/markets/equity/palo-alto-networks-ceo-nikesh-arora-warns-memory-supercycle-will-eventually-turn-cyclical-flagging-risk-for-micron-san-disk/cZYAGAKRJAe?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 07:27:05 +0000"
+   },
+   {
     "title": "After Surging 3,110%, Has Sandisk Already Had Its \"Nvidia Moment\"?",
     "link": "https://www.fool.com/investing/2026/08/27/after-surging-3110-has-sandisk-already-had-its-nvi/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 03:20:00 +0000"
-   },
-   {
-    "title": "The Peer-Group Mispricing Sitting On SNDK Stock",
-    "link": "https://www.trefis.com/articles/613261/the-peer-group-mispricing-sitting-on-sndk-stock/2026-08-27?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 01:19:10 +0000"
-   },
-   {
-    "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-could-ready-pop-220103672.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 22:01:03 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Zacks Industry Outlook Western Digital, Sandisk and Super Micro Computer",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-western-digital-071500602.html?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 07:15:00 +0000"
+   },
    {
     "title": "After Surging 3,110%, Has Sandisk Already Had Its \"Nvidia Moment\"?",
     "link": "https://www.fool.com/investing/2026/08/27/after-surging-3110-has-sandisk-already-had-its-nvi/?.tsrc=rss",
@@ -130,11 +135,6 @@
     "title": "Micron Lags Despite NVIDIA\u2019s $279B Memory Commitment; Western Digital Drops 4%, SK Hynix Ticks Up",
     "link": "https://247wallst.com/investing/2026/08/27/micron-lags-despite-nvidias-279b-memory-commitment-western-digital-drops-4-sk-hynix-ticks-up/?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 18:18:58 +0000"
-   },
-   {
-    "title": "Is It Worth Investing in Western Digital (WDC) Based on Wall Street's Bullish Views?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-western-digital-wdc-133005177.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:30:05 +0000"
    }
   ],
   "STX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Zacks Investment Ideas feature highlights: QQQ, NVIDIA, CoreWeave, Nebius, TeraWulf, Cipher and IREN",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064600130.html?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 06:46:00 +0000"
+   },
+   {
     "title": "Zscaler and SentinelOne Spike 10% as Cybersecurity Re-Rating Reaches the Laggards",
     "link": "https://247wallst.com/investing/2026/08/27/zscaler-and-sentinelone-spike-10-as-cybersecurity-re-rating-reaches-the-laggards/?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 17:23:12 +0000"
@@ -198,14 +203,14 @@
     "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-rise-us-170923206.html?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 17:09:23 +0000"
-   },
-   {
-    "title": "Figma Spikes 12% as AI Turns From Threat to Tailwind for Design Software, Atlassian Rallies 8%",
-    "link": "https://247wallst.com/investing/2026/08/27/figma-spikes-12-as-ai-turns-from-threat-to-tailwind-for-design-software-atlassian-rallies-8/?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 15:08:56 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Why Are Nasdaq, S&P 500 Futures Slipping Premarket? NVDA, MU, MRVL, IREN, PYPL, RKLB Stocks In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-futures-slipping-premarket-nvda-mu-mrvl-iren-pypl-rklb-stocks-in-focus/cZYATUMRJAW?.tsrc=rss",
+    "pubDate": "Fri, 28 Aug 2026 08:49:40 +0000"
+   },
    {
     "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
     "link": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-could-ready-pop-220103672.html?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "Webull Surges 8%, Robinhood Ticks Up as the Retail Trading Bid Extends",
     "link": "https://247wallst.com/investing/2026/08/27/webull-surges-8-robinhood-ticks-up-as-the-retail-trading-bid-extends/?.tsrc=rss",
     "pubDate": "Thu, 27 Aug 2026 18:37:24 +0000"
-   },
-   {
-    "title": "Dollar General Advances 5% on Raised Full-Year Outlook, Dollar Tree Slips 3%",
-    "link": "https://247wallst.com/investing/2026/08/27/dollar-general-advances-5-on-a-raised-full-year-outlook-dollar-tree-slips-3/?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 17:17:15 +0000"
    }
   ]
  },

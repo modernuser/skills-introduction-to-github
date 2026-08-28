@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-27T09:45:26Z",
+ "updated": "2026-08-28T11:21:37Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
+   "symbol": "CRM",
+   "name": "Salesforce",
    "sector": "Information Technology",
-   "close": 939.03,
-   "pct": 6.04
+   "close": 252.05,
+   "pct": 22.58
   },
   {
-   "symbol": "ANET",
-   "name": "Arista Networks",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
    "sector": "Information Technology",
-   "close": 202.25,
-   "pct": 5.92
+   "close": 227.96,
+   "pct": 20.5
   },
   {
-   "symbol": "CHRW",
-   "name": "C.H. Robinson",
-   "sector": "Industrials",
-   "close": 151.73,
-   "pct": 5.62
+   "symbol": "VEEV",
+   "name": "Veeva Systems",
+   "sector": "Health Care",
+   "close": 282.13,
+   "pct": 15.2
   },
   {
-   "symbol": "WMB",
-   "name": "Williams Companies",
-   "sector": "Energy",
-   "close": 74.41,
-   "pct": 4.68
-  },
-  {
-   "symbol": "FFIV",
-   "name": "F5, Inc.",
+   "symbol": "SNPS",
+   "name": "Synopsys",
    "sector": "Information Technology",
-   "close": 399.59,
-   "pct": 4.4
+   "close": 464.89,
+   "pct": 13.39
   },
   {
-   "symbol": "SJM",
-   "name": "J.M. Smucker Company (The)",
-   "sector": "Consumer Staples",
-   "close": 130.9,
-   "pct": 4.34
-  },
-  {
-   "symbol": "CIEN",
-   "name": "Ciena",
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
    "sector": "Information Technology",
-   "close": 404.03,
-   "pct": 4.22
+   "close": 382.85,
+   "pct": 12.83
   },
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
+   "symbol": "NOW",
+   "name": "ServiceNow",
    "sector": "Information Technology",
-   "close": 468.88,
-   "pct": 4.02
+   "close": 138.43,
+   "pct": 10.04
   },
   {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
+   "symbol": "FTNT",
+   "name": "Fortinet",
    "sector": "Information Technology",
-   "close": 152.78,
-   "pct": 3.82
+   "close": 172.78,
+   "pct": 9.67
   },
   {
-   "symbol": "KMI",
-   "name": "Kinder Morgan",
-   "sector": "Energy",
-   "close": 32.02,
-   "pct": 3.49
+   "symbol": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "close": 227.98,
+   "pct": 8.74
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "close": 242.93,
+   "pct": 6.7
+  },
+  {
+   "symbol": "ADSK",
+   "name": "Autodesk",
+   "sector": "Information Technology",
+   "close": 270.58,
+   "pct": 6.21
   }
  ],
  "losers": [
   {
+   "symbol": "HRL",
+   "name": "Hormel Foods",
+   "sector": "Consumer Staples",
+   "close": 21.28,
+   "pct": -10.25
+  },
+  {
+   "symbol": "CASY",
+   "name": "Casey's",
+   "sector": "Consumer Staples",
+   "close": 763.38,
+   "pct": -5.42
+  },
+  {
+   "symbol": "TPR",
+   "name": "Tapestry, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 123.24,
+   "pct": -5.38
+  },
+  {
    "symbol": "MRNA",
    "name": "Moderna",
    "sector": "Health Care",
-   "close": 149.66,
-   "pct": -5.77
+   "close": 142.77,
+   "pct": -4.6
   },
   {
-   "symbol": "RDDT",
-   "name": "Reddit",
-   "sector": "Communication Services",
-   "close": 155.36,
-   "pct": -4.36
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "close": 197.29,
+   "pct": -4.52
   },
   {
-   "symbol": "GDDY",
-   "name": "GoDaddy",
-   "sector": "Information Technology",
-   "close": 95.54,
-   "pct": -4.26
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "sector": "Consumer Discretionary",
+   "close": 83.56,
+   "pct": -4.44
   },
   {
-   "symbol": "LLY",
-   "name": "Lilly (Eli)",
-   "sector": "Health Care",
-   "close": 1189.41,
-   "pct": -3.59
+   "symbol": "EXPE",
+   "name": "Expedia Group",
+   "sector": "Consumer Discretionary",
+   "close": 318.92,
+   "pct": -4.35
   },
   {
-   "symbol": "BSX",
-   "name": "Boston Scientific",
-   "sector": "Health Care",
-   "close": 48.17,
-   "pct": -3.39
+   "symbol": "LVS",
+   "name": "Las Vegas Sands",
+   "sector": "Consumer Discretionary",
+   "close": 44.24,
+   "pct": -4.3
   },
   {
-   "symbol": "INTU",
-   "name": "Intuit",
-   "sector": "Information Technology",
-   "close": 345.88,
-   "pct": -3.24
+   "symbol": "DLTR",
+   "name": "Dollar Tree",
+   "sector": "Consumer Staples",
+   "close": 127.0,
+   "pct": -3.92
   },
   {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 108.54,
-   "pct": -3.17
-  },
-  {
-   "symbol": "ACN",
-   "name": "Accenture",
-   "sector": "Information Technology",
-   "close": 181.38,
-   "pct": -2.97
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 181.78,
-   "pct": -2.87
-  },
-  {
-   "symbol": "TKO",
-   "name": "TKO Group Holdings",
-   "sector": "Communication Services",
-   "close": 187.9,
-   "pct": -2.85
+   "symbol": "WYNN",
+   "name": "Wynn Resorts",
+   "sector": "Consumer Discretionary",
+   "close": 93.61,
+   "pct": -3.66
   }
  ]
 }

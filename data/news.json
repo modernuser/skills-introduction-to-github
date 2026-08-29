@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-29T07:02:47Z",
+ "updated": "2026-08-29T17:44:37Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Just Locked In a $279 Billion Bet on Memory Chips",
-    "link": "https://www.fool.com/investing/2026/08/29/nvidia-just-locked-in-a-279-billion-bet-on-memory/?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 04:20:00 +0000"
+    "title": "If a Stock Market Crash Is on the Way, History Says This Is the Smartest Thing Investors Can Do",
+    "link": "https://www.fool.com/investing/2026/08/29/if-stock-market-crash-history-smart-investor/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 16:57:00 +0000"
    },
    {
-    "title": "Jim Cramer Explained What Turned The Tide For NVIDIA Corporation (NASDAQ:NVDA)\u2019s Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-turned-tide-033354732.html?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 03:33:54 +0000"
+    "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
+    "link": "https://www.fool.com/investing/2026/08/29/id-rather-bet-on-ais-electric-bill-than-its-chips/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 16:35:00 +0000"
    },
    {
-    "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalape\u00f1o' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-not-033121901.html?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 03:31:21 +0000"
+    "title": "Memory Now Accounts for 50% of Global Semiconductor Revenue \u2014 But There\u2019s a Catch",
+    "link": "https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 16:06:49 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "How networking became the critical layer of AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 07:16:54 +0000"
+   },
+   {
     "title": "6 things investors need to watch in the week ahead",
     "link": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 21:03:00 +0000"
@@ -45,31 +50,31 @@
     "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 19:00:00 +0000"
-   },
-   {
-    "title": "Broadcom's $16 Billion AI Quarter Faces the Marvell Timing Trap",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcoms-16-billion-ai-quarter-171054558.html?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 17:10:54 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
+    "link": "https://www.fool.com/investing/2026/08/29/tsmc-vs-asml-semiconductor-stock-better-buy/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 13:05:00 +0000"
+   },
+   {
+    "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 07:09:46 +0000"
+   },
+   {
     "title": "Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy?",
     "link": "https://www.fool.com/investing/2026/08/28/billionaire-stanley-druckenmiller-just-bought-taiw/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 16:16:00 +0000"
-   },
-   {
-    "title": "How TSMC is Advancing its A14 Technology Roadmap for AI Transformation",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-advancing-a14-technology-roadmap-135200442.html?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 13:52:00 +0000"
-   },
-   {
-    "title": "TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 17:06:17 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
+    "link": "https://www.fool.com/investing/2026/08/29/intel-sold-its-nand-memory-business-for-about-usd9-billion-micron-is-now-worth-more-than-twice-what-intel-is/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 09:07:01 +0000"
+   },
    {
     "title": "Here's Why Intel (INTC) Fell More Than Broader Market",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-intel-intc-fell-214502982.html?.tsrc=rss",
@@ -79,14 +84,14 @@
     "title": "Intel (INTC) Unveils New Enterprise AI Push With Governance And Local Deployment Focus",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-unveils-enterprise-ai-201417837.html?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 20:14:17 +0000"
-   },
-   {
-    "title": "Intel's Comeback Is Being Paid For By Intel",
-    "link": "https://www.trefis.com/articles/613537/intels-comeback-is-being-paid-for-by-intel/2026-08-28?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 14:54:36 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
+    "link": "https://www.fool.com/investing/2026/08/29/intel-sold-its-nand-memory-business-for-about-usd9-billion-micron-is-now-worth-more-than-twice-what-intel-is/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 09:07:01 +0000"
+   },
    {
     "title": "Jim Cramer Shared Why Micron Technology, Inc. (NASDAQ:MU)\u2019s Shares Didn\u2019t Rise On Shortage News",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shared-why-micron-033253032.html?.tsrc=rss",
@@ -96,14 +101,14 @@
     "title": "Prediction: This Is What a $1,000 Investment in Micron Stock Will Be Worth by 2030",
     "link": "https://www.fool.com/investing/2026/08/28/prediction-this-is-what-a-usd1-000-investment-in-micron-stock-will-be-worth-by-2030/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 21:53:01 +0000"
-   },
-   {
-    "title": "Micron Just Added $10 Billion to Its U.S. AI Bet",
-    "link": "https://finance.yahoo.com/technology/ai/articles/micron-just-added-10-billion-165836233.html?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 16:58:36 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Down 35% From Its High, Is Sandisk Stock a Screaming Bargain in September?",
+    "link": "https://www.fool.com/investing/2026/08/29/down-35-from-its-high-is-sandisk-stock-a-screaming/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 11:25:00 +0000"
+   },
    {
     "title": "Sandisk\u2019s (SNDK) $31B Japan Bet Raises A Bigger Question",
     "link": "https://finance.yahoo.com/technology/ai/articles/sandisk-sndk-31b-japan-bet-182458609.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk Just Announced a $14 Billion Stock Buyback Authorization: Warren Buffett Has a Warning Investors Shouldn't Ignore",
     "link": "https://www.fool.com/investing/2026/08/28/sandisk-14-billion-stock-buyback-buffett-warning/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 18:05:00 +0000"
-   },
-   {
-    "title": "Sandisk Stock Could Nearly Double to $3,000, According to Wall Street",
-    "link": "https://www.barchart.com/story/news/4324927/sandisk-stock-could-nearly-double-to-3-000-according-to-wall-street?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 17:31:50 +0000"
    }
   ],
   "WDC": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "$57 Billion Just Rushed Into SPYM | Is SPY\u2019s Cheaper Twin Finally Taking Over?",
+    "link": "https://247wallst.com/investing/etf/2026/08/29/57-billion-just-rushed-into-spym-is-spys-cheaper-twin-finally-taking-over/?.tsrc=rss",
+    "pubDate": "Sat, 29 Aug 2026 16:10:08 +0000"
+   },
+   {
     "title": "Optics Stocks Slide as AI Hardware Trade Cools: Applied Optoelectronics and Lumentum Fall 6%, Coherent Drops 5%",
     "link": "https://247wallst.com/investing/2026/08/28/optics-stocks-slide-as-ai-hardware-trade-cools-applied-optoelectronics-and-lumentum-fall-6-coherent-drops-5/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 17:54:57 +0000"
@@ -215,11 +220,6 @@
     "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
     "link": "https://247wallst.com/investing/2026/08/28/rivian-falls-6-as-cfo-departs-for-ge-vernova-lucid-slips-tesla-holds-steady/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 15:32:38 +0000"
-   },
-   {
-    "title": "BioNTech Tumbles 8% as Colorectal Cancer Vaccine Trial Fails, Moderna Drops 6%, Pfizer Holds Flat",
-    "link": "https://247wallst.com/investing/2026/08/28/biontech-tumbles-8-as-colorectal-cancer-vaccine-trial-fails-moderna-drops-6-pfizer-holds-flat/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 14:58:26 +0000"
    }
   ]
  },

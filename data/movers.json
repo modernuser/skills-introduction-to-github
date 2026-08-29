@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-28T11:21:37Z",
+ "updated": "2026-08-29T07:02:53Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "CRM",
-   "name": "Salesforce",
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
    "sector": "Information Technology",
-   "close": 252.05,
-   "pct": 22.58
+   "close": 204.72,
+   "pct": 5.76
   },
   {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "close": 227.96,
-   "pct": 20.5
+   "symbol": "DPZ",
+   "name": "Domino's",
+   "sector": "Consumer Discretionary",
+   "close": 350.0,
+   "pct": 5.4
   },
   {
-   "symbol": "VEEV",
-   "name": "Veeva Systems",
-   "sector": "Health Care",
-   "close": 282.13,
-   "pct": 15.2
-  },
-  {
-   "symbol": "SNPS",
-   "name": "Synopsys",
-   "sector": "Information Technology",
-   "close": 464.89,
-   "pct": 13.39
-  },
-  {
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
-   "sector": "Information Technology",
-   "close": 382.85,
-   "pct": 12.83
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 120.81,
+   "pct": 5.05
   },
   {
    "symbol": "NOW",
    "name": "ServiceNow",
    "sector": "Information Technology",
-   "close": 138.43,
-   "pct": 10.04
+   "close": 144.71,
+   "pct": 4.54
   },
   {
-   "symbol": "FTNT",
-   "name": "Fortinet",
-   "sector": "Information Technology",
-   "close": 172.78,
-   "pct": 9.67
+   "symbol": "SLB",
+   "name": "Schlumberger",
+   "sector": "Energy",
+   "close": 57.33,
+   "pct": 4.22
   },
   {
-   "symbol": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "close": 227.98,
-   "pct": 8.74
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
-   "sector": "Information Technology",
-   "close": 242.93,
-   "pct": 6.7
-  },
-  {
-   "symbol": "ADSK",
-   "name": "Autodesk",
-   "sector": "Information Technology",
-   "close": 270.58,
-   "pct": 6.21
-  }
- ],
- "losers": [
-  {
-   "symbol": "HRL",
-   "name": "Hormel Foods",
-   "sector": "Consumer Staples",
-   "close": 21.28,
-   "pct": -10.25
-  },
-  {
-   "symbol": "CASY",
-   "name": "Casey's",
-   "sector": "Consumer Staples",
-   "close": 763.38,
-   "pct": -5.42
-  },
-  {
-   "symbol": "TPR",
-   "name": "Tapestry, Inc.",
+   "symbol": "AMZN",
+   "name": "Amazon",
    "sector": "Consumer Discretionary",
-   "close": 123.24,
-   "pct": -5.38
+   "close": 266.43,
+   "pct": 3.97
   },
   {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 142.77,
-   "pct": -4.6
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 153.62,
+   "pct": 3.57
   },
   {
-   "symbol": "GNRC",
-   "name": "Generac",
-   "sector": "Industrials",
-   "close": 197.29,
-   "pct": -4.52
-  },
-  {
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "sector": "Consumer Discretionary",
-   "close": 83.56,
-   "pct": -4.44
+   "symbol": "BG",
+   "name": "Bunge Global",
+   "sector": "Consumer Staples",
+   "close": 115.48,
+   "pct": 3.5
   },
   {
    "symbol": "EXPE",
    "name": "Expedia Group",
    "sector": "Consumer Discretionary",
-   "close": 318.92,
-   "pct": -4.35
+   "close": 329.44,
+   "pct": 3.3
   },
   {
-   "symbol": "LVS",
-   "name": "Las Vegas Sands",
+   "symbol": "EBAY",
+   "name": "eBay Inc.",
    "sector": "Consumer Discretionary",
-   "close": 44.24,
-   "pct": -4.3
+   "close": 105.62,
+   "pct": 3.28
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "PYPL",
+   "name": "PayPal",
+   "sector": "Financials",
+   "close": 53.66,
+   "pct": -12.71
   },
   {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 127.0,
-   "pct": -3.92
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 216.62,
+   "pct": -10.28
   },
   {
-   "symbol": "WYNN",
-   "name": "Wynn Resorts",
-   "sector": "Consumer Discretionary",
-   "close": 93.61,
-   "pct": -3.66
+   "symbol": "PCG",
+   "name": "PG&E Corporation",
+   "sector": "Utilities",
+   "close": 16.6,
+   "pct": -7.52
+  },
+  {
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "close": 183.8,
+   "pct": -6.84
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 895.0,
+   "pct": -6.39
+  },
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 178.64,
+   "pct": -6.33
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "close": 1518.73,
+   "pct": -5.96
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 279.2,
+   "pct": -5.48
+  },
+  {
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 378.44,
+   "pct": -5.35
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 301.9,
+   "pct": -5.24
   }
  ]
 }

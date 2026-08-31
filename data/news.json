@@ -1,58 +1,63 @@
 {
- "updated": "2026-08-31T00:39:05Z",
+ "updated": "2026-08-31T16:08:20Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-    "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 00:05:00 +0000"
+    "title": "What Nvidia's stellar Q2 earnings represent for AI in the rest of 2026",
+    "link": "https://finance.yahoo.com/video/nvidias-stellar-q2-earnings-represent-153000546.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:30:00 +0000"
    },
    {
-    "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
-    "link": "https://www.fool.com/investing/2026/08/30/2-dow-jones-stocks-down-20-id-buy-on-the-dip/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 23:25:00 +0000"
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "link": "https://www.fool.com/investing/2026/08/31/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:42:00 +0000"
    },
    {
-    "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why Greg Abel Is Still Holding.",
-    "link": "https://www.fool.com/investing/2026/08/30/meet-the-dividend-stock-that-warren-buffett-backed/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 21:25:00 +0000"
+    "title": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61526295/nvidia-ai-boom-1980s-japan?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:30:40 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Advanced Micro Devices (AMD) Is Exposed To Proposed US Chip Tariffs",
-    "link": "https://finance.yahoo.com/economy/policy/articles/advanced-micro-devices-amd-exposed-182033681.html?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 18:20:33 +0000"
+    "title": "AMD's Saudi AI Bet Is Scaling Toward 1 Gigawatt",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amds-saudi-ai-bet-scaling-153146397.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:31:46 +0000"
    },
    {
-    "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-    "link": "https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 17:35:00 +0000"
+    "title": "AMD and Cisco Expand AI Infrastructure in Saudi Arabia",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-cisco-expand-ai-infrastructure-153131991.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:31:31 +0000"
    },
    {
-    "title": "Nvidia Just Delivered Bad News for AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/08/30/nvidia-just-delivered-bad-news-for-amd-and-intel/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 15:42:00 +0000"
+    "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia's AI Infrastructure as AMD Instinct Systems Go Live",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-cisco-humain-expand-saudi-152700227.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:27:00 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
-    "link": "https://www.fool.com/investing/2026/08/30/prediction-broadcom-stock-will-go-parabolic-after/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 18:05:00 +0000"
+    "title": "The TPU Mix Is Thinning Broadcom's Gross Margin, Not Its Profit",
+    "link": "https://www.trefis.com/articles/613736/the-tpu-mix-is-thinning-broadcoms-gross-margin-not-its-profit/2026-08-31?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:49:46 +0000"
    },
    {
-    "title": "Hock Tan Guided Broadcom Past $100 Billion of AI Revenue in 2027. The Stock Is 25% off Its High.",
-    "link": "https://www.fool.com/investing/2026/08/30/hock-tan-guided-broadcom-past-usd100-billion-of-ai-revenue-in-2027-the-stock-is-25-off-its-high/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 12:58:01 +0000"
+    "title": "Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-announces-vmware-ai-factory-130500581.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 13:05:00 +0000"
    },
    {
-    "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-    "link": "https://www.fool.com/investing/2026/08/29/billionaire-stanley-druckenmiller-sold-broadcom-an/?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 20:20:00 +0000"
+    "title": "VMware Cloud Foundation Brings Leading AI Models to the Private AI Cloud",
+    "link": "https://finance.yahoo.com/technology/ai/articles/vmware-cloud-foundation-brings-leading-130400470.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 13:04:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Why the head of Taiwan\u2019s stock exchange wants you to look past TSMC\u2014and embrace the \u2018technology island\u2019",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-head-taiwan-stock-exchange-070000905.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 07:00:00 +0000"
+   },
    {
     "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
     "link": "https://www.fool.com/investing/2026/08/29/tsmc-vs-asml-semiconductor-stock-better-buy/?.tsrc=rss",
@@ -62,48 +67,48 @@
     "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html?.tsrc=rss",
     "pubDate": "Sat, 29 Aug 2026 07:09:46 +0000"
-   },
-   {
-    "title": "Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy?",
-    "link": "https://www.fool.com/investing/2026/08/28/billionaire-stanley-druckenmiller-just-bought-taiw/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 16:16:00 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Nvidia Just Delivered Bad News for AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/08/30/nvidia-just-delivered-bad-news-for-amd-and-intel/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 15:42:00 +0000"
+    "title": "Intel Stock Is Paying Now For Revenue Due Later",
+    "link": "https://www.trefis.com/articles/613729/intel-stock-is-paying-now-for-revenue-due-later/2026-08-31?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 14:51:04 +0000"
    },
    {
-    "title": "Here's How Much You'd Have if You Invested $250 in Intel Stock in 2010",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-250-091642013.html?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 09:16:42 +0000"
+    "title": "Update: Market Chatter: SK Hynix Denies Report of Intel Foundry Partnership for HBM4E",
+    "link": "https://finance.yahoo.com/technology/articles/market-chatter-sk-hynix-denies-110516290.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 11:05:16 +0000"
    },
    {
-    "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
-    "link": "https://www.fool.com/investing/2026/08/29/intel-sold-its-nand-memory-business-for-about-usd9-billion-micron-is-now-worth-more-than-twice-what-intel-is/?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 09:07:01 +0000"
+    "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock",
+    "link": "https://www.fool.com/investing/2026/08/31/ceo-lip-bu-tan-just-gave-12-million-reasons-to-buy/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 11:05:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30",
-    "link": "https://www.fool.com/investing/2026/08/30/prediction-micron-will-go-parabolic-after-sept-30/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 17:20:00 +0000"
+    "title": "The Overlooked AI Bet That Could Outperform NVIDIA by 2027",
+    "link": "https://247wallst.com/investing/2026/08/31/the-overlooked-ai-bet-that-could-outperform-nvidia-by-2027/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:00:34 +0000"
    },
    {
-    "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
-    "link": "https://www.fool.com/investing/2026/08/30/micron-vs-sandisk-1-artificial-intelligence-ai-mem/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 10:50:00 +0000"
+    "title": "Micron Technology (MU) Gains Driven by Earnings Upgrades",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-gains-driven-145610534.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 14:56:10 +0000"
    },
    {
-    "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
-    "link": "https://www.fool.com/investing/2026/08/29/intel-sold-its-nand-memory-business-for-about-usd9-billion-micron-is-now-worth-more-than-twice-what-intel-is/?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 09:07:01 +0000"
+    "title": "How to Win on Micron Stock and Its Big Memory-Chip Threat From China",
+    "link": "https://finance.yahoo.com/m/4c4c8fde-6994-3181-a95b-ead59b8bbc55/how-to-win-on-micron-stock.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 14:40:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Qualcomm vs. Sandisk: Comparing Gradual Revenue Contraction Against Rapid Revenue Acceleration",
+    "link": "https://www.fool.com/coverage/charts/2026/08/31/qualcomm-vs-sandisk-comparing-gradual-revenue-contraction-against-rapid-revenue-acceleration/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 12:52:01 +0000"
+   },
    {
     "title": "Can SanDisk Avoid the Memory Trap That\u2019s Burned Investors Before?",
     "link": "https://247wallst.com/investing/2026/08/30/can-sandisk-avoid-the-memory-trap-thats-burned-investors-before/?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk (SNDK) Backs $31 Billion Japan Flash Memory Expansion Through 2032",
     "link": "https://finance.yahoo.com/technology/articles/sandisk-sndk-backs-31-billion-030904294.html?.tsrc=rss",
     "pubDate": "Sun, 30 Aug 2026 03:09:04 +0000"
-   },
-   {
-    "title": "Sandisk and Kioxia Plan to Invest More Than $31 Billion in Japanese Memory Plants \u2014 About 60% of What They Have Spent There in 25 Years.",
-    "link": "https://www.fool.com/investing/2026/08/29/sandisk-and-kioxia-plan-to-invest-more-than-usd31-billion-in-japanese-memory-plants-about-60-of-what-they-have-spent-there-in-25-years/?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 21:58:01 +0000"
    }
   ],
   "WDC": [
@@ -139,22 +139,27 @@
   ],
   "STX": [
    {
+    "title": "Seagate (STX) Stock May Be 30% Undervalued On AI Bubble Fears",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-may-30-050420643.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 05:04:20 +0000"
+   },
+   {
+    "title": "Seagate Technology Holdings (STX) Heads To AI Summit As Investors Ask If The Story Is Priced In",
+    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-holdings-stx-heads-043025614.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 04:30:25 +0000"
+   },
+   {
     "title": "Seagate Stock Is Off 27%. Why It\u2019s Time to Buy the Dip in STX for 36% Upside.",
     "link": "https://www.barchart.com/story/news/4307718/seagate-stock-is-off-27-why-its-time-to-buy-the-dip-in-stx-for-36-upside?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 11:30:03 +0000"
-   },
-   {
-    "title": "Seagate to Participate in Upcoming Investor Events",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-participate-upcoming-investor-events-200500017.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 20:05:00 +0000"
-   },
-   {
-    "title": "Seagate (STX) Up 10.7% Since Last Earnings Report: Can It Continue?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-10-7-since-153022993.html?.tsrc=rss",
-    "pubDate": "Thu, 27 Aug 2026 15:30:22 +0000"
    }
   ],
   "SOXX": [
+   {
+    "title": "PG&E, Nvidia, Intel, SLB, Chevron, CF Industries, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/f4e62109-88a1-3f26-9769-b6faaf8c8d8b/pg%26e%2C-nvidia%2C-intel%2C-slb%2C.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 14:15:00 +0000"
+   },
    {
     "title": "Optics Stocks Slide as AI Hardware Trade Cools: Applied Optoelectronics and Lumentum Fall 6%, Coherent Drops 5%",
     "link": "https://247wallst.com/investing/2026/08/28/optics-stocks-slide-as-ai-hardware-trade-cools-applied-optoelectronics-and-lumentum-fall-6-coherent-drops-5/?.tsrc=rss",
@@ -164,11 +169,6 @@
     "title": "A Guide to Semiconductor ETFs",
     "link": "https://finance.yahoo.com/technology/articles/guide-semiconductor-etfs-160000023.html?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 16:00:00 +0000"
-   },
-   {
-    "title": "Marvell Falls 7% as Google AI Payoff Lands in Fiscal 2029, Intel Slips, NVIDIA Barely Budges",
-    "link": "https://247wallst.com/investing/2026/08/28/marvell-falls-7-as-google-ai-payoff-lands-in-fiscal-2029-intel-slips-nvidia-barely-budges/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 12:59:27 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "This Unstoppable ETF Could Turn $100 per Month Into $40,000 With Next to No Effort on Your Part. Here's How.",
+    "link": "https://www.fool.com/investing/2026/08/31/this-unstoppable-etf-could-turn-100-per-month-into/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 11:00:00 +0000"
+   },
+   {
     "title": "If You'd Invested $1,000 in QQQ 20 Years Ago, Here's What You'd Have Today",
     "link": "https://www.fool.com/investing/2026/08/29/if-invested-1000-qqq-20-years-ago-what-have-today/?.tsrc=rss",
     "pubDate": "Sun, 30 Aug 2026 01:20:00 +0000"
@@ -198,28 +203,23 @@
     "title": "How a 66-Year-Old\u2019s $600,000 in QQQI Pays Her Monthly With Almost No Tax Bill, Until the Day She Sells",
     "link": "https://247wallst.com/investing/etf/2026/08/28/how-a-66-year-olds-600000-in-qqqi-pays-her-monthly-with-almost-no-tax-bill-until-the-day-she-sells/?.tsrc=rss",
     "pubDate": "Fri, 28 Aug 2026 22:05:50 +0000"
-   },
-   {
-    "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
-    "link": "https://247wallst.com/investing/2026/08/28/this-ai-fund-is-crushing-qqq-and-nvidia-is-barely-2-of-it/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 21:05:17 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Best-Performing Leveraged ETFs of August",
+    "link": "https://finance.yahoo.com/markets/options/articles/best-performing-leveraged-etfs-august-140000031.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 14:00:00 +0000"
+   },
    {
     "title": "$57 Billion Just Rushed Into SPYM | Is SPY\u2019s Cheaper Twin Finally Taking Over?",
     "link": "https://247wallst.com/investing/etf/2026/08/29/57-billion-just-rushed-into-spym-is-spys-cheaper-twin-finally-taking-over/?.tsrc=rss",
     "pubDate": "Sat, 29 Aug 2026 16:10:08 +0000"
    },
    {
-    "title": "Optics Stocks Slide as AI Hardware Trade Cools: Applied Optoelectronics and Lumentum Fall 6%, Coherent Drops 5%",
-    "link": "https://247wallst.com/investing/2026/08/28/optics-stocks-slide-as-ai-hardware-trade-cools-applied-optoelectronics-and-lumentum-fall-6-coherent-drops-5/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 17:54:57 +0000"
-   },
-   {
-    "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
-    "link": "https://247wallst.com/investing/2026/08/28/rivian-falls-6-as-cfo-departs-for-ge-vernova-lucid-slips-tesla-holds-steady/?.tsrc=rss",
-    "pubDate": "Fri, 28 Aug 2026 15:32:38 +0000"
+    "title": "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
+    "link": "https://247wallst.com/investing/2026/08/31/strive-jumps-7-as-strategy-ends-10-week-bitcoin-pause-with-370m-buy/?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 15:37:27 +0000"
    }
   ]
  },

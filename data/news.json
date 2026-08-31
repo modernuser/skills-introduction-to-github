@@ -1,25 +1,30 @@
 {
- "updated": "2026-08-30T18:05:01Z",
+ "updated": "2026-08-31T00:39:05Z",
  "news": {
   "NVDA": [
    {
-    "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-    "link": "https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 17:35:00 +0000"
+    "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+    "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+    "pubDate": "Mon, 31 Aug 2026 00:05:00 +0000"
    },
    {
-    "title": "Michael Burry sends another Nvidia stock verdict to investors",
-    "link": "https://www.thestreet.com/investing/stocks/michael-burry-sends-another-nvidia-stock-verdict-to-investors?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 17:33:00 +0000"
+    "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
+    "link": "https://www.fool.com/investing/2026/08/30/2-dow-jones-stocks-down-20-id-buy-on-the-dip/?.tsrc=rss",
+    "pubDate": "Sun, 30 Aug 2026 23:25:00 +0000"
    },
    {
-    "title": "Nvidia Just Delivered Bad News for AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/08/30/nvidia-just-delivered-bad-news-for-amd-and-intel/?.tsrc=rss",
-    "pubDate": "Sun, 30 Aug 2026 15:42:00 +0000"
+    "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why Greg Abel Is Still Holding.",
+    "link": "https://www.fool.com/investing/2026/08/30/meet-the-dividend-stock-that-warren-buffett-backed/?.tsrc=rss",
+    "pubDate": "Sun, 30 Aug 2026 21:25:00 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Advanced Micro Devices (AMD) Is Exposed To Proposed US Chip Tariffs",
+    "link": "https://finance.yahoo.com/economy/policy/articles/advanced-micro-devices-amd-exposed-182033681.html?.tsrc=rss",
+    "pubDate": "Sun, 30 Aug 2026 18:20:33 +0000"
+   },
+   {
     "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
     "link": "https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/?.tsrc=rss",
     "pubDate": "Sun, 30 Aug 2026 17:35:00 +0000"
@@ -28,14 +33,14 @@
     "title": "Nvidia Just Delivered Bad News for AMD and Intel",
     "link": "https://www.fool.com/investing/2026/08/30/nvidia-just-delivered-bad-news-for-amd-and-intel/?.tsrc=rss",
     "pubDate": "Sun, 30 Aug 2026 15:42:00 +0000"
-   },
-   {
-    "title": "Intel vs. AMD: Why the Market Share Number Is Misleading",
-    "link": "https://www.barchart.com/story/news/4339639/intel-vs-amd-why-the-market-share-number-is-misleading?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 18:30:02 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
+    "link": "https://www.fool.com/investing/2026/08/30/prediction-broadcom-stock-will-go-parabolic-after/?.tsrc=rss",
+    "pubDate": "Sun, 30 Aug 2026 18:05:00 +0000"
+   },
    {
     "title": "Hock Tan Guided Broadcom Past $100 Billion of AI Revenue in 2027. The Stock Is 25% off Its High.",
     "link": "https://www.fool.com/investing/2026/08/30/hock-tan-guided-broadcom-past-usd100-billion-of-ai-revenue-in-2027-the-stock-is-25-off-its-high/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
     "link": "https://www.fool.com/investing/2026/08/29/billionaire-stanley-druckenmiller-sold-broadcom-an/?.tsrc=rss",
     "pubDate": "Sat, 29 Aug 2026 20:20:00 +0000"
-   },
-   {
-    "title": "How networking became the critical layer of AI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 07:16:54 +0000"
    }
   ],
   "TSM": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Can SanDisk Avoid the Memory Trap That\u2019s Burned Investors Before?",
+    "link": "https://247wallst.com/investing/2026/08/30/can-sandisk-avoid-the-memory-trap-thats-burned-investors-before/?.tsrc=rss",
+    "pubDate": "Sun, 30 Aug 2026 22:00:21 +0000"
+   },
+   {
     "title": "Sandisk (SNDK) Backs $31 Billion Japan Flash Memory Expansion Through 2032",
     "link": "https://finance.yahoo.com/technology/articles/sandisk-sndk-backs-31-billion-030904294.html?.tsrc=rss",
     "pubDate": "Sun, 30 Aug 2026 03:09:04 +0000"
@@ -113,11 +118,6 @@
     "title": "Sandisk and Kioxia Plan to Invest More Than $31 Billion in Japanese Memory Plants \u2014 About 60% of What They Have Spent There in 25 Years.",
     "link": "https://www.fool.com/investing/2026/08/29/sandisk-and-kioxia-plan-to-invest-more-than-usd31-billion-in-japanese-memory-plants-about-60-of-what-they-have-spent-there-in-25-years/?.tsrc=rss",
     "pubDate": "Sat, 29 Aug 2026 21:58:01 +0000"
-   },
-   {
-    "title": "Sandisk Reported Layoffs at Its Israel Locations. This Is an Efficiency Push, Not a Warning Sign for SNDK Stock.",
-    "link": "https://www.barchart.com/story/news/4337205/sandisk-reported-layoffs-at-its-israel-locations-this-is-an-efficiency-push-not-a-warning-sign-for-sndk-stock?.tsrc=rss",
-    "pubDate": "Sat, 29 Aug 2026 13:45:02 +0000"
    }
   ],
   "WDC": [

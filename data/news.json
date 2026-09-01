@@ -1,7 +1,12 @@
 {
- "updated": "2026-09-01T17:26:36Z",
+ "updated": "2026-09-01T17:47:33Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia Slips as 700-Gigawatt Data-Center Pipeline Faces Texas Scrutiny",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-700-gigawatt-data-174611504.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:46:11 +0000"
+   },
    {
     "title": "Is Nvidia\u2019s $35 Billion Anthropic Pact the Ultimate Circular Financing Play?",
     "link": "https://247wallst.com/investing/2026/09/01/is-nvidias-35-billion-anthropic-pact-the-ultimate-circular-financing-play/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Nvidia Slips As AI Circular Financing Fears Rise Amid $3.5 Billion Deal; Is Nvidia A Buy Now?",
     "link": "https://finance.yahoo.com/m/5401a4ec-e1d4-3c31-b16d-293f4c04218c/nvidia-slips-as-ai-circular.html?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 16:50:13 +0000"
-   },
-   {
-    "title": "This $5 Trillion Company Could Be Worth $8 Trillion by 2030",
-    "link": "https://247wallst.com/investing/2026/09/01/this-5-trillion-company-could-be-worth-8-trillion-by-2030/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 16:30:16 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron Technology (MU) Faces Taiwan Strike Threat As 80% Back Worker Action",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-faces-taiwan-170725142.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:07:25 +0000"
+   },
+   {
     "title": "Micron\u2019s Insane Productivity Explosion: Revenue Per Employee Doubled to $1.7 Million in Just 9 Months",
     "link": "https://247wallst.com/investing/2026/09/01/microns-insane-productivity-explosion-revenue-per-employee-doubled-to-1-7-million-in-just-9-months/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 16:17:06 +0000"
@@ -96,11 +101,6 @@
     "title": "Nvidia Just Gave a $267 Billion Warning That Micron Stock Could Crash Before 2029 Is Over",
     "link": "https://www.fool.com/investing/2026/09/01/nvidia-just-gave-a-267-billion-warning-that-micron/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 15:32:00 +0000"
-   },
-   {
-    "title": "Micron shares fall 1.8% following Taiwan incentive pay report",
-    "link": "https://investorshub.advfn.com/market-news/article/35410/micron-shares-fall-1-8-following-taiwan-incentive-pay-report?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 14:06:06 +0000"
    }
   ],
   "SNDK": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 31 Aug 2026 18:08:44 +0000"
    },
    {
+    "title": "Novavax Jumps 6% on Matrix-M Oncology Speculation: Is the Royalty Model the Real Story?",
+    "link": "https://247wallst.com/investing/2026/09/01/novavax-jumps-6-on-matrix-m-oncology-speculation-is-the-royalty-model-the-real-story/?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:12:13 +0000"
+   },
+   {
     "title": "CoreWeave Offers So Much at $85",
     "link": "https://247wallst.com/investing/2026/09/01/coreweave-offers-so-much-at-85/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 16:45:38 +0000"
-   },
-   {
-    "title": "What to Understand Before Buying Nebius",
-    "link": "https://247wallst.com/investing/2026/09/01/what-to-understand-before-buying-nebius/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 15:43:04 +0000"
    }
   ]
  },

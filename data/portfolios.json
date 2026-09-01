@@ -12,82 +12,82 @@
      "name": "NVIDIA",
      "shares": 4.399395,
      "start_close": 206.64,
-     "last_close": 220.78
+     "last_close": 218.375
     },
     {
      "symbol": "AMD",
      "name": "Advanced Micro Devices",
      "shares": 1.875807,
      "start_close": 484.64,
-     "last_close": 470.72
+     "last_close": 456.36
     },
     {
      "symbol": "AVGO",
      "name": "Broadcom",
      "shares": 2.31775,
      "start_close": 392.23,
-     "last_close": 370.34
+     "last_close": 368.968
     },
     {
      "symbol": "TSM",
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 415.32
+     "last_close": 413.795
     },
     {
      "symbol": "INTC",
      "name": "Intel",
      "shares": 9.99001,
      "start_close": 91.0,
-     "last_close": 89.51
+     "last_close": 88.61
     },
     {
      "symbol": "MU",
      "name": "Micron Technology",
      "shares": 1.09595,
      "start_close": 829.5,
-     "last_close": 958.73
+     "last_close": 938.7152
     },
     {
      "symbol": "SNDK",
      "name": "SanDisk",
      "shares": 0.705799,
      "start_close": 1288.03,
-     "last_close": 1566.7
+     "last_close": 1561.25
     },
     {
      "symbol": "WDC",
      "name": "Western Digital",
      "shares": 1.72431,
      "start_close": 527.22,
-     "last_close": 450.55
+     "last_close": 449.8
     },
     {
      "symbol": "STX",
      "name": "Seagate Technology",
      "shares": 1.093893,
      "start_close": 831.06,
-     "last_close": 828.38
+     "last_close": 812.95
     },
     {
      "symbol": "SOXX",
      "name": "iShares Semiconductor ETF",
      "shares": 1.790677,
      "start_close": 507.68,
-     "last_close": 511.04
+     "last_close": 498.79
     },
     {
      "symbol": "SOXL",
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 112.79
+     "last_close": 104.7381
     }
    ],
-   "value": 10169.75,
-   "return_pct": 1.7,
-   "alpha_pp": 0.46
+   "value": 9988.04,
+   "return_pct": -0.12,
+   "alpha_pp": -0.61
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -172,7 +172,7 @@
    ],
    "value": 10130.79,
    "return_pct": 1.31,
-   "alpha_pp": 0.07
+   "alpha_pp": 0.82
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,11 +182,11 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 767.05
+     "last_close": 761.4103
     }
    ],
-   "value": 10123.8,
-   "return_pct": 1.24,
+   "value": 10049.37,
+   "return_pct": 0.49,
    "alpha_pp": 0.0
   },
   "trend": {
@@ -268,7 +268,7 @@
    ],
    "value": 9186.4,
    "return_pct": -8.14,
-   "alpha_pp": -7.59
+   "alpha_pp": -6.85
   }
  },
  "history": [
@@ -417,7 +417,14 @@
    "dartboard": 1.31,
    "spy": 1.24,
    "trend": -8.14
+  },
+  {
+   "date": "2026-09-01",
+   "owner": -0.12,
+   "dartboard": 1.31,
+   "spy": 0.49,
+   "trend": -8.14
   }
  ],
- "asof": "2026-08-31"
+ "asof": "2026-09-01"
 }

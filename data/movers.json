@@ -1,148 +1,148 @@
 {
- "updated": "2026-08-29T07:02:53Z",
+ "updated": "2026-09-01T05:05:30Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "WDAY",
-   "name": "Workday, Inc.",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
    "sector": "Information Technology",
-   "close": 204.72,
-   "pct": 5.76
+   "close": 231.0,
+   "pct": 5.77
   },
   {
-   "symbol": "DPZ",
-   "name": "Domino's",
+   "symbol": "TSLA",
+   "name": "Tesla, Inc.",
    "sector": "Consumer Discretionary",
-   "close": 350.0,
-   "pct": 5.4
+   "close": 367.95,
+   "pct": 5.51
   },
   {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 120.81,
-   "pct": 5.05
-  },
-  {
-   "symbol": "NOW",
-   "name": "ServiceNow",
+   "symbol": "SNDK",
+   "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 144.71,
-   "pct": 4.54
-  },
-  {
-   "symbol": "SLB",
-   "name": "Schlumberger",
-   "sector": "Energy",
-   "close": 57.33,
-   "pct": 4.22
-  },
-  {
-   "symbol": "AMZN",
-   "name": "Amazon",
-   "sector": "Consumer Discretionary",
-   "close": 266.43,
-   "pct": 3.97
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 153.62,
-   "pct": 3.57
-  },
-  {
-   "symbol": "BG",
-   "name": "Bunge Global",
-   "sector": "Consumer Staples",
-   "close": 115.48,
-   "pct": 3.5
-  },
-  {
-   "symbol": "EXPE",
-   "name": "Expedia Group",
-   "sector": "Consumer Discretionary",
-   "close": 329.44,
-   "pct": 3.3
-  },
-  {
-   "symbol": "EBAY",
-   "name": "eBay Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 105.62,
-   "pct": 3.28
-  }
- ],
- "losers": [
-  {
-   "symbol": "PYPL",
-   "name": "PayPal",
-   "sector": "Financials",
-   "close": 53.66,
-   "pct": -12.71
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 216.62,
-   "pct": -10.28
-  },
-  {
-   "symbol": "PCG",
-   "name": "PG&E Corporation",
-   "sector": "Utilities",
-   "close": 16.6,
-   "pct": -7.52
-  },
-  {
-   "symbol": "GNRC",
-   "name": "Generac",
-   "sector": "Industrials",
-   "close": 183.8,
-   "pct": -6.84
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 895.0,
-   "pct": -6.39
+   "close": 1566.7,
+   "pct": 5.5
   },
   {
    "symbol": "COIN",
    "name": "Coinbase",
    "sector": "Financials",
-   "close": 178.64,
-   "pct": -6.33
+   "close": 188.12,
+   "pct": 5.31
   },
   {
-   "symbol": "FIX",
-   "name": "Comfort Systems USA",
+   "symbol": "SLB",
+   "name": "Schlumberger",
+   "sector": "Energy",
+   "close": 60.1,
+   "pct": 4.83
+  },
+  {
+   "symbol": "DE",
+   "name": "Deere & Company",
    "sector": "Industrials",
-   "close": 1518.73,
-   "pct": -5.96
+   "close": 654.91,
+   "pct": 3.9
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "QCOM",
+   "name": "Qualcomm",
    "sector": "Information Technology",
-   "close": 279.2,
-   "pct": -5.48
+   "close": 170.48,
+   "pct": 3.83
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 378.44,
-   "pct": -5.35
+   "symbol": "ULTA",
+   "name": "Ulta Beauty",
+   "sector": "Consumer Discretionary",
+   "close": 537.1,
+   "pct": 3.79
   },
   {
-   "symbol": "LRCX",
-   "name": "Lam Research",
+   "symbol": "CF",
+   "name": "CF Industries",
+   "sector": "Materials",
+   "close": 130.03,
+   "pct": 3.37
+  },
+  {
+   "symbol": "FFIV",
+   "name": "F5, Inc.",
    "sector": "Information Technology",
-   "close": 301.9,
-   "pct": -5.24
+   "close": 407.13,
+   "pct": 3.27
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "EIX",
+   "name": "Edison International",
+   "sector": "Utilities",
+   "close": 53.98,
+   "pct": -23.07
+  },
+  {
+   "symbol": "PCG",
+   "name": "PG&E Corporation",
+   "sector": "Utilities",
+   "close": 13.27,
+   "pct": -20.06
+  },
+  {
+   "symbol": "AON",
+   "name": "Aon plc",
+   "sector": "Financials",
+   "close": 321.52,
+   "pct": -9.53
+  },
+  {
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "sector": "Industrials",
+   "close": 244.95,
+   "pct": -7.51
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "close": 219.7,
+   "pct": -6.67
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 566.56,
+   "pct": -5.69
+  },
+  {
+   "symbol": "CLX",
+   "name": "Clorox",
+   "sector": "Consumer Staples",
+   "close": 97.68,
+   "pct": -4.73
+  },
+  {
+   "symbol": "WYNN",
+   "name": "Wynn Resorts",
+   "sector": "Consumer Discretionary",
+   "close": 91.28,
+   "pct": -4.18
+  },
+  {
+   "symbol": "TAP",
+   "name": "Molson Coors Beverage Company",
+   "sector": "Consumer Staples",
+   "close": 39.76,
+   "pct": -4.1
+  },
+  {
+   "symbol": "UBER",
+   "name": "Uber",
+   "sector": "Industrials",
+   "close": 75.65,
+   "pct": -4.02
   }
  ]
 }

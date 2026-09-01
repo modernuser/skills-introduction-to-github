@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-01T00:39:42Z",
+ "updated": "2026-09-01T05:05:22Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally",
-    "link": "https://finance.yahoo.com/m/e094dafb-4fb9-3a61-892b-0d14bebedee4/dow-jones-futures%3A-trump%27s.html?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 00:12:52 +0000"
+    "title": "Can't Decide Between Investing in Rare-Earth Materials and Nuclear Energy? This Under-the-Radar Stock Provides Exposure to Both Industries.",
+    "link": "https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare-earths-and-n/?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:50:00 +0000"
    },
    {
-    "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-seals-35-billion-cloud-235404995.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 23:54:04 +0000"
+    "title": "If You'd Invested $5,000 in the Vanguard S&P 500 ETF (VOO) a Decade Ago, Here's What You'd Have Today",
+    "link": "https://www.fool.com/investing/2026/09/01/if-youd-invested-5000-in-vanguard-sp-500-etf-voo/?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:35:00 +0000"
    },
    {
-    "title": "Why Deere Stock Rallied Today",
-    "link": "https://www.fool.com/investing/2026/08/31/why-deere-stock-is-up-today/?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 23:46:46 +0000"
+    "title": "The Nasdaq Has Fallen in 48% of Septembers Since 1971. Here's What That Means for Nvidia and Micron.",
+    "link": "https://www.fool.com/investing/2026/08/31/the-nasdaq-has-fallen-in-48-of-septembers-since-19/?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 03:05:00 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Cathie Wood Dumps $74 Million of AMD Stock After Explosive Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-74-million-024402404.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:44:02 +0000"
+   },
+   {
+    "title": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:46:51 +0000"
+   },
+   {
     "title": "Here's What September Has Done to AMD Stock Over the Past 10 Years",
     "link": "https://www.fool.com/investing/2026/08/31/here-s-what-september-has-done-to-amd-stock-over-the-past-10-years/?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 23:58:01 +0000"
-   },
-   {
-    "title": "AMD Expands Global AI Footprint With New Saudi Platform",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-expands-global-ai-footprint-223104559.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 22:31:04 +0000"
-   },
-   {
-    "title": "Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser.",
-    "link": "https://www.fool.com/investing/2026/08/31/not-nvidia-not-amd-micron-could-be-septembers-bigg/?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 19:43:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Reports Earnings Tomorrow: What To Expect",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-reports-earnings-tomorrow-031657411.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 03:16:57 +0000"
+   },
    {
     "title": "Broadcom's Next Earnings Report on September 2 Could Send the Stock Soaring. Here's Why.",
     "link": "https://www.fool.com/investing/2026/08/31/broadcoms-next-earnings-report-on-september-2-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 20:39:00 +0000"
-   },
-   {
-    "title": "VGT\u2019s $58 Billion AI Chip Concentration Could Derail Your 2027 Returns",
-    "link": "https://247wallst.com/investing/etf/2026/08/31/vgts-58-billion-ai-chip-concentration-could-derail-your-2027-returns/?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 20:25:10 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Is Intel\u2019s (INTC) Privacy-Focused AI and Foundry Momentum Quietly Redefining Its Investment Case?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-privacy-focused-ai-030952407.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 03:09:52 +0000"
+   },
+   {
     "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 20:10:00 +0000"
@@ -79,14 +84,14 @@
     "title": "Intel Stock Is Paying Now For Revenue Due Later",
     "link": "https://www.trefis.com/articles/613729/intel-stock-is-paying-now-for-revenue-due-later/2026-08-31?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 14:51:04 +0000"
-   },
-   {
-    "title": "Update: Market Chatter: SK Hynix Denies Report of Intel Foundry Partnership for HBM4E",
-    "link": "https://finance.yahoo.com/technology/articles/market-chatter-sk-hynix-denies-110516290.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 11:05:16 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "MU And SNDK's Nascent Rebound Faces A New Test \u2014 China's CXMT Reportedly Makes Major Breakthrough With New AI Memory Chip",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-and-sndk-s-nascent-rebound-faces-a-new-test-china-s-cxmt-reportedly-makes-major-breakthrough-with-new-ai-memory-chip/cZso4JERJtO?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:14:16 +0000"
+   },
    {
     "title": "How to Play the Micron vs. CXMT Memory-Chip War",
     "link": "https://finance.yahoo.com/m/4c4c8fde-6994-3181-a95b-ead59b8bbc55/how-to-play-the-micron-vs..html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser.",
     "link": "https://www.fool.com/investing/2026/08/31/not-nvidia-not-amd-micron-could-be-septembers-bigg/?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 19:43:00 +0000"
-   },
-   {
-    "title": "Apple Just Raised Mac and iPad Prices 20%, So Who Is Getting Rich Off the Shortage?",
-    "link": "https://247wallst.com/investing/2026/08/31/apple-just-raised-mac-and-ipad-prices-20-so-who-is-getting-rich-off-the-shortage/?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 19:35:18 +0000"
    }
   ],
   "SNDK": [
@@ -217,9 +217,9 @@
     "pubDate": "Mon, 31 Aug 2026 14:00:00 +0000"
    },
    {
-    "title": "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
-    "link": "https://247wallst.com/investing/2026/08/31/strive-jumps-7-as-strategy-ends-10-week-bitcoin-pause-with-370m-buy/?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 15:37:27 +0000"
+    "title": "S&P 500 Faces Its Cruelest Month of the Year",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-faces-cruelest-month-021704412.html?.tsrc=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:17:04 +0000"
    }
   ]
  },

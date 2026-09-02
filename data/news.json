@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-02T17:08:56Z",
+ "updated": "2026-09-02T17:51:12Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
-    "link": "https://finance.yahoo.com/m/938b13f8-2657-359e-b8b2-57623664da4b/nvidia-leads-chip-stocks.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 17:00:36 +0000"
+    "title": "Why Is Nvidia Willing to Pay $14 Billion for Hugging Face?",
+    "link": "https://finance.yahoo.com/m/90c3c364-c7bc-3e50-aa37-6075c6388e55/why-is-nvidia-willing-to-pay.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:42:00 +0000"
    },
    {
-    "title": "2 Absurdly Cheap Dividend Stocks to Buy With $1,000 Right Now",
-    "link": "https://www.fool.com/investing/2026/09/02/2-absurdly-cheap-dividend-stocks-to-buy-with-1000/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 16:50:00 +0000"
+    "title": "2 Monster Stocks to Hold for the Next 10 Years",
+    "link": "https://www.fool.com/investing/2026/09/02/2-monster-stocks-to-hold-for-the-next-10-years/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:40:00 +0000"
    },
    {
-    "title": "Jim Cramer has a strong message for Nvidia stock investors",
-    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-message-for-nvidia-stock-investors-apple-stock-buybacks-tim-cook?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 16:33:00 +0000"
+    "title": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
+    "link": "https://247wallst.com/investing/2026/09/02/nvidia-rises-4-on-reported-12-9b-hugging-face-deal-dell-jumps-8-after-guidance-beat/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:31:38 +0000"
    }
   ],
   "AMD": [
@@ -161,14 +161,14 @@
     "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000"
    },
    {
+    "title": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
+    "link": "https://247wallst.com/investing/2026/09/02/nvidia-rises-4-on-reported-12-9b-hugging-face-deal-dell-jumps-8-after-guidance-beat/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:31:38 +0000"
+   },
+   {
     "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-semiconductor-etf-soxx-102002863.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 10:20:02 +0000"
-   },
-   {
-    "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
-    "link": "https://247wallst.com/investing/2026/09/01/semiconductor-stocks-slide-as-global-bond-selloff-lifts-yields-intel-drops-3-nvidia-and-amd-slip/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 13:15:16 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171033298.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:10:33 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130827604.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 13:08:27 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds Decline as US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-170929387.html?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 17:09:29 +0000"
-   },
-   {
-    "title": "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
-    "link": "https://247wallst.com/investing/2026/09/01/apple-rises-3-on-john-ternuss-first-day-as-ceo-even-while-nasdaq-skids/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 16:52:28 +0000"
    }
   ],
   "SPY": [

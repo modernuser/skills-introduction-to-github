@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-02T04:30:52Z",
+ "updated": "2026-09-02T12:45:06Z",
  "news": {
   "NVDA": [
    {
-    "title": "If a Bear Market Starts Tomorrow, Here's the 1 Move That History Says Always Wins Out",
-    "link": "https://www.fool.com/investing/2026/09/01/if-a-bear-market-starts-tomorrow-heres-the-1-move/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 03:20:00 +0000"
+    "title": "Warren Buffett's Giveaway Plan Implies $17 Billion of Berkshire Stock a Year. Greg Abel Bought Back $4.5 Billion Last Quarter.",
+    "link": "https://www.fool.com/investing/2026/09/02/warren-buffetts-giveaway-plan-implies-17-billion-o/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:35:00 +0000"
    },
    {
-    "title": "Broadcom Reports Wednesday. Its Profit Is Growing Nearly 4 Times as Fast as Its Revenue.",
-    "link": "https://www.fool.com/investing/2026/09/01/broadcom-reports-wednesday-its-profit-is-growing-nearly-4-times-as-fast-as-its-revenue/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 03:26:01 +0000"
+    "title": "Palantir CEO Alex Karp Is Doubling Down on Defense Tech",
+    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-doubling-123724110.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:37:24 +0000"
    },
    {
-    "title": "Jim Cramer Says 'WOW' as Dell Crushes Earnings; Patrick Moorhead Says the Company Is Doing 'Exactly What It Told Investors'",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wow-dell-031821924.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 03:18:21 +0000"
+    "title": "Samsara or UiPath: Which Stock Has a Clear Path to Profits?",
+    "link": "https://247wallst.com/investing/2026/09/02/samsara-or-uipath-which-stock-has-a-clear-path-to-profits/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:35:29 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Tiger Global Cut Alphabet 45% and Opened an AMD Position. Is It Rotating From AI Platforms to AI Chips?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-cut-alphabet-45-110107456.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 11:01:07 +0000"
+   },
    {
     "title": "Prediction: This Stock Could Be the Next Big AI Winner",
     "link": "https://247wallst.com/investing/2026/09/01/prediction-this-stock-could-be-the-next-big-ai-winner/?.tsrc=rss",
@@ -28,31 +33,31 @@
     "title": "AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock",
     "link": "https://www.fool.com/investing/2026/09/01/amd-s-instinct-systems-are-now-live-in-saudi-arabia-here-s-what-the-next-250-megawatts-are-worth-to-the-stock/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 16:44:01 +0000"
-   },
-   {
-    "title": "AMD vs. Alphabet: One Stock Could Be the Surprise AI Winner",
-    "link": "https://247wallst.com/investing/2026/09/01/amd-vs-alphabet-one-stock-could-be-the-surprise-ai-winner/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 15:30:24 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "What to watch: Broadcom, Snowflake earnings and ADP jobs data",
+    "link": "https://finance.yahoo.com/video/watch-broadcom-snowflake-earnings-adp-120000424.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:00:00 +0000"
+   },
+   {
+    "title": "Broadcom Looks for a Reset with Third-Quarter Earnings",
+    "link": "https://finance.yahoo.com/m/58a6f508-b17a-37c1-90fd-729e1cd92db3/broadcom-looks-for-a-reset.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:00:00 +0000"
+   },
+   {
     "title": "Billionaire David Tepper just dumped a red-hot AI stock",
     "link": "https://www.thestreet.com/investing/billionaire-david-tepper-just-dumped-a-red-hot-ai-stock?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 04:03:00 +0000"
-   },
-   {
-    "title": "Broadcom Reports Wednesday. Its Profit Is Growing Nearly 4 Times as Fast as Its Revenue.",
-    "link": "https://www.fool.com/investing/2026/09/01/broadcom-reports-wednesday-its-profit-is-growing-nearly-4-times-as-fast-as-its-revenue/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 03:26:01 +0000"
-   },
-   {
-    "title": "Broadcom's earnings loom, but this reveal came first",
-    "link": "https://www.thestreet.com/investing/broadcom-q3-earnings-ai-strategy?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 22:33:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "The Firm That Filed a Bet Against Taiwan Semiconductor Then Launched a Foundry Fund Five Days Later",
+    "link": "https://247wallst.com/investing/etf/2026/09/02/the-firm-that-filed-a-bet-against-taiwan-semiconductor-then-launched-a-foundry-fund-five-days-later/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 11:09:05 +0000"
+   },
    {
     "title": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Corning vs. Applied Materials: One Stock Beat the Other by 75 Percentage Points. The Better AI Infrastructure Play Is Clear.",
     "link": "https://www.barchart.com/story/news/4355448/corning-vs-applied-materials-one-stock-beat-the-other-by-75-percentage-points-the-better-ai-infrastructure-play-is-clear?.tsrc=rss",
     "pubDate": "Mon, 31 Aug 2026 14:00:02 +0000"
-   },
-   {
-    "title": "Why the head of Taiwan\u2019s stock exchange wants you to look past TSMC\u2014and embrace the \u2018technology island\u2019",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-head-taiwan-stock-exchange-070000905.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 +0000"
    }
   ],
   "INTC": [
@@ -88,22 +88,27 @@
   ],
   "MU": [
    {
-    "title": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
-    "link": "https://finance.yahoo.com/m/01f4a532-05e7-3571-8eb1-b7afa3f67969/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 20:46:52 +0000"
+    "title": "Billionaire David Tepper Sold Micron and Sandisk, and Is Hedging Against 1 of Their Largest Customers",
+    "link": "https://www.fool.com/investing/2026/09/02/billionaire-david-tepper-sold-micron-and-sandisk-a/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:27:00 +0000"
    },
    {
-    "title": "Micron Stock Drops as Nearly 10,000 Taiwan Workers Push for Strike",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-nearly-10-202521384.html?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 20:25:21 +0000"
+    "title": "Michael Burry AI Short Bets Get Crushed as Palantir, Nvidia, Micron Soar",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-ai-short-bets-120839277.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 12:08:39 +0000"
    },
    {
-    "title": "Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000)",
-    "link": "https://www.fool.com/investing/2026/09/01/microns-stock-price-by-the-end-of-2027/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 20:23:00 +0000"
+    "title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-increased-micron-105607340.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 10:56:07 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "3 Stocks Drive Half of August's $665 Billion CEX Perpetual Futures Volume",
+    "link": "https://beincrypto.com/stock-perpetual-futures-august-volume-concentration/?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 08:41:18 +0000"
+   },
    {
     "title": "Billionaire David Tepper just dumped a red-hot AI stock",
     "link": "https://www.thestreet.com/investing/billionaire-david-tepper-just-dumped-a-red-hot-ai-stock?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "ARM vs. Sandisk: Comparing Steady Historical Revenue Generation Against Rapid Sequential Revenue Expansion",
     "link": "https://www.fool.com/coverage/charts/2026/09/01/arm-vs-sandisk-comparing-steady-historical-revenue-generation-against-rapid-sequential-revenue-expansion/?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 00:35:01 +0000"
-   },
-   {
-    "title": "Down More Than 30% From Its Peak, Is Now the Perfect Time to Buy Sandisk Stock?",
-    "link": "https://www.fool.com/investing/2026/09/01/down-more-than-30-from-its-peak-is-now-the-perfect/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 20:38:51 +0000"
    }
   ],
   "WDC": [
@@ -161,14 +161,14 @@
     "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000"
    },
    {
+    "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-semiconductor-etf-soxx-102002863.html?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 10:20:02 +0000"
+   },
+   {
     "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
     "link": "https://247wallst.com/investing/2026/09/01/semiconductor-stocks-slide-as-global-bond-selloff-lifts-yields-intel-drops-3-nvidia-and-amd-slip/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 13:15:16 +0000"
-   },
-   {
-    "title": "23 best-performing stocks of August, as the software industry continues its recovery",
-    "link": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 21:16:00 +0000"
    }
   ],
   "SOXL": [

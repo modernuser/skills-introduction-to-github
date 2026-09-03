@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-03T01:30:51Z",
+ "updated": "2026-09-03T04:22:35Z",
  "news": {
   "NVDA": [
    {
-    "title": "New Nvidia deal sends critical signal to one global tech giant",
-    "link": "https://www.thestreet.com/investing/stocks/nvidia-nvda-invests-3-and-half-billion-usd-in-mediatek?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 00:03:00 +0000"
+    "title": "Does Caterpillar\u2019s AI Robotics Push with FieldAI and NVIDIA Reshape the Bull Case for CAT?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/does-caterpillar-ai-robotics-push-032647238.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:26:47 +0000"
    },
    {
-    "title": "Billionaire has bold take on 'hot money' rotation",
-    "link": "https://www.thestreet.com/crypto/markets/billionaire-has-bold-take-on-hot-money-rotation?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 23:55:30 +0000"
+    "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:23:53 +0000"
    },
    {
-    "title": "Why Hycroft Mining Stock Zoomed More Than 7% Higher Today",
-    "link": "https://www.fool.com/investing/2026/09/02/why-hycroft-mining-stock-zoomed-more-than-7-higher/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 23:05:02 +0000"
+    "title": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-cut-nvidia-18-more-031929630.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:19:29 +0000"
    }
   ],
   "AMD": [
@@ -37,19 +37,19 @@
   ],
   "AVGO": [
    {
-    "title": "Broadcom stock slips as chipmaker's strong results 'not enough to keep investors happy'",
-    "link": "https://finance.yahoo.com/markets/article/broadcom-stock-slips-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html?.tsrc=rss",
+    "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy'",
+    "link": "https://finance.yahoo.com/markets/article/broadcom-stock-wavers-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 20:59:29 +0000"
    },
    {
-    "title": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-    "link": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 20:49:09 +0000"
+    "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:23:53 +0000"
    },
    {
-    "title": "Broadcom's price sinks over 6% after releasing Q3 earnings",
-    "link": "https://finance.yahoo.com/video/broadcoms-price-sinks-over-6-after-releasing-q3-earnings-204118312.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 20:41:18 +0000"
+    "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+    "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:09:46 +0000"
    }
   ],
   "TSM": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Soros Fund Management Increased Micron Nearly Eightfold. Is AI Memory Still One of the Best Chip Trades?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/soros-fund-management-increased-micron-032555590.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 03:25:55 +0000"
+   },
+   {
     "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
     "link": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 01:13:01 +0000"
@@ -96,11 +101,6 @@
     "title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
     "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-cut-micron-220154130.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 22:01:54 +0000"
-   },
-   {
-    "title": "Micron (MU) Exceeds Market Returns: Some Facts to Consider",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-exceeds-market-returns-214503960.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 21:45:03 +0000"
    }
   ],
   "SNDK": [

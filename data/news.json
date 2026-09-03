@@ -1,58 +1,63 @@
 {
- "updated": "2026-09-03T04:22:35Z",
+ "updated": "2026-09-03T12:48:11Z",
  "news": {
   "NVDA": [
    {
-    "title": "Does Caterpillar\u2019s AI Robotics Push with FieldAI and NVIDIA Reshape the Bull Case for CAT?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/does-caterpillar-ai-robotics-push-032647238.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:26:47 +0000"
+    "title": "Nvidia to acquire AI platform Hugging Face in landmark $12.9B deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:43:57 +0000"
    },
    {
-    "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:23:53 +0000"
+    "title": "NVIDIA Buys Hugging Face After OpenAI Hack. How Will Stock React?",
+    "link": "https://beincrypto.com/nvidia-hugging-face-acquisition-openai-hack/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:36:02 +0000"
    },
    {
-    "title": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-cut-nvidia-18-more-031929630.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:19:29 +0000"
+    "title": "2 Beaten-Down AI Stocks I Can\u2019t Stop Buying",
+    "link": "https://www.fool.com/investing/2026/09/03/2-beaten-down-ai-stocks-i-can-t-stop-buying/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:01 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Want to Know if AMD is Gaining on Nvidia? Look Here.",
+    "link": "https://247wallst.com/investing/2026/09/03/want-to-know-if-amd-is-gaining-on-nvidia-look-here/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:29:00 +0000"
+   },
+   {
+    "title": "AMD is Quietly Eating Intel\u2019s Lunch",
+    "link": "https://247wallst.com/investing/2026/09/03/amd-is-quietly-eating-intels-lunch/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:24:46 +0000"
+   },
+   {
     "title": "Billionaire has bold take on 'hot money' rotation",
     "link": "https://www.thestreet.com/crypto/markets/billionaire-has-bold-take-on-hot-money-rotation?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 23:55:30 +0000"
-   },
-   {
-    "title": "Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What\u2019s the Common Bet?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-increased-amazon-more-215834577.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 21:58:34 +0000"
-   },
-   {
-    "title": "Top Stock Reports for AMD, Costco & AstraZeneca",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-amd-costco-203600512.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 20:36:00 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy'",
-    "link": "https://finance.yahoo.com/markets/article/broadcom-stock-wavers-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 20:59:29 +0000"
+    "title": "Broadcom just took a page from Dell and Nvidia",
+    "link": "https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 10:27:18 +0000"
    },
    {
-    "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:23:53 +0000"
+    "title": "ETFs to Buy as Broadcom Slides Despite Better-Than-Expected Q3 Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-broadcom-slides-despite-122200108.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:22:00 +0000"
    },
    {
-    "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
-    "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:09:46 +0000"
+    "title": "Broadcom Is Sitting at $370 and Wall Street Suddenly Has Doubts About Its AI Business",
+    "link": "https://247wallst.com/investing/2026/09/03/broadcom-is-sitting-at-370-and-wall-street-suddenly-has-doubts-about-its-ai-business/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:18:22 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Why is Taiwan hiding the backers of its $20B US pledge?",
+    "link": "https://www.thestreet.com/latest-news/taiwan-20-billion-us-chip-investment?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 11:03:00 +0000"
+   },
    {
     "title": "How to Invest in China's AI Revolution",
     "link": "https://finance.yahoo.com/technology/ai/articles/invest-chinas-ai-revolution-155000109.html?.tsrc=rss",
@@ -62,62 +67,57 @@
     "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM): The Powerhouse of Advanced Semiconductor Manufacturing",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-151407808.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 15:14:07 +0000"
-   },
-   {
-    "title": "TSMC's Global Expansion Pressures Margins Amid AI-Driven Growth",
-    "link": "https://finance.yahoo.com/technology/articles/tsmcs-global-expansion-pressures-margins-143600133.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 14:36:00 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Prediction: Intel Stock Could Have a Major Catalyst Ahead",
-    "link": "https://247wallst.com/investing/2026/09/02/prediction-intel-stock-could-have-a-major-catalyst-ahead/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 17:30:12 +0000"
+    "title": "AMD is Quietly Eating Intel\u2019s Lunch",
+    "link": "https://247wallst.com/investing/2026/09/03/amd-is-quietly-eating-intels-lunch/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:24:46 +0000"
    },
    {
-    "title": "Prediction: This Is What a $1,000 Investment in Intel Will Be Worth by 2030",
-    "link": "https://www.fool.com/investing/2026/09/02/prediction-this-is-what-a-usd1-000-investment-in-intel-will-be-worth-by-2030/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 13:43:01 +0000"
+    "title": "Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-82-below-101107945.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 10:11:07 +0000"
    },
    {
-    "title": "What Is Intel (INTC) Doing In Open Source 5G And NextG Networks?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-doing-open-source-030735977.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 03:07:35 +0000"
+    "title": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
+    "link": "https://www.fool.com/investing/2026/09/03/intel-stock-tripled-in-a-year-so-where-will-it-be-in-5-years/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:11:01 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Soros Fund Management Increased Micron Nearly Eightfold. Is AI Memory Still One of the Best Chip Trades?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/soros-fund-management-increased-micron-032555590.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 03:25:55 +0000"
+    "title": "If You Invested $1000 in Micron 10 Years Ago, This Is How Much You'd Have Now",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-micron-10-years-123004054.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:04 +0000"
    },
    {
-    "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
-    "link": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 01:13:01 +0000"
+    "title": "A Once-in-a-Lifetime Investment Opportunity: The 3 Best Stocks to Take Advantage of the AI Build-Out",
+    "link": "https://www.fool.com/investing/2026/09/03/a-once-in-a-lifetime-investment-opportunity-the-3/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 10:50:00 +0000"
    },
    {
-    "title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-cut-micron-220154130.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 22:01:54 +0000"
+    "title": "Micron and China Chip Makers Fight for Market Share. There\u2019s One Big Loser.",
+    "link": "https://finance.yahoo.com/m/2a986040-ed64-3a51-b39f-1a26aa487ba6/micron-and-china-chip-makers.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 10:22:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Data Centers Now Deliver a Third of Sandisk's Revenue -- $2.98 Billion in a Single Quarter",
-    "link": "https://www.fool.com/investing/2026/09/02/data-centers-now-deliver-a-third-of-sandisk-s-revenue-usd2-98-billion-in-a-single-quarter/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 22:58:01 +0000"
+    "title": "Why Sandisk Stock Soared 29% in August",
+    "link": "https://www.fool.com/investing/2026/09/03/why-sandisk-stock-soared-29-in-august/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:01:41 +0000"
    },
    {
-    "title": "Sandisk Stock: Buy, Sell, or Hold?",
-    "link": "https://www.fool.com/investing/2026/09/02/sandisk-stock-buy-sell-or-hold/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 18:32:00 +0000"
+    "title": "Tim Cook, Elon Musk, Andy Jassy, and Jensen Huang All Just Warned Investors About the Same Thing. Spoiler Alert: It's Fantastic News for Micron and Sandisk.",
+    "link": "https://www.fool.com/investing/2026/09/03/tim-cook-elon-musk-andy-jassy-and-jensen-huang-all/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:30:00 +0000"
    },
    {
-    "title": "The Memory Crunch Is Bigger Than Expected. 1 Top Stock to Buy on the Dip (Hint: Not Micron or Sandisk)",
-    "link": "https://www.fool.com/investing/2026/09/02/the-memory-crunch-is-bigger-than-expected-1-top-stock-to-buy-on-the-dip-hint-not-micron-or-sandisk/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 14:45:01 +0000"
+    "title": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
+    "link": "https://www.fool.com/investing/2026/09/03/3-ai-stocks-up-500-or-more-in-the-past-year-that-c/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 04:50:00 +0000"
    }
   ],
   "WDC": [
@@ -161,14 +161,14 @@
     "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000"
    },
    {
+    "title": "ETFs to Buy as Broadcom Slides Despite Better-Than-Expected Q3 Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-broadcom-slides-despite-122200108.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:22:00 +0000"
+   },
+   {
     "title": "Applied Materials Just Dropped 14% in a Month. Sell Now, or Buy More?",
     "link": "https://247wallst.com/investing/2026/09/02/applied-materials-just-dropped-14-in-a-month-sell-now-or-buy-more/?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 19:20:49 +0000"
-   },
-   {
-    "title": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
-    "link": "https://247wallst.com/investing/2026/09/02/nvidia-rises-4-on-reported-12-9b-hugging-face-deal-dell-jumps-8-after-guidance-beat/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 17:31:38 +0000"
    }
   ],
   "SOXL": [
@@ -212,14 +212,14 @@
     "pubDate": "Wed, 02 Sep 2026 15:45:36 +0000"
    },
    {
-    "title": "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
-    "link": "https://247wallst.com/investing/2026/09/02/fubotv-rallies-7-disney-ticks-up-is-the-hulu-live-tv-deal-finally-getting-credit/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 15:43:35 +0000"
+    "title": "Broadcom Is Sitting at $370 and Wall Street Suddenly Has Doubts About Its AI Business",
+    "link": "https://247wallst.com/investing/2026/09/03/broadcom-is-sitting-at-370-and-wall-street-suddenly-has-doubts-about-its-ai-business/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:18:22 +0000"
    },
    {
-    "title": "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
-    "link": "https://247wallst.com/investing/2026/09/02/reddit-rallies-7-as-baird-says-renewal-risk-is-already-priced-in-pinterest-holds-flat/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 14:55:52 +0000"
+    "title": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-futures-rising-premarket-tsla-avgo-snow-hpe-pltr-lulu-stocks-in-focus/cZsMAmhRJvG?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:38:35 +0000"
    }
   ]
  },

@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-03T20:56:56Z",
+ "updated": "2026-09-03T23:19:22Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase",
-    "link": "https://finance.yahoo.com/video/nvidias-jensen-huang-playing-both-203620881.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:36:20 +0000"
+    "title": "Nvidia Is Now Paying to Train Plumbers, and the Stock That Should Benefit Most Just Hit a 52-Week Low",
+    "link": "https://247wallst.com/investing/2026/09/03/nvidia-is-now-paying-to-train-plumbers-and-the-stock-that-should-benefit-most-just-hit-a-52-week-low/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 23:09:19 +0000"
    },
    {
-    "title": "Nvidia Buying AI Platform Hugging Face For $12.9 Billion",
-    "link": "https://finance.yahoo.com/m/82a319bf-e2fe-3eae-80cf-2c9e3ba62760/nvidia-buying-ai-platform.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:47:54 +0000"
+    "title": "Nvidia\u2019s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+    "link": "https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 22:33:01 +0000"
    },
    {
-    "title": "John Wiley & Sons, Inc. Q1 2027 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-john-wiley-sons-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:46:29 +0000"
+    "title": "Nvidia\u2019s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-5-billion-intel-bet-213940172.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:39:40 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-may-24-210938296.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:09:38 +0000"
+   },
    {
     "title": "Why Is AMD (AMD) Becoming More Important In Secure AI Infrastructure?",
     "link": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-becoming-more-201246264.html?.tsrc=rss",
@@ -28,28 +33,23 @@
     "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 20:09:05 +0000"
-   },
-   {
-    "title": "Could a $10,000 Investment in AMD Double by the End of 2028?",
-    "link": "https://www.fool.com/investing/2026/09/03/could-a-10000-investment-in-amd-double-by-the-end/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 18:53:00 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
-    "link": "https://finance.yahoo.com/m/e9f8d914-8453-3d44-a11c-c9ef9cb8ab7e/broadcom-and-snowflake.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:34:00 +0000"
+    "title": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-5-6-212020285.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:20:20 +0000"
    },
    {
-    "title": "CLS Stock Jumps 12% As Broadcom AI Call Sparks Switch Rally",
-    "link": "https://stocktwits.com/news-articles/markets/equity/cls-stock-jumps-12-as-broadcom-ai-call-sparks-switch-rally/cZsuJgGRJvs?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:22:30 +0000"
+    "title": "Why Broadcom (AVGO) Stock Is Nosediving",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-nosediving-210318542.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:03:18 +0000"
    },
    {
-    "title": "Broadcom Delivered Bullish AI Commentary on Fiscal 2027, 2028 Revenue Outlook, Demand Visibility, UBS Says",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-delivered-bullish-ai-commentary-191506275.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 19:15:06 +0000"
+    "title": "Broadcom Forecasts Steep Ramp In AI Revenue",
+    "link": "https://finance.yahoo.com/m/5f2fa157-62cc-3a2d-b8f5-5e175ebdb833/broadcom-forecasts-steep-ramp.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 20:51:49 +0000"
    }
   ],
   "TSM": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
+    "title": "Intel (INTC) Outperforms Broader Market: What You Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-outperforms-broader-market-214504078.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:45:04 +0000"
+   },
+   {
+    "title": "Nvidia\u2019s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-5-billion-intel-bet-213940172.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 21:39:40 +0000"
+   },
+   {
     "title": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge",
     "link": "https://finance.yahoo.com/technology/ai/articles/asus-expands-ai-infrastructure-ecosystem-154900899.html?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 15:49:00 +0000"
-   },
-   {
-    "title": "AMD is Quietly Eating Intel\u2019s Lunch",
-    "link": "https://247wallst.com/investing/2026/09/03/amd-is-quietly-eating-intels-lunch/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 12:24:46 +0000"
-   },
-   {
-    "title": "Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-82-below-101107945.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 10:11:07 +0000"
    }
   ],
   "MU": [

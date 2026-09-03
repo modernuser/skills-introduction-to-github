@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-02T23:21:42Z",
+ "updated": "2026-09-03T01:30:51Z",
  "news": {
   "NVDA": [
+   {
+    "title": "New Nvidia deal sends critical signal to one global tech giant",
+    "link": "https://www.thestreet.com/investing/stocks/nvidia-nvda-invests-3-and-half-billion-usd-in-mediatek?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:03:00 +0000"
+   },
+   {
+    "title": "Billionaire has bold take on 'hot money' rotation",
+    "link": "https://www.thestreet.com/crypto/markets/billionaire-has-bold-take-on-hot-money-rotation?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:55:30 +0000"
+   },
    {
     "title": "Why Hycroft Mining Stock Zoomed More Than 7% Higher Today",
     "link": "https://www.fool.com/investing/2026/09/02/why-hycroft-mining-stock-zoomed-more-than-7-higher/?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 23:05:02 +0000"
-   },
-   {
-    "title": "Nvidia\u2019s $1 Billion Nokia Bet Was Worth About $2.2 Billion by June. Is 6G the Hidden AI Trade?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-1-billion-nokia-bet-215606198.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 21:56:06 +0000"
-   },
-   {
-    "title": "Why Calumet Stock Topped the Market Today",
-    "link": "https://www.fool.com/investing/2026/09/02/why-calumet-stock-topped-the-market-today/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 21:44:45 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Billionaire has bold take on 'hot money' rotation",
+    "link": "https://www.thestreet.com/crypto/markets/billionaire-has-bold-take-on-hot-money-rotation?.tsrc=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:55:30 +0000"
+   },
    {
     "title": "Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What\u2019s the Common Bet?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-increased-amazon-more-215834577.html?.tsrc=rss",
@@ -28,17 +33,12 @@
     "title": "Top Stock Reports for AMD, Costco & AstraZeneca",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-amd-costco-203600512.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 20:36:00 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 19:06:37 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Broadcom stock sinks as chipmaker results 'not enough to keep investors happy'",
-    "link": "https://finance.yahoo.com/markets/article/broadcom-stock-sinks-as-chipmaker-results-not-enough-to-keep-investors-happy-205929042.html?.tsrc=rss",
+    "title": "Broadcom stock slips as chipmaker's strong results 'not enough to keep investors happy'",
+    "link": "https://finance.yahoo.com/markets/article/broadcom-stock-slips-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 20:59:29 +0000"
    },
    {
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+    "link": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 01:13:01 +0000"
+   },
+   {
     "title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
     "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-cut-micron-220154130.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 22:01:54 +0000"
@@ -96,11 +101,6 @@
     "title": "Micron (MU) Exceeds Market Returns: Some Facts to Consider",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-exceeds-market-returns-214503960.html?.tsrc=rss",
     "pubDate": "Wed, 02 Sep 2026 21:45:03 +0000"
-   },
-   {
-    "title": "Billionaire Philippe Laffont Just Bought Micron Stock in Q2: Is the Artificial Intelligence (AI) Memory Winner a Buy for 2026?",
-    "link": "https://www.fool.com/investing/2026/09/02/billionaire-philippe-laffont-just-bought-micron-st/?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 21:07:00 +0000"
    }
   ],
   "SNDK": [

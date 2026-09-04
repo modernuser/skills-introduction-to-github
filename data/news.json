@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-04T01:24:47Z",
+ "updated": "2026-09-04T04:30:06Z",
  "news": {
   "NVDA": [
    {
-    "title": "NVIDIA (NVDA)\u2019s Hugging Face Deal Tests the Next Phase of its AI Strategy",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 01:19:13 +0000"
+    "title": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+    "link": "https://www.fool.com/investing/2026/09/03/opinion-tsmc-is-a-better-buy-than-any-of-the-mag/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 03:20:00 +0000"
    },
    {
-    "title": "Wall Street sees nearly 40% upside for one AI chip giant",
-    "link": "https://www.thestreet.com/investing/stocks/wall-street-sees-near-40-percent-upside-for-broadcom-avgo-stock?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 01:17:00 +0000"
+    "title": "If Democrats Win the Midterms and Take Back the White House, What Happens to Bitcoin? VanEck Says Bitcoin Investors Don't Need to Worry.",
+    "link": "https://www.fool.com/investing/2026/09/03/if-democrats-win-the-midterms-and-take-back-the-wh/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 01:50:00 +0000"
    },
    {
-    "title": "Nvidia Made a 57-Year-Old Oregon Couple Rich. Now One Stock Is the Biggest Risk to Their Retirement",
-    "link": "https://247wallst.com/personal-finance/2026/09/03/nvidia-made-a-57-year-old-oregon-couple-rich-now-one-stock-is-the-biggest-risk-to-their-retirement/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 00:50:44 +0000"
+    "title": "Why Robinhood Stock Rocketed Higher Today",
+    "link": "https://www.fool.com/investing/2026/09/03/why-robinhood-stock-rocketed-higher-today/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 01:46:18 +0000"
    }
   ],
   "AMD": [
@@ -37,22 +37,27 @@
   ],
   "AVGO": [
    {
+    "title": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bull-case-kyndryl-holdings-kd-030947656.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 03:09:47 +0000"
+   },
+   {
+    "title": "Wall Street sees nearly 40% upside for one AI chip giant",
+    "link": "https://www.thestreet.com/investing/stocks/wall-street-sees-near-40-percent-upside-for-broadcom-avgo-stock?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 01:17:00 +0000"
+   },
+   {
     "title": "Hock Tan Just Put a $230 Billion Number on Broadcom's 2028 AI Revenue. That Is 4 Times This Year's.",
     "link": "https://www.fool.com/investing/2026/09/03/hock-tan-just-put-a-usd230-billion-number-on-broadcom-s-2028-ai-revenue-that-is-4-times-this-year-s/?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 23:12:01 +0000"
-   },
-   {
-    "title": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-5-6-212020285.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 21:20:20 +0000"
-   },
-   {
-    "title": "Why Broadcom (AVGO) Stock Is Nosediving",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-nosediving-210318542.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 21:03:18 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+    "link": "https://www.fool.com/investing/2026/09/03/opinion-tsmc-is-a-better-buy-than-any-of-the-mag/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 03:20:00 +0000"
+   },
    {
     "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 9% Above Fair Value As Capex Plans Grow",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-could-130609996.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Why is Taiwan hiding the backers of its $20B US pledge?",
     "link": "https://www.thestreet.com/latest-news/taiwan-20-billion-us-chip-investment?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 11:03:00 +0000"
-   },
-   {
-    "title": "How to Invest in China's AI Revolution",
-    "link": "https://finance.yahoo.com/technology/ai/articles/invest-chinas-ai-revolution-155000109.html?.tsrc=rss",
-    "pubDate": "Wed, 02 Sep 2026 15:50:00 +0000"
    }
   ],
   "INTC": [

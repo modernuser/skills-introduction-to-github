@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-04T17:34:09Z",
+ "updated": "2026-09-04T19:54:28Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why Marvell Stock Rallied Today",
-    "link": "https://www.fool.com/investing/2026/09/04/why-marvell-stock-rallied-today/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:21:50 +0000"
+    "title": "NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-profitable-stocks-buy-190500223.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:05:00 +0000"
    },
    {
-    "title": "KNOT Offshore Partners LP Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-knot-offshore-partners-lp-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:13:03 +0000"
+    "title": "Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
+    "link": "https://www.fool.com/investing/2026/09/04/prediction-this-is-what-a-usd1-000-investment-in-nvidia-will-be-worth-by-2029/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 18:58:01 +0000"
    },
    {
-    "title": "NVDA Stock On Track To Hit Over 2-Month High \u2013 Analyst Calls $12.9B Hugging Face Deal \u2018Strategically Valuable\u2019",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-2-month-high-analyst-hugging-face-12-9b-deal-strategically-valuable/cZsD9xvRJDE?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 16:53:29 +0000"
+    "title": "Got $10,000 to Invest in This High-Yield, Midstream Stock? Here's What It Could Be Worth in 10 Years.",
+    "link": "https://www.fool.com/investing/2026/09/04/invest-in-high-yield-midstream-stock-hesm/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 18:33:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
+    "link": "https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 15:12:07 +0000"
+   },
    {
     "title": "Cathie Wood Cuts AMD and Puts $53 Million Into Nvidia",
     "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-cuts-amd-puts-133412523.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 13:34:12 +0000"
    },
    {
-    "title": "AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-may-24-210938296.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 21:09:38 +0000"
-   },
-   {
-    "title": "Cramer Says Nvidia Spent $13 Billion to Make Sure You Never Buy a Rival\u2019s Chip",
-    "link": "https://247wallst.com/investing/2026/09/04/cramer-says-nvidia-spent-13-billion-to-make-sure-you-never-buy-a-rivals-chip/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 13:20:58 +0000"
+    "title": "ORCL Eyes Breakout as AMD and Intel Test Key Support",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-eyes-breakout-amd-intel-131234796.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 13:12:34 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Is AVGO Stock Poised for a Rebound After Broadcom's Strong Q3 Results?",
+    "link": "https://www.barchart.com/story/news/4444408/is-avgo-stock-poised-for-a-rebound-after-broadcom-s-strong-q3-results?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 13:15:02 +0000"
+   },
    {
     "title": "AVGO Stock\u2019s 27% Selloff Is Sending A Signal \u2013 But Morningstar Sees AI Demand Getting Stronger Through 2030",
     "link": "https://stocktwits.com/news-articles/markets/equity/broadcom-stock-avgo-ai-growth-morningstar-2028-outlook/cZsDRi8RJwY?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom CEO Says AI Demand Could Be \u2018Significantly\u2019 Higher \u2014 But Land, Power, Chips and Substrates Are Holding Back Data Center Deployments",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-says-ai-demand-101107191.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 10:11:07 +0000"
-   },
-   {
-    "title": "Broadcom's Artificial Intelligence (AI) Chip Sales Surged 221% to $16.7 Billion Last Quarter: Is the Stock a Screaming Buy Right Now?",
-    "link": "https://www.fool.com/investing/2026/09/04/broadcoms-artificial-intelligence-ai-chip-sales-su/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 07:00:00 +0000"
    }
   ],
   "TSM": [
@@ -71,53 +71,53 @@
   ],
   "INTC": [
    {
+    "title": "Mizuho Resets Intel Target For the Rest of 2026",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-resets-intel-target-rest-195223382.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:52:23 +0000"
+   },
+   {
+    "title": "Lone Star JV Acquires 2M SF Of R&D Space In Silicon Valley",
+    "link": "https://www.bisnow.com/news/san-francisco/industrial/lone-star-jv-acquires-2-2m-sf-of-r-d-space-in-silicon-valley?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 18:08:47 +0000"
+   },
+   {
     "title": "Why Intel Stock Popped Today",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-170400410.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 17:04:00 +0000"
-   },
-   {
-    "title": "Dell\u2019s earning report was bullish for Intel CPU demand, analyst says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dell-earning-report-bullish-intel-152101599.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:21:01 +0000"
-   },
-   {
-    "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
-    "link": "https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:12:07 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy?",
-    "link": "https://www.fool.com/investing/2026/09/04/micron-vs-sandisk-which-ai-memory-stock-is-the-bet/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:20:00 +0000"
+    "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-strong-micron-sandisk-stocks-194827213.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:48:27 +0000"
    },
    {
-    "title": "Why Micron Stock Just Popped",
-    "link": "https://www.fool.com/investing/2026/09/04/why-micron-stock-just-popped/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:12:06 +0000"
+    "title": "Micron Rockets 4.2% as GPT-6 Reignites the Memory Trade",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-rockets-4-2-gpt-193118962.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:31:18 +0000"
    },
    {
-    "title": "Micron, SanDisk Jump 4% Even as Hot Jobs Report Briefly Flips Fed Hike Odds Above 50%",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:10:13 +0000"
+    "title": "Ken Griffin's Citadel significantly lowers stake in surging chip stock",
+    "link": "https://www.thestreet.com/investing/stocks/ken-griffin-citadel-lowers-stake-micron-mu-stock?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 18:17:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy?",
-    "link": "https://www.fool.com/investing/2026/09/04/micron-vs-sandisk-which-ai-memory-stock-is-the-bet/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:20:00 +0000"
+    "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-strong-micron-sandisk-stocks-194827213.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:48:27 +0000"
    },
    {
-    "title": "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-23-6-153019811.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:30:19 +0000"
+    "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq 100 As Utilities Gain (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/64f13108-e2e0-3872-9691-3d148d5fa88d/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:36:50 +0000"
    },
    {
-    "title": "Micron, SanDisk Jump 4% Even as Hot Jobs Report Briefly Flips Fed Hike Odds Above 50%",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:10:13 +0000"
+    "title": "Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand",
+    "link": "https://finance.yahoo.com/technology/articles/micron-sandisk-lead-memory-chip-174447419.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 17:44:47 +0000"
    }
   ],
   "WDC": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
+    "link": "https://247wallst.com/investing/2026/09/04/sk-hynix-surges-7-as-memory-bid-widens-beyond-nand-seagate-rallies-5/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:07:25 +0000"
+   },
+   {
     "title": "Seagate's YTD Gains are Double the Industry: Is the Stock Still a Buy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagates-ytd-gains-double-industry-142900001.html?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 14:29:00 +0000"
@@ -147,11 +152,6 @@
     "title": "Forget Nvidia. This AI Stock Is Selling the Storage Behind the Boom",
     "link": "https://247wallst.com/investing/2026/09/01/forget-nvidia-this-ai-stock-is-selling-the-storage-behind-the-boom/?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 13:00:08 +0000"
-   },
-   {
-    "title": "Seagate (STX) Stock May Be 30% Undervalued On AI Bubble Fears",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-may-30-050420643.html?.tsrc=rss",
-    "pubDate": "Mon, 31 Aug 2026 05:04:20 +0000"
    }
   ],
   "SOXX": [
@@ -161,14 +161,14 @@
     "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000"
    },
    {
+    "title": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/04/super-micro-surges-7-as-semiconductors-lead-a-flat-tape-hewlett-packard-enterprise-falls-3-dell-edges-higher/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 18:05:14 +0000"
+   },
+   {
     "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
     "link": "https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 15:12:07 +0000"
-   },
-   {
-    "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips",
-    "link": "https://247wallst.com/investing/2026/09/03/broadcom-falls-6-as-soft-guidance-overshadows-221-ai-revenue-surge-nvidia-inches-higher-amd-slips/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 14:05:56 +0000"
    }
   ],
   "SOXL": [
@@ -207,14 +207,14 @@
   ],
   "SPY": [
    {
+    "title": "This Is the Most Expensive Market in Decades. Is It Really Safe to Invest Right Now?",
+    "link": "https://www.fool.com/investing/2026/09/04/this-is-the-most-expensive-market-in-decades-is-it/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:20:00 +0000"
+   },
+   {
     "title": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
     "link": "https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 16:20:33 +0000"
-   },
-   {
-    "title": "Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady",
-    "link": "https://247wallst.com/investing/2026/09/04/zscaler-falls-4-as-fy2027-growth-guidance-overshadows-earnings-beat-crowdstrike-slips-palo-alto-holds-steady/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 16:06:50 +0000"
    },
    {
     "title": "SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating?",

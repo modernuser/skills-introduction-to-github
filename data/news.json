@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-04T22:19:23Z",
+ "updated": "2026-09-04T23:04:26Z",
  "news": {
   "NVDA": [
    {
-    "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
-    "link": "https://www.fool.com/investing/2026/09/04/elon-musk-committed-spacex-to-building-exclusively-on-nvidia-here-s-what-that-locks-in-for-spacex-s-compute-bill/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:03:06 +0000"
-   },
-   {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-compute-provider-nscale-looking-211211296.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000"
+    "title": "Jim Cramer Believes Nvidia Corp. (NASDAQ:NVDA) Buying Back Half A Trillion Worth In Stock Would Be Great",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-nvidia-corp-224659401.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:46:59 +0000"
    },
    {
     "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
     "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 20:52:46 +0000"
+    "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
+   },
+   {
+    "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
+    "link": "https://www.fool.com/investing/2026/09/04/elon-musk-committed-spacex-to-building-exclusively-on-nvidia-here-s-what-that-locks-in-for-spacex-s-compute-bill/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:03:06 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-someone-must-225141015.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:51:41 +0000"
+   },
+   {
     "title": "Top Research Reports for Apple, Broadcom & Shell",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-broadcom-211600532.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 21:16:00 +0000"
@@ -45,11 +50,6 @@
     "title": "5-star analyst resets Broadcom stock price target",
     "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-broadcom-avgo-stock-price-target?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 20:07:00 +0000"
-   },
-   {
-    "title": "Is AVGO Stock Poised for a Rebound After Broadcom's Strong Q3 Results?",
-    "link": "https://www.barchart.com/story/news/4444408/is-avgo-stock-poised-for-a-rebound-after-broadcom-s-strong-q3-results?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 13:15:02 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:55:13 +0000"
+   },
+   {
     "title": "Mizuho Resets Intel Target For the Rest of 2026",
     "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-resets-intel-target-rest-195223382.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 19:52:23 +0000"
@@ -79,23 +84,18 @@
     "title": "Lone Star JV Spends $1.2B On 2M SF R&D Portfolio In Silicon Valley",
     "link": "https://www.bisnow.com/news/san-francisco/industrial/lone-star-jv-acquires-2-2m-sf-of-r-d-space-in-silicon-valley?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 18:08:47 +0000"
-   },
-   {
-    "title": "Why Intel Stock Popped Today",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-170400410.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:04:00 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
+   },
+   {
     "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
     "link": "https://www.fool.com/investing/2026/09/04/david-tepper-sold-41-of-his-micron-shares-and-it-is-still-his-second-biggest-holding/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 21:34:01 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 20:52:46 +0000"
    },
    {
     "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
+   },
+   {
     "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",
     "link": "https://finance.yahoo.com/m/64f13108-e2e0-3872-9691-3d148d5fa88d/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 20:55:37 +0000"
@@ -113,11 +118,6 @@
     "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-strong-micron-sandisk-stocks-194827213.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 19:48:27 +0000"
-   },
-   {
-    "title": "Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand",
-    "link": "https://finance.yahoo.com/technology/articles/micron-sandisk-lead-memory-chip-174447419.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:44:47 +0000"
    }
   ],
   "WDC": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq \u2014TSLA, NFLX, BE, NVDA In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:18:49 +0000"
+   },
+   {
     "title": "This Is the Most Expensive Market in Decades. Is It Really Safe to Invest Right Now?",
     "link": "https://www.fool.com/investing/2026/09/04/this-is-the-most-expensive-market-in-decades-is-it/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 19:20:00 +0000"
@@ -215,11 +220,6 @@
     "title": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
     "link": "https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 16:20:33 +0000"
-   },
-   {
-    "title": "SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating?",
-    "link": "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 15:00:36 +0000"
    }
   ]
  },

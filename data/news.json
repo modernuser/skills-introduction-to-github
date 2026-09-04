@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-03T23:19:22Z",
+ "updated": "2026-09-04T01:24:47Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Is Now Paying to Train Plumbers, and the Stock That Should Benefit Most Just Hit a 52-Week Low",
-    "link": "https://247wallst.com/investing/2026/09/03/nvidia-is-now-paying-to-train-plumbers-and-the-stock-that-should-benefit-most-just-hit-a-52-week-low/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 23:09:19 +0000"
+    "title": "NVIDIA (NVDA)\u2019s Hugging Face Deal Tests the Next Phase of its AI Strategy",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 01:19:13 +0000"
    },
    {
-    "title": "Nvidia\u2019s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
-    "link": "https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 22:33:01 +0000"
+    "title": "Wall Street sees nearly 40% upside for one AI chip giant",
+    "link": "https://www.thestreet.com/investing/stocks/wall-street-sees-near-40-percent-upside-for-broadcom-avgo-stock?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 01:17:00 +0000"
    },
    {
-    "title": "Nvidia\u2019s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-5-billion-intel-bet-213940172.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 21:39:40 +0000"
+    "title": "Nvidia Made a 57-Year-Old Oregon Couple Rich. Now One Stock Is the Biggest Risk to Their Retirement",
+    "link": "https://247wallst.com/personal-finance/2026/09/03/nvidia-made-a-57-year-old-oregon-couple-rich-now-one-stock-is-the-biggest-risk-to-their-retirement/?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 00:50:44 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Hock Tan Just Put a $230 Billion Number on Broadcom's 2028 AI Revenue. That Is 4 Times This Year's.",
+    "link": "https://www.fool.com/investing/2026/09/03/hock-tan-just-put-a-usd230-billion-number-on-broadcom-s-2028-ai-revenue-that-is-4-times-this-year-s/?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 23:12:01 +0000"
+   },
+   {
     "title": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-5-6-212020285.html?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 21:20:20 +0000"
@@ -45,11 +50,6 @@
     "title": "Why Broadcom (AVGO) Stock Is Nosediving",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-nosediving-210318542.html?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 21:03:18 +0000"
-   },
-   {
-    "title": "Broadcom Forecasts Steep Ramp In AI Revenue",
-    "link": "https://finance.yahoo.com/m/5f2fa157-62cc-3a2d-b8f5-5e175ebdb833/broadcom-forecasts-steep-ramp.html?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 20:51:49 +0000"
    }
   ],
   "TSM": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "What Does Sandisk (SNDK) Losing NAND Share To China Mean Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/does-sandisk-sndk-losing-nand-230917506.html?.tsrc=rss",
+    "pubDate": "Thu, 03 Sep 2026 23:09:17 +0000"
+   },
+   {
     "title": "Sandisk Announces Participation in Investor Conferences",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-announces-participation-investor-conferences-193000325.html?.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 19:30:00 +0000"
@@ -113,11 +118,6 @@
     "title": "Micron, SanDisk Lag Tech Rally as China Grabs Memory Market Share",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61613454/china-memory-market-share-micron-sandisk?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "pubDate": "Thu, 03 Sep 2026 18:36:03 +0000"
-   },
-   {
-    "title": "Why Sandisk Stock Soared 29% in August",
-    "link": "https://www.fool.com/investing/2026/09/03/why-sandisk-stock-soared-29-in-august/?.tsrc=rss",
-    "pubDate": "Thu, 03 Sep 2026 08:01:41 +0000"
    }
   ],
   "WDC": [

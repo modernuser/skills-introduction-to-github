@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-02T01:27:27Z",
+ "updated": "2026-09-04T01:24:55Z",
  "coverage": 501,
  "gainers": [
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 154.27,
-   "pct": 9.93
-  },
-  {
-   "symbol": "EIX",
-   "name": "Edison International",
-   "sector": "Utilities",
-   "close": 58.8,
-   "pct": 8.93
-  },
-  {
-   "symbol": "PCG",
-   "name": "PG&E Corporation",
-   "sector": "Utilities",
-   "close": 14.06,
-   "pct": 5.95
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "close": 31.32,
-   "pct": 4.33
-  },
-  {
-   "symbol": "CF",
-   "name": "CF Industries",
-   "sector": "Materials",
-   "close": 135.6,
-   "pct": 4.28
-  },
-  {
-   "symbol": "BG",
-   "name": "Bunge Global",
-   "sector": "Consumer Staples",
-   "close": 121.04,
-   "pct": 4.16
-  },
-  {
-   "symbol": "HWM",
-   "name": "Howmet Aerospace",
-   "sector": "Industrials",
-   "close": 254.89,
-   "pct": 4.06
-  },
-  {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 131.71,
-   "pct": 4.04
-  },
-  {
-   "symbol": "ADM",
-   "name": "Archer Daniels Midland",
-   "sector": "Consumer Staples",
-   "close": 84.55,
-   "pct": 4.01
-  },
-  {
-   "symbol": "CVS",
-   "name": "CVS Health",
-   "sector": "Health Care",
-   "close": 97.6,
-   "pct": 3.93
-  }
- ],
- "losers": [
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 518.3,
-   "pct": -8.52
-  },
-  {
-   "symbol": "CDNS",
-   "name": "Cadence Design Systems",
-   "sector": "Information Technology",
-   "close": 313.04,
-   "pct": -7.6
-  },
-  {
-   "symbol": "IBKR",
-   "name": "Interactive Brokers",
-   "sector": "Financials",
-   "close": 90.39,
-   "pct": -7.09
-  },
-  {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "close": 215.07,
-   "pct": -6.9
-  },
   {
    "symbol": "DELL",
    "name": "Dell Technologies",
    "sector": "Information Technology",
-   "close": 425.0,
-   "pct": -6.8
+   "close": 492.2,
+   "pct": 15.81
   },
   {
-   "symbol": "ODFL",
-   "name": "Old Dominion",
-   "sector": "Industrials",
-   "close": 187.01,
-   "pct": -6.48
+   "symbol": "RDDT",
+   "name": "Reddit",
+   "sector": "Communication Services",
+   "close": 158.1,
+   "pct": 9.31
   },
   {
-   "symbol": "COIN",
-   "name": "Coinbase",
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 158.97,
+   "pct": 8.74
+  },
+  {
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Information Technology",
+   "close": 71.67,
+   "pct": 6.32
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc.",
    "sector": "Financials",
-   "close": 176.82,
-   "pct": -6.01
+   "close": 82.46,
+   "pct": 5.88
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 360.33,
-   "pct": -5.87
+   "symbol": "STLD",
+   "name": "Steel Dynamics",
+   "sector": "Materials",
+   "close": 247.64,
+   "pct": 5.79
   },
   {
-   "symbol": "SNPS",
-   "name": "Synopsys",
+   "symbol": "TTD",
+   "name": "Trade Desk (The)",
+   "sector": "Communication Services",
+   "close": 14.55,
+   "pct": 5.59
+  },
+  {
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "sector": "Consumer Discretionary",
+   "close": 87.0,
+   "pct": 5.29
+  },
+  {
+   "symbol": "NUE",
+   "name": "Nucor",
+   "sector": "Materials",
+   "close": 263.97,
+   "pct": 4.78
+  },
+  {
+   "symbol": "PYPL",
+   "name": "PayPal",
+   "sector": "Financials",
+   "close": 54.67,
+   "pct": 4.33
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
    "sector": "Information Technology",
-   "close": 414.82,
-   "pct": -5.63
+   "close": 328.48,
+   "pct": -9.28
   },
   {
    "symbol": "DDOG",
    "name": "Datadog",
    "sector": "Information Technology",
-   "close": 223.84,
-   "pct": -5.57
+   "close": 209.23,
+   "pct": -6.53
+  },
+  {
+   "symbol": "EIX",
+   "name": "Edison International",
+   "sector": "Utilities",
+   "close": 55.19,
+   "pct": -6.14
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
+   "sector": "Information Technology",
+   "close": 169.46,
+   "pct": -5.81
+  },
+  {
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "sector": "Information Technology",
+   "close": 203.42,
+   "pct": -5.42
+  },
+  {
+   "symbol": "PCG",
+   "name": "PG&E Corporation",
+   "sector": "Utilities",
+   "close": 13.33,
+   "pct": -5.19
+  },
+  {
+   "symbol": "OMC",
+   "name": "Omnicom Group",
+   "sector": "Communication Services",
+   "close": 81.76,
+   "pct": -5.03
+  },
+  {
+   "symbol": "FTNT",
+   "name": "Fortinet",
+   "sector": "Information Technology",
+   "close": 154.54,
+   "pct": -4.52
+  },
+  {
+   "symbol": "CBOE",
+   "name": "Cboe Global Markets",
+   "sector": "Financials",
+   "close": 294.12,
+   "pct": -4.39
+  },
+  {
+   "symbol": "NOW",
+   "name": "ServiceNow",
+   "sector": "Information Technology",
+   "close": 136.72,
+   "pct": -4.32
   }
  ]
 }

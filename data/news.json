@@ -1,7 +1,12 @@
 {
- "updated": "2026-09-04T23:04:26Z",
+ "updated": "2026-09-05T01:02:54Z",
  "news": {
   "NVDA": [
+   {
+    "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN\u2019s Cloud Growth or NVDA\u2019s Backlog?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/aws-plans-2-million-more-230419284.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 23:04:19 +0000"
+   },
    {
     "title": "Jim Cramer Believes Nvidia Corp. (NASDAQ:NVDA) Buying Back Half A Trillion Worth In Stock Would Be Great",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-nvidia-corp-224659401.html?.tsrc=rss",
@@ -11,14 +16,14 @@
     "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
     "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
-   },
-   {
-    "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
-    "link": "https://www.fool.com/investing/2026/09/04/elon-musk-committed-spacex-to-building-exclusively-on-nvidia-here-s-what-that-locks-in-for-spacex-s-compute-bill/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:03:06 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD\u2019s Data Center Revenue and EPS to Double by 2027 \u2014 With Shares Down 19%, It\u2019s a Buy",
+    "link": "https://www.barchart.com/story/news/4450271/amds-data-center-revenue-and-eps-to-double-by-2027-with-shares-down-19-its-a-buy?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 17:23:38 +0000"
+   },
    {
     "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
     "link": "https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Cathie Wood Cuts AMD and Puts $53 Million Into Nvidia",
     "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-cuts-amd-puts-133412523.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 13:34:12 +0000"
-   },
-   {
-    "title": "ORCL Eyes Breakout as AMD and Intel Test Key Support",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-eyes-breakout-amd-intel-131234796.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 13:12:34 +0000"
    }
   ],
   "AVGO": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
    },
    {
+    "title": "Micron Stock Closes Above $1,000. Why It\u2019s Not What It Seems.",
+    "link": "https://finance.yahoo.com/m/c14cc0ec-a7ad-37b2-a6b9-54ccdeb2ec18/micron-stock-closes-above.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 22:36:00 +0000"
+   },
+   {
     "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
     "link": "https://www.fool.com/investing/2026/09/04/david-tepper-sold-41-of-his-micron-shares-and-it-is-still-his-second-biggest-holding/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 21:34:01 +0000"
-   },
-   {
-    "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-strong-micron-sandisk-stocks-194827213.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 19:48:27 +0000"
    }
   ],
   "SNDK": [

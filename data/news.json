@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-05T16:50:59Z",
+ "updated": "2026-09-05T23:56:30Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
+    "title": "Nvidia-backed AI company reveals staggering $103 billion number",
+    "link": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-nscale-reveals-103-billion-contracted-revenue?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 23:17:00 +0000"
    },
    {
-    "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy in September.",
-    "link": "https://www.fool.com/investing/2026/09/05/there-are-only-a-handful-of-sp-500-stocks-that-yie/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 14:45:00 +0000"
+    "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+    "link": "https://www.fool.com/investing/2026/09/05/prediction-amazon-will-join-nvidia-apple-and-alpha/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:40:00 +0000"
    },
    {
-    "title": "3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
-    "link": "https://www.fool.com/investing/2026/09/05/incredible-high-growth-stocks-buy-nvda-nbis-mu/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 14:04:00 +0000"
+    "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
+    "link": "https://www.fool.com/investing/2026/09/05/broadcom-vs-nvidia-1-critical-metric-shows-which-a/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:05:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
+    "link": "https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 22:03:01 +0000"
+   },
    {
     "title": "AMD\u2019s Data Center Revenue and EPS to Double by 2027 \u2014 With Shares Down 19%, It\u2019s a Buy",
     "link": "https://www.barchart.com/story/news/4450271/amds-data-center-revenue-and-eps-to-double-by-2027-with-shares-down-19-its-a-buy?.tsrc=rss",
@@ -28,31 +33,31 @@
     "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
     "link": "https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 15:12:07 +0000"
-   },
-   {
-    "title": "Cathie Wood Cuts AMD and Puts $53 Million Into Nvidia",
-    "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-cuts-amd-puts-133412523.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 13:34:12 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
+    "link": "https://www.fool.com/investing/2026/09/05/broadcom-vs-nvidia-1-critical-metric-shows-which-a/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:05:00 +0000"
+   },
+   {
+    "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
+    "link": "https://www.fool.com/investing/2026/09/05/ai-revenue-set-surge-broadcom-stock-buy-dip/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 17:45:00 +0000"
+   },
+   {
     "title": "Broadcom (AVGO) AI Revenue Soars, But Wall Street Wants More",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-revenue-soars-145838390.html?.tsrc=rss",
     "pubDate": "Sat, 05 Sep 2026 14:58:38 +0000"
-   },
-   {
-    "title": "Broadcom And 2 Other Undervalued Stocks To Own",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-undervalued-stocks-061453375.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 06:14:53 +0000"
-   },
-   {
-    "title": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-someone-must-225141015.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:51:41 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+    "link": "https://www.fool.com/investing/2026/09/05/asml-vs-taiwan-semiconductor-which-semiconductor/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:20:00 +0000"
+   },
    {
     "title": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html?.tsrc=rss",
@@ -62,52 +67,47 @@
     "title": "Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends",
     "link": "https://www.fool.com/investing/2026/09/04/prediction-taiwan-semiconductor-stock-will-surge-2/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 19:50:00 +0000"
-   },
-   {
-    "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:10:57 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Intel\u2019s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 22:58:25 +0000"
+   },
+   {
+    "title": "Why Intel Stock Climbed This Week",
+    "link": "https://www.fool.com/investing/2026/09/05/why-intel-stock-climbed-this-week/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 22:40:17 +0000"
+   },
+   {
     "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
     "link": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 22:55:13 +0000"
-   },
-   {
-    "title": "Mizuho Resets Intel Target For the Rest of 2026",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-resets-intel-target-rest-195223382.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 19:52:23 +0000"
-   },
-   {
-    "title": "Lone Star JV Spends $1.2B On 2M SF R&D Portfolio In Silicon Valley",
-    "link": "https://www.bisnow.com/news/san-francisco/industrial/lone-star-jv-acquires-2-2m-sf-of-r-d-space-in-silicon-valley?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 18:08:47 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
+    "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-u.s.%2C-iran.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 18:22:09 +0000"
    },
    {
-    "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
-    "link": "https://www.fool.com/investing/2026/09/05/news-nvidia-sk-hynix-market-micron-future/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 12:05:00 +0000"
+    "title": "Why Is Micron Technology (MU) CEO Being Honored In Taiwan?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-mu-ceo-181050654.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 18:10:50 +0000"
    },
    {
-    "title": "China's Biggest Memory Chip Stock Is Almost as Good as Micron",
-    "link": "https://www.fool.com/investing/2026/09/05/chinas-memory-chip-stock-almost-as-good-as-micron/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 10:26:00 +0000"
+    "title": "Dell\u2019s Monster Quarter Just Confirmed Micron\u2019s Biggest Opportunity Is Not Just HBM",
+    "link": "https://www.barchart.com/story/news/4461422/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 14:00:02 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
+    "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:03:45 +0000"
    },
    {
     "title": "Jim Cramer Explains Why SanDisk (SNDK) Makes MongoDB (MDB) Look Expensive",
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 19:00:28 +0000"
+   },
+   {
     "title": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
     "link": "https://247wallst.com/investing/2026/09/04/sk-hynix-surges-7-as-memory-bid-widens-beyond-nand-seagate-rallies-5/?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 19:07:25 +0000"
@@ -147,11 +152,6 @@
     "title": "Seagate's YTD Gains are Double the Industry: Is the Stock Still a Buy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagates-ytd-gains-double-industry-142900001.html?.tsrc=rss",
     "pubDate": "Tue, 01 Sep 2026 14:29:00 +0000"
-   },
-   {
-    "title": "Forget Nvidia. This AI Stock Is Selling the Storage Behind the Boom",
-    "link": "https://247wallst.com/investing/2026/09/01/forget-nvidia-this-ai-stock-is-selling-the-storage-behind-the-boom/?.tsrc=rss",
-    "pubDate": "Tue, 01 Sep 2026 13:00:08 +0000"
    }
   ],
   "SOXX": [

@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-05T04:25:13Z",
+ "updated": "2026-09-05T16:50:59Z",
  "news": {
   "NVDA": [
    {
-    "title": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
-    "link": "https://finance.yahoo.com/technology/ai/articles/thinking-machines-lab-seeks-40b-022414055.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 02:24:14 +0000"
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
    },
    {
-    "title": "Spot Memory Prices Are Running 4 Times Contract Prices. That Is Not What a Cycle Peak Looks Like.",
-    "link": "https://www.fool.com/investing/2026/09/04/spot-memory-prices-are-running-4-times-contract-prices-that-is-not-what-a-cycle-peak-looks-like/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 01:58:01 +0000"
+    "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy in September.",
+    "link": "https://www.fool.com/investing/2026/09/05/there-are-only-a-handful-of-sp-500-stocks-that-yie/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 14:45:00 +0000"
    },
    {
-    "title": "Where Will Solana Be in 5 Years?",
-    "link": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 01:17:00 +0000"
+    "title": "3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
+    "link": "https://www.fool.com/investing/2026/09/05/incredible-high-growth-stocks-buy-nvda-nbis-mu/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 14:04:00 +0000"
    }
   ],
   "AMD": [
@@ -37,19 +37,19 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom (AVGO) AI Revenue Soars, But Wall Street Wants More",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-revenue-soars-145838390.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 14:58:38 +0000"
+   },
+   {
+    "title": "Broadcom And 2 Other Undervalued Stocks To Own",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-undervalued-stocks-061453375.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 06:14:53 +0000"
+   },
+   {
     "title": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-someone-must-225141015.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 22:51:41 +0000"
-   },
-   {
-    "title": "Top Research Reports for Apple, Broadcom & Shell",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-broadcom-211600532.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 21:16:00 +0000"
-   },
-   {
-    "title": "5-star analyst resets Broadcom stock price target",
-    "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-broadcom-avgo-stock-price-target?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 20:07:00 +0000"
    }
   ],
   "TSM": [
@@ -64,9 +64,9 @@
     "pubDate": "Fri, 04 Sep 2026 19:50:00 +0000"
    },
    {
-    "title": "TSMC Jumps as a Three-Hectare Lab Attacks Its Packaging Bottleneck",
-    "link": "https://finance.yahoo.com/technology/articles/tsmc-jumps-three-hectare-lab-171017164.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 17:10:17 +0000"
+    "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html?.tsrc=rss",
+    "pubDate": "Fri, 04 Sep 2026 17:10:57 +0000"
    }
   ],
   "INTC": [
@@ -88,39 +88,44 @@
   ],
   "MU": [
    {
-    "title": "Micron and Western Digital Shares Skyrocket, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-skyrocket-022210546.html?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 02:22:10 +0000"
-   },
-   {
     "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
     "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
+    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
    },
    {
-    "title": "Micron Stock Closes Above $1,000. Why It\u2019s Not What It Seems.",
-    "link": "https://finance.yahoo.com/m/c14cc0ec-a7ad-37b2-a6b9-54ccdeb2ec18/micron-stock-closes-above.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:36:00 +0000"
+    "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
+    "link": "https://www.fool.com/investing/2026/09/05/news-nvidia-sk-hynix-market-micron-future/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 12:05:00 +0000"
+   },
+   {
+    "title": "China's Biggest Memory Chip Stock Is Almost as Good as Micron",
+    "link": "https://www.fool.com/investing/2026/09/05/chinas-memory-chip-stock-almost-as-good-as-micron/?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 10:26:00 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 16:46:30 +0000"
+   },
+   {
+    "title": "Jim Cramer Explains Why SanDisk (SNDK) Makes MongoDB (MDB) Look Expensive",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-sandisk-103707259.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 10:37:07 +0000"
+   },
+   {
     "title": "SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html?.tsrc=rss",
     "pubDate": "Sat, 05 Sep 2026 02:11:24 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:41:04 +0000"
-   },
-   {
-    "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",
-    "link": "https://finance.yahoo.com/m/64f13108-e2e0-3872-9691-3d148d5fa88d/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 20:55:37 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Western Digital Director Sold $2.5 Million After a Fourfold-Plus Run. Is AI Storage Momentum Peaking?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-director-sold-2-055045902.html?.tsrc=rss",
+    "pubDate": "Sat, 05 Sep 2026 05:50:45 +0000"
+   },
    {
     "title": "Western Digital (WDC) Stock Looks Cheap On Value Checks While Its Share Run Looks Hard To Ignore",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-looks-031015947.html?.tsrc=rss",
@@ -130,11 +135,6 @@
     "title": "Western Digital (WDC) Down 2.2% Since Last Earnings Report: Can It Rebound?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-down-2-153035488.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 15:30:35 +0000"
-   },
-   {
-    "title": "WDC Stock's Big Rally: Buy, Sell, or Hold After a 70% 6-Month Surge?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 14:45:00 +0000"
    }
   ],
   "STX": [

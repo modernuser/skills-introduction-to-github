@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-07T14:13:27Z",
+ "updated": "2026-09-07T18:42:05Z",
  "news": {
   "NVDA": [
    {
-    "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy Now.",
-    "link": "https://www.fool.com/investing/2026/09/07/there-are-only-a-handful-of-nasdaq-100-stocks-that/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 14:05:00 +0000"
+    "title": "Broadcom Inc. (AVGO)\u2019s AI Opportunity Expands Across AI Infrastructure",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-ai-opportunity-181909723.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 18:18:17 +0000"
    },
    {
-    "title": "How Elastic Stock Bounced 48.3% Higher Last Month",
-    "link": "https://www.fool.com/investing/2026/09/07/how-elastic-stock-bounced-483-higher-last-month/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 13:50:44 +0000"
+    "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+    "link": "https://www.fool.com/investing/2026/09/07/should-you-buy-marvell-technology-stock-before-oct-6/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 18:14:21 +0000"
    },
    {
-    "title": "3 Dividend Kings You Can Buy and Never Sell",
-    "link": "https://www.fool.com/investing/2026/09/07/3-dividend-kings-you-can-buy-and-never-sell/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 13:35:00 +0000"
+    "title": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
+    "link": "https://247wallst.com/investing/2026/09/07/ai-is-moving-into-everyday-business-these-5-stocks-sit-squarely-in-the-path-of-the-surge/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 16:52:50 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Wall Street Is Worried About AMD. Here\u2019s Why Long-Term Investors Shouldn\u2019t Be",
+    "link": "https://247wallst.com/investing/2026/09/07/wall-street-is-worried-about-amd-heres-why-long-term-investors-shouldnt-be/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 17:30:18 +0000"
+   },
+   {
+    "title": "AMD Is Behind The AI Chip Shift Nobody Is Talking About",
+    "link": "https://247wallst.com/investing/2026/09/07/amd-is-behind-the-ai-chip-shift-nobody-is-talking-about/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 14:40:57 +0000"
+   },
+   {
     "title": "AMD\u2019s Whole AI Story Has One Threat It Cannot Ignore: Broadcom",
     "link": "https://247wallst.com/investing/2026/09/07/amds-whole-ai-story-has-one-threat-it-cannot-ignore-broadcom/?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 12:47:28 +0000"
-   },
-   {
-    "title": "Nvidia just sent a strong signal to AMD and Intel investors",
-    "link": "https://www.thestreet.com/investing/stocks/nvidia-vera-cpu-strong-signal-to-amd-intel-investors?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 11:03:00 +0000"
-   },
-   {
-    "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-soared-nvidia-lagged-082539405.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 08:25:39 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom Inc. (AVGO)\u2019s AI Opportunity Expands Across AI Infrastructure",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-ai-opportunity-181909723.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 18:18:17 +0000"
+   },
    {
     "title": "Broadcom vs Marvell: One of These AI Chip Stocks Is a Clear Winner",
     "link": "https://247wallst.com/investing/2026/09/07/broadcom-vs-marvell-one-of-these-ai-chip-stocks-is-a-clear-winner/?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-trending-stock-130004580.html?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 13:00:04 +0000"
-   },
-   {
-    "title": "AMD\u2019s Whole AI Story Has One Threat It Cannot Ignore: Broadcom",
-    "link": "https://247wallst.com/investing/2026/09/07/amds-whole-ai-story-has-one-threat-it-cannot-ignore-broadcom/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 12:47:28 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 14:26:02 +0000"
+   },
    {
     "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
     "link": "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html?.tsrc=rss",
@@ -62,14 +67,14 @@
     "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
     "link": "https://www.fool.com/investing/2026/09/06/prediction-taiwan-semiconductor-s-market-value-passes-usd3-trillion-before-2029/?.tsrc=rss",
     "pubDate": "Sun, 06 Sep 2026 22:51:01 +0000"
-   },
-   {
-    "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
-    "link": "https://www.fool.com/investing/2026/09/05/asml-vs-taiwan-semiconductor-which-semiconductor/?.tsrc=rss",
-    "pubDate": "Sat, 05 Sep 2026 19:20:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead",
+    "link": "https://247wallst.com/investing/2026/09/07/prediction-intel-stock-is-up-big-in-2026-but-the-best-may-still-be-ahead/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 14:30:52 +0000"
+   },
    {
     "title": "Nvidia just sent a strong signal to AMD and Intel investors",
     "link": "https://www.thestreet.com/investing/stocks/nvidia-vera-cpu-strong-signal-to-amd-intel-investors?.tsrc=rss",
@@ -79,31 +84,31 @@
     "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-soared-nvidia-lagged-082539405.html?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 08:25:39 +0000"
-   },
-   {
-    "title": "Trump Again Touts Intel Stock Gains in AI Image, Claims He Made \u2018Hundreds of Billions'",
-    "link": "https://beincrypto.com/trump-intel-stock-ai-image/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 07:06:03 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Do You Think Micron Technology\u2019s (MU) Return Drivers May Falter Ahead",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/think-micron-technology-mu-return-133459987.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 13:34:59 +0000"
+    "title": "Is Micron Technology Stock Running Out of Steam?",
+    "link": "https://www.fool.com/investing/2026/09/07/is-micron-technology-stock-running-out-of-steam/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 17:32:31 +0000"
    },
    {
-    "title": "Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-trending-130005841.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 13:00:05 +0000"
+    "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
+    "link": "https://247wallst.com/investing/2026/09/07/everyone-is-watching-nvidia-but-this-memory-stock-could-be-the-next-ai-winner/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 15:00:22 +0000"
    },
    {
-    "title": "Micron Jumps 6% as AI Memory Trade Keeps Running",
-    "link": "https://finance.yahoo.com/technology/ai/articles/micron-jumps-6-ai-memory-120948403.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 12:09:48 +0000"
+    "title": "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?",
+    "link": "https://247wallst.com/investing/2026/09/07/micron-has-skyrocketed-256-in-2026-what-would-it-take-to-get-mu-stock-up-to-1250/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 14:40:45 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Innovation Engine Drives SharkNinja\u2019s (SN) Sustainable Advantage",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/innovation-engine-drives-sharkninja-sn-150041521.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 15:00:41 +0000"
+   },
    {
     "title": "Nike Exits S&P 100 After Nearly 18 Years. Dell, SanDisk and 2 Tech Giants Take Its Place",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nike-exits-p-100-nearly-123605968.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk Jumps 12% as AI Storage Trade Keeps Running",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-12-ai-storage-121051569.html?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 12:10:51 +0000"
-   },
-   {
-    "title": "Sandisk Just Made the Next Memory Crash a Lot Less Scary",
-    "link": "https://www.fool.com/investing/2026/09/07/sandisk-just-made-the-next-memory-crash-a-lot-less-scary/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 08:01:02 +0000"
    }
   ],
   "WDC": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "This ETF Would Have Increased Your Investment by 6x Over the Past 10 Years -- and It's Still Soaring",
+    "link": "https://www.fool.com/investing/2026/09/07/this-etf-would-have-increased-your-investment-by-6/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 18:27:00 +0000"
+   },
+   {
     "title": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
     "link": "https://www.barchart.com/story/news/4467623/the-vix-is-playing-tricks-why-stocks-are-volatile-but-the-fear-gauge-is-sleeping?.tsrc=rss",
     "pubDate": "Sun, 06 Sep 2026 13:30:02 +0000"
@@ -198,28 +203,23 @@
     "title": "Exchange-Traded Funds Mixed, US Equities Lower After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-170937609.html?.tsrc=rss",
     "pubDate": "Fri, 04 Sep 2026 17:09:37 +0000"
-   },
-   {
-    "title": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
-    "link": "https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 16:20:33 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Which Defensive Stock Has Dominated in 2026: Coca-Cola, Johnson & Johnson, or Procter & Gamble?",
-    "link": "https://247wallst.com/investing/2026/09/07/which-defensive-stock-has-dominated-in-2026-coca-cola-johnson-johnson-or-procter-gamble/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 13:40:21 +0000"
+    "title": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
+    "link": "https://247wallst.com/investing/etf/2026/09/07/ibb-just-beat-the-sp-500-by-22-points-in-three-months-are-you-late-to-the-party/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 16:22:05 +0000"
    },
    {
-    "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq \u2014TSLA, NFLX, BE, NVDA In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 22:18:49 +0000"
+    "title": "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing",
+    "link": "https://247wallst.com/investing/2026/09/07/microsoft-is-close-to-a-new-all-time-high-this-number-will-determine-if-it-keeps-climbing/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 15:45:50 +0000"
    },
    {
-    "title": "This Is the Most Expensive Market in Decades. Is It Really Safe to Invest Right Now?",
-    "link": "https://www.fool.com/investing/2026/09/04/this-is-the-most-expensive-market-in-decades-is-it/?.tsrc=rss",
-    "pubDate": "Fri, 04 Sep 2026 19:20:00 +0000"
+    "title": "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?",
+    "link": "https://247wallst.com/investing/2026/09/07/roblox-has-collapsed-47-this-year-is-it-time-to-switch-to-take-two-or-gamestop/?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 14:50:39 +0000"
    }
   ]
  },

@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-07T21:47:31Z",
+ "updated": "2026-09-07T23:33:41Z",
  "news": {
   "NVDA": [
    {
-    "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-    "link": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 21:25:21 +0000"
+    "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 21:58:55 +0000"
    },
    {
-    "title": "Nvidia CEO Says Human-Level AI Is Here. He Sells the Chips.",
-    "link": "https://beincrypto.com/nvidia-ceo-jensen-huang-agi-claim/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 21:23:23 +0000"
+    "title": "Nvidia Insider Makes Stunning $410 Million Stock Move",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-insider-makes-stunning-410-215800599.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 21:58:00 +0000"
    },
    {
-    "title": "Broadcom\u2019s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-forecast-suggests-hyperscalers-211102090.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 21:11:02 +0000"
+    "title": "Tencent Slips 1% While Its AI-Chip Bet Attacks Nvidia's China Moat",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tencent-slips-1-while-ai-215226124.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 21:52:26 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron's $50 Billion Guide Gets an 8.3% Signal From Seoul",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-guide-gets-215138948.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 21:51:38 +0000"
+   },
+   {
     "title": "Micron, SanDisk get new aggressive price targets from top analyst",
     "link": "https://www.thestreet.com/investing/stocks/mu-micron-sndk-sandisk-lynx-research-stock-price-targets-september-2026?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 20:33:00 +0000"
@@ -96,14 +101,14 @@
     "title": "Is Micron Technology Stock Running Out of Steam?",
     "link": "https://www.fool.com/investing/2026/09/07/is-micron-technology-stock-running-out-of-steam/?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 17:32:31 +0000"
-   },
-   {
-    "title": "Why Micron and SK Hynix Sit in the Most Valuable Spot in the Entire Compute Stack",
-    "link": "https://247wallst.com/investing/2026/09/07/why-micron-and-sk-hynix-sit-in-the-most-valuable-spot-in-the-entire-compute-stack/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 16:45:33 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html?.tsrc=rss",
+    "pubDate": "Mon, 07 Sep 2026 21:56:20 +0000"
+   },
    {
     "title": "Micron, SanDisk get new aggressive price targets from top analyst",
     "link": "https://www.thestreet.com/investing/stocks/mu-micron-sndk-sandisk-lynx-research-stock-price-targets-september-2026?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Innovation Engine Drives SharkNinja\u2019s (SN) Sustainable Advantage",
     "link": "https://finance.yahoo.com/markets/stocks/articles/innovation-engine-drives-sharkninja-sn-150041521.html?.tsrc=rss",
     "pubDate": "Mon, 07 Sep 2026 15:00:41 +0000"
-   },
-   {
-    "title": "Nike Exits S&P 100 After Nearly 18 Years. Dell, SanDisk and 2 Tech Giants Take Its Place",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nike-exits-p-100-nearly-123605968.html?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 12:36:05 +0000"
    }
   ],
   "WDC": [

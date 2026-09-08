@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-05T01:03:01Z",
- "coverage": 498,
+ "updated": "2026-09-08T01:27:40Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 124.72,
-   "pct": 16.57
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 192.7,
-   "pct": 10.14
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Technologies",
+   "symbol": "SNDK",
+   "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 182.53,
-   "pct": 7.71
+   "close": 1740.0,
+   "pct": 11.9
   },
   {
-   "symbol": "NOW",
-   "name": "ServiceNow",
+   "symbol": "KLAC",
+   "name": "KLA Corporation",
    "sector": "Information Technology",
-   "close": 145.59,
-   "pct": 6.49
+   "close": 185.6,
+   "pct": 7.32
   },
   {
-   "symbol": "PFG",
-   "name": "Principal Financial Group",
-   "sector": "Financials",
-   "close": 118.51,
-   "pct": 6.47
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 538.15,
-   "pct": 6.15
-  },
-  {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
    "sector": "Information Technology",
-   "close": 154.04,
-   "pct": 5.69
+   "close": 223.55,
+   "pct": 7.05
   },
   {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 214.97,
+   "close": 281.86,
+   "pct": 6.6
+  },
+  {
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 119.02,
+   "pct": 6.42
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 849.28,
+   "pct": 6.34
+  },
+  {
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "close": 1016.59,
+   "pct": 6.1
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "close": 467.46,
+   "pct": 5.86
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 154.3,
    "pct": 5.68
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 357.03,
+   "pct": 5.45
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 100.61,
+   "pct": -17.38
+  },
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
+   "sector": "Information Technology",
+   "close": 932.26,
+   "pct": -16.68
+  },
+  {
+   "symbol": "ADSK",
+   "name": "Autodesk",
+   "sector": "Information Technology",
+   "close": 217.9,
+   "pct": -8.26
+  },
+  {
+   "symbol": "ADBE",
+   "name": "Adobe Inc.",
+   "sector": "Information Technology",
+   "close": 266.51,
+   "pct": -6.73
+  },
+  {
+   "symbol": "EFX",
+   "name": "Equifax",
+   "sector": "Industrials",
+   "close": 177.05,
+   "pct": -6.37
+  },
+  {
+   "symbol": "PTC",
+   "name": "PTC Inc.",
+   "sector": "Information Technology",
+   "close": 141.02,
+   "pct": -6.04
   },
   {
    "symbol": "TSLA",
    "name": "Tesla, Inc.",
    "sector": "Consumer Discretionary",
-   "close": 376.37,
-   "pct": 5.42
+   "close": 354.08,
+   "pct": -5.92
   },
   {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
+   "symbol": "SNPS",
+   "name": "Synopsys",
    "sector": "Information Technology",
-   "close": 54.44,
-   "pct": 5.04
-  }
- ],
- "losers": [
+   "close": 393.84,
+   "pct": -5.4
+  },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
    "sector": "Information Technology",
-   "close": 317.46,
-   "pct": -10.36
+   "close": 195.79,
+   "pct": -5.38
   },
   {
-   "symbol": "TSN",
-   "name": "Tyson Foods",
-   "sector": "Consumer Staples",
-   "close": 51.76,
-   "pct": -7.26
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
+   "symbol": "NFLX",
+   "name": "Netflix",
    "sector": "Communication Services",
-   "close": 151.38,
-   "pct": -4.77
-  },
-  {
-   "symbol": "ALB",
-   "name": "Albemarle Corporation",
-   "sector": "Materials",
-   "close": 132.16,
-   "pct": -4.06
-  },
-  {
-   "symbol": "GIS",
-   "name": "General Mills",
-   "sector": "Consumer Staples",
-   "close": 39.26,
-   "pct": -3.25
-  },
-  {
-   "symbol": "KHC",
-   "name": "Kraft Heinz",
-   "sector": "Consumer Staples",
-   "close": 25.42,
-   "pct": -3.2
-  },
-  {
-   "symbol": "DOW",
-   "name": "Dow Inc.",
-   "sector": "Materials",
-   "close": 30.36,
-   "pct": -2.94
-  },
-  {
-   "symbol": "BSX",
-   "name": "Boston Scientific",
-   "sector": "Health Care",
-   "close": 46.95,
-   "pct": -2.94
-  },
-  {
-   "symbol": "AVGO",
-   "name": "Broadcom",
-   "sector": "Information Technology",
-   "close": 357.16,
-   "pct": -2.74
-  },
-  {
-   "symbol": "LYB",
-   "name": "LyondellBasell",
-   "sector": "Materials",
-   "close": 64.76,
-   "pct": -2.72
+   "close": 78.25,
+   "pct": -5.35
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T00:32:31Z",
+ "generated": "2026-09-09T00:22:36Z",
  "method": "OLS of log(close) on session index over 90 sessions; ranked by annualized slope x r2",
  "note": "r2 measures how straight the PAST price path was, not the probability of anything. It is a goodness-of-fit statistic, not a forecast and not advice. Whether straight past trends continue is what the dartboard experiment tests, against a random control.",
  "window_sessions": 90,

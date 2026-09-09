@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-09T01:37:09Z",
+ "updated": "2026-09-09T04:39:28Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
+    "title": "Jensen Huang's AI Capex Pulse Check",
+    "link": "https://www.fool.com/investing/2026/09/08/jensen-huangs-ai-capex-pulse-check/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 04:13:35 +0000"
    },
    {
-    "title": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here\u2019s What to Watch.",
-    "link": "https://www.fool.com/investing/2026/09/08/prediction-sept-10-will-be-a-big-day-for-nvidia-shareholders-here-s-what-to-watch/?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:35:01 +0000"
+    "title": "Nvidia Earnings Blow Everyone Away",
+    "link": "https://www.fool.com/investing/2026/09/08/nvidia-earnings-blow-everyone-away/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 03:55:01 +0000"
    },
    {
-    "title": "Why Okta Stock Soared 22% in August and Why There's More Upside Ahead",
-    "link": "https://www.fool.com/investing/2026/09/08/why-okta-stock-soared-22-in-august-and-why-theres/?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:06:30 +0000"
+    "title": "1 Chart That Destroys The Nvidia Bear Thesis",
+    "link": "https://www.fool.com/investing/2026/09/08/1-chart-that-destroys-the-nvidia-bearish-thesis/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 03:20:01 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz \u2014 But Keeps Supplier Options Open",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-amd-reaffirms-tsmc-ties-intel-foundry-buzz-supplier-options-open/cZtepN6RJyS?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 03:45:07 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
     "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
+    "pubDate": "Wed, 09 Sep 2026 03:09:58 +0000"
    },
    {
     "title": "AMD Just Put a $70 Billion Number on Its AI Ambitions",
     "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-put-70-billion-212844853.html?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 21:28:44 +0000"
-   },
-   {
-    "title": "Why AMD Stock Popped Today?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-212023035.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 21:20:23 +0000"
    }
   ],
   "AVGO": [
@@ -54,36 +54,36 @@
   ],
   "TSM": [
    {
-    "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amd-broadcom-lam-012718535.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 01:27:18 +0000"
+    "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz \u2014 But Keeps Supplier Options Open",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-amd-reaffirms-tsmc-ties-intel-foundry-buzz-supplier-options-open/cZtepN6RJyS?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 03:45:07 +0000"
    },
    {
     "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
     "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
+    "pubDate": "Wed, 09 Sep 2026 03:09:58 +0000"
    },
    {
-    "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
-    "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 20:54:58 +0000"
+    "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amd-broadcom-lam-012718535.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 01:27:18 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz \u2014 But Keeps Supplier Options Open",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-amd-reaffirms-tsmc-ties-intel-foundry-buzz-supplier-options-open/cZtepN6RJyS?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 03:45:07 +0000"
+   },
+   {
+    "title": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-amkor-nova-qualcomm-formfactor-014318045.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 01:43:18 +0000"
+   },
+   {
     "title": "Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/09/08/stock-market-today-sept-8-stocks-slide-amid-surging-oil-prices-persistent-geopolotical-tenisons/?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 21:36:26 +0000"
-   },
-   {
-    "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-chip-stocks-rally-204945385.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 20:49:45 +0000"
-   },
-   {
-    "title": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/5b112dff-b85f-35e5-a3f5-79ce6f8a8bba/amd%2C-amgen%2C-novartis%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 20:21:00 +0000"
    }
   ],
   "MU": [

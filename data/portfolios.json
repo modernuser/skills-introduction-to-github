@@ -33,7 +33,7 @@
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 435.56
+     "last_close": 435.36
     },
     {
      "symbol": "INTC",
@@ -82,11 +82,11 @@
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 125.88
+     "last_close": 125.87
     }
    ],
-   "value": 10947.78,
-   "return_pct": 9.48,
+   "value": 10947.25,
+   "return_pct": 9.47,
    "alpha_pp": 8.85
   },
   "dartboard": {
@@ -172,7 +172,7 @@
    ],
    "value": 10016.93,
    "return_pct": 0.17,
-   "alpha_pp": -0.46
+   "alpha_pp": -0.45
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,11 +182,11 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 762.45
+     "last_close": 762.4
     }
    ],
-   "value": 10063.09,
-   "return_pct": 0.63,
+   "value": 10062.43,
+   "return_pct": 0.62,
    "alpha_pp": 0.0
   },
   "trend": {
@@ -268,7 +268,7 @@
    ],
    "value": 9202.64,
    "return_pct": -7.97,
-   "alpha_pp": -6.82
+   "alpha_pp": -6.81
   }
  },
  "history": [
@@ -511,9 +511,9 @@
   },
   {
    "date": "2026-09-09",
-   "owner": 9.48,
+   "owner": 9.47,
    "dartboard": 0.17,
-   "spy": 0.63,
+   "spy": 0.62,
    "trend": -7.97
   }
  ],

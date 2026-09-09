@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-09T20:03:47Z",
+ "updated": "2026-09-09T22:30:31Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why Qualcomm\u2019s AI Chip Deal Proves Nvidia Is Still Top Dog",
-    "link": "https://finance.yahoo.com/m/b192994b-2eca-3081-96a6-b8aedd485c1b/why-qualcomm%E2%80%99s-ai-chip-deal.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:34:00 +0000"
+    "title": "Why Goldgroup Mining Stock Wilted Today",
+    "link": "https://www.fool.com/investing/2026/09/09/why-goldgroup-mining-stock-wilted-today/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:05:22 +0000"
    },
    {
-    "title": "Why Is The Bancorp Stock Down 21% Today?",
-    "link": "https://www.fool.com/investing/2026/09/09/why-is-the-bancorp-stock-down-21-today/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:32:49 +0000"
+    "title": "SailPoint, Inc. Q2 2027 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sailpoint-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 20:52:44 +0000"
    },
    {
-    "title": "Zankore Raises $3.1 Billion With Nvidia Sharing the Credit Risk",
-    "link": "https://finance.yahoo.com/technology/ai/articles/zankore-raises-3-1-billion-184642749.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 18:46:42 +0000"
+    "title": "Korn Ferry Q1 2027 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-korn-ferry-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 20:46:53 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:06:24 +0000"
+    "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due.",
+    "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures%3A-oil.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:07:34 +0000"
    },
    {
-    "title": "AMD Jumps 3.5% as Its $2 Trillion-Plus AI Promise Raises the Stakes",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-3-5-2-182433703.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 18:24:33 +0000"
+    "title": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 21:32:47 +0000"
    },
    {
     "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
     "link": "https://finance.yahoo.com/m/347c373b-d105-3224-b28b-045714220e36/amd%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 15:51:53 +0000"
+    "pubDate": "Wed, 09 Sep 2026 20:49:07 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 21:28:43 +0000"
+   },
    {
     "title": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
     "link": "https://247wallst.com/videos/what-investors-need-to-understand-about-broadcom-credo-and-snowflake-earnings/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Stock Jumps -- AI Revenue Set to Double Again",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-stock-jumps-ai-revenue-171201031.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 17:12:01 +0000"
-   },
-   {
-    "title": "LITE's Laser Growth Accelerates: Can It Challenge AVGO & AAOI?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lites-laser-growth-accelerates-challenge-164200195.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 16:42:00 +0000"
    }
   ],
   "TSM": [
@@ -71,39 +71,44 @@
   ],
   "INTC": [
    {
+    "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-advances-while-market-214502373.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 21:45:02 +0000"
+   },
+   {
+    "title": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/could-apple-aapl-stock-win-205116718.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 20:51:16 +0000"
+   },
+   {
     "title": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intel-intc-corporation-190349353.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 19:03:49 +0000"
-   },
-   {
-    "title": "Intel Rises After a $120 Target Meets 59% AI Growth",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-120-target-meets-190147656.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:01:47 +0000"
-   },
-   {
-    "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-    "link": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 14:45:21 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
+    "link": "https://www.fool.com/investing/2026/09/09/microns-operating-margin-surged-past-80-for-the-fi/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:15:00 +0000"
+   },
+   {
+    "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
+    "link": "https://www.fool.com/investing/2026/09/09/prediction-microns-earnings-could-be-catalyst-ai/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 20:20:00 +0000"
+   },
+   {
     "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000"
-   },
-   {
-    "title": "Micron Gains 2.4% as Memory's 86% Margin Era Refuses to Break",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-gains-2-4-memorys-182526527.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 18:25:26 +0000"
-   },
-   {
-    "title": "Prediction: Micron Stock Could Turn $10,000 Into a Much Larger Sum by 2030",
-    "link": "https://www.fool.com/investing/2026/09/09/prediction-micron-stock-could-turn-10000-into-a-mu/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 17:20:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SanDisk Traded Its Best Prices For Something Rarer",
+    "link": "https://www.trefis.com/articles/614776/sandisk-traded-its-best-prices-for-something-rarer/2026-09-09?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:05:08 +0000"
+   },
    {
     "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "SanDisk's CTO Just Sold Nearly $8 Million After a Huge Stock Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisks-cto-just-sold-nearly-171156078.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 17:11:56 +0000"
-   },
-   {
-    "title": "Memory Stocks Rally as Goldman Says the Worst May Be Over: SK Hynix Climbs 5%, SanDisk Advances 3%, Micron Gains 2%",
-    "link": "https://247wallst.com/investing/2026/09/09/memory-stocks-rally-as-goldman-says-the-worst-may-be-over-sk-hynix-climbs-5-sandisk-advances-3-micron-gains-2/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 15:20:01 +0000"
    }
   ],
   "WDC": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "TQQQ Gained 59.18% While QQQ Gained 24.99%. Here Is Why That Is Not Triple.",
+    "link": "https://247wallst.com/investing/etf/2026/09/09/tqqq-gained-59-18-while-qqq-gained-24-99-here-is-why-that-is-not-triple/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 21:45:38 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-us-equities-173124557.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 17:31:24 +0000"
@@ -198,11 +203,6 @@
     "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer",
     "link": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 21:45:32 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172347069.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 17:23:47 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Wed, 09 Sep 2026 14:34:32 +0000"
    },
    {
-    "title": "Chewy Sinks 11% as Free Cash Flow Miss Overshadows Raised Outlook; Petco Falls 6%, Freshpet Ticks Up",
-    "link": "https://247wallst.com/investing/2026/09/09/chewy-sinks-11-as-free-cash-flow-miss-overshadows-raised-outlook-petco-falls-6-freshpet-ticks-up/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:05:56 +0000"
+    "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent\u2019s Expanded Buyback Plan \u2014 AAPL, META, AMZN, CRM In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-oil-crosses-101-yields-pop/cZt71xeRJCT?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:01:49 +0000"
    },
    {
-    "title": "Pinterest Tumbles 8%, Reddit and Snap Pull Back: Is the Premium Multiple Unwinding?",
-    "link": "https://247wallst.com/investing/2026/09/09/pinterest-tumbles-8-reddit-and-snap-pull-back-is-the-premium-multiple-unwinding/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:01:18 +0000"
+    "title": "Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+    "link": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 22:15:26 +0000"
    }
   ]
  },

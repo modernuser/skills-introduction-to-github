@@ -1,28 +1,28 @@
 {
- "updated": "2026-09-08T23:26:24Z",
+ "updated": "2026-09-09T01:37:09Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
+   },
+   {
+    "title": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here\u2019s What to Watch.",
+    "link": "https://www.fool.com/investing/2026/09/08/prediction-sept-10-will-be-a-big-day-for-nvidia-shareholders-here-s-what-to-watch/?.tsrc=rss",
+    "pubDate": "Tue, 08 Sep 2026 23:35:01 +0000"
+   },
    {
     "title": "Why Okta Stock Soared 22% in August and Why There's More Upside Ahead",
     "link": "https://www.fool.com/investing/2026/09/08/why-okta-stock-soared-22-in-august-and-why-theres/?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 23:06:30 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:04:58 +0000"
-   },
-   {
-    "title": "Prop Industry Leader The5ers Brings Single Stock Futures via CME Feed",
-    "link": "https://finance.yahoo.com/markets/options/articles/prop-industry-leader-the5ers-brings-212700162.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 21:27:00 +0000"
    }
   ],
   "AMD": [
    {
     "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
     "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:04:58 +0000"
+    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
    },
    {
     "title": "AMD Just Put a $70 Billion Number on Its AI Ambitions",
@@ -54,19 +54,19 @@
   ],
   "TSM": [
    {
+    "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amd-broadcom-lam-012718535.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 01:27:18 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
     "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 23:04:58 +0000"
+    "pubDate": "Wed, 09 Sep 2026 01:18:54 +0000"
    },
    {
     "title": "Bank of America Sees ASML Stock's Next Big AI Trigger",
     "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-sees-asml-stocks-205458524.html?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 20:54:58 +0000"
-   },
-   {
-    "title": "An AI chip machine so pricey, three rivals had to say yes",
-    "link": "https://www.thestreet.com/technology/semiconductor-rivals-adopt-asml-equipment?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 20:33:00 +0000"
    }
   ],
   "INTC": [

@@ -1,10 +1,12 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-04",
  "symbols": [
   "AMD",
   "INTC",
+  "MU",
   "SNDK",
   "SOXL",
+  "SOXX",
   "STX",
   "WDC"
  ]

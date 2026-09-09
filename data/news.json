@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-09T17:08:46Z",
+ "updated": "2026-09-09T17:47:03Z",
  "news": {
   "NVDA": [
    {
-    "title": "Cognyte Software Ltd. Q2 2027 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cognyte-software-ltd-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 16:57:10 +0000"
+    "title": "Verily Health Secures New Investment From NVIDIA and CU Healthcare Innovation Fund",
+    "link": "https://finance.yahoo.com/healthcare/articles/verily-health-secures-investment-nvidia-173000670.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:30:00 +0000"
    },
    {
-    "title": "Chewy, Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-chewy-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 16:51:58 +0000"
+    "title": "'I am the house now': U.S. Treasury Secretary Scott Bessent Dares Investors to Short the Yen, as the Treasury Announces a Longer-Dated Bond Repurchase Up to $6 Billion",
+    "link": "https://www.fool.com/investing/2026/09/09/i-am-the-house-now-u-s-treasury-secretary-scott-bessent-dares-investors-to-short-the-yen-as-the-treasury-announces-a-longer-dated-bond-repurchase-up-to-usd6-billion/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:25:01 +0000"
    },
    {
-    "title": "J.Jill, Inc. Q2 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-jjill-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 16:47:28 +0000"
+    "title": "Doing a Roth Conversion? Watch Out for This Big Trap.",
+    "link": "https://www.fool.com/retirement/2026/09/09/doing-a-roth-conversion-watch-out-for-this-big-tra/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:21:00 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom Stock Jumps -- AI Revenue Set to Double Again",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-stock-jumps-ai-revenue-171201031.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:12:01 +0000"
+   },
+   {
     "title": "LITE's Laser Growth Accelerates: Can It Challenge AVGO & AAOI?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/lites-laser-growth-accelerates-challenge-164200195.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 16:42:00 +0000"
@@ -45,11 +50,23 @@
     "title": "Because Broadcom Monetizes Alphabet, Meta, and OpenAI at Scale I Buy Again and Again",
     "link": "https://247wallst.com/investing/2026/09/09/because-broadcom-monetizes-alphabet-meta-and-openai-at-scale-i-buy-again-and-again/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 15:51:44 +0000"
+   }
+  ],
+  "TSM": [
+   {
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 13:00:06 +0000"
    },
    {
-    "title": "What Makes Broadcom (AVGO) a Lucrative Bet?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/makes-broadcom-avgo-lucrative-bet-154758859.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 15:47:58 +0000"
+    "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 12:13:35 +0000"
+   },
+   {
+    "title": "TSMC\u2019s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 10:18:31 +0000"
    }
   ],
   "INTC": [
@@ -71,22 +88,27 @@
   ],
   "MU": [
    {
+    "title": "Prediction: Micron Stock Could Turn $10,000 Into a Much Larger Sum by 2030",
+    "link": "https://www.fool.com/investing/2026/09/09/prediction-micron-stock-could-turn-10000-into-a-mu/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:20:00 +0000"
+   },
+   {
+    "title": "Top Chip Analyst: Memory Prices Won\u2019t Ease \u2018For Years\u2019 and Even Apple Can\u2019t Dodge It",
+    "link": "https://247wallst.com/investing/2026/09/09/top-chip-analyst-memory-prices-wont-ease-for-years-and-even-apple-cant-dodge-it/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:10:37 +0000"
+   },
+   {
     "title": "Why Micron Stock Is Gaining Today",
     "link": "https://finance.yahoo.com/m/a2a5aa0b-c136-3de3-9d47-0649f47092c5/why-micron-stock-is-gaining.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 15:34:00 +0000"
-   },
-   {
-    "title": "Memory Stocks Rally as Goldman Says the Worst May Be Over: SK Hynix Climbs 5%, SanDisk Advances 3%, Micron Gains 2%",
-    "link": "https://247wallst.com/investing/2026/09/09/memory-stocks-rally-as-goldman-says-the-worst-may-be-over-sk-hynix-climbs-5-sandisk-advances-3-micron-gains-2/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 15:20:01 +0000"
-   },
-   {
-    "title": "Can Micron Catch Up to Nvidia's $5.5 Trillion Market Cap?",
-    "link": "https://www.fool.com/investing/2026/09/09/can-micron-catch-up-to-nvidias-55-trillion-market/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 10:07:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SanDisk's CTO Just Sold Nearly $8 Million After a Huge Stock Run",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisks-cto-just-sold-nearly-171156078.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:11:56 +0000"
+   },
    {
     "title": "Memory Stocks Rally as Goldman Says the Worst May Be Over: SK Hynix Climbs 5%, SanDisk Advances 3%, Micron Gains 2%",
     "link": "https://247wallst.com/investing/2026/09/09/memory-stocks-rally-as-goldman-says-the-worst-may-be-over-sk-hynix-climbs-5-sandisk-advances-3-micron-gains-2/?.tsrc=rss",
@@ -96,11 +118,6 @@
     "title": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
     "link": "https://www.fool.com/investing/2026/09/09/4-ai-stocks-are-joining-the-sp-500-buy-hold-pass/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 15:03:00 +0000"
-   },
-   {
-    "title": "SanDisk at $1,740: The Price of Momentum.",
-    "link": "https://247wallst.com/investing/2026/09/09/sandisk-at-1740-the-price-of-momentum/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 14:56:38 +0000"
    }
   ],
   "WDC": [
@@ -173,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds, US Equities Fall After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-us-equities-173124557.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:31:24 +0000"
+   },
+   {
     "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer",
     "link": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 21:45:32 +0000"
@@ -181,11 +203,6 @@
     "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172347069.html?.tsrc=rss",
     "pubDate": "Tue, 08 Sep 2026 17:23:47 +0000"
-   },
-   {
-    "title": "QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change",
-    "link": "https://247wallst.com/investing/etf/2026/09/07/qqq-charged-0-20-for-years-the-fee-only-fell-after-shareholders-approved-a-structural-change/?.tsrc=rss",
-    "pubDate": "Mon, 07 Sep 2026 21:15:39 +0000"
    }
   ],
   "SPY": [
@@ -195,18 +212,16 @@
     "pubDate": "Wed, 09 Sep 2026 14:34:32 +0000"
    },
    {
-    "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 22:46:39 +0000"
+    "title": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+    "link": "https://247wallst.com/investing/2026/09/09/sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-holds-steady/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:39:25 +0000"
    },
    {
-    "title": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-    "link": "https://247wallst.com/investing/2026/09/09/quantum-stocks-fall-as-rate-hike-odds-climb-ionq-sinks-4-rigetti-and-d-wave-pull-back/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 16:58:35 +0000"
+    "title": "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
+    "link": "https://247wallst.com/investing/2026/09/09/drone-stocks-slide-as-risk-off-sentiment-hits-high-beta-names-aerovironment-sinks-4-red-cat-drops-3-ondas-eases/?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 17:34:06 +0000"
    }
   ]
  },
- "errors": [
-  "TSM: HTTP Error 502: "
- ]
+ "errors": []
 }

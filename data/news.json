@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T01:30:28Z",
+ "updated": "2026-09-10T04:40:04Z",
  "news": {
   "NVDA": [
    {
@@ -20,11 +20,6 @@
   ],
   "AMD": [
    {
-    "title": "Dow Jones Futures Rise: Oil Prices Keep Climbing But Market Hasn't Broken Yet. Inflation Data Due.",
-    "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%3A-oil.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 01:18:04 +0000"
-   },
-   {
     "title": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
     "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 21:32:47 +0000"
@@ -33,9 +28,19 @@
     "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
     "link": "https://finance.yahoo.com/m/347c373b-d105-3224-b28b-045714220e36/amd%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 20:49:07 +0000"
+   },
+   {
+    "title": "HostColor Stocks AMD Ryzen 9 9950X Dedicated Servers in Tokyo",
+    "link": "https://finance.yahoo.com/technology/articles/hostcolor-stocks-amd-ryzen-9-200400352.html?.tsrc=rss",
+    "pubDate": "Wed, 09 Sep 2026 20:04:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom Is 26% Below Its High. What $10,000 Bought a Decade Ago, and When the Gains Landed.",
+    "link": "https://www.fool.com/investing/2026/09/09/broadcom-is-26-below-its-high-what-usd10-000-bought-a-decade-ago-and-when-the-gains-landed/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 02:54:01 +0000"
+   },
    {
     "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
     "link": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
     "link": "https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 21:28:43 +0000"
-   },
-   {
-    "title": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
-    "link": "https://247wallst.com/videos/what-investors-need-to-understand-about-broadcom-credo-and-snowflake-earnings/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:50:11 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel stock surges 9% as surprising turnaround takes shape",
+    "link": "https://www.thestreet.com/investing/stocks/intel-stock-surges-9-as-surprising-turnaround-takes-shape?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 04:24:23 +0000"
+   },
+   {
     "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-advances-while-market-214502373.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 21:45:02 +0000"
@@ -79,11 +84,6 @@
     "title": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/could-apple-aapl-stock-win-205116718.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 20:51:16 +0000"
-   },
-   {
-    "title": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intel-intc-corporation-190349353.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:03:49 +0000"
    }
   ],
   "MU": [

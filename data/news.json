@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-10T16:58:50Z",
+ "updated": "2026-09-10T17:39:19Z",
  "news": {
   "NVDA": [
    {
-    "title": "DOJ investigates Nvidia's deal with Groq",
-    "link": "https://www.axios.com/2026/09/10/doj-nvidia-groq-antitrust#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 16:29:30 +0000"
+    "title": "Palantir Taps Nvidia for High-Stakes AI Push",
+    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-taps-nvidia-high-stakes-172839725.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:28:39 +0000"
    },
    {
-    "title": "Institutional Investors Are Loading Up on Madrigal Pharmaceuticals Stock. Should You?",
-    "link": "https://www.fool.com/investing/2026/09/10/institutional-investors-are-loading-up-on-madrigal/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 16:20:00 +0000"
+    "title": "An Nvidia Move Just Put AMD and Intel on the Defensive",
+    "link": "https://www.fool.com/investing/2026/09/10/an-nvidia-move-just-put-amd-and-intel-on-the-defen/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:26:00 +0000"
    },
    {
-    "title": "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/9987e23c-83e5-3b7f-bae7-41125f2e9cc4/stock-market-today%3A-dow.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 16:18:15 +0000"
+    "title": "Nvidia Just Gave Its Dividend a Massive Raise but Does It Even Matter?",
+    "link": "https://247wallst.com/investing/2026/09/10/nvidia-just-gave-its-dividend-a-massive-raise-but-does-it-even-matter/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:14:02 +0000"
    }
   ],
   "AMD": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Atsign and Intel\u00ae solve the Edge AI encryption conundrum",
+    "link": "https://finance.yahoo.com/technology/ai/articles/atsign-intel-solve-edge-ai-170000397.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:00:00 +0000"
+   },
+   {
     "title": "ASML Expands High-NA Ties With Samsung and Intel as AI Demand Builds",
     "link": "https://finance.yahoo.com/technology/articles/asml-expands-high-na-ties-143900733.html?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 14:39:00 +0000"
@@ -79,14 +84,14 @@
     "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
     "link": "https://247wallst.com/investing/2026/09/10/intel-sinks-6-as-profit-taking-hits-a-parabolic-run-nvidia-and-amd-retreat-3/?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 14:01:35 +0000"
-   },
-   {
-    "title": "Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy.",
-    "link": "https://247wallst.com/investing/2026/09/10/intel-may-raise-chip-prices-10-and-the-stock-took-off-why-most-analysts-still-refuse-to-buy/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 12:30:27 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "A $1 Trillion Micron Sounds Absurd. Then You See the 10-Fold Earnings Forecast.",
+    "link": "https://247wallst.com/investing/2026/09/10/a-1-trillion-micron-sounds-absurd-then-you-see-the-10-fold-earnings-forecast/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:00:41 +0000"
+   },
    {
     "title": "Micron Stock Slips as Intel-Backed Start-up Takes Aim at Memory-Chip Market",
     "link": "https://finance.yahoo.com/m/a285e435-1619-3b25-b243-e254279dbae1/micron-stock-slips-as.html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Micron Is 1.6 Points From Taking the No. 2 Spot in DRAM",
     "link": "https://www.fool.com/investing/2026/09/10/micron-is-1-6-points-from-taking-the-no-2-spot-in-dram/?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 14:34:01 +0000"
-   },
-   {
-    "title": "Micron Could Be the Next Nvidia For Patient Investors",
-    "link": "https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 14:00:27 +0000"
    }
   ],
   "SNDK": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds, US Equities Fall After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-170834448.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:08:34 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Producer Price Inflation Data Release",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131756365.html?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 13:17:56 +0000"
@@ -198,11 +203,6 @@
     "title": "TQQQ Gained 59.18% While QQQ Gained 24.99%. Here Is Why That Is Not Triple.",
     "link": "https://247wallst.com/investing/etf/2026/09/09/tqqq-gained-59-18-while-qqq-gained-24-99-here-is-why-that-is-not-triple/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 21:45:38 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-us-equities-173124557.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 17:31:24 +0000"
    }
   ],
   "SPY": [

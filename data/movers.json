@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-08T01:27:40Z",
- "coverage": 501,
+ "updated": "2026-09-10T01:30:36Z",
+ "coverage": 500,
  "gainers": [
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 1740.0,
-   "pct": 11.9
+   "close": 978.535,
+   "pct": 11.04
   },
   {
-   "symbol": "KLAC",
-   "name": "KLA Corporation",
+   "symbol": "INTC",
+   "name": "Intel",
    "sector": "Information Technology",
-   "close": 185.6,
-   "pct": 7.32
+   "close": 104.47,
+   "pct": 9.05
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
    "sector": "Information Technology",
-   "close": 223.55,
-   "pct": 7.05
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 281.86,
-   "pct": 6.6
-  },
-  {
-   "symbol": "NRG",
-   "name": "NRG Energy",
-   "sector": "Utilities",
-   "close": 119.02,
-   "pct": 6.42
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 849.28,
-   "pct": 6.34
-  },
-  {
-   "symbol": "MU",
-   "name": "Micron Technology",
-   "sector": "Information Technology",
-   "close": 1016.59,
-   "pct": 6.1
-  },
-  {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 467.46,
-   "pct": 5.86
+   "close": 56.03,
+   "pct": 7.75
   },
   {
    "symbol": "GLW",
    "name": "Corning Inc.",
    "sector": "Information Technology",
-   "close": 154.3,
-   "pct": 5.68
+   "close": 165.96,
+   "pct": 7.56
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 357.03,
-   "pct": 5.45
+   "close": 301.88,
+   "pct": 7.1
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 904.38,
+   "pct": 6.49
+  },
+  {
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 341.29,
+   "pct": 6.32
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Information Technology",
+   "close": 505.74,
+   "pct": 5.9
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 381.9,
+   "pct": 5.37
+  },
+  {
+   "symbol": "FCX",
+   "name": "Freeport-McMoRan",
+   "sector": "Materials",
+   "close": 76.62,
+   "pct": 5.35
   }
  ],
  "losers": [
   {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 100.61,
-   "pct": -17.38
-  },
-  {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
-   "sector": "Information Technology",
-   "close": 932.26,
-   "pct": -16.68
-  },
-  {
-   "symbol": "ADSK",
-   "name": "Autodesk",
-   "sector": "Information Technology",
-   "close": 217.9,
-   "pct": -8.26
-  },
-  {
-   "symbol": "ADBE",
-   "name": "Adobe Inc.",
-   "sector": "Information Technology",
-   "close": 266.51,
-   "pct": -6.73
-  },
-  {
-   "symbol": "EFX",
-   "name": "Equifax",
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
    "sector": "Industrials",
-   "close": 177.05,
-   "pct": -6.37
+   "close": 231.53,
+   "pct": -10.7
   },
   {
-   "symbol": "PTC",
-   "name": "PTC Inc.",
+   "symbol": "AMGN",
+   "name": "Amgen",
+   "sector": "Health Care",
+   "close": 393.17,
+   "pct": -10.08
+  },
+  {
+   "symbol": "SYK",
+   "name": "Stryker Corporation",
+   "sector": "Health Care",
+   "close": 276.43,
+   "pct": -8.81
+  },
+  {
+   "symbol": "GDDY",
+   "name": "GoDaddy",
    "sector": "Information Technology",
-   "close": 141.02,
-   "pct": -6.04
+   "close": 92.88,
+   "pct": -8.32
   },
   {
-   "symbol": "TSLA",
-   "name": "Tesla, Inc.",
+   "symbol": "EXPE",
+   "name": "Expedia Group",
    "sector": "Consumer Discretionary",
-   "close": 354.08,
-   "pct": -5.92
+   "close": 274.55,
+   "pct": -7.88
   },
   {
-   "symbol": "SNPS",
-   "name": "Synopsys",
+   "symbol": "IT",
+   "name": "Gartner",
    "sector": "Information Technology",
-   "close": 393.84,
-   "pct": -5.4
+   "close": 172.59,
+   "pct": -7.42
   },
   {
-   "symbol": "WDAY",
-   "name": "Workday, Inc.",
-   "sector": "Information Technology",
-   "close": 195.79,
-   "pct": -5.38
+   "symbol": "BKNG",
+   "name": "Booking Holdings",
+   "sector": "Consumer Discretionary",
+   "close": 180.3,
+   "pct": -6.72
   },
   {
-   "symbol": "NFLX",
-   "name": "Netflix",
-   "sector": "Communication Services",
-   "close": 78.25,
-   "pct": -5.35
+   "symbol": "FIS",
+   "name": "Fidelity National Information Services",
+   "sector": "Financials",
+   "close": 39.42,
+   "pct": -5.9
+  },
+  {
+   "symbol": "BSX",
+   "name": "Boston Scientific",
+   "sector": "Health Care",
+   "close": 44.98,
+   "pct": -5.9
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands",
+   "sector": "Consumer Staples",
+   "close": 120.98,
+   "pct": -5.62
   }
  ]
 }

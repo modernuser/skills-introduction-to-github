@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-10T04:40:04Z",
+ "updated": "2026-09-10T12:53:55Z",
  "news": {
   "NVDA": [
    {
-    "title": "What Is an IPO, and Should You Buy One? My Contrarian Take After 15 Years at The Fool.",
-    "link": "https://www.fool.com/investing/2026/09/09/what-is-an-ipo-and-should-you-buy-one-my-contraria/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 01:20:00 +0000"
+    "title": "Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel. Here's the Biggest AI Chip Designer Left in His Portfolio.",
+    "link": "https://www.fool.com/investing/2026/09/10/after-selling-micron-broadcom-and-intel-heres-the/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:46:00 +0000"
    },
    {
-    "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia\u2019s Data Center Ecosystem",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-expands-ai-infrastructure-capacity-000000649.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000"
+    "title": "Heavy Investment Sustains NVIDIA\u2019s (NVDA) AI Leadership",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heavy-investment-sustains-nvidia-nvda-122851572.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:28:51 +0000"
    },
    {
-    "title": "Why Sasol Stock Soared Nearly 10% Higher Today",
-    "link": "https://www.fool.com/investing/2026/09/09/why-sasol-stock-soared-nearly-10-higher-today/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 23:22:04 +0000"
+    "title": "Nvidia Stock Falls. DOJ Probes $20 Billion Groq Deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-falls-doj-probes-122547655.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:25:47 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Amgen, AngloGold Ashanti, Caterpillar, Chewy, Meta Platforms, Novartis, NVIDIA, SK hynix, and More",
+    "link": "https://247wallst.com/investing/2026/09/10/here-are-thursdays-top-wall-street-analyst-research-calls-advanced-micro-devices-amgen-anglogold-ashanti-caterpillar-chewy-meta-platforms-novartis-nvidia-sk-hynix-and-more/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:09:59 +0000"
+   },
+   {
+    "title": "Wall Street Is Wrong About These 2 Chip Stocks",
+    "link": "https://www.fool.com/investing/2026/09/10/wall-street-is-wrong-about-these-2-chip-stocks/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 09:05:00 +0000"
+   },
+   {
     "title": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
     "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 21:32:47 +0000"
-   },
-   {
-    "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
-    "link": "https://finance.yahoo.com/m/347c373b-d105-3224-b28b-045714220e36/amd%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 20:49:07 +0000"
-   },
-   {
-    "title": "HostColor Stocks AMD Ryzen 9 9950X Dedicated Servers in Tokyo",
-    "link": "https://finance.yahoo.com/technology/articles/hostcolor-stocks-amd-ryzen-9-200400352.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 20:04:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Not Nvidia. Not Broadcom. But This Semiconductor Stock Is Set to Grow Faster Than Any Other Major AI Chipmaker Through the End of the Decade.",
+    "link": "https://www.fool.com/investing/2026/09/10/not-nvidia-not-broadcom-but-this-semiconductor-sto/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 08:50:00 +0000"
+   },
    {
     "title": "Broadcom Is 26% Below Its High. What $10,000 Bought a Decade Ago, and When the Gains Landed.",
     "link": "https://www.fool.com/investing/2026/09/09/broadcom-is-26-below-its-high-what-usd10-000-bought-a-decade-ago-and-when-the-gains-landed/?.tsrc=rss",
@@ -45,62 +50,57 @@
     "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
     "link": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 22:41:00 +0000"
-   },
-   {
-    "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
-    "link": "https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 21:28:43 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 13:00:06 +0000"
+    "title": "TSMC Stock Slips Despite 53% August Revenue Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slips-despite-53-122227013.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:22:27 +0000"
    },
    {
-    "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
-    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 12:13:35 +0000"
+    "title": "Stock Market Today: Dow Barely Up Ahead Of Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/9987e23c-83e5-3b7f-bae7-41125f2e9cc4/stock-market-today%3A-dow.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:07:23 +0000"
    },
    {
-    "title": "TSMC\u2019s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 10:18:31 +0000"
+    "title": "TSMC Revenue Jumps 53% on Red-Hot AI Chip Demand",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-jumps-53-red-120656044.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:06:56 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Intel stock surges 9% as surprising turnaround takes shape",
-    "link": "https://www.thestreet.com/investing/stocks/intel-stock-surges-9-as-surprising-turnaround-takes-shape?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 04:24:23 +0000"
+    "title": "Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy.",
+    "link": "https://247wallst.com/investing/2026/09/10/intel-may-raise-chip-prices-10-and-the-stock-took-off-why-most-analysts-still-refuse-to-buy/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:30:27 +0000"
    },
    {
-    "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-advances-while-market-214502373.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 21:45:02 +0000"
+    "title": "Monolithic vs. Intel: Which Chip Stock Has a Better Upside?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/monolithic-vs-intel-chip-stock-121400380.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:14:00 +0000"
    },
    {
-    "title": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/could-apple-aapl-stock-win-205116718.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 20:51:16 +0000"
+    "title": "Should You Be Bullish on Intel Corporation (INTC)?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-intel-corporation-intc-115408821.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 11:54:08 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel. Here's the Biggest AI Chip Designer Left in His Portfolio.",
+    "link": "https://www.fool.com/investing/2026/09/10/after-selling-micron-broadcom-and-intel-heres-the/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:46:00 +0000"
+   },
+   {
+    "title": "Value Has Outperformed Growth in 2026: 3 Surprising Tech Stocks Leading the Way",
+    "link": "https://www.fool.com/investing/2026/09/10/value-has-outperformed-growth-in-2026-3-surprising/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 11:08:00 +0000"
+   },
+   {
     "title": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
     "link": "https://www.fool.com/investing/2026/09/09/microns-operating-margin-surged-past-80-for-the-fi/?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 22:15:00 +0000"
-   },
-   {
-    "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
-    "link": "https://www.fool.com/investing/2026/09/09/prediction-microns-earnings-could-be-catalyst-ai/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 20:20:00 +0000"
-   },
-   {
-    "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000"
    }
   ],
   "SNDK": [
@@ -200,16 +200,16 @@
     "pubDate": "Wed, 09 Sep 2026 17:31:24 +0000"
    },
    {
-    "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer",
-    "link": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/?.tsrc=rss",
-    "pubDate": "Tue, 08 Sep 2026 21:45:32 +0000"
+    "title": "Stock Market Today: Dow Barely Up Ahead Of Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/9987e23c-83e5-3b7f-bae7-41125f2e9cc4/stock-market-today%3A-dow.html?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 12:07:23 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
-    "link": "https://247wallst.com/investing/2026/09/09/being-too-prudent-is-actually-reckless-cramer-as-the-safe-bond-fund-loses-money-over-5-years/?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 14:34:32 +0000"
+    "title": "Apple\u2019s New CEO Signals Heavy iPhone Reliance: Do You Buy It?",
+    "link": "https://247wallst.com/investing/2026/09/10/apples-new-ceo-signals-heavy-iphone-reliance-do-you-buy-it/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 11:15:23 +0000"
    },
    {
     "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent\u2019s Expanded Buyback Plan \u2014 AAPL, META, AMZN, CRM In Focus",
@@ -217,9 +217,9 @@
     "pubDate": "Wed, 09 Sep 2026 22:01:49 +0000"
    },
    {
-    "title": "Labor Market Red Flags: June Layoffs Revised Up by 19,000 While Hires Sink by 16,000",
-    "link": "https://finance.yahoo.com/economy/articles/labor-market-red-flags-june-223017643.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 22:30:17 +0000"
+    "title": "Nvidia\u2019s Testing New All-Time Highs: Do You Buy?",
+    "link": "https://247wallst.com/investing/2026/09/10/nvidias-testing-new-all-time-highs-do-you-buy/?.tsrc=rss",
+    "pubDate": "Thu, 10 Sep 2026 11:08:12 +0000"
    }
   ]
  },

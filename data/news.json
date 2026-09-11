@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-11T04:37:40Z",
+ "updated": "2026-09-11T12:48:35Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia CEO Reportedly Dismisses Anthropic Exec's AI Doomsday Warning As \u2018Outlandish\u2019 And \u2018Deeply Untrue\u2019",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-ceo-reportedly-dismisses-anthropic-exec-s-ai-doomsday-warning-as-outlandish-and-deeply-untrue/cZtXPxbRJ66?.tsrc=rss",
-    "pubDate": "Fri, 11 Sep 2026 03:45:05 +0000"
+    "title": "Nvidia CEO Jensen Huang just doubled down on his big 2030 prediction",
+    "link": "https://finance.yahoo.com/markets/article/nvidia-ceo-jensen-huang-just-doubled-down-on-his-big-2030-prediction-115945089.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:59:45 +0000"
    },
    {
-    "title": "Nvidia's Jensen Huang Claims AGI Has Arrived. Here's How to Invest.",
-    "link": "https://www.fool.com/investing/2026/09/10/nvidias-jensen-huang-claims-agi-has-arrived-heres/?.tsrc=rss",
-    "pubDate": "Fri, 11 Sep 2026 01:05:00 +0000"
+    "title": "Nvidia Rival Enflame Jumps 206% on Its Shanghai Debut",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rival-enflame-jumps-206-120755584.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:07:55 +0000"
    },
    {
-    "title": "Palantir Technologies Showcases Sovereign AI Wins With NVIDIA, Cisco and FAA",
-    "link": "https://www.marketbeat.com/instant-alerts/event-palantir-technologies-showcases-sovereign-ai-wins-with-nvidia-cisco-and-faa-2026-09-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:03:11 +0000"
+    "title": "Treasury Secretary Scott Bessent Is Tripling the Government's Bond-Buying Program, but the Bond Market Doesn't Care (and With Good Reason)",
+    "link": "https://www.fool.com/investing/2026/09/11/treasury-secretary-scott-bessent-tripling-government-bond-buying-program-but-bond-market-doesnt-care/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:26:01 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks",
+    "link": "https://www.fool.com/investing/2026/09/11/prediction-broadcom-and-nvidia-will-be-2027s-best/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:50:00 +0000"
+   },
+   {
     "title": "Prediction: This Unstoppable Stock Will Rejoin the $2 Trillion Club by 2027",
     "link": "https://www.fool.com/investing/2026/09/10/prediction-this-stock-will-rejoin-2-trillion-2027/?.tsrc=rss",
     "pubDate": "Fri, 11 Sep 2026 02:20:00 +0000"
@@ -45,11 +50,6 @@
     "title": "3 Growth Stocks to Add to Your Roster",
     "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-000904957.html?.tsrc=rss",
     "pubDate": "Fri, 11 Sep 2026 00:09:04 +0000"
-   },
-   {
-    "title": "Marvell Technology vs. Broadcom: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-    "link": "https://www.fool.com/coverage/charts/2026/09/10/marvell-technology-vs-broadcom-comparing-revenue-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 18:17:07 +0000"
    }
   ],
   "TSM": [
@@ -71,39 +71,44 @@
   ],
   "INTC": [
    {
+    "title": "Applied Materials vs. Intel: Which Tech Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/11/applied-materials-vs-intel-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:35:01 +0000"
+   },
+   {
+    "title": "Investors Should Know Exactly What to Do With Intel",
+    "link": "https://247wallst.com/investing/2026/09/11/investors-should-know-exactly-what-to-do-with-intel/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:25:16 +0000"
+   },
+   {
     "title": "Why Intel Stock Slumped Today",
     "link": "https://www.fool.com/investing/2026/09/10/why-intel-stock-slumped-today/?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 18:59:22 +0000"
-   },
-   {
-    "title": "Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-4-piper-182238098.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 18:22:38 +0000"
-   },
-   {
-    "title": "Atsign and Intel\u00ae solve the Edge AI encryption conundrum",
-    "link": "https://finance.yahoo.com/technology/ai/articles/atsign-intel-solve-edge-ai-170000397.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 17:00:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron Is Down 19% From Its High. History Suggests a $5,000 Investment Today Could Be Worth This Much by 2030.",
-    "link": "https://www.fool.com/investing/2026/09/10/micron-is-down-16-from-its-high-history-suggests-a/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 23:01:00 +0000"
+    "title": "Micron Stock in Focus -- Unveils Massive Employee Rewards After Record Profits",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-focus-unveils-massive-121339678.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:13:39 +0000"
    },
    {
-    "title": "Semiconductors Stocks Q2 Highlights: Micron (NASDAQ:MU)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stocks-q2-highlights-micron-202504233.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 20:25:04 +0000"
+    "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-offers-taiwan-workers-68-115655223.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:56:55 +0000"
    },
    {
-    "title": "Micron Drops 4.2% While China's AI Chips Reveal Its Pricing Power",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-drops-4-2-while-184028602.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 18:40:28 +0000"
+    "title": "Why Micron Stock Just Sank",
+    "link": "https://www.fool.com/investing/2026/09/11/why-micron-stock-just-sank/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 04:54:13 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SK Hynix, Samsung Shares Dip In Korea After DeepSeek Debuts AI Tech That Uses Less Memory \u2013 Micron, SanDisk Hold Up",
+    "link": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-samsung-shares-dip-in-korea-after-deep-seek-debuts-ai-tech-that-uses-less-memory-micron-san-disk-hold-up/cZtXBNqRBGe?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:18:11 +0000"
+   },
    {
     "title": "Why Did Sandisk Stock Slump Today?",
     "link": "https://www.fool.com/investing/2026/09/10/why-did-sandisk-stock-slump-today/?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "SanDisk Traded Its Best Prices For Something Rarer",
     "link": "https://www.trefis.com/articles/614776/sandisk-traded-its-best-prices-for-something-rarer/2026-09-09?.tsrc=rss",
     "pubDate": "Wed, 09 Sep 2026 22:05:08 +0000"
-   },
-   {
-    "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html?.tsrc=rss",
-    "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Thu, 10 Sep 2026 14:01:35 +0000"
    },
    {
-    "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-    "link": "https://247wallst.com/investing/2026/09/10/skyworks-solutions-surges-10-qorvo-climbs-6-while-chip-stocks-fall-is-the-merger-finally-clearing/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 16:47:26 +0000"
+    "title": "The New Chip Rally Comes With a Warning Attached",
+    "link": "https://finance.yahoo.com/m/2076cae6-33e5-330e-a31e-233d21abe617/the-new-chip-rally-comes-with.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 05:30:00 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Tesla\u2019s Drag on XLY Was Softened by Amazon\u2019s Gain; QQQ Felt Almost Nothing",
+    "link": "https://247wallst.com/investing/etf/2026/09/11/teslas-drag-on-xly-was-softened-by-amazons-gain-qqq-felt-almost-nothing/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:05:37 +0000"
+   },
+   {
     "title": "QQQI\u2019s 14% Yield Loses Its Only Tax Break Inside an IRA: Every Dollar Comes Out as Ordinary Income",
     "link": "https://247wallst.com/investing/etf/2026/09/10/qqqis-14-yield-loses-its-only-tax-break-inside-an-ira-every-dollar-comes-out-as-ordinary-income/?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 21:45:27 +0000"
@@ -198,28 +203,23 @@
     "title": "Exchange-Traded Funds, US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-170834448.html?.tsrc=rss",
     "pubDate": "Thu, 10 Sep 2026 17:08:34 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Producer Price Inflation Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131756365.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 13:17:56 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Producer Price Inflation Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131756365.html?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 13:17:56 +0000"
+    "title": "Investors Should Know Exactly What to Do With Intel",
+    "link": "https://247wallst.com/investing/2026/09/11/investors-should-know-exactly-what-to-do-with-intel/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 12:25:16 +0000"
    },
    {
-    "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike \u2014 ORCL, ADBE, M, NVDA, UBER In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-surging-oil-raises-odds-for-a-september-rate-hike/cZtapeARJ68?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 22:46:44 +0000"
+    "title": "SpaceX at $148: The Single Metric Investors Must Follow",
+    "link": "https://247wallst.com/investing/2026/09/11/spacex-at-148-the-single-metric-investors-must-follow/?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:01:29 +0000"
    },
    {
-    "title": "Oracle Jumped 36% in a Day After Last September\u2019s Earnings, but Traders Are Betting Against It Tonight",
-    "link": "https://247wallst.com/investing/2026/09/10/oracle-jumped-36-in-a-day-after-last-septembers-earnings-but-traders-are-betting-against-it-tonight/?.tsrc=rss",
-    "pubDate": "Thu, 10 Sep 2026 17:58:17 +0000"
+    "title": "\u2018Dean Of Valuation\u2019 Aswath Damodaran Calls Fed Rate Debate \u2018Pointless\u2019 \u2014 Says 'There Is Little' That Kevin Warsh Or Scott Bessent Can Do",
+    "link": "https://stocktwits.com/news-articles/markets/equity/aswath-damodaran-fed-rate-debate-pointless-little-kevin-warsh-scott-bessent-can-do/cZtX9c6RBGB?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:36:25 +0000"
    }
   ]
  },

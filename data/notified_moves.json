@@ -1,6 +1,12 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "symbols": [
-  "AMD"
+  "AAPL",
+  "AMD",
+  "INTC",
+  "MU",
+  "SNDK",
+  "SOXL",
+  "WDC"
  ]
 }

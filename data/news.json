@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T22:31:07Z",
+ "updated": "2026-09-11T23:19:41Z",
  "news": {
   "NVDA": [
    {
@@ -8,14 +8,14 @@
     "pubDate": "Fri, 11 Sep 2026 21:55:31 +0000"
    },
    {
+    "title": "Forget NVDA: Peter Thiel's New $419 Million Portfolio Bets Big on the Power Behind AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/forget-nvda-peter-thiels-419-213011744.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 21:30:11 +0000"
+   },
+   {
     "title": "Nvidia CEO Jensen Huang Sees 70% Growth as AI Demand Stays Red-Hot",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-sees-211038435.html?.tsrc=rss",
     "pubDate": "Fri, 11 Sep 2026 21:10:38 +0000"
-   },
-   {
-    "title": "Inflation Stays Stubbornly High in August. Here's How Likely a Fed Rate Hike Is Next Week",
-    "link": "https://www.fool.com/investing/2026/09/11/inflation-stays-stubbornly-high-in-august-here-s-how-likely-a-fed-rate-hike-is-next-week/?.tsrc=rss",
-    "pubDate": "Fri, 11 Sep 2026 20:11:06 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "AI\u2019s HBM Shortage Strengthens Micron\u2019s Hand\u2014and Pressures Nvidia\u2019s GPU Economics",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-hbm-shortage-strengthens-micron-230133016.html?.tsrc=rss",
+    "pubDate": "Fri, 11 Sep 2026 23:01:33 +0000"
+   },
+   {
     "title": "Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/09/11/applied-materials-vs-micron-technology-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Fri, 11 Sep 2026 21:13:01 +0000"
@@ -96,11 +101,6 @@
     "title": "Micron Takes Unexpected Step as Tensions Rise",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-takes-unexpected-step-tensions-211102373.html?.tsrc=rss",
     "pubDate": "Fri, 11 Sep 2026 21:11:02 +0000"
-   },
-   {
-    "title": "Micron Stays Flat as 68-Month Bonuses Fail to End Strike Risk",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stays-flat-68-month-181517768.html?.tsrc=rss",
-    "pubDate": "Fri, 11 Sep 2026 18:15:17 +0000"
    }
   ],
   "SNDK": [

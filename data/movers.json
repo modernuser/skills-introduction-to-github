@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-11T01:11:19Z",
+ "updated": "2026-09-12T01:36:29Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "DDOG",
-   "name": "Datadog",
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
    "sector": "Information Technology",
-   "close": 225.27,
-   "pct": 7.15
+   "close": 84.03,
+   "pct": 9.79
   },
   {
-   "symbol": "META",
-   "name": "Meta Platforms",
+   "symbol": "RDDT",
+   "name": "Reddit",
    "sector": "Communication Services",
-   "close": 653.69,
-   "pct": 6.55
-  },
-  {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
-   "sector": "Information Technology",
-   "close": 983.19,
-   "pct": 5.35
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "close": 58.9,
-   "pct": 5.12
-  },
-  {
-   "symbol": "HCA",
-   "name": "HCA Healthcare",
-   "sector": "Health Care",
-   "close": 421.83,
-   "pct": 4.93
-  },
-  {
-   "symbol": "AKAM",
-   "name": "Akamai Technologies",
-   "sector": "Information Technology",
-   "close": 110.75,
-   "pct": 4.87
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 235.01,
-   "pct": 4.26
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "close": 32.39,
-   "pct": 3.91
-  },
-  {
-   "symbol": "FFIV",
-   "name": "F5, Inc.",
-   "sector": "Information Technology",
-   "close": 404.63,
-   "pct": 3.85
-  },
-  {
-   "symbol": "IBM",
-   "name": "IBM",
-   "sector": "Information Technology",
-   "close": 239.94,
-   "pct": 3.38
-  }
- ],
- "losers": [
-  {
-   "symbol": "CASY",
-   "name": "Casey's",
-   "sector": "Consumer Staples",
-   "close": 629.03,
-   "pct": -14.24
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "close": 262.89,
-   "pct": -9.61
+   "close": 155.34,
+   "pct": 6.08
   },
   {
    "symbol": "CHTR",
    "name": "Charter Communications",
    "sector": "Communication Services",
-   "close": 133.89,
-   "pct": -8.13
+   "close": 140.56,
+   "pct": 4.98
   },
   {
-   "symbol": "CMCSA",
-   "name": "Comcast",
-   "sector": "Communication Services",
-   "close": 24.59,
-   "pct": -6.61
+   "symbol": "ELV",
+   "name": "Elevance Health",
+   "sector": "Health Care",
+   "close": 416.54,
+   "pct": 4.95
   },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "sector": "Information Technology",
+   "close": 326.57,
+   "pct": 3.56
+  },
+  {
+   "symbol": "F",
+   "name": "Ford Motor Company",
+   "sector": "Consumer Discretionary",
+   "close": 13.88,
+   "pct": 3.2
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 314.49,
+   "pct": 3.09
+  },
+  {
+   "symbol": "GDDY",
+   "name": "GoDaddy",
+   "sector": "Information Technology",
+   "close": 96.37,
+   "pct": 2.96
+  },
+  {
+   "symbol": "GM",
+   "name": "General Motors",
+   "sector": "Consumer Discretionary",
+   "close": 86.12,
+   "pct": 2.82
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "close": 216.96,
+   "pct": 2.76
+  }
+ ],
+ "losers": [
   {
    "symbol": "COO",
    "name": "Cooper Companies (The)",
    "sector": "Health Care",
-   "close": 63.48,
-   "pct": -6.22
+   "close": 54.17,
+   "pct": -14.67
   },
   {
-   "symbol": "PSKY",
-   "name": "Paramount Skydance Corporation",
-   "sector": "Communication Services",
-   "close": 10.22,
-   "pct": -5.37
+   "symbol": "BKR",
+   "name": "Baker Hughes",
+   "sector": "Energy",
+   "close": 59.4,
+   "pct": -6.66
   },
   {
-   "symbol": "IP",
-   "name": "International Paper",
+   "symbol": "FCX",
+   "name": "Freeport-McMoRan",
    "sector": "Materials",
-   "close": 34.64,
-   "pct": -5.07
+   "close": 71.21,
+   "pct": -6.59
   },
   {
-   "symbol": "FSLR",
-   "name": "First Solar",
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
    "sector": "Information Technology",
-   "close": 203.1,
-   "pct": -4.76
+   "close": 55.22,
+   "pct": -6.25
   },
   {
-   "symbol": "SW",
-   "name": "Smurfit Westrock",
-   "sector": "Materials",
-   "close": 42.2,
-   "pct": -4.65
+   "symbol": "FDS",
+   "name": "FactSet",
+   "sector": "Financials",
+   "close": 262.93,
+   "pct": -5.82
   },
   {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 118.39,
-   "pct": -4.55
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 298.01,
+   "pct": -5.65
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "close": 248.13,
+   "pct": -5.61
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 100.32,
+   "pct": -5.57
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 935.7,
+   "pct": -5.39
+  },
+  {
+   "symbol": "ORCL",
+   "name": "Oracle Corporation",
+   "sector": "Information Technology",
+   "close": 152.94,
+   "pct": -5.38
   }
  ]
 }

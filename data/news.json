@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-15T17:45:37Z",
+ "updated": "2026-09-15T18:08:18Z",
  "news": {
   "NVDA": [
    {
-    "title": "CSCO, NVDA Stock Inch Higher \u2014 Cisco And Nvidia Expand Partnership To Bring Agentic AI To Splunk Customers",
-    "link": "https://stocktwits.com/news-articles/markets/equity/cisco-and-nvidia-expand-partnership/cZtn0CkRBcm?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 17:09:29 +0000"
+    "title": "Signal Says 'Buy the Dip' After Nvidia Stock Pullback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/signal-says-buy-dip-nvidia-180357847.html?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:03:57 +0000"
    },
    {
-    "title": "The Fastest-Growing AI Stock Looks Like a Brilliant Buy (It's Also a Nvidia Investment)",
-    "link": "https://www.fool.com/investing/2026/09/15/the-fastest-growing-ai-stock-looks-like-brilliant/?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 17:05:00 +0000"
+    "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here\u2019s Why",
+    "link": "https://247wallst.com/investing/2026/09/15/nvidia-just-invited-a-rival-chipmaker-into-its-own-racks-heres-why/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:45:32 +0000"
    },
    {
-    "title": "Vera Bradley, Inc. Q2 2027 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-vera-bradley-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 16:55:37 +0000"
+    "title": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction.",
+    "link": "https://www.fool.com/investing/2026/09/15/nvidia-will-still-beat-amd-through-2028-heres-the/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:40:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction.",
+    "link": "https://www.fool.com/investing/2026/09/15/nvidia-will-still-beat-amd-through-2028-heres-the/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:40:00 +0000"
+   },
    {
     "title": "Prediction: AMD Could Be\u00a0Closing the Gap\u00a0in the AI\u00a0Chip Race",
     "link": "https://247wallst.com/investing/2026/09/15/prediction-amd-could-be-closing-the-gap-in-the-ai-chip-race/?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory \u2013 AMD, Intel To Validate New Server Technology",
     "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-rises-micron-debuts-512-gb-ddr5-server-memory-amd-intel-to-validate/cZtnQjuRBcf?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 14:23:03 +0000"
-   },
-   {
-    "title": "AMD's Recent Surge Still Matters: Putting These ETFs in Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amds-recent-surge-still-matters-141500008.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 14:15:00 +0000"
    }
   ],
   "AVGO": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
+    "link": "https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:52:10 +0000"
+   },
+   {
     "title": "Sandisk $1,500 Stock Price Ignites Fresh Split Frenzy",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-1-500-stock-price-151802320.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 15:18:02 +0000"
@@ -113,14 +118,14 @@
     "title": "SNDK Stock Rewarded Dip Buyers Before, But Is It Still The Same Company?",
     "link": "https://www.trefis.com/articles/615405/sndk-stock-rewarded-dip-buyers-before-but-is-it-still-the-same-company/2026-09-15?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 15:11:30 +0000"
-   },
-   {
-    "title": "SNDK Capitalizes on AI Storage Growth: Can It Outpace MU & STX?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/sndk-capitalizes-ai-storage-growth-141400344.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 14:14:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
+    "link": "https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:52:10 +0000"
+   },
    {
     "title": "Why Western Digital (WDC) Stock Is Trading Lower Today",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-stock-002730490.html?.tsrc=rss",
@@ -130,14 +135,14 @@
     "title": "Western Digital (WDC) Falls More Steeply Than Broader Market: What Investors Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-falls-more-215006353.html?.tsrc=rss",
     "pubDate": "Mon, 14 Sep 2026 21:50:06 +0000"
-   },
-   {
-    "title": "Seagate Vs. Western Digital: One Moved First on AI Storage Demand. The Other Is Playing It Safe.",
-    "link": "https://247wallst.com/investing/2026/09/14/seagate-vs-western-digital-one-moved-first-on-ai-storage-demand-the-other-is-playing-it-safe/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 14:09:03 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
+    "link": "https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:52:10 +0000"
+   },
    {
     "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
     "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Seagate, Skyworks Solutions, Semtech, Nova, and FormFactor Shares Are Falling, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-skyworks-solutions-semtech-nova-003530705.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 00:35:30 +0000"
-   },
-   {
-    "title": "Seagate Vs. Western Digital: One Moved First on AI Storage Demand. The Other Is Playing It Safe.",
-    "link": "https://247wallst.com/investing/2026/09/14/seagate-vs-western-digital-one-moved-first-on-ai-storage-demand-the-other-is-playing-it-safe/?.tsrc=rss",
-    "pubDate": "Mon, 14 Sep 2026 14:09:03 +0000"
    }
   ],
   "SOXX": [

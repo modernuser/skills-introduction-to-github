@@ -1,7 +1,12 @@
 {
- "updated": "2026-09-15T23:32:45Z",
+ "updated": "2026-09-16T01:45:20Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks",
+    "link": "https://www.fool.com/investing/2026/09/15/nvidia-just-reshuffled-its-99-billion-portfolio-an/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 00:20:00 +0000"
+   },
    {
     "title": "Calls for Slower AI Development Have Created a Compelling Dip for AI Stocks",
     "link": "https://www.fool.com/investing/2026/09/15/calls-for-slower-ai-development-created-a-dip/?.tsrc=rss",
@@ -11,14 +16,14 @@
     "title": "Pinterest, Nvidia Partner To Boost AI Shopping, Search Offerings",
     "link": "https://www.mediapost.com/publications/article/418024/pinterest-nvidia-partner-to-boost-ai-shopping-se.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 22:17:29 +0000"
-   },
-   {
-    "title": "Nvidia (NVDA) Is Discussing Up To $10 Billion For An AI IPO",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-discussing-10-billion-221322403.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 22:13:22 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
+    "link": "https://www.trefis.com/articles/615362/is-amd-stock-already-priced-for-a-2027-doubling-it-has-yet-to-deliver/2026-09-15?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 00:53:31 +0000"
+   },
    {
     "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
     "link": "https://finance.yahoo.com/m/abcff3bf-aa03-3635-8d7c-acbe8b8a05b3/dow-jones-tech-titan-apple%2C.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Bank of America says investors get AMD stock wrong",
     "link": "https://www.thestreet.com/investing/bofa-amd-stock-outlook?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 20:07:00 +0000"
-   },
-   {
-    "title": "AMD Rebounds 3% as Its 58% AI Engine Faces a Pause",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-rebounds-3-58-ai-185437246.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 18:54:37 +0000"
    }
   ],
   "AVGO": [
@@ -71,22 +71,27 @@
   ],
   "INTC": [
    {
+    "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
+    "link": "https://www.trefis.com/articles/615351/should-you-buy-intel-stock-for-the-chips-it-cannot-yet-make-enough-of/2026-09-15?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 01:11:46 +0000"
+   },
+   {
+    "title": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
+    "link": "https://www.barchart.com/story/news/4618934/intel-has-4-major-tailwinds-according-to-this-wall-street-analyst-yet-1-red-flag-caused-a-price-target-cut?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:26:57 +0000"
+   },
+   {
     "title": "Top Midday Stories: Waystar Reportedly Mulling Potential Sale; Intel-Backed Altera Says Parent Company Files Confidentially for IPO",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-waystar-reportedly-154222475.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 15:42:22 +0000"
-   },
-   {
-    "title": "Intel Rallies as Altera IPO Unlocks Its 49% Chip Stake",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-rallies-altera-ipo-unlocks-153420426.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 15:34:20 +0000"
-   },
-   {
-    "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory \u2013 AMD, Intel To Validate New Server Technology",
-    "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-rises-micron-debuts-512-gb-ddr5-server-memory-amd-intel-to-validate/cZtnQjuRBcf?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 14:23:03 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Should You Buy Micron Stock Before Its Sept. 30 Report?",
+    "link": "https://www.fool.com/investing/2026/09/15/should-you-buy-micron-stock-before-its-sept-30-report/?.tsrc=rss",
+    "pubDate": "Tue, 15 Sep 2026 23:58:01 +0000"
+   },
    {
     "title": "Micron Technology (MU), What Is Behind The Fresh Attention?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-behind-fresh-221419399.html?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Micron Investors Get New Reason to Watch Closely",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-investors-reason-watch-closely-205224932.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 20:52:24 +0000"
-   },
-   {
-    "title": "Micron's AI boom just ran into an unexpected labor problem",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microns-ai-boom-just-ran-201257633.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 20:12:57 +0000"
    }
   ],
   "SNDK": [

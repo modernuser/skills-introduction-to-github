@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-16T17:44:04Z",
+ "updated": "2026-09-16T18:09:09Z",
  "news": {
   "NVDA": [
    {
-    "title": "LuxExperience B.V. Q4 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-luxexperience-bv-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 16:47:38 +0000"
+    "title": "Nvidia Stock Rises as Meta CEO Rejects AI Slowdown Calls",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-meta-ceo-175932730.html?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:59:32 +0000"
    },
    {
-    "title": "Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle",
-    "link": "https://www.fool.com/investing/2026/09/16/prediction-dells-ai-server-backlog-makes-it-a-snea/?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 16:40:00 +0000"
+    "title": "Sector Update: Tech Stocks Gain Wednesday Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-wednesday-174507066.html?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:45:07 +0000"
    },
    {
-    "title": "SMCI Has Something Nvidia Doesn\u2019t. Here\u2019s Why That Matters",
-    "link": "https://247wallst.com/investing/2026/09/16/smci-has-something-nvidia-doesnt-heres-why-that-matters/?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 16:30:37 +0000"
+    "title": "September Effect: 2 Memory Stocks to Buy on a Potential Market Dip",
+    "link": "https://www.fool.com/investing/2026/09/16/september-effect-memory-stocks-buy-market-dip/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:42:00 +0000"
    }
   ],
   "AMD": [
@@ -25,14 +25,14 @@
     "pubDate": "Wed, 16 Sep 2026 12:58:28 +0000"
    },
    {
+    "title": "Why Advanced Micro Devices Stock Just Popped",
+    "link": "https://www.fool.com/investing/2026/09/16/why-advanced-micro-devices-stock-just-popped/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:57:59 +0000"
+   },
+   {
     "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
     "link": "https://finance.yahoo.com/m/abcff3bf-aa03-3635-8d7c-acbe8b8a05b3/dow-jones-tech-titan-apple%2C.html?.tsrc=rss",
     "pubDate": "Wed, 16 Sep 2026 16:10:31 +0000"
-   },
-   {
-    "title": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
-    "link": "https://finance.yahoo.com/m/65f68f37-8011-33ac-af60-a2d54da41be8/amd%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 16:05:19 +0000"
    }
   ],
   "AVGO": [
@@ -81,9 +81,9 @@
     "pubDate": "Wed, 16 Sep 2026 14:05:28 +0000"
    },
    {
-    "title": "Intel (INTC) Is In Advanced Talks On Ohio Memory Chip Manufacturing",
-    "link": "https://finance.yahoo.com/technology/articles/intel-intc-advanced-talks-ohio-171118347.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 17:11:18 +0000"
+    "title": "Sector Update: Tech Stocks Gain Wednesday Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-wednesday-174507066.html?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:45:07 +0000"
    }
   ],
   "MU": [
@@ -93,14 +93,14 @@
     "pubDate": "Wed, 16 Sep 2026 12:58:28 +0000"
    },
    {
+    "title": "September Effect: 2 Memory Stocks to Buy on a Potential Market Dip",
+    "link": "https://www.fool.com/investing/2026/09/16/september-effect-memory-stocks-buy-market-dip/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:42:00 +0000"
+   },
+   {
     "title": "Micron's AI boom faces a much tougher earnings test",
     "link": "https://finance.yahoo.com/technology/ai/articles/microns-ai-boom-faces-much-165738455.html?.tsrc=rss",
     "pubDate": "Wed, 16 Sep 2026 16:57:38 +0000"
-   },
-   {
-    "title": "Micron Faces New Threat to Its U.S. Memory-Chip Supremacy",
-    "link": "https://finance.yahoo.com/m/5d709a47-26fa-3a63-b108-3c8acc1e787a/micron-faces-new-threat-to.html?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 14:03:00 +0000"
    }
   ],
   "SNDK": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+    "link": "https://247wallst.com/investing/2026/09/16/bloom-energy-gains-4-as-sp-500-entry-nears-fuelcell-energy-ticks-up-plug-power-slips/?.tsrc=rss",
+    "pubDate": "Wed, 16 Sep 2026 17:59:00 +0000"
+   },
+   {
     "title": "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
     "link": "https://247wallst.com/investing/2026/09/16/robinhood-sinks-5-after-prosecutors-reportedly-charge-two-former-engineers-over-crypto-trades-webull-drops-9/?.tsrc=rss",
     "pubDate": "Wed, 16 Sep 2026 16:46:08 +0000"
@@ -215,11 +220,6 @@
     "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
     "link": "https://247wallst.com/investing/2026/09/16/oil-producers-slide-as-crude-retreats-eog-resources-drops-6-conocophillips-and-occidental-petroleum-fall-5/?.tsrc=rss",
     "pubDate": "Wed, 16 Sep 2026 16:03:06 +0000"
-   },
-   {
-    "title": "Cipher Digital Surges 9% on Conditional ERCOT Status for 3.2 GW of Texas Capacity; Core Scientific Rises 4%, IREN Nudges Higher",
-    "link": "https://247wallst.com/investing/2026/09/16/cipher-digital-surges-9-on-conditional-ercot-status-for-3-2-gw-of-texas-capacity-core-scientific-rises-4-iren-nudges-higher/?.tsrc=rss",
-    "pubDate": "Wed, 16 Sep 2026 14:00:43 +0000"
    }
   ]
  },

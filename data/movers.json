@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-16T01:45:27Z",
+ "updated": "2026-09-17T01:45:55Z",
  "coverage": 501,
  "gainers": [
-  {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "close": 235.38,
-   "pct": 13.85
-  },
-  {
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
-   "sector": "Information Technology",
-   "close": 373.94,
-   "pct": 13.09
-  },
-  {
-   "symbol": "IT",
-   "name": "Gartner",
-   "sector": "Information Technology",
-   "close": 197.07,
-   "pct": 9.73
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 191.45,
-   "pct": 9.24
-  },
-  {
-   "symbol": "FTNT",
-   "name": "Fortinet",
-   "sector": "Information Technology",
-   "close": 170.18,
-   "pct": 9.04
-  },
-  {
-   "symbol": "ADSK",
-   "name": "Autodesk",
-   "sector": "Information Technology",
-   "close": 228.93,
-   "pct": 7.78
-  },
-  {
-   "symbol": "NOW",
-   "name": "ServiceNow",
-   "sector": "Information Technology",
-   "close": 142.35,
-   "pct": 7.41
-  },
-  {
-   "symbol": "CTSH",
-   "name": "Cognizant",
-   "sector": "Information Technology",
-   "close": 64.1,
-   "pct": 6.83
-  },
-  {
-   "symbol": "TYL",
-   "name": "Tyler Technologies",
-   "sector": "Information Technology",
-   "close": 359.54,
-   "pct": 6.79
-  },
-  {
-   "symbol": "FDS",
-   "name": "FactSet",
-   "sector": "Financials",
-   "close": 276.93,
-   "pct": 6.63
-  }
- ],
- "losers": [
-  {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
-   "sector": "Information Technology",
-   "close": 143.6,
-   "pct": -13.7
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 329.2,
-   "pct": -13.3
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 266.5,
-   "pct": -12.73
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "close": 55.41,
-   "pct": -10.76
-  },
   {
    "symbol": "SWKS",
    "name": "Skyworks Solutions",
    "sector": "Information Technology",
-   "close": 79.26,
-   "pct": -10.29
+   "close": 90.0,
+   "pct": 13.55
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "sector": "Health Care",
+   "close": 140.19,
+   "pct": 9.11
+  },
+  {
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "close": 47.41,
+   "pct": 5.29
+  },
+  {
+   "symbol": "FFIV",
+   "name": "F5, Inc.",
    "sector": "Information Technology",
-   "close": 835.03,
-   "pct": -9.92
-  },
-  {
-   "symbol": "GEV",
-   "name": "GE Vernova",
-   "sector": "Industrials",
-   "close": 874.76,
-   "pct": -8.62
+   "close": 430.88,
+   "pct": 4.71
   },
   {
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "close": 319.64,
-   "pct": -8.55
+   "close": 334.33,
+   "pct": 4.6
   },
   {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 36.74,
-   "pct": -8.38
+   "symbol": "TMO",
+   "name": "Thermo Fisher Scientific",
+   "sector": "Health Care",
+   "close": 641.39,
+   "pct": 4.53
   },
   {
-   "symbol": "LRCX",
-   "name": "Lam Research",
+   "symbol": "LYB",
+   "name": "LyondellBasell",
+   "sector": "Materials",
+   "close": 65.43,
+   "pct": 4.27
+  },
+  {
+   "symbol": "QCOM",
+   "name": "Qualcomm",
    "sector": "Information Technology",
-   "close": 273.49,
-   "pct": -8.29
+   "close": 187.8,
+   "pct": 4.25
+  },
+  {
+   "symbol": "DGX",
+   "name": "Quest Diagnostics",
+   "sector": "Health Care",
+   "close": 247.08,
+   "pct": 3.86
+  },
+  {
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "close": 397.04,
+   "pct": 3.68
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 172.11,
+   "pct": -10.1
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 442.08,
+   "pct": -9.81
+  },
+  {
+   "symbol": "JKHY",
+   "name": "Jack Henry & Associates",
+   "sector": "Financials",
+   "close": 154.07,
+   "pct": -6.37
+  },
+  {
+   "symbol": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "sector": "Consumer Discretionary",
+   "close": 34.83,
+   "pct": -5.94
+  },
+  {
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "close": 66.9,
+   "pct": -5.6
+  },
+  {
+   "symbol": "CASY",
+   "name": "Casey's",
+   "sector": "Consumer Staples",
+   "close": 587.14,
+   "pct": -5.55
+  },
+  {
+   "symbol": "DLTR",
+   "name": "Dollar Tree",
+   "sector": "Consumer Staples",
+   "close": 112.79,
+   "pct": -5.35
+  },
+  {
+   "symbol": "CBOE",
+   "name": "Cboe Global Markets",
+   "sector": "Financials",
+   "close": 270.44,
+   "pct": -4.94
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "close": 211.91,
+   "pct": -4.93
+  },
+  {
+   "symbol": "SYY",
+   "name": "Sysco",
+   "sector": "Consumer Staples",
+   "close": 79.6,
+   "pct": -4.72
   }
  ]
 }

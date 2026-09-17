@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-17T17:44:27Z",
+ "updated": "2026-09-17T18:09:02Z",
  "news": {
   "NVDA": [
+   {
+    "title": "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
+    "link": "https://www.fool.com/investing/2026/09/17/history-says-this-will-happen-to-nvidias-stock-in/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:56:00 +0000"
+   },
+   {
+    "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:37:07 +0000"
+   },
    {
     "title": "Nvidia Gains 2.5% as Huawei Compresses Its 2027 Roadmap",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-gains-2-5-huawei-172854982.html?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 17:28:54 +0000"
-   },
-   {
-    "title": "NVDA Stock Gains 2% \u2014 Jensen Huang Expects Chip Sales To Double Next Year",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-gains-2-jensen-huang-expects-chip-sales-to-double-next-year/cZtruMKRBdg?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:53:41 +0000"
-   },
-   {
-    "title": "Rackspace\u2019s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 16:38:51 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:37:07 +0000"
+   },
    {
     "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound",
     "link": "https://finance.yahoo.com/m/c04c7815-41c6-3fb6-9a52-2b9916a1105e/amd-leads-chip-stocks-higher.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "Nebius announces higher rates for Nvidia GPUs and AMD CPUs",
     "link": "https://www.proactiveinvestors.com/companies/news/1098701/nebius-announces-higher-rates-for-nvidia-gpus-and-amd-cpus-1098701.html?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 14:33:00 +0000"
-   },
-   {
-    "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD.",
-    "link": "https://www.fool.com/investing/2026/09/17/looking-for-a-good-deal-on-an-ai-stock-this-leadin/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 14:29:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:37:07 +0000"
+   },
    {
     "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD.",
     "link": "https://www.fool.com/investing/2026/09/17/looking-for-a-good-deal-on-an-ai-stock-this-leadin/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Investors Want to Know When Broadcom\u2019s Custom Hyperscaler Chips Will Move Share Prices",
     "link": "https://247wallst.com/investing/2026/09/17/investors-want-to-know-when-broadcoms-custom-hyperscaler-chips-will-move-share-prices/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 12:55:14 +0000"
-   },
-   {
-    "title": "Despite Hype, Broadcom Keeps Edging Sideways and Down: This Wall Street Analyst Says It Will Provide 75% Returns Soon",
-    "link": "https://247wallst.com/investing/2026/09/17/despite-hype-broadcom-keeps-edging-sideways-and-down-this-wall-street-analyst-says-it-will-provide-75-returns-soon/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 12:51:25 +0000"
    }
   ],
   "TSM": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "The Memory Shortage Is Not Over: More Upside for Micron and Sandisk?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/memory-shortage-not-over-more-180200318.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 18:02:00 +0000"
+   },
+   {
     "title": "Micron Stock Soars as India Facility Bets Big on AI Memory Demand",
     "link": "https://finance.yahoo.com/technology/ai/articles/micron-stock-soars-india-facility-172713195.html?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 17:27:13 +0000"
@@ -96,14 +101,14 @@
     "title": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61848172/micron-stock-memory-prices-intel-ai-shortage?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 15:38:04 +0000"
-   },
-   {
-    "title": "Micron Sends Fresh Signal to AI Chip Investors",
-    "link": "https://finance.yahoo.com/technology/ai/articles/micron-sends-fresh-signal-ai-152353276.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 15:23:53 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "The Memory Shortage Is Not Over: More Upside for Micron and Sandisk?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/memory-shortage-not-over-more-180200318.html?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 18:02:00 +0000"
+   },
    {
     "title": "SanDisk Stock Looks Cheap, But Can It Keep Earning This Much?",
     "link": "https://www.trefis.com/articles/615699/sandisk-stock-looks-cheap-but-can-it-keep-earning-this-much/2026-09-17?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk (SNDK) Refinances Credit Line As Valuation Debate Sharpens",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-refinances-credit-line-231549595.html?.tsrc=rss",
     "pubDate": "Tue, 15 Sep 2026 23:15:49 +0000"
-   },
-   {
-    "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
-    "link": "https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 17:52:10 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Mon, 14 Sep 2026 14:52:29 +0000"
    },
    {
-    "title": "Nasdaq Falls 0.8%. Energy Is Pretty Much the Only Show in Town.",
-    "link": "https://finance.yahoo.com/m/d3128137-8f1c-39dd-8411-53d67188d8ff/nasdaq-falls-0.8%25.-energy-is.html?.tsrc=rss",
-    "pubDate": "Tue, 15 Sep 2026 18:24:12 +0000"
+    "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:37:07 +0000"
    }
   ],
   "SOXL": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
+    "link": "https://247wallst.com/investing/2026/09/17/rocket-lab-jumps-6-as-fcc-clears-first-hurdle-on-iridium-deal-iridium-communications-barely-budges/?.tsrc=rss",
+    "pubDate": "Thu, 17 Sep 2026 17:43:30 +0000"
+   },
+   {
     "title": "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
     "link": "https://247wallst.com/investing/2026/09/17/fuelcell-jumps-13-as-house-shifts-data-center-power-costs-to-operators-plug-power-climbs-7-bloom-energy-rises-3/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 15:52:10 +0000"
@@ -215,11 +220,6 @@
     "title": "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher",
     "link": "https://247wallst.com/investing/2026/09/17/applied-digital-and-terawulf-climb-5-as-oversold-ai-capacity-names-bounce-cipher-digital-edges-higher/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 14:18:45 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131801155.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 13:18:01 +0000"
    }
   ]
  },

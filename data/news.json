@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-18T01:35:43Z",
+ "updated": "2026-09-18T04:41:09Z",
  "news": {
   "NVDA": [
+   {
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:04 +0000"
+   },
+   {
+    "title": "A $100 Monthly Investment in QQQ Could Grow Into This Over 20 Years",
+    "link": "https://www.fool.com/investing/2026/09/17/100-monthly-investment-qqq-grow-20-years/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 01:35:00 +0000"
+   },
    {
     "title": "Long-Term Treasury Yields Now Beat These Dividend Stalwarts. Is Government Debt the Top Passive-Income Play?",
     "link": "https://www.fool.com/investing/2026/09/17/treasury-yields-dividend-stocks-top-passive-income/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 23:50:00 +0000"
-   },
-   {
-    "title": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia?",
-    "link": "https://www.fool.com/investing/2026/09/17/chinas-homegrown-ai-chip-push-just-got-faster-is-this-a-real-threat-to-nvidia/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 23:00:01 +0000"
-   },
-   {
-    "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table \u2014 OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
-    "link": "https://stocktwits.com/news-articles/markets/equity/trump-xi-dinner-next-week-brings-ai-titans-to-the-table-open-ai-nvda-qcom-ceos-to-attend/cZtscudRBdp?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 22:30:42 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
-    "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures-fall-after.html?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 01:04:44 +0000"
+    "title": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+    "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:09:01 +0000"
+   },
+   {
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:04 +0000"
    },
    {
     "title": "Why AMD Stock Jumped Today",
     "link": "https://www.fool.com/investing/2026/09/17/why-amd-stock-jumped-63-today/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 23:35:49 +0000"
-   },
-   {
-    "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound",
-    "link": "https://finance.yahoo.com/m/c04c7815-41c6-3fb6-9a52-2b9916a1105e/amd-leads-chip-stocks-higher.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 20:21:59 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 14% Overvalued As 2nm MediaTek Win Lands",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-could-031716521.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:17:16 +0000"
+   },
+   {
     "title": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
     "link": "https://finance.yahoo.com/technology/articles/tsmc-gains-1-65-2-182718646.html?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 18:27:18 +0000"
@@ -62,14 +67,14 @@
     "title": "There\u2019s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing",
     "link": "https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 16:02:30 +0000"
-   },
-   {
-    "title": "If Long-Duration Rates Stay Above 5%, Here\u2019s What AIFR Investors Should Expect",
-    "link": "https://247wallst.com/investing/etf/2026/09/17/what-to-watch-aifr/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 12:40:34 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:04 +0000"
+   },
    {
     "title": "Why Intel Stock Jumped 7.6% Today",
     "link": "https://www.fool.com/investing/2026/09/17/why-intel-stock-jumped-76-today/?.tsrc=rss",
@@ -79,14 +84,14 @@
     "title": "Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/09/17/stock-market-today-sept-17-intel-surges-8-on-rumored-sk-hynix-talks/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 21:40:43 +0000"
-   },
-   {
-    "title": "Intel Soars 9% On A Memory Deal That Doesn\u2019t Exist Yet",
-    "link": "https://app.moby.co/home/news/news-intel-soars-9-on-a-memory-deal-that-doesnt-exist-yet?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 20:19:27 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:04 +0000"
+   },
    {
     "title": "Why Was Micron Technology Stock Up Today?",
     "link": "https://www.fool.com/investing/2026/09/17/why-was-micron-technology-stock-up-today/?.tsrc=rss",
@@ -96,14 +101,14 @@
     "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
     "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 22:31:00 +0000"
-   },
-   {
-    "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-qualcomm-nova-lattice-semiconductor-211417375.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 21:14:17 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Sandisk Unveiled an $14 Billion Buyback and Warren Buffett Has Something to Say About It",
+    "link": "https://www.fool.com/investing/2026/09/18/sandisk-unveiled-an-14-billion-buyback-and-warren/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:20:00 +0000"
+   },
    {
     "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
     "link": "https://www.fool.com/investing/2026/09/17/prediction-a-5000-investment-split-between-micron/?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk Is Up More Than 1,700% in a Year and Still 33% Off Its Peak. History Says This is What Happens Next.",
     "link": "https://www.fool.com/investing/2026/09/17/sandisk-is-up-more-than-1700-in-a-year-and-still-3/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 18:20:00 +0000"
-   },
-   {
-    "title": "The Memory Shortage Is Not Over: More Upside for Micron and Sandisk?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/memory-shortage-not-over-more-180200318.html?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 18:02:00 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Mon, 14 Sep 2026 14:52:29 +0000"
    },
    {
-    "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
-    "link": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 17:37:07 +0000"
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:04 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "A $100 Monthly Investment in QQQ Could Grow Into This Over 20 Years",
+    "link": "https://www.fool.com/investing/2026/09/17/100-monthly-investment-qqq-grow-20-years/?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 01:35:00 +0000"
+   },
+   {
     "title": "Prediction: The Invesco QQQ Trust Beats the S&P 500 Again Over the Next 5 Years",
     "link": "https://www.fool.com/investing/2026/09/17/prediction-the-invesco-qqq-trust-beats-the-s-and-p-500-again-over-the-next-5-years/?.tsrc=rss",
     "pubDate": "Fri, 18 Sep 2026 00:43:01 +0000"
@@ -198,11 +203,6 @@
     "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
     "link": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/?.tsrc=rss",
     "pubDate": "Thu, 17 Sep 2026 22:15:09 +0000"
-   },
-   {
-    "title": "If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52",
-    "link": "https://247wallst.com/investing/etf/2026/09/17/if-qqq-repeats-its-last-decade-100000-at-40-could-hit-1-million-by-52/?.tsrc=rss",
-    "pubDate": "Thu, 17 Sep 2026 19:05:36 +0000"
    }
   ],
   "SPY": [

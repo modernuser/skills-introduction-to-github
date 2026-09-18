@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-17T01:45:55Z",
+ "updated": "2026-09-18T01:35:49Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "SWKS",
-   "name": "Skyworks Solutions",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 90.0,
-   "pct": 13.55
+   "close": 919.4,
+   "pct": 9.59
   },
   {
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "sector": "Health Care",
-   "close": 140.19,
-   "pct": 9.11
-  },
-  {
-   "symbol": "APA",
-   "name": "APA Corporation",
-   "sector": "Energy",
-   "close": 47.41,
-   "pct": 5.29
-  },
-  {
-   "symbol": "FFIV",
-   "name": "F5, Inc.",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 430.88,
-   "pct": 4.71
-  },
-  {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 334.33,
-   "pct": 4.6
-  },
-  {
-   "symbol": "TMO",
-   "name": "Thermo Fisher Scientific",
-   "sector": "Health Care",
-   "close": 641.39,
-   "pct": 4.53
-  },
-  {
-   "symbol": "LYB",
-   "name": "LyondellBasell",
-   "sector": "Materials",
-   "close": 65.43,
-   "pct": 4.27
-  },
-  {
-   "symbol": "QCOM",
-   "name": "Qualcomm",
-   "sector": "Information Technology",
-   "close": 187.8,
-   "pct": 4.25
-  },
-  {
-   "symbol": "DGX",
-   "name": "Quest Diagnostics",
-   "sector": "Health Care",
-   "close": 247.08,
-   "pct": 3.86
-  },
-  {
-   "symbol": "VLO",
-   "name": "Valero Energy",
-   "sector": "Energy",
-   "close": 397.04,
-   "pct": 3.68
-  }
- ],
- "losers": [
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 172.11,
-   "pct": -10.1
+   "close": 289.93,
+   "pct": 6.92
   },
   {
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "sector": "Industrials",
-   "close": 442.08,
-   "pct": -9.81
+   "close": 468.42,
+   "pct": 5.96
   },
   {
-   "symbol": "JKHY",
-   "name": "Jack Henry & Associates",
-   "sector": "Financials",
-   "close": 154.07,
-   "pct": -6.37
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "sector": "Industrials",
+   "close": 925.09,
+   "pct": 4.79
   },
   {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
-   "sector": "Consumer Discretionary",
-   "close": 34.83,
-   "pct": -5.94
+   "symbol": "EW",
+   "name": "Edwards Lifesciences",
+   "sector": "Health Care",
+   "close": 89.28,
+   "pct": 4.13
   },
   {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "close": 66.9,
-   "pct": -5.6
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 101.05,
+   "pct": 4.03
   },
   {
-   "symbol": "CASY",
-   "name": "Casey's",
-   "sector": "Consumer Staples",
-   "close": 587.14,
-   "pct": -5.55
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "sector": "Health Care",
+   "close": 145.73,
+   "pct": 3.95
   },
   {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 112.79,
-   "pct": -5.35
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "close": 563.29,
+   "pct": 3.64
   },
   {
-   "symbol": "CBOE",
-   "name": "Cboe Global Markets",
-   "sector": "Financials",
-   "close": 270.44,
-   "pct": -4.94
+   "symbol": "MTD",
+   "name": "Mettler Toledo",
+   "sector": "Health Care",
+   "close": 1378.6899,
+   "pct": 3.63
   },
   {
-   "symbol": "TTWO",
-   "name": "Take-Two Interactive",
-   "sector": "Communication Services",
-   "close": 211.91,
-   "pct": -4.93
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 229.71,
+   "pct": 3.61
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "JBHT",
+   "name": "J.B. Hunt",
+   "sector": "Industrials",
+   "close": 236.73,
+   "pct": -13.3
   },
   {
-   "symbol": "SYY",
-   "name": "Sysco",
-   "sector": "Consumer Staples",
-   "close": 79.6,
-   "pct": -4.72
+   "symbol": "ON",
+   "name": "ON Semiconductor",
+   "sector": "Information Technology",
+   "close": 66.6,
+   "pct": -9.02
+  },
+  {
+   "symbol": "FANG",
+   "name": "Diamondback Energy",
+   "sector": "Energy",
+   "close": 194.54,
+   "pct": -8.03
+  },
+  {
+   "symbol": "OXY",
+   "name": "Occidental Petroleum",
+   "sector": "Energy",
+   "close": 59.36,
+   "pct": -6.55
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 348.57,
+   "pct": -6.21
+  },
+  {
+   "symbol": "COP",
+   "name": "ConocoPhillips",
+   "sector": "Energy",
+   "close": 132.54,
+   "pct": -6.15
+  },
+  {
+   "symbol": "EXE",
+   "name": "Expand Energy",
+   "sector": "Energy",
+   "close": 88.74,
+   "pct": -5.83
+  },
+  {
+   "symbol": "EOG",
+   "name": "EOG Resources",
+   "sector": "Energy",
+   "close": 144.93,
+   "pct": -5.73
+  },
+  {
+   "symbol": "DVN",
+   "name": "Devon Energy",
+   "sector": "Energy",
+   "close": 48.44,
+   "pct": -5.63
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "close": 191.07,
+   "pct": -5.57
   }
  ]
 }

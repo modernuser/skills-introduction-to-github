@@ -1,7 +1,12 @@
 {
- "updated": "2026-09-18T22:32:03Z",
+ "updated": "2026-09-18T23:21:10Z",
  "news": {
   "NVDA": [
+   {
+    "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here\u2019s The One Jim Cramer Likes",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-corporation-nasdaq-230352152.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 23:03:52 +0000"
+   },
    {
     "title": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
     "link": "https://www.fool.com/investing/2026/09/18/jensen-huang-maintained-his-prediction-that-ai-inf/?.tsrc=rss",
@@ -11,14 +16,14 @@
     "title": "Nvidia-Backed Cloud Platform Nscale Files For IPO \u2014 NVDA Stock In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-backed-cloud-platform-nscale-files-for-ipo/cZtH7g6RBEQ?.tsrc=rss",
     "pubDate": "Fri, 18 Sep 2026 21:31:11 +0000"
-   },
-   {
-    "title": "Nvidia Stock Is Up 21% in Six Months. Here\u2019s What the Street Still Isn\u2019t Pricing In",
-    "link": "https://www.tikr.com/blog/nvidia-stock-is-up-21-in-six-months-heres-what-the-street-still-isnt-pricing-in?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 21:04:06 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+    "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 22:40:21 +0000"
+   },
    {
     "title": "Top Research Reports for AMD, Linde & Amgen",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amd-linde-202800486.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD stock rises on a rumor that could give it a 2027 GPU edge",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rises-rumor-could-162844610.html?.tsrc=rss",
     "pubDate": "Fri, 18 Sep 2026 16:28:44 +0000"
-   },
-   {
-    "title": "Prediction: AMD\u2019s Biggest Growth\u00a0Opportunity May Still\u00a0Be Ahead",
-    "link": "https://247wallst.com/investing/2026/09/18/prediction-amds-biggest-growth-opportunity-may-still-be-ahead/?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 14:00:28 +0000"
    }
   ],
   "AVGO": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
+    "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here\u2019s The One Jim Cramer Likes",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-corporation-nasdaq-230352152.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 23:03:52 +0000"
+   },
+   {
+    "title": "Top analyst sets outrageous Intel stock target ahead of earnings",
+    "link": "https://www.thestreet.com/investing/stocks/melius-research-200-usd-intel-intc-stock-price-target?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 22:33:00 +0000"
+   },
+   {
     "title": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html?.tsrc=rss",
     "pubDate": "Fri, 18 Sep 2026 19:10:00 +0000"
-   },
-   {
-    "title": "Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-adds-1-3-intel-182356450.html?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 18:23:56 +0000"
-   },
-   {
-    "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 18:15:22 +0000"
    }
   ],
   "MU": [
@@ -105,19 +105,19 @@
   ],
   "SNDK": [
    {
+    "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+    "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 22:40:21 +0000"
+   },
+   {
+    "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
+    "link": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 18 Sep 2026 20:57:21 +0000"
+   },
+   {
     "title": "Credo Technology Group vs. Sandisk: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/09/18/credo-technology-group-vs-sandisk-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Fri, 18 Sep 2026 18:05:01 +0000"
-   },
-   {
-    "title": "Is Sandisk (SNDK) Stock At Risk As New NAND Competition Targets AI Memory?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-risk-nand-171245584.html?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 17:12:45 +0000"
-   },
-   {
-    "title": "Why Sandisk Stock Rallied Today",
-    "link": "https://www.fool.com/investing/2026/09/18/why-sandisk-stock-rallied-today/?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 16:56:46 +0000"
    }
   ],
   "WDC": [

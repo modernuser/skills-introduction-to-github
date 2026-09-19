@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-18T01:35:49Z",
+ "updated": "2026-09-19T01:40:34Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 919.4,
-   "pct": 9.59
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 289.93,
-   "pct": 6.92
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
+   "symbol": "GNRC",
+   "name": "Generac",
    "sector": "Industrials",
-   "close": 468.42,
-   "pct": 5.96
+   "close": 207.23,
+   "pct": 18.34
   },
   {
-   "symbol": "GEV",
-   "name": "GE Vernova",
-   "sector": "Industrials",
-   "close": 925.09,
-   "pct": 4.79
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "close": 40.35,
+   "pct": 9.5
   },
   {
-   "symbol": "EW",
-   "name": "Edwards Lifesciences",
+   "symbol": "MRNA",
+   "name": "Moderna",
    "sector": "Health Care",
-   "close": 89.28,
-   "pct": 4.13
+   "close": 158.07,
+   "pct": 8.55
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "close": 61.04,
+   "pct": 7.69
   },
   {
    "symbol": "INTC",
    "name": "Intel",
    "sector": "Information Technology",
-   "close": 101.05,
-   "pct": 4.03
+   "close": 108.8,
+   "pct": 7.67
   },
   {
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "sector": "Health Care",
-   "close": 145.73,
-   "pct": 3.95
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
    "sector": "Information Technology",
-   "close": 563.29,
-   "pct": 3.64
+   "close": 91.32,
+   "pct": 6.69
   },
   {
-   "symbol": "MTD",
-   "name": "Mettler Toledo",
-   "sector": "Health Care",
-   "close": 1378.6899,
-   "pct": 3.63
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
    "sector": "Information Technology",
-   "close": 229.71,
-   "pct": 3.61
+   "close": 545.09,
+   "pct": 6.36
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "close": 1614.39,
+   "pct": 6.21
+  },
+  {
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
+   "sector": "Information Technology",
+   "close": 199.28,
+   "pct": 6.14
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "close": 34.66,
+   "pct": 5.99
   }
  ],
  "losers": [
   {
-   "symbol": "JBHT",
-   "name": "J.B. Hunt",
-   "sector": "Industrials",
-   "close": 236.73,
-   "pct": -13.3
-  },
-  {
-   "symbol": "ON",
-   "name": "ON Semiconductor",
-   "sector": "Information Technology",
-   "close": 66.6,
-   "pct": -9.02
-  },
-  {
-   "symbol": "FANG",
-   "name": "Diamondback Energy",
-   "sector": "Energy",
-   "close": 194.54,
-   "pct": -8.03
-  },
-  {
-   "symbol": "OXY",
-   "name": "Occidental Petroleum",
-   "sector": "Energy",
-   "close": 59.36,
-   "pct": -6.55
-  },
-  {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 348.57,
-   "pct": -6.21
-  },
-  {
-   "symbol": "COP",
-   "name": "ConocoPhillips",
-   "sector": "Energy",
-   "close": 132.54,
-   "pct": -6.15
-  },
-  {
-   "symbol": "EXE",
-   "name": "Expand Energy",
-   "sector": "Energy",
-   "close": 88.74,
-   "pct": -5.83
-  },
-  {
-   "symbol": "EOG",
-   "name": "EOG Resources",
-   "sector": "Energy",
-   "close": 144.93,
-   "pct": -5.73
-  },
-  {
-   "symbol": "DVN",
-   "name": "Devon Energy",
-   "sector": "Energy",
-   "close": 48.44,
-   "pct": -5.63
-  },
-  {
-   "symbol": "FSLR",
-   "name": "First Solar",
-   "sector": "Information Technology",
-   "close": 191.07,
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "close": 166.45,
    "pct": -5.57
+  },
+  {
+   "symbol": "DVA",
+   "name": "DaVita",
+   "sector": "Health Care",
+   "close": 183.09,
+   "pct": -5.56
+  },
+  {
+   "symbol": "PSKY",
+   "name": "Paramount Skydance Corporation",
+   "sector": "Communication Services",
+   "close": 10.62,
+   "pct": -4.67
+  },
+  {
+   "symbol": "CPRT",
+   "name": "Copart",
+   "sector": "Industrials",
+   "close": 29.66,
+   "pct": -3.76
+  },
+  {
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 29.3,
+   "pct": -3.49
+  },
+  {
+   "symbol": "CMCSA",
+   "name": "Comcast",
+   "sector": "Communication Services",
+   "close": 22.91,
+   "pct": -3.46
+  },
+  {
+   "symbol": "BLDR",
+   "name": "Builders FirstSource",
+   "sector": "Industrials",
+   "close": 57.68,
+   "pct": -3.3
+  },
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 453.5,
+   "pct": -3.19
+  },
+  {
+   "symbol": "CRM",
+   "name": "Salesforce",
+   "sector": "Information Technology",
+   "close": 242.85,
+   "pct": -3.07
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit",
+   "sector": "Communication Services",
+   "close": 152.83,
+   "pct": -3.03
   }
  ]
 }

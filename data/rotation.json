@@ -1,15 +1,186 @@
 {
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "window_days": 14,
  "trigger_pct": 5.0,
  "entries": [
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.16,
+   "last_close": 109.81,
+   "first_entered": "2026-08-21"
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.28,
+   "last_close": 201.16,
+   "first_entered": "2026-09-17"
+  },
+  {
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 6.69,
+   "last_close": 91.32,
+   "first_entered": "2026-09-03"
+  },
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.75,
+   "last_close": 173.97,
+   "first_entered": "2026-08-07"
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 7.69,
+   "last_close": 61.04,
+   "first_entered": "2026-09-03"
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 7.67,
+   "last_close": 108.8,
+   "first_entered": "2026-09-08"
+  },
+  {
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 9.5,
+   "last_close": 40.35,
+   "first_entered": "2026-09-11"
+  },
+  {
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.5,
+   "last_close": 977.5,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "entered": "2026-09-18",
+   "trigger_pct": 18.34,
+   "last_close": 207.23,
+   "first_entered": "2026-08-28"
+  },
+  {
+   "symbol": "ORCL",
+   "name": "Oracle Corporation",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.19,
+   "last_close": 150.59,
+   "first_entered": "2026-09-01"
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "entered": "2026-09-18",
+   "trigger_pct": 8.55,
+   "last_close": 158.07,
+   "first_entered": "2026-08-07"
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.99,
+   "last_close": 34.66,
+   "first_entered": "2026-09-11"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 6.36,
+   "last_close": 545.09,
+   "first_entered": "2026-09-08"
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 6.21,
+   "last_close": 1614.39,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-09-18",
+   "trigger_pct": 6.14,
+   "last_close": 199.28,
+   "first_entered": "2026-08-07"
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.27,
+   "last_close": 56.34,
+   "first_entered": "2026-09-18"
+  },
+  {
+   "symbol": "ALB",
+   "name": "Albemarle Corporation",
+   "sector": "Materials",
+   "entered": "2026-09-18",
+   "trigger_pct": 5.1,
+   "last_close": 115.05,
+   "first_entered": "2026-09-18"
+  },
+  {
+   "symbol": "DVA",
+   "name": "DaVita",
+   "sector": "Health Care",
+   "entered": "2026-09-18",
+   "trigger_pct": -5.56,
+   "last_close": 183.09,
+   "first_entered": "2026-09-18"
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "entered": "2026-09-18",
+   "trigger_pct": -5.57,
+   "last_close": 166.45,
+   "first_entered": "2026-09-18"
+  },
   {
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "sector": "Industrials",
    "entered": "2026-09-17",
    "trigger_pct": 5.96,
-   "last_close": 468.42,
+   "last_close": 453.5,
    "first_entered": "2026-08-31"
   },
   {
@@ -18,7 +189,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -5.53,
-   "last_close": 44.79,
+   "last_close": 45.46,
    "first_entered": "2026-09-16"
   },
   {
@@ -27,7 +198,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-17",
    "trigger_pct": 9.59,
-   "last_close": 919.4,
+   "last_close": 893.61,
    "first_entered": "2026-08-04"
   },
   {
@@ -36,7 +207,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-17",
    "trigger_pct": -9.02,
-   "last_close": 66.6,
+   "last_close": 68.3,
    "first_entered": "2026-09-11"
   },
   {
@@ -45,7 +216,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-17",
    "trigger_pct": 6.92,
-   "last_close": 289.93,
+   "last_close": 295.98,
    "first_entered": "2026-08-04"
   },
   {
@@ -54,17 +225,8 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -6.21,
-   "last_close": 348.57,
+   "last_close": 347.2,
    "first_entered": "2026-09-08"
-  },
-  {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "entered": "2026-09-17",
-   "trigger_pct": -5.46,
-   "last_close": 104.42,
-   "first_entered": "2026-08-21"
   },
   {
    "symbol": "EQT",
@@ -72,7 +234,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -5.1,
-   "last_close": 50.41,
+   "last_close": 50.35,
    "first_entered": "2026-09-17"
   },
   {
@@ -81,16 +243,7 @@
    "sector": "Financials",
    "entered": "2026-09-17",
    "trigger_pct": -5.55,
-   "last_close": 15.82,
-   "first_entered": "2026-09-17"
-  },
-  {
-   "symbol": "FSLR",
-   "name": "First Solar",
-   "sector": "Information Technology",
-   "entered": "2026-09-17",
-   "trigger_pct": -5.57,
-   "last_close": 191.07,
+   "last_close": 15.88,
    "first_entered": "2026-09-17"
   },
   {
@@ -99,7 +252,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -5.63,
-   "last_close": 48.44,
+   "last_close": 48.72,
    "first_entered": "2026-09-17"
   },
   {
@@ -108,7 +261,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -5.73,
-   "last_close": 144.93,
+   "last_close": 145.47,
    "first_entered": "2026-09-17"
   },
   {
@@ -117,7 +270,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -5.83,
-   "last_close": 88.74,
+   "last_close": 88.33,
    "first_entered": "2026-09-17"
   },
   {
@@ -126,7 +279,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -6.15,
-   "last_close": 132.54,
+   "last_close": 133.19,
    "first_entered": "2026-09-17"
   },
   {
@@ -135,7 +288,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -6.55,
-   "last_close": 59.36,
+   "last_close": 59.29,
    "first_entered": "2026-09-17"
   },
   {
@@ -144,7 +297,7 @@
    "sector": "Energy",
    "entered": "2026-09-17",
    "trigger_pct": -8.03,
-   "last_close": 194.54,
+   "last_close": 196.94,
    "first_entered": "2026-09-17"
   },
   {
@@ -153,26 +306,8 @@
    "sector": "Industrials",
    "entered": "2026-09-17",
    "trigger_pct": -13.3,
-   "last_close": 236.73,
+   "last_close": 236.8,
    "first_entered": "2026-09-17"
-  },
-  {
-   "symbol": "SWKS",
-   "name": "Skyworks Solutions",
-   "sector": "Information Technology",
-   "entered": "2026-09-16",
-   "trigger_pct": 13.55,
-   "last_close": 85.59,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "entered": "2026-09-16",
-   "trigger_pct": -10.1,
-   "last_close": 164.51,
-   "first_entered": "2026-08-07"
   },
   {
    "symbol": "CASY",
@@ -180,7 +315,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-09-16",
    "trigger_pct": -5.55,
-   "last_close": 589.0,
+   "last_close": 607.45,
    "first_entered": "2026-08-27"
   },
   {
@@ -189,7 +324,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-09-16",
    "trigger_pct": -5.35,
-   "last_close": 112.4,
+   "last_close": 114.4,
    "first_entered": "2026-09-08"
   },
   {
@@ -198,7 +333,7 @@
    "sector": "Health Care",
    "entered": "2026-09-16",
    "trigger_pct": 9.11,
-   "last_close": 145.73,
+   "last_close": 146.73,
    "first_entered": "2026-09-16"
   },
   {
@@ -207,7 +342,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-16",
    "trigger_pct": -5.6,
-   "last_close": 65.4,
+   "last_close": 65.84,
    "first_entered": "2026-09-16"
   },
   {
@@ -216,7 +351,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-16",
    "trigger_pct": -5.94,
-   "last_close": 33.68,
+   "last_close": 33.51,
    "first_entered": "2026-09-16"
   },
   {
@@ -225,17 +360,8 @@
    "sector": "Financials",
    "entered": "2026-09-16",
    "trigger_pct": -6.37,
-   "last_close": 158.98,
+   "last_close": 156.21,
    "first_entered": "2026-09-16"
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "entered": "2026-09-14",
-   "trigger_pct": -10.76,
-   "last_close": 56.68,
-   "first_entered": "2026-09-03"
   },
   {
    "symbol": "VRT",
@@ -243,17 +369,8 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": -7.65,
-   "last_close": 239.41,
+   "last_close": 241.49,
    "first_entered": "2026-09-10"
-  },
-  {
-   "symbol": "INTC",
-   "name": "Intel",
-   "sector": "Information Technology",
-   "entered": "2026-09-14",
-   "trigger_pct": -5.59,
-   "last_close": 101.05,
-   "first_entered": "2026-09-08"
   },
   {
    "symbol": "LRCX",
@@ -261,7 +378,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -8.29,
-   "last_close": 269.23,
+   "last_close": 269.31,
    "first_entered": "2026-08-04"
   },
   {
@@ -270,7 +387,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -5.82,
-   "last_close": 563.29,
+   "last_close": 588.4,
    "first_entered": "2026-08-04"
   },
   {
@@ -279,7 +396,7 @@
    "sector": "Financials",
    "entered": "2026-09-14",
    "trigger_pct": 6.63,
-   "last_close": 276.41,
+   "last_close": 278.85,
    "first_entered": "2026-09-11"
   },
   {
@@ -288,7 +405,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 9.73,
-   "last_close": 191.57,
+   "last_close": 187.8,
    "first_entered": "2026-09-08"
   },
   {
@@ -297,7 +414,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": -6.39,
-   "last_close": 1587.35,
+   "last_close": 1573.96,
    "first_entered": "2026-08-17"
   },
   {
@@ -306,16 +423,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -5.52,
-   "last_close": 191.49,
-   "first_entered": "2026-09-11"
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "entered": "2026-09-14",
-   "trigger_pct": -8.38,
-   "last_close": 36.85,
+   "last_close": 196.92,
    "first_entered": "2026-09-11"
   },
   {
@@ -324,7 +432,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -6.44,
-   "last_close": 107.9,
+   "last_close": 109.02,
    "first_entered": "2026-09-11"
   },
   {
@@ -333,7 +441,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -5.9,
-   "last_close": 197.54,
+   "last_close": 199.53,
    "first_entered": "2026-09-11"
   },
   {
@@ -342,7 +450,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -6.09,
-   "last_close": 297.24,
+   "last_close": 295.94,
    "first_entered": "2026-09-11"
   },
   {
@@ -351,7 +459,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -13.7,
-   "last_close": 144.16,
+   "last_close": 147.8,
    "first_entered": "2026-09-04"
   },
   {
@@ -360,7 +468,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -8.55,
-   "last_close": 340.5,
+   "last_close": 344.25,
    "first_entered": "2026-08-04"
   },
   {
@@ -369,7 +477,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": 6.15,
-   "last_close": 181.75,
+   "last_close": 176.48,
    "first_entered": "2026-09-08"
   },
   {
@@ -378,7 +486,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 6.53,
-   "last_close": 99.09,
+   "last_close": 98.15,
    "first_entered": "2026-09-08"
   },
   {
@@ -387,7 +495,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -7.32,
-   "last_close": 229.71,
+   "last_close": 240.76,
    "first_entered": "2026-08-04"
   },
   {
@@ -396,7 +504,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 7.78,
-   "last_close": 220.31,
+   "last_close": 218.64,
    "first_entered": "2026-08-27"
   },
   {
@@ -405,17 +513,8 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 5.3,
-   "last_close": 250.5,
+   "last_close": 252.67,
    "first_entered": "2026-08-27"
-  },
-  {
-   "symbol": "MU",
-   "name": "Micron Technology",
-   "sector": "Information Technology",
-   "entered": "2026-09-14",
-   "trigger_pct": -5.25,
-   "last_close": 926.55,
-   "first_entered": "2026-08-04"
   },
   {
    "symbol": "KLAC",
@@ -423,7 +522,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -6.39,
-   "last_close": 167.36,
+   "last_close": 168.98,
    "first_entered": "2026-09-04"
   },
   {
@@ -432,7 +531,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -13.3,
-   "last_close": 341.15,
+   "last_close": 353.13,
    "first_entered": "2026-09-04"
   },
   {
@@ -441,7 +540,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 13.85,
-   "last_close": 241.36,
+   "last_close": 245.7,
    "first_entered": "2026-08-10"
   },
   {
@@ -450,7 +549,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 13.09,
-   "last_close": 375.65,
+   "last_close": 375.06,
    "first_entered": "2026-08-27"
   },
   {
@@ -459,7 +558,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 7.41,
-   "last_close": 139.82,
+   "last_close": 138.47,
    "first_entered": "2026-08-07"
   },
   {
@@ -468,17 +567,8 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 9.04,
-   "last_close": 171.77,
+   "last_close": 172.58,
    "first_entered": "2026-08-27"
-  },
-  {
-   "symbol": "GNRC",
-   "name": "Generac",
-   "sector": "Industrials",
-   "entered": "2026-09-14",
-   "trigger_pct": -5.35,
-   "last_close": 175.11,
-   "first_entered": "2026-08-28"
   },
   {
    "symbol": "CTSH",
@@ -486,7 +576,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 6.83,
-   "last_close": 61.85,
+   "last_close": 61.88,
    "first_entered": "2026-09-14"
   },
   {
@@ -495,7 +585,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 6.79,
-   "last_close": 346.44,
+   "last_close": 341.57,
    "first_entered": "2026-09-14"
   },
   {
@@ -504,7 +594,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 6.04,
-   "last_close": 189.64,
+   "last_close": 190.29,
    "first_entered": "2026-09-14"
   },
   {
@@ -513,7 +603,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": 5.94,
-   "last_close": 30.82,
+   "last_close": 29.66,
    "first_entered": "2026-09-14"
   },
   {
@@ -522,7 +612,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": 5.47,
-   "last_close": 318.13,
+   "last_close": 313.13,
    "first_entered": "2026-09-14"
   },
   {
@@ -531,7 +621,7 @@
    "sector": "Financials",
    "entered": "2026-09-14",
    "trigger_pct": 5.4,
-   "last_close": 243.78,
+   "last_close": 241.41,
    "first_entered": "2026-09-14"
   },
   {
@@ -540,7 +630,7 @@
    "sector": "Real Estate",
    "entered": "2026-09-14",
    "trigger_pct": -5.01,
-   "last_close": 181.07,
+   "last_close": 184.26,
    "first_entered": "2026-09-14"
   },
   {
@@ -549,7 +639,7 @@
    "sector": "Financials",
    "entered": "2026-09-14",
    "trigger_pct": -5.14,
-   "last_close": 57.9,
+   "last_close": 58.18,
    "first_entered": "2026-09-14"
   },
   {
@@ -558,7 +648,7 @@
    "sector": "Utilities",
    "entered": "2026-09-14",
    "trigger_pct": -5.16,
-   "last_close": 140.39,
+   "last_close": 143.56,
    "first_entered": "2026-09-14"
   },
   {
@@ -567,7 +657,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -5.24,
-   "last_close": 218.98,
+   "last_close": 227.95,
    "first_entered": "2026-09-14"
   },
   {
@@ -576,7 +666,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": -5.65,
-   "last_close": 140.47,
+   "last_close": 141.06,
    "first_entered": "2026-09-14"
   },
   {
@@ -585,7 +675,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -6.4,
-   "last_close": 77.26,
+   "last_close": 78.37,
    "first_entered": "2026-09-14"
   },
   {
@@ -594,7 +684,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -6.99,
-   "last_close": 322.04,
+   "last_close": 331.44,
    "first_entered": "2026-09-14"
   },
   {
@@ -603,7 +693,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -7.07,
-   "last_close": 415.38,
+   "last_close": 417.4,
    "first_entered": "2026-09-14"
   },
   {
@@ -612,7 +702,7 @@
    "sector": "Utilities",
    "entered": "2026-09-14",
    "trigger_pct": -7.09,
-   "last_close": 259.53,
+   "last_close": 262.8,
    "first_entered": "2026-09-14"
   },
   {
@@ -621,7 +711,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -7.25,
-   "last_close": 114.86,
+   "last_close": 117.13,
    "first_entered": "2026-09-14"
   },
   {
@@ -630,7 +720,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-14",
    "trigger_pct": -7.39,
-   "last_close": 1147.61,
+   "last_close": 1169.58,
    "first_entered": "2026-09-14"
   },
   {
@@ -639,7 +729,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": -7.57,
-   "last_close": 397.8,
+   "last_close": 409.46,
    "first_entered": "2026-09-14"
   },
   {
@@ -648,7 +738,7 @@
    "sector": "Industrials",
    "entered": "2026-09-14",
    "trigger_pct": -8.62,
-   "last_close": 925.09,
+   "last_close": 924.93,
    "first_entered": "2026-09-14"
   },
   {
@@ -657,7 +747,7 @@
    "sector": "Health Care",
    "entered": "2026-09-11",
    "trigger_pct": -14.67,
-   "last_close": 54.61,
+   "last_close": 53.78,
    "first_entered": "2026-09-10"
   },
   {
@@ -666,7 +756,7 @@
    "sector": "Materials",
    "entered": "2026-09-11",
    "trigger_pct": -6.59,
-   "last_close": 69.24,
+   "last_close": 70.85,
    "first_entered": "2026-08-21"
   },
   {
@@ -675,17 +765,8 @@
    "sector": "Communication Services",
    "entered": "2026-09-11",
    "trigger_pct": 6.08,
-   "last_close": 157.6,
+   "last_close": 152.83,
    "first_entered": "2026-08-25"
-  },
-  {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
-   "sector": "Information Technology",
-   "entered": "2026-09-11",
-   "trigger_pct": -5.38,
-   "last_close": 143.16,
-   "first_entered": "2026-09-01"
   },
   {
    "symbol": "BKR",
@@ -693,7 +774,7 @@
    "sector": "Energy",
    "entered": "2026-09-11",
    "trigger_pct": -6.66,
-   "last_close": 56.32,
+   "last_close": 56.57,
    "first_entered": "2026-09-11"
   },
   {
@@ -702,26 +783,8 @@
    "sector": "Information Technology",
    "entered": "2026-09-11",
    "trigger_pct": 7.85,
-   "last_close": 149.96,
+   "last_close": 149.2,
    "first_entered": "2026-08-25"
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "entered": "2026-09-11",
-   "trigger_pct": 5.38,
-   "last_close": 145.62,
-   "first_entered": "2026-08-07"
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "entered": "2026-09-11",
-   "trigger_pct": 8.4,
-   "last_close": 32.7,
-   "first_entered": "2026-09-11"
   },
   {
    "symbol": "FISV",
@@ -729,7 +792,7 @@
    "sector": "Financials",
    "entered": "2026-09-11",
    "trigger_pct": 5.42,
-   "last_close": 49.45,
+   "last_close": 49.3,
    "first_entered": "2026-09-11"
   },
   {
@@ -738,7 +801,7 @@
    "sector": "Industrials",
    "entered": "2026-09-11",
    "trigger_pct": 5.15,
-   "last_close": 619.28,
+   "last_close": 616.54,
    "first_entered": "2026-09-11"
   },
   {
@@ -747,7 +810,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-10",
    "trigger_pct": 5.35,
-   "last_close": 991.35,
+   "last_close": 966.3,
    "first_entered": "2026-09-04"
   },
   {
@@ -756,7 +819,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-10",
    "trigger_pct": 7.15,
-   "last_close": 230.79,
+   "last_close": 236.0,
    "first_entered": "2026-08-04"
   },
   {
@@ -765,7 +828,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-10",
    "trigger_pct": -8.13,
-   "last_close": 135.0,
+   "last_close": 133.37,
    "first_entered": "2026-09-03"
   },
   {
@@ -774,7 +837,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-10",
    "trigger_pct": 6.55,
-   "last_close": 673.31,
+   "last_close": 682.31,
    "first_entered": "2026-09-10"
   },
   {
@@ -783,7 +846,7 @@
    "sector": "Materials",
    "entered": "2026-09-10",
    "trigger_pct": -5.07,
-   "last_close": 34.06,
+   "last_close": 35.55,
    "first_entered": "2026-09-10"
   },
   {
@@ -792,7 +855,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-10",
    "trigger_pct": -5.37,
-   "last_close": 11.14,
+   "last_close": 10.62,
    "first_entered": "2026-09-10"
   },
   {
@@ -801,7 +864,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-10",
    "trigger_pct": -6.61,
-   "last_close": 23.73,
+   "last_close": 22.91,
    "first_entered": "2026-09-10"
   },
   {
@@ -810,7 +873,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-08",
    "trigger_pct": 6.49,
-   "last_close": 783.18,
+   "last_close": 803.13,
    "first_entered": "2026-08-12"
   },
   {
@@ -819,7 +882,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-08",
    "trigger_pct": -5.5,
-   "last_close": 131.16,
+   "last_close": 134.44,
    "first_entered": "2026-09-04"
   },
   {
@@ -828,7 +891,7 @@
    "sector": "Industrials",
    "entered": "2026-09-08",
    "trigger_pct": -10.7,
-   "last_close": 227.73,
+   "last_close": 225.76,
    "first_entered": "2026-08-31"
   },
   {
@@ -837,17 +900,8 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-08",
    "trigger_pct": -7.88,
-   "last_close": 286.97,
+   "last_close": 284.55,
    "first_entered": "2026-08-24"
-  },
-  {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Information Technology",
-   "entered": "2026-09-08",
-   "trigger_pct": 5.9,
-   "last_close": 512.5,
-   "first_entered": "2026-09-08"
   },
   {
    "symbol": "TKO",
@@ -855,7 +909,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-08",
    "trigger_pct": 5.01,
-   "last_close": 192.43,
+   "last_close": 189.3,
    "first_entered": "2026-09-08"
   },
   {
@@ -864,7 +918,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-08",
    "trigger_pct": -5.33,
-   "last_close": 196.76,
+   "last_close": 194.56,
    "first_entered": "2026-09-08"
   },
   {
@@ -873,7 +927,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-09-08",
    "trigger_pct": -5.62,
-   "last_close": 123.03,
+   "last_close": 122.45,
    "first_entered": "2026-09-08"
   },
   {
@@ -882,7 +936,7 @@
    "sector": "Health Care",
    "entered": "2026-09-08",
    "trigger_pct": -5.9,
-   "last_close": 43.91,
+   "last_close": 43.55,
    "first_entered": "2026-09-08"
   },
   {
@@ -891,7 +945,7 @@
    "sector": "Financials",
    "entered": "2026-09-08",
    "trigger_pct": -5.9,
-   "last_close": 36.85,
+   "last_close": 36.43,
    "first_entered": "2026-09-08"
   },
   {
@@ -900,7 +954,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-08",
    "trigger_pct": -6.72,
-   "last_close": 171.4,
+   "last_close": 170.52,
    "first_entered": "2026-09-08"
   },
   {
@@ -909,7 +963,7 @@
    "sector": "Health Care",
    "entered": "2026-09-08",
    "trigger_pct": -8.81,
-   "last_close": 284.76,
+   "last_close": 280.13,
    "first_entered": "2026-09-08"
   },
   {
@@ -918,7 +972,7 @@
    "sector": "Health Care",
    "entered": "2026-09-08",
    "trigger_pct": -10.08,
-   "last_close": 376.35,
+   "last_close": 379.78,
    "first_entered": "2026-09-08"
   },
   {
@@ -927,7 +981,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-04",
    "trigger_pct": -5.92,
-   "last_close": 358.08,
+   "last_close": 366.2,
    "first_entered": "2026-08-21"
   },
   {
@@ -936,26 +990,8 @@
    "sector": "Information Technology",
    "entered": "2026-09-04",
    "trigger_pct": -5.4,
-   "last_close": 378.47,
+   "last_close": 381.17,
    "first_entered": "2026-08-27"
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "entered": "2026-09-04",
-   "trigger_pct": 11.9,
-   "last_close": 1519.97,
-   "first_entered": "2026-08-04"
-  },
-  {
-   "symbol": "WDAY",
-   "name": "Workday, Inc.",
-   "sector": "Information Technology",
-   "entered": "2026-09-04",
-   "trigger_pct": -5.38,
-   "last_close": 187.76,
-   "first_entered": "2026-08-07"
   },
   {
    "symbol": "LULU",
@@ -963,7 +999,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-09-04",
    "trigger_pct": -17.38,
-   "last_close": 95.98,
+   "last_close": 99.39,
    "first_entered": "2026-08-28"
   },
   {
@@ -972,7 +1008,7 @@
    "sector": "Information Technology",
    "entered": "2026-09-04",
    "trigger_pct": 5.86,
-   "last_close": 416.97,
+   "last_close": 423.87,
    "first_entered": "2026-08-05"
   },
   {
@@ -981,7 +1017,7 @@
    "sector": "Utilities",
    "entered": "2026-09-04",
    "trigger_pct": 6.42,
-   "last_close": 107.38,
+   "last_close": 106.23,
    "first_entered": "2026-09-04"
   },
   {
@@ -990,7 +1026,7 @@
    "sector": "Communication Services",
    "entered": "2026-09-04",
    "trigger_pct": -5.35,
-   "last_close": 76.41,
+   "last_close": 75.31,
    "first_entered": "2026-09-04"
   },
   {
@@ -999,98 +1035,8 @@
    "sector": "Industrials",
    "entered": "2026-09-04",
    "trigger_pct": -6.37,
-   "last_close": 163.8,
+   "last_close": 161.17,
    "first_entered": "2026-09-04"
-  },
-  {
-   "symbol": "PCG",
-   "name": "PG&E Corporation",
-   "sector": "Utilities",
-   "entered": "2026-09-03",
-   "trigger_pct": -5.19,
-   "last_close": 13.35,
-   "first_entered": "2026-08-28"
-  },
-  {
-   "symbol": "EIX",
-   "name": "Edison International",
-   "sector": "Utilities",
-   "entered": "2026-09-03",
-   "trigger_pct": -6.14,
-   "last_close": 54.81,
-   "first_entered": "2026-08-31"
-  },
-  {
-   "symbol": "XYZ",
-   "name": "Block, Inc.",
-   "sector": "Financials",
-   "entered": "2026-09-03",
-   "trigger_pct": 5.88,
-   "last_close": 76.63,
-   "first_entered": "2026-09-01"
-  },
-  {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
-   "sector": "Materials",
-   "entered": "2026-09-03",
-   "trigger_pct": 5.79,
-   "last_close": 238.23,
-   "first_entered": "2026-08-19"
-  },
-  {
-   "symbol": "TTD",
-   "name": "Trade Desk (The)",
-   "sector": "Communication Services",
-   "entered": "2026-09-03",
-   "trigger_pct": 5.59,
-   "last_close": 14.49,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-09-03",
-   "trigger_pct": 5.29,
-   "last_close": 92.45,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "OMC",
-   "name": "Omnicom Group",
-   "sector": "Communication Services",
-   "entered": "2026-09-03",
-   "trigger_pct": -5.03,
-   "last_close": 79.33,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Technologies",
-   "sector": "Information Technology",
-   "entered": "2026-09-03",
-   "trigger_pct": 7.71,
-   "last_close": 174.34,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "PFG",
-   "name": "Principal Financial Group",
-   "sector": "Financials",
-   "entered": "2026-09-03",
-   "trigger_pct": 6.47,
-   "last_close": 116.64,
-   "first_entered": "2026-09-03"
-  },
-  {
-   "symbol": "TSN",
-   "name": "Tyson Foods",
-   "sector": "Consumer Staples",
-   "entered": "2026-09-03",
-   "trigger_pct": -7.26,
-   "last_close": 52.12,
-   "first_entered": "2026-09-03"
   }
  ]
 }

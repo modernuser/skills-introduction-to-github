@@ -54,7 +54,7 @@
      "name": "SanDisk",
      "shares": 0.705799,
      "start_close": 1288.03,
-     "last_close": 1791.8199
+     "last_close": 1614.39
     },
     {
      "symbol": "WDC",
@@ -85,9 +85,9 @@
      "last_close": 123.67
     }
    ],
-   "value": 10911.01,
-   "return_pct": 9.11,
-   "alpha_pp": 8.58
+   "value": 10785.78,
+   "return_pct": 7.86,
+   "alpha_pp": 7.33
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -97,82 +97,82 @@
      "name": "Tractor Supply",
      "shares": 28.311769,
      "start_close": 32.11,
-     "last_close": 32.78
+     "last_close": 32.82
     },
     {
      "symbol": "CAH",
      "name": "Cardinal Health",
      "shares": 3.85862,
      "start_close": 235.6,
-     "last_close": 232.54
+     "last_close": 226.34
     },
     {
      "symbol": "CVX",
      "name": "Chevron Corporation",
      "shares": 4.705927,
      "start_close": 193.18,
-     "last_close": 211.54
+     "last_close": 211.57
     },
     {
      "symbol": "KO",
      "name": "Coca-Cola Company (The)",
      "shares": 10.466163,
      "start_close": 86.86,
-     "last_close": 87.87
+     "last_close": 88.06
     },
     {
      "symbol": "MTD",
      "name": "Mettler Toledo",
      "shares": 0.629129,
      "start_close": 1445.0,
-     "last_close": 1378.6899
+     "last_close": 1410.4399
     },
     {
      "symbol": "FDXF",
      "name": "FedEx Freight",
      "shares": 6.539281,
      "start_close": 139.02,
-     "last_close": 121.73
+     "last_close": 122.37
     },
     {
      "symbol": "ANET",
      "name": "Arista Networks",
      "shares": 4.916928,
      "start_close": 184.89,
-     "last_close": 197.54
+     "last_close": 199.53
     },
     {
      "symbol": "SPG",
      "name": "Simon Property Group",
      "shares": 3.967058,
      "start_close": 229.16,
-     "last_close": 202.94
+     "last_close": 204.47
     },
     {
      "symbol": "EFX",
      "name": "Equifax",
      "shares": 5.22136,
      "start_close": 174.11,
-     "last_close": 163.8
+     "last_close": 161.17
     },
     {
      "symbol": "RF",
      "name": "Regions Financial Corporation",
      "shares": 28.878364,
      "start_close": 31.48,
-     "last_close": 28.47
+     "last_close": 28.48
     },
     {
      "symbol": "NSC",
      "name": "Norfolk Southern",
      "shares": 2.700404,
      "start_close": 336.65,
-     "last_close": 317.0
+     "last_close": 318.97
     }
    ],
-   "value": 9713.72,
-   "return_pct": -2.86,
-   "alpha_pp": -3.39
+   "value": 9724.95,
+   "return_pct": -2.75,
+   "alpha_pp": -3.28
   },
   "spy": {
    "label": "Just buy SPY",
@@ -200,75 +200,75 @@
      "name": "Palo Alto Networks",
      "shares": 2.729705,
      "start_close": 366.34,
-     "last_close": 375.65
+     "last_close": 375.06
     },
     {
      "symbol": "HUM",
      "name": "Humana",
      "shares": 2.761211,
      "start_close": 362.16,
-     "last_close": 384.72
+     "last_close": 384.52
     },
     {
      "symbol": "DVA",
      "name": "DaVita",
      "shares": 4.386157,
      "start_close": 227.99,
-     "last_close": 193.86
+     "last_close": 183.09
     },
     {
      "symbol": "CVS",
      "name": "CVS Health",
      "shares": 9.576709,
      "start_close": 104.42,
-     "last_close": 91.72
+     "last_close": 90.27
     },
     {
      "symbol": "STT",
      "name": "State Street Corporation",
      "shares": 5.398694,
      "start_close": 185.23,
-     "last_close": 182.9
+     "last_close": 183.07
     },
     {
      "symbol": "MNST",
      "name": "Monster Beverage",
      "shares": 10.617966,
      "start_close": 94.18,
-     "last_close": 44.57
+     "last_close": 44.51
     },
     {
      "symbol": "BXP",
      "name": "BXP, Inc.",
      "shares": 14.150276,
      "start_close": 70.67,
-     "last_close": 64.04
+     "last_close": 63.93
     },
     {
      "symbol": "MET",
      "name": "MetLife",
      "shares": 10.40258,
      "start_close": 96.13,
-     "last_close": 97.23
+     "last_close": 97.35
     },
     {
      "symbol": "AIZ",
      "name": "Assurant",
      "shares": 3.554797,
      "start_close": 281.31,
-     "last_close": 283.56
+     "last_close": 283.81
     },
     {
      "symbol": "GL",
      "name": "Globe Life",
      "shares": 5.437738,
      "start_close": 183.9,
-     "last_close": 172.98
+     "last_close": 172.26
     }
    ],
-   "value": 9143.29,
-   "return_pct": -8.57,
-   "alpha_pp": -7.32
+   "value": 9076.95,
+   "return_pct": -9.23,
+   "alpha_pp": -7.98
   }
  },
  "history": [
@@ -630,10 +630,10 @@
   },
   {
    "date": "2026-09-18",
-   "owner": 9.11,
-   "dartboard": -2.86,
+   "owner": 7.86,
+   "dartboard": -2.75,
    "spy": 0.53,
-   "trend": -8.57
+   "trend": -9.23
   }
  ],
  "asof": "2026-09-18"

@@ -1,24 +1,29 @@
 {
- "updated": "2026-09-22T21:13:52Z",
+ "updated": "2026-09-22T23:36:57Z",
  "news": {
   "NVDA": [
    {
-    "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
-    "link": "https://www.fool.com/investing/2026/09/22/got-5000-2-growth-stocks-building-the-software-bac/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:50:00 +0000"
+    "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-is-at-its-cheapest-in-more-than-a-decade-what-is-holding-nvidia-back/cZM5Ty5RB7K?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:45:19 +0000"
    },
    {
-    "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
-    "link": "https://www.fool.com/investing/2026/09/22/amd-stock-has-blown-past-nvidia-this-year-is-it-still-the-better-buy/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:20:01 +0000"
+    "title": "Nvidia Backed SB Energy\u2019s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:17:36 +0000"
    },
    {
-    "title": "The AI Rally Is Back\u2014and Facing a Wall of Worry",
-    "link": "https://finance.yahoo.com/m/acefb7db-d360-3bf5-85cc-2189b339d083/the-ai-rally-is-back%E2%80%94and.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:44:00 +0000"
+    "title": "JEPI\u2019s 4.42% Gain Looks Modest Next to FYEE\u2019s 12.4% Run in 2026",
+    "link": "https://247wallst.com/investing/etf/2026/09/22/jepis-4-42-gain-looks-modest-next-to-fyees-12-4-run-in-2026/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:35:52 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-stock-214502827.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:45:02 +0000"
+   },
    {
     "title": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-lennar%2C-viking.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
     "link": "https://www.fool.com/investing/2026/09/22/amd-stock-has-blown-past-nvidia-this-year-is-it-still-the-better-buy/?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 20:20:01 +0000"
-   },
-   {
-    "title": "AMD Stock Just Sent a Huge AI Signal",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 19:07:55 +0000"
    }
   ],
   "AVGO": [
@@ -76,48 +76,48 @@
     "pubDate": "Tue, 22 Sep 2026 15:12:17 +0000"
    },
    {
+    "title": "Intel (INTC) Stock Moves 1.71%: What You Should Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-moves-1-214504558.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:45:04 +0000"
+   },
+   {
     "title": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
     "link": "https://247wallst.com/investing/2026/09/22/intel-is-up-25-in-5-days-the-145-price-target-just-moved-too/?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 19:05:33 +0000"
-   },
-   {
-    "title": "Intel Drops as Muse Revives the Server CPU Thesis",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-muse-revives-server-183529238.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 18:35:29 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+    "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:12:00 +0000"
+   },
+   {
+    "title": "Micron's Memory Boom Is Facing a New Test",
+    "link": "https://finance.yahoo.com/technology/articles/microns-memory-boom-facing-test-222431132.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:24:31 +0000"
+   },
+   {
     "title": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-comparing-two-205700744.html?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 20:57:00 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-    "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:32:25 +0000"
-   },
-   {
-    "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-    "link": "https://finance.yahoo.com/m/248555df-b0ac-392d-a493-6f95b1e5c807/micron%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:21:33 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-comparing-two-205700744.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:57:00 +0000"
-   },
-   {
-    "title": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/sandisk%2C-lennar%2C-viking.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:34:00 +0000"
+    "title": "Sandisk (SNDK) Has Signed Away Two Thirds of Next Year\u2019s Output. Can the AI Storage Boom Keep Paying?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-signed-away-two-231834920.html?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:18:34 +0000"
    },
    {
     "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
     "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 20:32:25 +0000"
+    "pubDate": "Tue, 22 Sep 2026 23:12:00 +0000"
+   },
+   {
+    "title": "5-star analyst sets jaw-dropping price target on SanDisk stock",
+    "link": "https://www.thestreet.com/investing/rosenblatt-sandisk-stock-price-target-sndk?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:33:00 +0000"
    }
   ],
   "WDC": [
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
-    "title": "Skyworks Just Surged 33% in a Month: Is It Too Late to Buy SWKS Stock Now?",
-    "link": "https://247wallst.com/investing/2026/09/22/skyworks-just-surged-33-in-a-month-is-it-too-late-to-buy-swks-stock-now/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 19:12:52 +0000"
+    "title": "VGT Holders Bought \u2018Tech\u2019 and Own No Google, Meta, or Amazon: The Sector Rule That Decides What\u2019s Inside",
+    "link": "https://247wallst.com/investing/etf/2026/09/22/vgt-holders-bought-tech-and-own-no-google-meta-or-amazon-the-sector-rule-that-decides-whats-inside/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:15:04 +0000"
    },
    {
-    "title": "Bloom Energy Just Ripped 38% in a Month: Take Profits, or Buy More?",
-    "link": "https://247wallst.com/investing/2026/09/22/bloom-energy-just-ripped-38-in-a-month-take-profits-or-buy-more/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 19:07:01 +0000"
+    "title": "The Market Is Near Another All-Time High and You\u2019re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
+    "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 22:25:53 +0000"
    },
    {
-    "title": "Adobe Is Down 32% This Year: Is ADBE Stock Dead Money or Due for a Bounce?",
-    "link": "https://247wallst.com/investing/2026/09/22/adobe-is-down-32-this-year-is-adbe-stock-dead-money-or-due-for-a-bounce/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 18:59:24 +0000"
+    "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool \u2014 AAPL, META, SPCX, MSFT, VKTX In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-jumps-to-close-at-record-as-chipmakers-climb-oil-prices-cool-aapl-meta-spcx-msft-vktx-in-focus/cZM5GHbRB7L?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:26:09 +0000"
    }
   ]
  },

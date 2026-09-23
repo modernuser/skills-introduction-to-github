@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-22T04:52:49Z",
- "coverage": 497,
+ "updated": "2026-09-23T01:50:33Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 194.25,
-   "pct": 11.66
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
+   "symbol": "AKAM",
+   "name": "Akamai Technologies",
    "sector": "Information Technology",
-   "close": 1791.8199,
-   "pct": 10.99
+   "close": 117.41,
+   "pct": 12.33
   },
   {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 119.82,
-   "pct": 9.12
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 172.94,
+   "pct": 12.27
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "INTC",
+   "name": "Intel",
    "sector": "Information Technology",
-   "close": 317.36,
-   "pct": 7.22
+   "close": 121.78,
+   "pct": 12.14
   },
   {
-   "symbol": "LRCX",
-   "name": "Lam Research",
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "sector": "Communication Services",
+   "close": 741.25,
+   "pct": 11.34
+  },
+  {
+   "symbol": "WBD",
+   "name": "Warner Bros. Discovery",
+   "sector": "Communication Services",
+   "close": 30.8,
+   "pct": 10.79
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
    "sector": "Information Technology",
-   "close": 288.11,
-   "pct": 6.98
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 858.79,
-   "pct": 6.93
-  },
-  {
-   "symbol": "AMAT",
-   "name": "Applied Materials",
-   "sector": "Information Technology",
-   "close": 444.57,
-   "pct": 6.51
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 371.47,
-   "pct": 5.19
-  },
-  {
-   "symbol": "FIX",
-   "name": "Comfort Systems USA",
-   "sector": "Industrials",
-   "close": 1651.37,
-   "pct": 4.92
-  },
-  {
-   "symbol": "KLAC",
-   "name": "KLA Corporation",
-   "sector": "Information Technology",
-   "close": 176.99,
-   "pct": 4.74
-  }
- ],
- "losers": [
-  {
-   "symbol": "NUE",
-   "name": "Nucor",
-   "sector": "Materials",
-   "close": 248.38,
-   "pct": -6.32
+   "close": 615.52,
+   "pct": 9.95
   },
   {
    "symbol": "QCOM",
    "name": "Qualcomm",
    "sector": "Information Technology",
-   "close": 177.72,
-   "pct": -5.82
+   "close": 194.23,
+   "pct": 9.29
   },
   {
-   "symbol": "ARE",
-   "name": "Alexandria Real Estate Equities",
-   "sector": "Real Estate",
-   "close": 53.3,
-   "pct": -5.4
-  },
-  {
-   "symbol": "GM",
-   "name": "General Motors",
-   "sector": "Consumer Discretionary",
-   "close": 82.2,
-   "pct": -5.1
-  },
-  {
-   "symbol": "ACN",
-   "name": "Accenture",
+   "symbol": "P",
+   "name": "Everpure",
    "sector": "Information Technology",
-   "close": 181.29,
-   "pct": -4.73
+   "close": 113.66,
+   "pct": 9.14
   },
   {
-   "symbol": "NFLX",
-   "name": "Netflix",
-   "sector": "Communication Services",
-   "close": 71.79,
-   "pct": -4.67
-  },
-  {
-   "symbol": "CF",
-   "name": "CF Industries",
-   "sector": "Materials",
-   "close": 127.7,
-   "pct": -4.57
-  },
-  {
-   "symbol": "FISV",
-   "name": "Fiserv",
-   "sector": "Financials",
-   "close": 47.19,
-   "pct": -4.28
+   "symbol": "GDDY",
+   "name": "GoDaddy",
+   "sector": "Information Technology",
+   "close": 104.77,
+   "pct": 7.5
   },
   {
    "symbol": "APP",
    "name": "AppLovin",
    "sector": "Communication Services",
-   "close": 308.06,
-   "pct": -4.21
+   "close": 330.17,
+   "pct": 7.18
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "close": 402.38,
+   "pct": -5.3
   },
   {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "close": 393.27,
+   "pct": -4.84
+  },
+  {
+   "symbol": "UPS",
+   "name": "United Parcel Service",
+   "sector": "Industrials",
+   "close": 94.75,
+   "pct": -4.35
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "close": 32.95,
+   "pct": -4.22
+  },
+  {
+   "symbol": "PSX",
+   "name": "Phillips 66",
+   "sector": "Energy",
+   "close": 261.75,
+   "pct": -4.17
+  },
+  {
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 123.35,
+   "pct": -3.76
+  },
+  {
+   "symbol": "UNP",
+   "name": "Union Pacific Corporation",
+   "sector": "Industrials",
+   "close": 269.63,
+   "pct": -3.49
+  },
+  {
+   "symbol": "CF",
+   "name": "CF Industries",
    "sector": "Materials",
-   "close": 235.26,
-   "pct": -4.11
+   "close": 123.27,
+   "pct": -3.47
+  },
+  {
+   "symbol": "COP",
+   "name": "ConocoPhillips",
+   "sector": "Energy",
+   "close": 127.53,
+   "pct": -3.26
+  },
+  {
+   "symbol": "XOM",
+   "name": "ExxonMobil",
+   "sector": "Energy",
+   "close": 158.3,
+   "pct": -3.2
   }
  ]
 }

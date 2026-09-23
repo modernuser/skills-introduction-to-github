@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-23T04:44:42Z",
+ "updated": "2026-09-23T13:36:28Z",
  "news": {
   "NVDA": [
    {
-    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia\u2019s AI Networking Moat. AMD Could Benefit",
-    "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 04:24:33 +0000"
+    "title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+    "link": "https://247wallst.com/investing/2026/09/23/ionq-surges-11-as-nvidia-research-center-deal-follows-error-decoder-breakthrough-d-wave-climbs-5-rigetti-rises-4/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:19:45 +0000"
    },
    {
-    "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates",
-    "link": "https://www.fool.com/investing/2026/09/23/nvidia-stock-could-surge-by-2028-heres-how-beginne/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 04:20:00 +0000"
+    "title": "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-130500116.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:05:00 +0000"
    },
    {
-    "title": "NVDA Edges Down Overnight After 6-Day Winning Streak \u2014 Director Mark Stevens Sells Another $300M In Stock",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-edges-down-overnight-after-6-day-winning-streak-director-mark-stevens-sells-another-300-m-in-stock/cZME0zYRB7q?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:57:01 +0000"
+    "title": "Supermicro Now Shipping NVIDIA Vera Rubin NVL72 Racks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-nvidia-vera-130500172.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:05:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia\u2019s AI Networking Moat. AMD Could Benefit",
-    "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 04:24:33 +0000"
+    "title": "The AI panic, tech concentration, and Nvidia windfalls",
+    "link": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 10:00:00 +0000"
    },
    {
-    "title": "AMD just hit a milestone that reshuffles the AI chip race",
-    "link": "https://www.thestreet.com/investing/amd-1-trillion-market-cap-ai-chip-race?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 04:17:00 +0000"
+    "title": "AMD Is Up 293% in a Year and Still Climbing. This is Where It\u2019ll Trade in 2027",
+    "link": "https://247wallst.com/investing/2026/09/23/amd-is-up-293-in-a-year-and-still-climbing-this-is-where-itll-trade-in-2027/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:11:31 +0000"
    },
    {
-    "title": "Why Did AAPL, OKTA, AMD Stocks Jump To 52-Week Highs Today?",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-okta-amd-stocks-jump-to-52-week-highs-today/cZMEiVhRB78?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:05:37 +0000"
+    "title": "Pay Attention, Wall Street Is Actively Re-Rating AMD as It Crosses $1 Trillion",
+    "link": "https://247wallst.com/investing/2026/09/23/pay-attention-wall-street-is-actively-re-rating-amd-as-it-crosses-1-trillion/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 12:37:08 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom\u2019s Grip On State-Backed Data Centers",
+    "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-falls-premarket-china-reportedly-audits-broadcom-s-grip-on-state-backed-data-centers/cZME8P2RB7C?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:23:49 +0000"
+   },
    {
     "title": "Broadcom Just Named Its Next AI Customer. It Isn\u2019t Google.",
     "link": "https://www.barchart.com/story/news/4743837/broadcom-just-named-its-next-ai-customer-it-isnt-google?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027",
     "link": "https://247wallst.com/investing/2026/09/22/price-prediction-marvell-amd-broadcom-our-bold-price-predictions-for-2027/?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 16:00:09 +0000"
-   },
-   {
-    "title": "Company News for Sep 22, 2026",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-22-2026-134400361.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 13:44:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC's A14 Gains Customer Traction Ahead of 2028 Volume Production",
+    "link": "https://finance.yahoo.com/technology/articles/tsmcs-a14-gains-customer-traction-124500066.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 12:45:00 +0000"
+   },
    {
     "title": "TSMC Gains as Packaging Moves Closer to Its Suppliers",
     "link": "https://finance.yahoo.com/technology/articles/tsmc-gains-packaging-moves-closer-185026951.html?.tsrc=rss",
@@ -62,19 +67,9 @@
     "title": "Here is What to Know Beyond Why Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is a Trending Stock",
     "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-taiwan-semiconductor-130006890.html?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 13:00:06 +0000"
-   },
-   {
-    "title": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here\u2019s What It Means For the Stock.",
-    "link": "https://www.tikr.com/blog/tsmc-spent-15-59-billion-on-capex-in-a-single-quarter-42-more-than-the-quarter-before-heres-what-it-means-for-the-stock?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 10:22:37 +0000"
    }
   ],
   "INTC": [
-   {
-    "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
-    "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 15:12:17 +0000"
-   },
    {
     "title": "SK Hynix Is Eyeing Intel\u2019s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
     "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html?.tsrc=rss",
@@ -84,40 +79,45 @@
     "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html?.tsrc=rss",
     "pubDate": "Wed, 23 Sep 2026 04:17:10 +0000"
+   },
+   {
+    "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/22/asml-vs-intel-ai-chip-stock-better-buy-2026/?.tsrc=rss",
+    "pubDate": "Tue, 22 Sep 2026 23:55:01 +0000"
    }
   ],
   "MU": [
    {
-    "title": "SK Hynix Is Eyeing Intel\u2019s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-    "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 04:33:16 +0000"
+    "title": "Micron Wall Street Target Hits $2,000 as Traders Pile In Before Earnings",
+    "link": "https://247wallst.com/investing/2026/09/23/micron-wall-street-target-hits-2000-as-traders-pile-in-before-earnings/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:20:24 +0000"
    },
    {
-    "title": "Should You Buy Micron Before Sept. 30? 1 Number Could Send the Stock Soaring",
-    "link": "https://www.fool.com/investing/2026/09/22/should-you-buy-micron-before-sept-30-1-number-could-send-the-stock-soaring/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:50:01 +0000"
+    "title": "Micron vs. Sandisk: Which AI Memory Stock Has More Room to Run?",
+    "link": "https://www.fool.com/investing/2026/09/23/micron-vs-sandisk-which-ai-memory-stock-has-more-r/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:11:00 +0000"
    },
    {
-    "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-    "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:09:51 +0000"
+    "title": "Is It Too Late To Buy Micron Stock After Its Record Memory Run?",
+    "link": "https://www.trefis.com/articles/616321/is-it-too-late-to-buy-micron-stock-after-its-record-memory-run/2026-09-23?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:01:32 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-    "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:09:51 +0000"
+    "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 12:49:01 +0000"
    },
    {
-    "title": "Sandisk (SNDK) Has Signed Away Two Thirds of Next Year\u2019s Output. Can the AI Storage Boom Keep Paying?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-signed-away-two-231834920.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 23:18:34 +0000"
+    "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+    "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures-fall-after.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 12:05:37 +0000"
    },
    {
-    "title": "5-star analyst sets jaw-dropping price target on SanDisk stock",
-    "link": "https://www.thestreet.com/investing/rosenblatt-sandisk-stock-price-target-sndk?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 21:33:00 +0000"
+    "title": "This AI Memory Stock Is Up More Than 650% in 2026. Micron Investors Should Pay Attention",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-stock-more-650-110330434.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 11:03:30 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Mon, 21 Sep 2026 16:16:27 +0000"
    },
    {
-    "title": "KCHP\u2019s 0.65% Fee Is Steep, but Only If You Already Own EWY",
-    "link": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-kchp/?.tsrc=rss",
-    "pubDate": "Fri, 18 Sep 2026 14:40:48 +0000"
+    "title": "\u201cOur Targets Haven\u2019t Changed\u201d: Broadcom\u2019s CEO Pushes Back on the AI Slowdown Scare",
+    "link": "https://finance.yahoo.com/technology/ai/articles/targets-haven-t-changed-broadcom-112507800.html?.tsrc=rss",
+    "pubDate": "Mon, 21 Sep 2026 11:25:07 +0000"
    }
   ],
   "SOXL": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "The hidden tech trap destroying your portfolio",
+    "link": "https://finance.yahoo.com/video/hidden-tech-trap-destroying-portfolio-110000499.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 11:00:00 +0000"
+   },
+   {
+    "title": "The Invesco QQQ Innovation Suite Expands with the Launch of Invesco Nasdaq International Innovators 100 ETF (QQI)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-innovation-suite-expands-130000935.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Rise, US Equities Mixed After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171035923.html?.tsrc=rss",
     "pubDate": "Tue, 22 Sep 2026 17:10:35 +0000"
-   },
-   {
-    "title": "Index Funds Are Being Forced to Buy SpaceX Whether They Want It or Not",
-    "link": "https://247wallst.com/investing/2026/09/22/index-funds-are-being-forced-to-buy-spacex-whether-they-want-it-or-not/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 14:00:15 +0000"
-   },
-   {
-    "title": "Where Will QQQ Be in 20 Years? Here's What the Nasdaq-100's Historical Growth Rate Suggests.",
-    "link": "https://www.fool.com/investing/2026/09/22/where-will-qqq-be-in-20-years-historical-growth/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 11:20:00 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Tue, 22 Sep 2026 22:15:04 +0000"
    },
    {
-    "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/invest-buffett-lessons-oracle-omaha-182900634.html?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 23:34:00 +0000"
+    "title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+    "link": "https://247wallst.com/investing/2026/09/23/ionq-surges-11-as-nvidia-research-center-deal-follows-error-decoder-breakthrough-d-wave-climbs-5-rigetti-rises-4/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 13:19:45 +0000"
    },
    {
-    "title": "The Market Is Near Another All-Time High and You\u2019re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
-    "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
-    "pubDate": "Tue, 22 Sep 2026 22:25:53 +0000"
+    "title": "The \u2018Warsh Volatility Effect\u2019 Means It\u2019s Time to Lock In Profits",
+    "link": "https://finance.yahoo.com/m/fa24ddee-607f-3920-a957-4d616985d42b/the-%E2%80%98warsh-volatility-effect%E2%80%99.html?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 12:58:00 +0000"
    }
   ]
  },

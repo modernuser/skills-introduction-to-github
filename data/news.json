@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T21:40:35Z",
+ "updated": "2026-09-24T23:53:54Z",
  "news": {
   "NVDA": [
    {
@@ -59,14 +59,14 @@
     "pubDate": "Thu, 24 Sep 2026 21:05:04 +0000"
    },
    {
+    "title": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 20:45:06 +0000"
+   },
+   {
     "title": "TSMC Slips 1% as Packaging Moves Toward Supplier Validation",
     "link": "https://finance.yahoo.com/technology/articles/tsmc-slips-1-packaging-moves-173346756.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 17:33:46 +0000"
-   },
-   {
-    "title": "Taiwan Semiconductor (TSM): The Key Enabler of AI Chips and a Durable Long-Term Share Gainer",
-    "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 14:35:57 +0000"
    }
   ],
   "INTC": [
@@ -122,19 +122,19 @@
   ],
   "WDC": [
    {
+    "title": "S&P Global raises Western Digital outlook to positive on surging AI demand",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-raises-western-digital-220840545.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 22:08:40 +0000"
+   },
+   {
+    "title": "Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-formfactor-penguin-solutions-212858821.html?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:28:58 +0000"
+   },
+   {
     "title": "Newegg Business Partners with Western Digital to Help IT Teams Scale Storage for AI-Driven NAS Environments",
     "link": "https://finance.yahoo.com/technology/ai/articles/newegg-business-partners-western-digital-130000247.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 13:00:00 +0000"
-   },
-   {
-    "title": "Micron (MU) vs Western Digital (WDC): Which is a Better Stock to Buy",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-vs-western-digital-194115071.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 19:41:15 +0000"
-   },
-   {
-    "title": "Western Digital (WDC) Could Be 41% Overvalued Ahead Of Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-could-41-032155491.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 03:21:55 +0000"
    }
   ],
   "STX": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
+    "link": "https://247wallst.com/investing/etf/2026/09/24/spys-9-45-basis-points-hides-6450-a-decade-on-100000-versus-cheaper-peers/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 21:51:06 +0000"
+   },
+   {
     "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
     "link": "https://247wallst.com/investing/2026/09/24/solar-stocks-slide-as-high-borrowing-costs-weigh-on-project-financing-first-solar-sinks-8-solaredge-falls-5-enphase-energy-drops-4/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 15:55:16 +0000"
@@ -215,11 +220,6 @@
     "title": "Wells Fargo Says the AI Spending Math Breaks in 2028 and Just Cut Its S&P 500 Target to 7,700",
     "link": "https://247wallst.com/investing/2026/09/24/wells-fargo-says-the-ai-spending-math-breaks-in-2028-and-just-cut-its-sp-500-target-to-7700/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 13:45:23 +0000"
-   },
-   {
-    "title": "Coherent Has Ripped 59% in 2026: Is It Too Late to Buy COHR Stock Now?",
-    "link": "https://247wallst.com/investing/2026/09/24/coherent-has-ripped-59-in-2026-is-it-too-late-to-buy-cohr-stock-now/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 19:07:44 +0000"
    }
   ]
  },

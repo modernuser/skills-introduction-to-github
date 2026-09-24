@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-23T23:45:51Z",
+ "updated": "2026-09-24T01:44:12Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech",
+    "link": "https://www.thestreet.com/investing/ionq-nvidia-quantum-processor-hybrid-computing?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 01:17:00 +0000"
+   },
+   {
+    "title": "AMD Is Up 187% This Year and Nvidia Is Up 22%. Prediction: Nvidia Wins the Next 12 Months.",
+    "link": "https://www.fool.com/investing/2026/09/23/amd-is-up-187-this-year-and-nvidia-is-up-22-prediction-nvidia-wins-the-next-12-months/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 00:18:01 +0000"
+   },
    {
     "title": "Why IonQ (IONQ) Is Up 15.5% After NVIDIA Deal And Real-Time Error Correction Breakthrough",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-15-5-231619206.html?.tsrc=rss",
     "pubDate": "Wed, 23 Sep 2026 23:16:19 +0000"
-   },
-   {
-    "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-today-sept-23-ionq-surges-on-quantum-breakthrough-and-nvidia-partnership/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 21:27:49 +0000"
-   },
-   {
-    "title": "IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.",
-    "link": "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 21:25:00 +0000"
    }
   ],
   "AMD": [
@@ -30,9 +30,9 @@
     "pubDate": "Wed, 23 Sep 2026 19:10:07 +0000"
    },
    {
-    "title": "AMD Just Hit $1 Trillion. Can Oracle\u2019s 50,000-GPU Deployment Help Justify It?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-hit-1-trillion-184727280.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:47:27 +0000"
+    "title": "AMD Becomes the 14th Company to Cross $1 Trillion In Market Cap. What This Means for AMD Stock.",
+    "link": "https://www.barchart.com/story/news/4762742/amd-becomes-the-14th-company-to-cross-1-trillion-in-market-cap-what-this-means-for-amd-stock?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 18:52:09 +0000"
    }
   ],
   "AVGO": [
@@ -115,9 +115,9 @@
     "pubDate": "Wed, 23 Sep 2026 18:33:05 +0000"
    },
    {
-    "title": "Sandisk Falls 3.2% While $2,400 Target Tests AI Storage Faith",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-falls-3-2-while-173123412.html?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 17:31:23 +0000"
+    "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
+    "link": "https://247wallst.com/investing/2026/09/23/sk-hynix-falls-3-despite-wolfe-research-lifting-its-target-to-250-sandisk-drops-3-micron-slides-2/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 18:20:27 +0000"
    }
   ],
   "WDC": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
+    "link": "https://247wallst.com/investing/2026/09/23/sk-hynix-falls-3-despite-wolfe-research-lifting-its-target-to-250-sandisk-drops-3-micron-slides-2/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 18:20:27 +0000"
+   },
+   {
     "title": "Enterprise Software Stocks Rally as Tech Tape Slides: Atlassian Corporation, Monday.com and Salesforce Climb 3%, ServiceNow Nudges Higher",
     "link": "https://247wallst.com/investing/2026/09/23/enterprise-software-stocks-rally-as-tech-tape-slides-atlassian-corporation-monday-com-and-salesforce-climb-3-servicenow-nudges-higher/?.tsrc=rss",
     "pubDate": "Wed, 23 Sep 2026 18:04:16 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds, US Equities Decline After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171556743.html?.tsrc=rss",
     "pubDate": "Wed, 23 Sep 2026 17:15:56 +0000"
-   },
-   {
-    "title": "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
-    "link": "https://www.fool.com/investing/2026/09/23/this-etf-is-up-xx-in-2026-heres-why-it-could-have/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 16:40:00 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Wed, 23 Sep 2026 21:20:49 +0000"
    },
    {
-    "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
-    "link": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 22:27:24 +0000"
+    "title": "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+    "link": "https://247wallst.com/investing/2026/09/23/consumer-lending-stocks-slide-while-financials-barely-budge-upstart-and-affirm-drop-4-sofi-eases/?.tsrc=rss",
+    "pubDate": "Wed, 23 Sep 2026 16:51:14 +0000"
    },
    {
-    "title": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes \u2014 AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-as-yields-spike-amid-calls-for-more-rate-hikes-amzn-googl-nflx-spcx-rklb-in-focus/cZM4IxjRBB9?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 21:23:28 +0000"
+    "title": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
+    "link": "https://247wallst.com/investing/2026/09/23/netflix-is-down-42-in-a-year-and-the-investor-who-exited-in-june-just-bought-back-in/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 00:08:25 +0000"
    }
   ]
  },

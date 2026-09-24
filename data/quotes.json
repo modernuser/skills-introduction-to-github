@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T01:44:10Z",
+ "updated": "2026-09-24T04:47:18Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -836,9 +836,10 @@
  ],
  "errors": [],
  "primary_source_failures": [
-  "NVDA: stooq URLError: <urlopen error timed out>",
-  "AMD: stooq URLError: <urlopen error timed out>",
-  "AVGO: stooq URLError: <urlopen error timed out>"
+  "NVDA: stooq HTML instead of CSV: '<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"></head><body><noscript>This site requires JavaScript to verify y'",
+  "AMD: stooq HTML instead of CSV: '<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"></head><body><noscript>This site requires JavaScript to verify y'",
+  "AVGO: stooq HTML instead of CSV: '<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"></head><body><noscript>This site requires JavaScript to verify y'",
+  "stooq gave 3 empty replies in a row; skipping it for the rest of this run"
  ],
  "fallback_count": 35,
  "ranges_present": 13,

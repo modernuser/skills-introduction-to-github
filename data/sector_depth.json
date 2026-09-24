@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T00:43:53Z",
+ "generated": "2026-09-24T00:35:53Z",
  "method": "annualised stdev of the last 30 daily returns",
  "note": "Volatility measures how violently these prices have already moved, in both directions. Risk measure, not a forecast and not a recommendation.",
  "window_sessions": 30,
@@ -26,10 +26,10 @@
    {
     "symbol": "META",
     "name": "Meta Platforms",
-    "vol_30d": 46.9,
+    "vol_30d": 47.07,
     "sessions": 30,
-    "last_close": 741.25,
-    "as_of": "2026-09-21"
+    "last_close": 736.6,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "APP",
@@ -40,20 +40,20 @@
     "as_of": "2026-09-21"
    },
    {
-    "symbol": "NFLX",
-    "name": "Netflix",
-    "vol_30d": 39.82,
-    "sessions": 30,
-    "last_close": 73.36,
-    "as_of": "2026-09-21"
-   },
-   {
     "symbol": "PSKY",
     "name": "Paramount Skydance Corporation",
-    "vol_30d": 39.12,
+    "vol_30d": 39.41,
     "sessions": 30,
-    "last_close": 9.91,
-    "as_of": "2026-09-21"
+    "last_close": 10.11,
+    "as_of": "2026-09-22"
+   },
+   {
+    "symbol": "NFLX",
+    "name": "Netflix",
+    "vol_30d": 39.11,
+    "sessions": 30,
+    "last_close": 72.16,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "TKO",
@@ -92,10 +92,10 @@
    {
     "symbol": "LULU",
     "name": "Lululemon Athletica",
-    "vol_30d": 64.35,
+    "vol_30d": 64.98,
     "sessions": 30,
-    "last_close": 101.3,
-    "as_of": "2026-09-21"
+    "last_close": 103.73,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "CVNA",
@@ -116,10 +116,10 @@
    {
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
-    "vol_30d": 44.4,
+    "vol_30d": 44.42,
     "sessions": 30,
-    "last_close": 375.3,
-    "as_of": "2026-09-21"
+    "last_close": 378.9,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "EXPE",
@@ -148,10 +148,10 @@
    {
     "symbol": "CMG",
     "name": "Chipotle Mexican Grill",
-    "vol_30d": 36.12,
+    "vol_30d": 35.92,
     "sessions": 30,
-    "last_close": 33.14,
-    "as_of": "2026-09-21"
+    "last_close": 32.63,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "DPZ",
@@ -222,10 +222,10 @@
    {
     "symbol": "WMT",
     "name": "Walmart",
-    "vol_30d": 32.65,
+    "vol_30d": 33.44,
     "sessions": 30,
-    "last_close": 107.44,
-    "as_of": "2026-09-21"
+    "last_close": 110.12,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "TGT",
@@ -338,26 +338,26 @@
    {
     "symbol": "COIN",
     "name": "Coinbase",
-    "vol_30d": 89.67,
+    "vol_30d": 88.82,
     "sessions": 30,
-    "last_close": 201.05,
-    "as_of": "2026-09-21"
+    "last_close": 201.07,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "HOOD",
     "name": "Robinhood Markets",
     "vol_30d": 85.2,
     "sessions": 30,
-    "last_close": 123.3,
-    "as_of": "2026-09-21"
+    "last_close": 124.25,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "PYPL",
     "name": "PayPal",
-    "vol_30d": 46.85,
+    "vol_30d": 46.91,
     "sessions": 30,
-    "last_close": 52.62,
-    "as_of": "2026-09-21"
+    "last_close": 52.89,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "FDS",
@@ -386,10 +386,10 @@
    {
     "symbol": "KKR",
     "name": "KKR & Co.",
-    "vol_30d": 38.81,
+    "vol_30d": 39.26,
     "sessions": 30,
-    "last_close": 100.83,
-    "as_of": "2026-09-21"
+    "last_close": 98.44,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "JKHY",
@@ -420,10 +420,10 @@
    {
     "symbol": "MRNA",
     "name": "Moderna",
-    "vol_30d": 523.09,
+    "vol_30d": 522.86,
     "sessions": 30,
-    "last_close": 172.94,
-    "as_of": "2026-09-21"
+    "last_close": 182.56,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "VEEV",
@@ -502,10 +502,10 @@
    {
     "symbol": "BE",
     "name": "Bloom Energy",
-    "vol_30d": 79.99,
+    "vol_30d": 78.67,
     "sessions": 30,
-    "last_close": 272.89,
-    "as_of": "2026-09-21"
+    "last_close": 276.53,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "GNRC",
@@ -582,20 +582,12 @@
   ],
   "Information Technology": [
    {
-    "symbol": "COHR",
-    "name": "Coherent Corp.",
-    "vol_30d": 96.72,
-    "sessions": 30,
-    "last_close": 321.52,
-    "as_of": "2026-09-21"
-   },
-   {
     "symbol": "LITE",
     "name": "Lumentum",
-    "vol_30d": 96.53,
+    "vol_30d": 92.78,
     "sessions": 30,
-    "last_close": 954.49,
-    "as_of": "2026-09-21"
+    "last_close": 945.67,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "CRWD",
@@ -606,28 +598,36 @@
     "as_of": "2026-09-21"
    },
    {
-    "symbol": "SMCI",
-    "name": "Supermicro",
-    "vol_30d": 86.29,
+    "symbol": "COHR",
+    "name": "Coherent Corp.",
+    "vol_30d": 87.93,
     "sessions": 30,
-    "last_close": 41.2,
-    "as_of": "2026-09-21"
+    "last_close": 310.39,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "SNDK",
     "name": "Sandisk",
-    "vol_30d": 85.7,
+    "vol_30d": 87.11,
     "sessions": 30,
-    "last_close": 1766.64,
-    "as_of": "2026-09-21"
+    "last_close": 1887.04,
+    "as_of": "2026-09-22"
+   },
+   {
+    "symbol": "SMCI",
+    "name": "Supermicro",
+    "vol_30d": 86.3,
+    "sessions": 30,
+    "last_close": 41.54,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "DELL",
     "name": "Dell Technologies",
-    "vol_30d": 82.07,
+    "vol_30d": 83.6,
     "sessions": 30,
-    "last_close": 575.31,
-    "as_of": "2026-09-21"
+    "last_close": 548.92,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "CIEN",
@@ -648,10 +648,10 @@
    {
     "symbol": "HPE",
     "name": "Hewlett Packard Enterprise",
-    "vol_30d": 75.64,
+    "vol_30d": 75.53,
     "sessions": 30,
-    "last_close": 61.75,
-    "as_of": "2026-09-21"
+    "last_close": 61.03,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "CRM",
@@ -838,10 +838,10 @@
    {
     "symbol": "PCG",
     "name": "PG&E Corporation",
-    "vol_30d": 73.64,
+    "vol_30d": 73.51,
     "sessions": 30,
-    "last_close": 12.94,
-    "as_of": "2026-09-21"
+    "last_close": 12.88,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "NRG",
@@ -862,10 +862,10 @@
    {
     "symbol": "VST",
     "name": "Vistra Corp.",
-    "vol_30d": 32.78,
+    "vol_30d": 32.43,
     "sessions": 30,
-    "last_close": 140.78,
-    "as_of": "2026-09-21"
+    "last_close": 140.41,
+    "as_of": "2026-09-22"
    },
    {
     "symbol": "SRE",

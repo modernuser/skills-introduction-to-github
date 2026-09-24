@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T00:43:53Z",
+ "generated": "2026-09-24T00:35:53Z",
  "method": "OLS of log(close) on session index over 90 sessions; ranked by annualized slope x r2",
  "note": "r2 measures how straight the PAST price path was, not the probability of anything. It is a goodness-of-fit statistic, not a forecast and not advice. Whether straight past trends continue is what the dartboard experiment tests, against a random control.",
  "window_sessions": 90,
@@ -103,10 +103,10 @@
   {
    "symbol": "MRNA",
    "name": "Moderna",
-   "last_close": 172.94,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 3178.53,
-   "r2": 0.6838,
+   "last_close": 182.56,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 3522.75,
+   "r2": 0.6954,
    "sessions": 90
   },
   {
@@ -184,10 +184,10 @@
   {
    "symbol": "DELL",
    "name": "Dell Technologies",
-   "last_close": 575.31,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 380.96,
-   "r2": 0.64,
+   "last_close": 548.92,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 357.26,
+   "r2": 0.6374,
    "sessions": 90
   },
   {
@@ -308,15 +308,6 @@
    "sessions": 90
   },
   {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "last_close": 61.75,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 222.37,
-   "r2": 0.6121,
-   "sessions": 90
-  },
-  {
    "symbol": "CRWD",
    "name": "CrowdStrike",
    "last_close": 249.35,
@@ -341,6 +332,15 @@
    "as_of": "2026-09-21",
    "slope_annual_pct": 146.41,
    "r2": 0.8838,
+   "sessions": 90
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "last_close": 61.03,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 211.56,
+   "r2": 0.6105,
    "sessions": 90
   },
   {
@@ -425,15 +425,6 @@
    "sessions": 90
   },
   {
-   "symbol": "PYPL",
-   "name": "PayPal",
-   "last_close": 52.62,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 188.73,
-   "r2": 0.6077,
-   "sessions": 90
-  },
-  {
    "symbol": "J",
    "name": "Jacobs Solutions",
    "last_close": 143.76,
@@ -449,6 +440,15 @@
    "as_of": "2026-09-21",
    "slope_annual_pct": 133.08,
    "r2": 0.8495,
+   "sessions": 90
+  },
+  {
+   "symbol": "PYPL",
+   "name": "PayPal",
+   "last_close": 52.89,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 185.51,
+   "r2": 0.5981,
    "sessions": 90
   },
   {
@@ -488,15 +488,6 @@
    "sessions": 90
   },
   {
-   "symbol": "NOW",
-   "name": "ServiceNow",
-   "last_close": 137.68,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 170.52,
-   "r2": 0.57,
-   "sessions": 90
-  },
-  {
    "symbol": "AMP",
    "name": "Ameriprise Financial",
    "last_close": 535.72,
@@ -512,6 +503,15 @@
    "as_of": "2026-09-21",
    "slope_annual_pct": 139.04,
    "r2": 0.6875,
+   "sessions": 90
+  },
+  {
+   "symbol": "NOW",
+   "name": "ServiceNow",
+   "last_close": 137.0,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 166.04,
+   "r2": 0.5648,
    "sessions": 90
   },
   {
@@ -533,12 +533,12 @@
    "sessions": 90
   },
   {
-   "symbol": "SCHW",
-   "name": "Charles Schwab Corporation",
-   "last_close": 106.88,
-   "as_of": "2026-09-21",
-   "slope_annual_pct": 111.6,
-   "r2": 0.8167,
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
+   "last_close": 184.99,
+   "as_of": "2026-09-22",
+   "slope_annual_pct": 185.54,
+   "r2": 0.4922,
    "sessions": 90
   },
   {

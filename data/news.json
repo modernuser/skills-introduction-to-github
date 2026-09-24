@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T17:57:13Z",
+ "updated": "2026-09-24T18:23:39Z",
  "news": {
   "NVDA": [
    {
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Michael Burry keeps pointing at unloved stocks for a reason",
+    "link": "https://www.thestreet.com/investing/stocks/michael-burry-unloved-stocks-short-bets?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 18:03:00 +0000"
+   },
+   {
     "title": "Micron Stock Gets a Big Wall Street Boost Ahead of Earnings",
     "link": "https://www.fool.com/investing/2026/09/24/micron-stock-gets-a-big-wall-street-boost-ahead-of-earnings/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 16:35:41 +0000"
@@ -96,14 +101,14 @@
     "title": "Citi doubles down on Micron stock ahead of earnings",
     "link": "https://www.thestreet.com/investing/stocks/citi-doubles-down-on-micron-stock-ahead-of-earnings?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 16:03:00 +0000"
-   },
-   {
-    "title": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
-    "link": "https://stocktwits.com/news-articles/markets/equity/micron-smci-hpe-face-itc-investigation-over-netlist-patent-infringement/cZMJ3VCRB9l?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 15:30:20 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Will Sandisk or Micron Perform a Stock Split Next Year?",
+    "link": "https://www.fool.com/investing/2026/09/24/will-sandisk-or-micron-perform-a-stock-split-next/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 18:09:00 +0000"
+   },
    {
     "title": "Sandisk vs. NVIDIA: Which AI Stock Is the Better Buy Now?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-vs-nvidia-ai-stock-190000893.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "A $2,400 Price Target on SanDisk Just Lit a Fire Under Every Memory Stock",
     "link": "https://247wallst.com/investing/2026/09/23/a-2400-price-target-on-sandisk-just-lit-a-fire-under-every-memory-stock/?.tsrc=rss",
     "pubDate": "Wed, 23 Sep 2026 18:33:05 +0000"
-   },
-   {
-    "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
-    "link": "https://247wallst.com/investing/2026/09/23/sk-hynix-falls-3-despite-wolfe-research-lifting-its-target-to-250-sandisk-drops-3-micron-slides-2/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 18:20:27 +0000"
    }
   ],
   "WDC": [
@@ -166,9 +166,9 @@
     "pubDate": "Mon, 21 Sep 2026 16:16:27 +0000"
    },
    {
-    "title": "Palantir Gains 2%, Nebius Pulls Back, Micron Barely Budges as Michael Burry Adds to Shorts in All Three",
-    "link": "https://247wallst.com/investing/2026/09/23/palantir-gains-2-nebius-pulls-back-micron-barely-budges-as-michael-burry-adds-to-shorts-in-all-three/?.tsrc=rss",
-    "pubDate": "Wed, 23 Sep 2026 14:12:27 +0000"
+    "title": "Michael Burry keeps pointing at unloved stocks for a reason",
+    "link": "https://www.thestreet.com/investing/stocks/michael-burry-unloved-stocks-short-bets?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 18:03:00 +0000"
    }
   ],
   "SOXL": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Critical Metals Jumps 9% While the Rare Earth Group Stalls; MP Materials Ticks Up, USA Rare Earth Eases",
+    "link": "https://247wallst.com/investing/2026/09/24/critical-metals-jumps-9-while-the-rare-earth-group-stalls-mp-materials-ticks-up-usa-rare-earth-eases/?.tsrc=rss",
+    "pubDate": "Thu, 24 Sep 2026 18:10:16 +0000"
+   },
+   {
     "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
     "link": "https://247wallst.com/investing/2026/09/24/solar-stocks-slide-as-high-borrowing-costs-weigh-on-project-financing-first-solar-sinks-8-solaredge-falls-5-enphase-energy-drops-4/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 15:55:16 +0000"
@@ -215,11 +220,6 @@
     "title": "Wells Fargo Says the AI Spending Math Breaks in 2028 and Just Cut Its S&P 500 Target to 7,700",
     "link": "https://247wallst.com/investing/2026/09/24/wells-fargo-says-the-ai-spending-math-breaks-in-2028-and-just-cut-its-sp-500-target-to-7700/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 13:45:23 +0000"
-   },
-   {
-    "title": "NEAR Crypto Tokenized Stock Launch Puts Distribution Ahead of Scale",
-    "link": "https://cryptonews.com/news/tokenized-stocks-near-crypto-ondo-finance/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 13:07:17 +0000"
    }
   ]
  },

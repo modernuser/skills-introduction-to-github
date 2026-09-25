@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-24T23:53:54Z",
+ "updated": "2026-09-25T04:55:23Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why Semiconductor Investors Are Rotating From SMH\u2019s Nvidia Concentration to PSI\u2019s Equal-Weight Approach",
-    "link": "https://247wallst.com/investing/etf/2026/09/24/why-semiconductor-investors-are-rotating-from-smhs-nvidia-concentration-to-psis-equal-weight-approach/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:01:24 +0000"
+    "title": "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-prem-quantum-system-nvidia-002115947.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 00:21:15 +0000"
    },
    {
-    "title": "Darden Restaurants, Inc. Q1 2027 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-darden-restaurants-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 20:51:00 +0000"
+    "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-ai-stock-035909345.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:59:09 +0000"
    },
    {
-    "title": "TD SYNNEX Corporation Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-td-synnex-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 20:50:45 +0000"
+    "title": "CrowdStrike vs. Palo Alto: Which AI Cybersecurity Stock Better Justifies Its Valuation?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-palo-alto-ai-035413965.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:54:13 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-ai-stock-035909345.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:59:09 +0000"
+   },
+   {
+    "title": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-intc-stocks-extend-rally-as-meta-s-muse-fuels-bets-on-an-ai-agent-cpu-boom/cZMaHl9RBaJ?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:30:05 +0000"
+   },
+   {
     "title": "AMD Investors Must Pay Attention to This Huge Warning Sign",
     "link": "https://www.fool.com/investing/2026/09/24/amd-investors-must-pay-attention-to-this-warning/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 20:03:00 +0000"
-   },
-   {
-    "title": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
-    "link": "https://beincrypto.com/taiwan-chip-exports-amd-micron-stock-price-impact/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 20:01:38 +0000"
-   },
-   {
-    "title": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
-    "link": "https://finance.yahoo.com/m/b8eae4aa-f7ed-33bb-9966-deffb558b2ed/nvidia%2C-amd-love-this.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 20:00:08 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom vs. Marvell: Which Custom AI Chip Stock Has the Better Risk-Reward?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-marvell-custom-ai-042642158.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 04:26:42 +0000"
+   },
    {
     "title": "Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-may-24-211644898.html?.tsrc=rss",
@@ -45,31 +50,31 @@
     "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
     "link": "https://www.fool.com/investing/2026/09/24/broadcoms-latest-prediction-makes-the-stock-a-no-b/?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 20:43:00 +0000"
-   },
-   {
-    "title": "Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-2-230-billion-192033958.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 19:20:33 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+    "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:07:06 +0000"
+   },
+   {
+    "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Raising Wafer Prices By 3% To 6%?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-taiwan-semiconductor-manufacturing-tsm-001759290.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 00:17:59 +0000"
+   },
+   {
     "title": "Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates?",
     "link": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-tsm-stock-better-210504814.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 21:05:04 +0000"
-   },
-   {
-    "title": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 20:45:06 +0000"
-   },
-   {
-    "title": "TSMC Slips 1% as Packaging Moves Toward Supplier Validation",
-    "link": "https://finance.yahoo.com/technology/articles/tsmc-slips-1-packaging-moves-173346756.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 17:33:46 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-intc-stocks-extend-rally-as-meta-s-muse-fuels-bets-on-an-ai-agent-cpu-boom/cZMaHl9RBaJ?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:30:05 +0000"
+   },
    {
     "title": "Trump Stance on AI an 'Extremely Naive Position,' Says Sen. Michael Bennet",
     "link": "https://finance.yahoo.com/video/trump-stance-ai-extremely-naive-182709965.html?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-shares-rise-agentic-ai-173452687.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 17:34:52 +0000"
-   },
-   {
-    "title": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
-    "link": "https://247wallst.com/investing/2026/09/24/intel-drops-3-as-profit-taking-follows-223-ytd-run-amd-falls-3-nvidia-slips/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 13:29:19 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Forget Betting on Micron Alone: The $26B Memory ETF Owns MU, SK Hynix, and Samsung at a September Discount",
-    "link": "https://247wallst.com/investing/etf/2026/09/24/forget-betting-on-micron-alone-the-26b-memory-etf-owns-mu-sk-hynix-and-samsung-at-a-september-discount/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:31:56 +0000"
+    "title": "Is Micron Stock Going to $1,625? 1 Wall Street Analyst Think So.",
+    "link": "https://www.fool.com/investing/2026/09/24/is-micron-stock-going-to-usd1-625-1-wall-street-analyst-think-so/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:50:01 +0000"
    },
    {
-    "title": "3 Reasons Why Micron and Sandisk Investors Can Ignore What History Says Will Happen",
-    "link": "https://www.fool.com/investing/2026/09/24/3-reasons-micron-and-sandisk-can-ignore-history/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:27:00 +0000"
+    "title": "Bank of America doubles down on Micron stock before earnings",
+    "link": "https://www.thestreet.com/investing/bank-of-america-reiterates-buy-micron-stock-earnings?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 03:07:00 +0000"
    },
    {
-    "title": "5-star analyst resets Micron stock price target by 8%",
-    "link": "https://www.thestreet.com/investing/stocks/mu-micron-stock-price-target-before-q4-earnings-wells-fargo?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:17:00 +0000"
+    "title": "Is Micron (MU) Quietly Recasting Its AI Memory Strategy With New Leadership and 512GB DDR5?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/micron-mu-quietly-recasting-ai-021239442.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 02:12:39 +0000"
    }
   ],
   "SNDK": [
@@ -217,9 +217,9 @@
     "pubDate": "Thu, 24 Sep 2026 15:55:16 +0000"
    },
    {
-    "title": "Wells Fargo Says the AI Spending Math Breaks in 2028 and Just Cut Its S&P 500 Target to 7,700",
-    "link": "https://247wallst.com/investing/2026/09/24/wells-fargo-says-the-ai-spending-math-breaks-in-2028-and-just-cut-its-sp-500-target-to-7700/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 13:45:23 +0000"
+    "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike \u2014 ORCL, META, AKAM, GOOGL, MGM In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-ease-as-us-treasury-yields-spike/cZMapaERBac?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 00:12:54 +0000"
    }
   ]
  },

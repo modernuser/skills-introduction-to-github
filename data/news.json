@@ -1,41 +1,46 @@
 {
- "updated": "2026-09-25T13:43:06Z",
+ "updated": "2026-09-25T18:31:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "Elon Musk Makes Massive Nvidia Move at SpaceX",
-    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-makes-massive-nvidia-130112892.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:01:12 +0000"
+    "title": "Where Will Nvidia Be in 5 Years?",
+    "link": "https://www.fool.com/investing/2026/09/25/where-will-nvidia-be-in-5-years/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:20:00 +0000"
    },
    {
-    "title": "MeetKai Takes Sovereign AI built on NVIDIA to Six Countries",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meetkai-takes-sovereign-ai-built-130000843.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:00:00 +0000"
+    "title": "Micron Q1 2026 earnings: Nvidia chip launch benefit may be delayed",
+    "link": "https://qz.com/micron-nvidia-chip-launch-november-quarter-092526?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:10:54 +0000"
    },
    {
-    "title": "NSCALE RAISES $3.36B IN PRE-IPO CONVERTIBLE FINANCING",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nscale-raises-3-36b-pre-130000161.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:00:00 +0000"
+    "title": "Nvidia Stock Moves Lower as Einride Scales Physical AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-moves-lower-einride-170112548.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:01:12 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/09/25/advanced-micro-devices-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:03:01 +0000"
+    "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
+    "link": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:32:58 +0000"
    },
    {
-    "title": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
-    "link": "https://247wallst.com/investing/2026/09/25/189-the-year-to-date-number-that-pushed-amd-into-the-trillion-dollar-club/?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:00:27 +0000"
+    "title": "AMD CEO Lisa Su is having a September to remember",
+    "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 13:59:02 +0000"
    },
    {
-    "title": "AMD Stock Gets A Price Target Hike With Anthropic-Akamai Deal Strengthening CPU Case In Agentic AI, BofA Says",
-    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-eyes-fresh-record-high-anthropic-akamai-deal-boosts-cpu-demand/cZMO7f8RBax?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 12:44:17 +0000"
+    "title": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+    "link": "https://finance.yahoo.com/markets/article/tech-stocks-gain-after-tech-titan-dinner-with-trump-and-chinas-xi-jinping-alphacheck-135107178.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 13:51:07 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Jim Cramer Couldn\u2019t Believe People Didn\u2019t Take Broadcom Inc. (AVGO)\u2019s CEO Seriously",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-couldn-t-believe-100230015.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 10:02:30 +0000"
+   },
    {
     "title": "Broadcom And 2 Other High Growth Stocks To Own",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-high-growth-071202759.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Broadcom vs. Marvell: Which Custom AI Chip Stock Has the Better Risk-Reward?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-marvell-custom-ai-042642158.html?.tsrc=rss",
     "pubDate": "Fri, 25 Sep 2026 04:26:42 +0000"
-   },
-   {
-    "title": "Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-may-24-211644898.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:16:44 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC Stocks Rise as Packaging Moves Closer to Suppliers",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-rise-packaging-moves-155700706.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:57:00 +0000"
+   },
    {
     "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/09/25/advanced-micro-devices-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
@@ -62,62 +67,57 @@
     "title": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
     "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures-signal.html?.tsrc=rss",
     "pubDate": "Fri, 25 Sep 2026 12:04:53 +0000"
-   },
-   {
-    "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Raising Wafer Prices By 3% To 6%?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-taiwan-semiconductor-manufacturing-tsm-001759290.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 00:17:59 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-    "link": "https://247wallst.com/investing/2026/09/25/arm-climbs-5-as-buyers-return-after-sharp-pullback-qualcomm-nudges-higher-intel-sits-out-the-rally/?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:05:37 +0000"
+    "title": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
+    "link": "https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:25:05 +0000"
    },
    {
-    "title": "What Is The Case For Waiting On Intel Stock?",
-    "link": "https://www.trefis.com/articles/616652/what-is-the-case-for-waiting-on-intel-stock/2026-09-25?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:02:01 +0000"
+    "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
+    "link": "https://finance.yahoo.com/video/qualcomms-cmo-reveals-secret-behind-140705053.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 14:07:05 +0000"
    },
    {
-    "title": "Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-trending-stock-120007791.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 12:00:07 +0000"
+    "title": "Why Intel Stock Jumped This Week",
+    "link": "https://www.fool.com/investing/2026/09/25/why-intel-stock-jumped-this-week/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 18:20:09 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:13:00 +0000"
+    "title": "Micron Headlines Earnings Calendar; Jabil, Nike Also On Deck",
+    "link": "https://finance.yahoo.com/m/01f17e8c-fc4a-3fb4-8365-ca3d96dcac7b/micron-headlines-earnings.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 18:11:31 +0000"
    },
    {
-    "title": "Countdown to Micron (MU) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/countdown-micron-mu-q4-earnings-121513849.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 12:15:13 +0000"
+    "title": "Micron Stock Gets Another Vote of Confidence From Top Analyst",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-gets-another-vote-175256602.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:52:56 +0000"
    },
    {
-    "title": "Micron Likely to Beat Q4 Earnings Estimates: How to Play MU Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-likely-beat-q4-earnings-112000154.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 11:20:00 +0000"
+    "title": "Micron Q1 2026 earnings: Nvidia chip launch benefit may be delayed",
+    "link": "https://qz.com/micron-nvidia-chip-launch-november-quarter-092526?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:10:54 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:13:00 +0000"
+    "title": "Are AI Memory Stocks Ready For Another Run? Micron, Sandisk Attempt To Clear New Buy Points",
+    "link": "https://finance.yahoo.com/m/e43f3c5d-0499-3bfb-bf29-5f9e5ef34889/are-ai-memory-stocks-ready.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:57:44 +0000"
+   },
+   {
+    "title": "Prediction: This Is What a $500 Investment in Sandisk Will Be Worth in 2030",
+    "link": "https://www.fool.com/investing/2026/09/25/prediction-this-is-what-a-usd500-investment-in-sandisk-will-be-worth-in-2030/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 14:03:01 +0000"
    },
    {
     "title": "Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-ai-memory-203109541.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 20:31:09 +0000"
-   },
-   {
-    "title": "Sandisk (SNDK) Stock May Still Look Reasonable After AI Slowdown Fears",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-may-still-181345435.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 18:13:45 +0000"
    }
   ],
   "WDC": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Rise US Equities Advance After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-172055719.html?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:20:55 +0000"
+   },
+   {
+    "title": "VGT vs. QQQ: Where Should You Invest $1,000 Right Now for Maximum Long-Term Growth?",
+    "link": "https://www.fool.com/investing/2026/09/25/vgt-vs-qqq-where-should-you-invest-1000-right-now/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:05:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Mixed, US Equities Decline After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-us-171353361.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 17:13:53 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Friday as Treasury Yields Rise, Oil Prices Fall",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132448177.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:24:48 +0000"
-   },
-   {
-    "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/225d690f-7913-3ffb-a43f-d4610f997f55/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 13:13:00 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Fri, 25 Sep 2026 09:20:02 +0000"
    },
    {
-    "title": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
-    "link": "https://247wallst.com/investing/etf/2026/09/24/spys-9-45-basis-points-hides-6450-a-decade-on-100000-versus-cheaper-peers/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 21:51:06 +0000"
+    "title": "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
+    "link": "https://247wallst.com/investing/2026/09/25/dell-rises-7-as-morgan-stanley-lifts-odds-on-756-bull-case-hewlett-packard-enterprise-edges-higher/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 17:51:27 +0000"
    },
    {
-    "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
-    "link": "https://247wallst.com/investing/2026/09/24/solar-stocks-slide-as-high-borrowing-costs-weigh-on-project-financing-first-solar-sinks-8-solaredge-falls-5-enphase-energy-drops-4/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 15:55:16 +0000"
+    "title": "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
+    "link": "https://247wallst.com/investing/2026/09/25/micron-at-1080-the-street-loves-what-it-sees-underneath-the-headlines/?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 14:41:08 +0000"
    }
   ]
  },

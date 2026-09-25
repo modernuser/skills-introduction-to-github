@@ -1,14 +1,14 @@
 {
- "generated": "2026-09-24T23:54:03Z",
+ "generated": "2026-09-25T00:38:35Z",
  "market": {
-  "session": "after",
-  "label": "After hours",
-  "now_et": "2026-09-24 19:54 EDT",
-  "next": "after-hours end",
-  "next_at_et": "2026-09-24 20:00 EDT",
-  "minutes_to_next": 5,
+  "session": "closed",
+  "label": "Closed",
+  "now_et": "2026-09-24 20:38 EDT",
+  "next": "pre-market open",
+  "next_at_et": "2026-09-25 04:00 EDT",
+  "minutes_to_next": 441,
   "last_close_et": "2026-09-24 16:00 EDT",
-  "max_expected_age_hours": 8
+  "max_expected_age_hours": 100
  },
  "duration_ms": 5,
  "source_errors": [],
@@ -22,7 +22,7 @@
    "present": true,
    "updated": "2026-09-24T23:53:52Z",
    "records": 35,
-   "newest_record_age_days": 0,
+   "newest_record_age_days": 1,
    "sessions_behind_last_close": 0,
    "status": "ok"
   },
@@ -59,19 +59,19 @@
   "sector_depth": {
    "present": true,
    "status": "ok",
-   "updated": "2026-09-24T00:35:53Z",
+   "updated": "2026-09-25T00:38:18Z",
    "records": 110
   },
   "factor_lab": {
    "present": true,
    "status": "ok",
-   "updated": "2026-09-24T00:36:15Z",
+   "updated": "2026-09-25T00:38:35Z",
    "records": 0
   },
   "trend_quality": {
    "present": true,
    "status": "ok",
-   "updated": "2026-09-24T00:35:53Z",
+   "updated": "2026-09-25T00:38:18Z",
    "records": 0
   },
   "kpi_panel": {

@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-25T23:57:45Z",
+ "updated": "2026-09-26T04:55:41Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Would Have to Add Almost a Whole Broadcom to Reach $7 Trillion",
-    "link": "https://www.fool.com/investing/2026/09/25/nvidia-would-have-to-add-almost-a-whole-broadcom-to-reach-usd7-trillion/?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 23:44:01 +0000"
+    "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-vs-broadcom-avgo-045101419.html?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 04:51:01 +0000"
    },
    {
-    "title": "This Stock May Be the Best Artificial Intelligence (AI) and Quantum Computing Investment",
-    "link": "https://www.fool.com/investing/2026/09/25/this-stock-may-be-the-best-artificial-intelligence/?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 21:55:00 +0000"
+    "title": "Fidelity\u2019s Fundamental Large Cap Growth ETF, Explained in Plain English",
+    "link": "https://247wallst.com/investing/etf/2026/09/25/fidelitys-fundamental-large-cap-growth-etf-explained-in-plain-english/?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 03:46:50 +0000"
    },
    {
-    "title": "Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-ionqs-nvidia-quantum-tie-210735580.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 21:07:35 +0000"
+    "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
+    "link": "https://www.fool.com/investing/2026/09/25/if-i-could-only-add-1-etf-to-my-portfolio-this-yea/?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 01:35:00 +0000"
    }
   ],
   "AMD": [
@@ -30,12 +30,17 @@
     "pubDate": "Fri, 25 Sep 2026 15:32:58 +0000"
    },
    {
-    "title": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 20:39:00 +0000"
+    "title": "Bank of America Just Upped Its Price Target on AMD Stock",
+    "link": "https://www.barchart.com/story/news/4808077/bank-of-america-just-upped-its-price-target-on-amd-stock?.tsrc=rss",
+    "pubDate": "Fri, 25 Sep 2026 20:56:19 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-vs-broadcom-avgo-045101419.html?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 04:51:01 +0000"
+   },
    {
     "title": "Nvidia Would Have to Add Almost a Whole Broadcom to Reach $7 Trillion",
     "link": "https://www.fool.com/investing/2026/09/25/nvidia-would-have-to-add-almost-a-whole-broadcom-to-reach-usd7-trillion/?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Jim Cramer Couldn\u2019t Believe People Didn\u2019t Take Broadcom Inc. (AVGO)\u2019s CEO Seriously",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-couldn-t-believe-100230015.html?.tsrc=rss",
     "pubDate": "Fri, 25 Sep 2026 10:02:30 +0000"
-   },
-   {
-    "title": "Broadcom And 2 Other High Growth Stocks To Own",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-high-growth-071202759.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 07:12:02 +0000"
    }
   ],
   "TSM": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "S&P Outlook Shift And AI Storage Push Could Be A Game Changer For Western Digital (WDC)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/p-outlook-shift-ai-storage-031758697.html?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 03:17:58 +0000"
+   },
+   {
     "title": "S&P Global raises Western Digital outlook to positive on surging AI demand",
     "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-raises-western-digital-220840545.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 22:08:40 +0000"
@@ -130,11 +135,6 @@
     "title": "Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-formfactor-penguin-solutions-212858821.html?.tsrc=rss",
     "pubDate": "Thu, 24 Sep 2026 21:28:58 +0000"
-   },
-   {
-    "title": "Newegg Business Partners with Western Digital to Help IT Teams Scale Storage for AI-Driven NAS Environments",
-    "link": "https://finance.yahoo.com/technology/ai/articles/newegg-business-partners-western-digital-130000247.html?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 13:00:00 +0000"
    }
   ],
   "STX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
+    "link": "https://www.fool.com/investing/2026/09/25/if-i-could-only-add-1-etf-to-my-portfolio-this-yea/?.tsrc=rss",
+    "pubDate": "Sat, 26 Sep 2026 01:35:00 +0000"
+   },
+   {
     "title": "You\u2019re 45, Make $150K, and Have Never Opened a Brokerage Account. These 3 ETFs Are the First Deposit",
     "link": "https://247wallst.com/investing/etf/2026/09/25/youre-45-make-150k-and-have-never-opened-a-brokerage-account-these-3-etfs-are-the-first-deposit/?.tsrc=rss",
     "pubDate": "Fri, 25 Sep 2026 21:45:10 +0000"
@@ -198,11 +203,6 @@
     "title": "The Case For and Against Fidelity\u2019s Fundamental Large Cap Growth ETF",
     "link": "https://247wallst.com/investing/etf/2026/09/25/the-case-for-and-against-fidelitys-fundamental-large-cap-growth-etf/?.tsrc=rss",
     "pubDate": "Fri, 25 Sep 2026 19:45:26 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Rise US Equities Advance After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-172055719.html?.tsrc=rss",
-    "pubDate": "Fri, 25 Sep 2026 17:20:55 +0000"
    }
   ],
   "SPY": [

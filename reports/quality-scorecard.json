@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-26T14:59:00Z",
+ "generated": "2026-09-27T15:40:38Z",
  "tests": {
   "passed": 226,
   "failed": 0,
   "ok": true,
-  "summary": "226 passed in 17.22s"
+  "summary": "226 passed in 18.36s"
  },
  "broken_internal_links": [],
  "secret_scan": {
@@ -37,5 +37,5 @@
   "high": 0,
   "note": "per docs/engineering-audit.md (H1/M1/M2 fixed, M3 fixed by test suite)"
  },
- "last_successful_maintenance": "2026-09-26"
+ "last_successful_maintenance": "2026-09-27"
 }

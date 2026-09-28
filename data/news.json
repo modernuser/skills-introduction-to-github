@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-28T16:43:55Z",
+ "updated": "2026-09-28T20:30:58Z",
  "news": {
   "NVDA": [
    {
-    "title": "Jensen Huang Says Runaway AI Is an Engineering Problem: \u2018We All Need to Hope\u2019",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/62029668/jensen-huang-runaway-ai-engineering-problem?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 16:36:02 +0000"
-   },
-   {
     "title": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
     "link": "https://finance.yahoo.com/m/9d354324-7049-3304-a302-132d423b0a1b/nvidia%2C-apple-partner-tsmc.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 16:15:10 +0000"
+    "pubDate": "Mon, 28 Sep 2026 20:04:46 +0000"
    },
    {
-    "title": "Nvidia's board increases chipmaker's share buyback plan by $150 billion",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-board-increases-chipmakers-share-161141498.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 16:11:41 +0000"
+    "title": "Nvidia Drops Massive Number on Anthropic AI Spending",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-drops-massive-number-anthropic-193644610.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:36:44 +0000"
+   },
+   {
+    "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-unveils-security-platform-rein-153257645.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:24:07 +0000"
    }
   ],
   "AMD": [
@@ -30,12 +30,17 @@
     "pubDate": "Mon, 28 Sep 2026 13:33:26 +0000"
    },
    {
-    "title": "Prediction: AMD Will Join the $3 Trillion Club in 2030. Here\u2019s the Math.",
-    "link": "https://www.fool.com/investing/2026/09/28/prediction-amd-will-join-the-usd3-trillion-club-in-2030-here-s-the-math/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 15:04:01 +0000"
+    "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-acquire-world-labs-advance-200500432.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:05:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom Stock Slips Lower as $115 Billion Forecast Raises the Conversion Bar",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-slips-lower-115-193550273.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:35:50 +0000"
+   },
    {
     "title": "This Chip Giant's AI Revenue Grew 221% Last Quarter. It's Also Quietly Raised Its Dividend for 15 Straight Years.",
     "link": "https://www.fool.com/investing/2026/09/28/this-chip-giant-s-ai-revenue-grew-221-last-quarter-it-s-also-quietly-raised-its-dividend-for-15-straight-years/?.tsrc=rss",
@@ -45,28 +50,23 @@
     "title": "China Went From 32% to 17% of Broadcom\u2019s Sales Since 2023. Here\u2019s What Beijing\u2019s Switch Review Actually Puts at Risk",
     "link": "https://www.tikr.com/blog/china-went-from-32-to-17-of-broadcoms-sales-since-2023-heres-what-beijings-switch-review-actually-puts-at-risk?ref=yahoofinance&.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 14:44:45 +0000"
-   },
-   {
-    "title": "Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Room to Run?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-custom-ai-130933168.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 13:09:33 +0000"
    }
   ],
   "TSM": [
    {
     "title": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
     "link": "https://finance.yahoo.com/m/9d354324-7049-3304-a302-132d423b0a1b/nvidia%2C-apple-partner-tsmc.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 16:15:10 +0000"
+    "pubDate": "Mon, 28 Sep 2026 20:04:46 +0000"
+   },
+   {
+    "title": "TSMC Stock Moves Lower as Agentic Design Chases A14's 2028 Clock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-moves-lower-agentic-193400218.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:34:00 +0000"
    },
    {
     "title": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
     "link": "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 12:22:30 +0000"
-   },
-   {
-    "title": "Semiconductor Front End Equipment Market Size, Share, and Forecast, 2026-2035 | AI Demand and 2nm Fab Investments Drive 7.2% CAGR Toward USD 182 Billion",
-    "link": "https://finance.yahoo.com/technology/articles/semiconductor-front-end-equipment-market-093600748.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 09:36:00 +0000"
    }
   ],
   "INTC": [
@@ -76,31 +76,31 @@
     "pubDate": "Mon, 28 Sep 2026 15:17:53 +0000"
    },
    {
-    "title": "Intel Shares Tumble 5% as Fresh AI Risks Rattle Chip Stocks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/intel-shares-tumble-5-fresh-163531929.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 16:35:31 +0000"
+    "title": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/28/intel-vs-qualcomm-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:35:53 +0000"
    },
    {
-    "title": "Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips",
-    "link": "https://247wallst.com/investing/2026/09/28/intel-drops-4-on-oil-driven-rate-fears-nvidia-rises-3-on-record-150b-buyback-taiwan-semiconductor-slips/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 14:33:20 +0000"
+    "title": "Nvidia, Micron, Meta, Kodiak Sciences, MongoDB, SpaceX, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/ba97269c-c17b-3431-8c63-dea920eefd66/nvidia%2C-micron%2C-meta%2C-kodiak.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:49:00 +0000"
    }
   ],
   "MU": [
-   {
-    "title": "Micron 'super bull' reiterates $2,000 target ahead of earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/article/micron-super-bull-reiterates-2000-target-ahead-of-earnings-155636443.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 15:56:36 +0000"
-   },
    {
     "title": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
     "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 15:17:53 +0000"
    },
    {
-    "title": "3 tech stock charts you probably won't believe",
-    "link": "https://finance.yahoo.com/markets/article/3-tech-stock-charts-you-probably-wont-believe-133326724.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 13:33:26 +0000"
+    "title": "Micron 'super bull' reiterates $2,000 target ahead of earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/article/micron-super-bull-reiterates-2000-target-ahead-of-earnings-155636443.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 15:56:36 +0000"
+   },
+   {
+    "title": "Micron Stock Slips Before a $50 Billion Memory Test",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-50-billion-192529275.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:25:29 +0000"
    }
   ],
   "SNDK": [
@@ -110,17 +110,22 @@
     "pubDate": "Mon, 28 Sep 2026 15:17:53 +0000"
    },
    {
-    "title": "SanDisk's 600% Rally Is Heading Into a Big Memory Test",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisks-600-rally-heading-big-144707244.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 14:47:07 +0000"
+    "title": "Why Sandisk Stock Dropped Today",
+    "link": "https://www.fool.com/investing/2026/09/28/why-sandisk-stock-dropped-today/?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:19:50 +0000"
    },
    {
-    "title": "PENG vs. SNDK: Which AI Data Center Infrastructure Provider Is Better?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/peng-vs-sndk-ai-data-143800952.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 14:38:00 +0000"
+    "title": "AI Hardware Fatigue Is Spreading to Sandisk and Marvell",
+    "link": "https://finance.yahoo.com/m/352183a6-9429-365f-8441-1d6ae1a29e87/ai-hardware-fatigue-is.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:26:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Spotting Winners: Western Digital (NASDAQ:WDC) And Semiconductors Stocks In Q2",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spotting-winners-western-digital-nasdaq-192636420.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:26:36 +0000"
+   },
    {
     "title": "Western Digital Stock Is Just One Of 3 Top AI Infrastructure Picks",
     "link": "https://finance.yahoo.com/technology/ai/articles/western-digital-stock-just-one-010948739.html?.tsrc=rss",
@@ -130,11 +135,6 @@
     "title": "Up 163% Year to Date, Is Western Digital Still a Buy?",
     "link": "https://www.fool.com/investing/2026/09/26/up-163-year-to-date-is-western-digital-still-a-buy/?.tsrc=rss",
     "pubDate": "Sat, 26 Sep 2026 17:54:00 +0000"
-   },
-   {
-    "title": "S&P Outlook Shift And AI Storage Push Could Be A Game Changer For Western Digital (WDC)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/p-outlook-shift-ai-storage-031758697.html?.tsrc=rss",
-    "pubDate": "Sat, 26 Sep 2026 03:17:58 +0000"
    }
   ],
   "STX": [
@@ -166,9 +166,9 @@
     "pubDate": "Thu, 24 Sep 2026 21:01:24 +0000"
    },
    {
-    "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
-    "link": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 15:51:29 +0000"
+    "title": "Jim Cramer on Nvidia's $150 billion buyback expansion",
+    "link": "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:46:47 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Lower as US Equities Decline After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-us-172613363.html?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:13 +0000"
+   },
+   {
     "title": "Should You Buy QQQ or VUG Right Now? Here's What History Suggests.",
     "link": "https://www.fool.com/investing/2026/09/28/should-you-buy-qqq-or-vug-now-what-history-says/?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 12:20:00 +0000"
@@ -198,18 +203,13 @@
     "title": "Should Invesco QQQ (QQQ) Be on Your Investing Radar?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-investing-radar-092002508.html?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 09:20:02 +0000"
-   },
-   {
-    "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
-    "link": "https://247wallst.com/investing/2026/09/27/why-the-nasdaq-refuses-to-break-even-with-treasury-yields-above-five-percent/?.tsrc=rss",
-    "pubDate": "Sun, 27 Sep 2026 19:15:23 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Why Equal-Weight Funds Hide A Yield Curve Catch",
-    "link": "https://www.marketbeat.com/articles/why-equal-weight-funds-hide-a-yield-curve-catch/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Sun, 27 Sep 2026 12:55:00 +0000"
+    "title": "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+    "link": "https://247wallst.com/investing/2026/09/28/cleveland-cliffs-sinks-9-as-selloff-outruns-steel-group-nucor-and-steel-dynamics-pull-back/?.tsrc=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:46:31 +0000"
    },
    {
     "title": "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",

@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-29T01:02:22Z",
+ "updated": "2026-09-29T05:41:41Z",
  "news": {
   "NVDA": [
    {
-    "title": "Use This Zacks Tool to Find Strong AI Stocks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/zacks-tool-strong-ai-stocks-231700002.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 23:17:00 +0000"
+    "title": "Nvidia turns to insurers to spread risk of AI build-out - FT",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-turns-insurers-spread-risk-052145747.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 05:21:45 +0000"
    },
    {
-    "title": "Nvidia\u2019s Glass Packaging Push Could Reshape AI Chips",
-    "link": "https://247wallst.com/investing/2026/09/28/nvidias-glass-packaging-push-could-reshape-ai-chips/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 22:46:27 +0000"
+    "title": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+    "link": "https://stocktwits.com/news-articles/markets/equity/panw-crwd-zs-lead-nasdaq-100-gains-as-nvidia-s-ai-agent-safety-push-security-scares-lift-cybersecurity-stocks/cZMmnQoRBXq?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 03:38:28 +0000"
    },
    {
-    "title": "Why Nvidia (NVDA) Stock Is Trading Up Today",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-trading-223836670.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 22:38:36 +0000"
+    "title": "Jim Cramer Got His Wish With This Mega AI Stock\u2019s Latest Announcement",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-got-wish-mega-020123983.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 02:01:23 +0000"
    }
   ],
   "AMD": [
@@ -25,17 +25,22 @@
     "pubDate": "Mon, 28 Sep 2026 23:06:34 +0000"
    },
    {
-    "title": "AMD Bolsters AI Vision With $8.2B Acquisition Of Fei-Fei Li\u2019s World Labs, Stock Drops 4%",
-    "link": "https://stocktwits.com/news-articles/markets/equity/amd-bolsters-ai-vision-with-8-2-b-acquisition-of-fei-fei-li-s-world-labs-stock-drops-4/cZMjIGORBXQ?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 21:37:31 +0000"
+    "title": "AMD Stock Dips Overnight After $8.2B World Labs Deal \u2014 Senior Exec Says It's 'Not The Intent' To Compete With AI Customers",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-dips-overnight-after-8-2-b-world-labs-deal-senior-exec-says-it-s-not-the-intent-to-compete-with-ai-customers/cZMmoBRRBXM?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 04:50:10 +0000"
    },
    {
-    "title": "AMD buys firm founded by AI 'godmother' Fei-Fei Li",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-buys-firm-founded-ai-211614246.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 21:16:14 +0000"
+    "title": "Bank of America resets AMD price target after major milestone",
+    "link": "https://www.thestreet.com/investing/stocks/bank-of-america-raises-amd-price-target-akamai-anthropic-deal?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 02:33:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom's Dividend Has Grown About 90-Fold Since 2010. Its Next Raise Usually Comes in December.",
+    "link": "https://www.fool.com/investing/2026/09/28/broadcom-s-dividend-has-grown-about-90-fold-since-2010-its-next-raise-usually-comes-in-december/?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 02:57:01 +0000"
+   },
    {
     "title": "Top 3 Cash Flow Stocks To Watch In September 2026",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-cash-flow-stocks-210837450.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
     "link": "https://www.fool.com/investing/2026/09/28/not-nvidia-not-amd-broadcoms-custom-silicon-busine/?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 20:31:00 +0000"
-   },
-   {
-    "title": "Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/09/28/broadcom-vs-marvell-technology-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 20:29:38 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "AI Safety News Puts TSMC Stock And Secure Cloud Plays In Focus",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 04:26:54 +0000"
+   },
    {
     "title": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
     "link": "https://finance.yahoo.com/m/9d354324-7049-3304-a302-132d423b0a1b/nvidia%2C-apple-partner-tsmc.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "TSMC Stock Moves Lower as Agentic Design Chases A14's 2028 Clock",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-moves-lower-agentic-193400218.html?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 19:34:00 +0000"
-   },
-   {
-    "title": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
-    "link": "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 12:22:30 +0000"
    }
   ],
   "INTC": [
@@ -76,31 +76,31 @@
     "pubDate": "Mon, 28 Sep 2026 15:17:53 +0000"
    },
    {
+    "title": "Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility?",
+    "link": "https://finance.yahoo.com/technology/articles/intel-intc-shared-factory-bill-021940270.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 02:19:40 +0000"
+   },
+   {
     "title": "Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/09/28/intel-vs-nvidia-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 21:06:53 +0000"
-   },
-   {
-    "title": "Here's Why Intel (INTC) Fell More Than Broader Market",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-intel-intc-fell-204503805.html?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 20:45:03 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-semtech-lattice-semiconductor-002236591.html?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 00:22:36 +0000"
+    "title": "Michael Burry Said AI Bursts in 2028. One Weekend of Research Changed That",
+    "link": "https://beincrypto.com/michael-burry-ai-bubble-puts-micron/?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 05:19:58 +0000"
    },
    {
-    "title": "Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday.",
-    "link": "https://www.fool.com/investing/2026/09/28/sandisk-jumped-22-the-day-after-micron-s-last-report-micron-reports-again-wednesday/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 23:34:01 +0000"
+    "title": "What To Expect From Micron\u2019s (MU) Q3 Earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/expect-micron-mu-q3-earnings-032452093.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 03:24:52 +0000"
    },
    {
-    "title": "Is Micron Stock a Sell After This Weekend's Negative AI News?",
-    "link": "https://www.fool.com/investing/2026/09/28/is-micron-stock-a-sell-after-this-weekends-negativ/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 22:18:51 +0000"
+    "title": "Baird's strong agentic AI call on Micron is spot on",
+    "link": "https://www.thestreet.com/investing/stocks/why-baird-raised-micron-price-target?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 02:03:00 +0000"
    }
   ],
   "SNDK": [

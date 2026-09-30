@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T23:04:17Z",
+ "updated": "2026-09-30T00:32:49Z",
  "news": {
   "NVDA": [
    {
@@ -13,9 +13,9 @@
     "pubDate": "Tue, 29 Sep 2026 21:38:24 +0000"
    },
    {
-    "title": "Apple, Meta, Iovance, Carnival, Fair Isaac, Bloom Energy, SpaceX, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/e4c63816-8d5f-3cc4-a06f-9cc7458d4a95/apple%2C-meta%2C-iovance%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 20:52:00 +0000"
+    "title": "Schwab's Dividend ETF Has Nearly Quadrupled Its Payout Since 2012",
+    "link": "https://www.fool.com/investing/2026/09/29/schwab-s-dividend-etf-has-nearly-quadrupled-its-payout-since-2012/?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:46:01 +0000"
    }
   ],
   "AMD": [
@@ -95,12 +95,12 @@
    {
     "title": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
     "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 22:51:28 +0000"
+    "pubDate": "Wed, 30 Sep 2026 00:22:06 +0000"
    },
    {
-    "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 22:30:08 +0000"
+    "title": "Micron Technology (MU) Could Be 47% Undervalued On Its Enterprise Memory Narrative",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-could-47-231002768.html?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:10:02 +0000"
    }
   ],
   "SNDK": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade",
+    "link": "https://247wallst.com/investing/etf/2026/09/29/qqqm-charges-0-15-and-qqq-charges-0-18-a-wide-spread-can-take-that-back-on-a-single-trade/?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:31:50 +0000"
+   },
+   {
     "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
     "pubDate": "Tue, 29 Sep 2026 22:30:08 +0000"
@@ -198,14 +203,14 @@
     "title": "If You'd Invested $1,000 in the Invesco QQQ Trust (QQQ) 10 Years Ago, Here's How Much You'd Have Today",
     "link": "https://www.fool.com/investing/2026/09/29/you-invest-1000-invesco-qqq-trust-qqq-10-years/?.tsrc=rss",
     "pubDate": "Tue, 29 Sep 2026 22:20:00 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
-    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-us-171654357.html?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 17:16:54 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays",
+    "link": "https://247wallst.com/investing/etf/2026/09/29/forget-spys-dividend-here-is-what-100000-in-state-streets-high-dividend-version-pays/?.tsrc=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:06:47 +0000"
+   },
    {
     "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131149164.html?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
     "pubDate": "Tue, 29 Sep 2026 22:30:08 +0000"
-   },
-   {
-    "title": "AMC Sinks 7%, Gives Back Part of Sharp Rally; Cinemark and IMAX Dip",
-    "link": "https://247wallst.com/investing/2026/09/29/amc-sinks-7-gives-back-part-of-sharp-rally-cinemark-and-imax-dip/?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 16:55:10 +0000"
    }
   ]
  },

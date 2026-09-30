@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-30T14:53:31Z",
+ "updated": "2026-09-30T19:10:20Z",
  "news": {
   "NVDA": [
    {
-    "title": "Bill Ackman Just Said 4 Words Blasting the Fed's Latest Rate Hike: \"Just Made a Mistake.\" Here's Why He Thinks Higher Rates Could Backfire on AI-Driven Inflation.",
-    "link": "https://www.fool.com/investing/2026/09/30/bill-ackman-just-said-4-words-blasting-the-feds-la/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:43:00 +0000"
+    "title": "The SEC Just Granted a Temporary Innovation Exemption For Tokenized Stock Trading. Here's What That Means For the Average Investor.",
+    "link": "https://www.fool.com/investing/2026/09/30/the-sec-just-granted-a-temporary-innovation-exempt/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:01:17 +0000"
    },
    {
-    "title": "Price Prediction: 5 Years From Now, This Could Be Nvidia Stock\u2019s Price",
-    "link": "https://247wallst.com/investing/2026/09/30/price-prediction-5-years-from-now-this-could-be-nvidia-stocks-price/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:30:02 +0000"
+    "title": "Oracle Stock Is Down 60% From Its High. Here's Why I'm Still Not Buying.",
+    "link": "https://www.fool.com/investing/2026/09/30/oracle-stock-is-down-60-from-its-high-heres-why-im/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:32:00 +0000"
    },
    {
-    "title": "Cathie Wood Just Dropped $78 Million on This Red-Hot Chip Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-dropped-78-142805716.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:28:05 +0000"
+    "title": "TSMC's next move could ripple far beyond Apple, Nvidia",
+    "link": "https://www.thestreet.com/technology/beyond-nvidia-tsmc-expansion-benefits-chip-toolmakers-amat-lrcx?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:17:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Cathie Wood Just Dropped $78 Million on This Red-Hot Chip Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-dropped-78-142805716.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:28:05 +0000"
+    "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
+    "link": "https://247wallst.com/investing/2026/09/30/intel-rises-3-as-chip-contender-caps-off-surprisingly-strong-september-nvidia-ticks-up-amd-slips/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 16:29:13 +0000"
    },
    {
-    "title": "Cathie Wood Just Dumped $110 Million of AMD--and Bought Nvidia and Broadcom",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-dumped-110-142431421.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:24:31 +0000"
+    "title": "Jim Cramer delivers unmistakable verdict on AMD\u2019s future after 281% run",
+    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-delivers-unmistakable-verdict-on-amds-future-after-281-run?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 16:17:00 +0000"
    },
    {
-    "title": "AMD Stocks Slip After $8.2 Billion World Labs Deal Announcement",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-8-2-141503877.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:15:03 +0000"
+    "title": "EMS Broadens Product Offering Across Fencing and Hurricane Protection with Acquisition of AMD Supply",
+    "link": "https://finance.yahoo.com/small-business/articles/ems-broadens-product-offering-across-151300626.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:13:00 +0000"
    }
   ],
   "AVGO": [
@@ -54,39 +54,44 @@
   ],
   "TSM": [
    {
+    "title": "TSMC's next move could ripple far beyond Apple, Nvidia",
+    "link": "https://www.thestreet.com/technology/beyond-nvidia-tsmc-expansion-benefits-chip-toolmakers-amat-lrcx?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:17:00 +0000"
+   },
+   {
+    "title": "TSMC (TSM) is a Great Momentum Stock: Should You Buy?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-great-momentum-stock-150002955.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:00:02 +0000"
+   },
+   {
     "title": "TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger",
     "link": "https://finance.yahoo.com/technology/articles/tsmcs-265-billion-u-expansion-142520071.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 14:25:20 +0000"
-   },
-   {
-    "title": "TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push",
-    "link": "https://stocktwits.com/news-articles/markets/equity/tsmc-weighs-texas-chip-investment-on-top-of-265-b-arizona-push/cZMF7zVRBhY?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 13:17:20 +0000"
-   },
-   {
-    "title": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
-    "link": "https://finance.yahoo.com/technology/ai/articles/asml-tsm-earnings-could-expose-120540020.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 12:05:40 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Amtech Gains 79% in the Past Year: Should It Be in Your Portfolio?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amtech-gains-79-past-portfolio-133800157.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 13:38:00 +0000"
+    "title": "32 Analysts Say Hold on Intel. Here\u2019s What the Numbers Actually Show",
+    "link": "https://247wallst.com/investing/2026/09/30/32-analysts-say-hold-on-intel-heres-what-the-numbers-actually-show/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 17:00:41 +0000"
    },
    {
-    "title": "Chip Stocks Roar Back: AMD, Intel Power SOXX Toward Best Month Since June",
-    "link": "https://stocktwits.com/news-articles/markets/equity/chip-stocks-roar-back-amd-intel-power-soxx-toward-best-month-since-june/cZMFGEiRBhP?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 07:48:55 +0000"
+    "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
+    "link": "https://247wallst.com/investing/2026/09/30/intel-rises-3-as-chip-contender-caps-off-surprisingly-strong-september-nvidia-ticks-up-amd-slips/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 16:29:13 +0000"
    },
    {
-    "title": "Silicon Valley's Leading CIOs, CISOs and Technology Executives to Gather October 6 for HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit; More Than 115 Technology Leaders Already Registered",
-    "link": "https://finance.yahoo.com/technology/articles/silicon-valleys-leading-cios-cisos-180400562.html?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 18:04:00 +0000"
+    "title": "Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-waited-investing-intel-153914894.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:39:14 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
+    "link": "https://finance.yahoo.com/video/jensen-huangs-biggest-q3-moves-rubrik-ceo-talks-tech--cybersecurity-150732044.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:07:32 +0000"
+   },
    {
     "title": "Is Micron the next Dell? AI memory demand vs. valuation",
     "link": "https://finance.yahoo.com/video/is-micron-the-next-dell-ai-memory-demand-vs-valuation-142811008.html?.tsrc=rss",
@@ -96,14 +101,14 @@
     "title": "Micron is crushing it, but so is SanDisk. So why are they still underestimated?",
     "link": "https://finance.yahoo.com/video/micron-is-crushing-it-but-so-is-sandisk-so-why-are-they-still-underestimated-142425792.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 14:24:25 +0000"
-   },
-   {
-    "title": "Micron earnings: Analyst asks the key question",
-    "link": "https://finance.yahoo.com/technology/article/micron-earnings-analyst-asks-the-key-question-134446610.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 13:44:46 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
+    "link": "https://finance.yahoo.com/video/jensen-huangs-biggest-q3-moves-rubrik-ceo-talks-tech--cybersecurity-150732044.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:07:32 +0000"
+   },
    {
     "title": "Sandisk bulls had a surprising third quarter",
     "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-bulls-had-a-surprising-third-quarter-105830766.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Micron is crushing it, but so is SanDisk. So why are they still underestimated?",
     "link": "https://finance.yahoo.com/video/micron-is-crushing-it-but-so-is-sandisk-so-why-are-they-still-underestimated-142425792.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 14:24:25 +0000"
-   },
-   {
-    "title": "SanDisk Just Got a 73% Upside Call as Micron Heads Into Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-got-73-upside-140321365.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:03:21 +0000"
    }
   ],
   "WDC": [
@@ -161,14 +161,14 @@
     "pubDate": "Tue, 29 Sep 2026 14:05:00 +0000"
    },
    {
+    "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
+    "link": "https://247wallst.com/investing/2026/09/30/intel-rises-3-as-chip-contender-caps-off-surprisingly-strong-september-nvidia-ticks-up-amd-slips/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 16:29:13 +0000"
+   },
+   {
     "title": "Jim Cramer on Nvidia's $150 billion buyback expansion",
     "link": "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
     "pubDate": "Mon, 28 Sep 2026 17:46:47 +0000"
-   },
-   {
-    "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
-    "link": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/?.tsrc=rss",
-    "pubDate": "Mon, 28 Sep 2026 15:51:29 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-higher-us-171614405.html?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 17:16:14 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132034377.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 13:20:34 +0000"
@@ -198,28 +203,23 @@
     "title": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-pce-gdp-micron-tesla-capr-vnda-hood-stocks/cZMFR9TRBhd?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 08:29:53 +0000"
-   },
-   {
-    "title": "Vanguard S&P 500 ETF vs. Invesco QQQ: Which ETF Is the Better Buy for Investors?",
-    "link": "https://www.fool.com/coverage/etfs/2026/09/29/vanguard-s-and-p-500-etf-vs-invesco-qqq-which-etf-is-the-better-buy-for-investors/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 02:33:13 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays",
-    "link": "https://247wallst.com/investing/etf/2026/09/29/forget-spys-dividend-here-is-what-100000-in-state-streets-high-dividend-version-pays/?.tsrc=rss",
-    "pubDate": "Tue, 29 Sep 2026 23:06:47 +0000"
+    "title": "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
+    "link": "https://247wallst.com/investing/2026/09/30/mp-materials-surges-6-as-traders-weigh-critical-minerals-growth-story-usa-rare-earth-rises-3-critical-metals-stays-flat/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 17:56:22 +0000"
+   },
+   {
+    "title": "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
+    "link": "https://247wallst.com/investing/2026/09/30/chargepoint-jumps-7-as-electric-september-run-persists-evgo-falls-3-blink-charging-slips/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 17:42:33 +0000"
    },
    {
     "title": "Total Return Investors Better Open Their Eyes About Pepsi",
     "link": "https://247wallst.com/investing/2026/09/30/total-return-investors-better-open-their-eyes-about-pepsi/?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 14:15:31 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132034377.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 13:20:34 +0000"
    }
   ]
  },

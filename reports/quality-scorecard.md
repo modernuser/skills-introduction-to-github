@@ -1,8 +1,8 @@
-# Quality scorecard — 2026-09-29
+# Quality scorecard — 2026-09-30
 
-- Tests: 226 passed in 16.88s
+- Tests: 226 passed in 16.96s
 - Broken internal links: 0
 - Secret-pattern hits: 0
 - Data health: ok
-- Workflow reliability: 22/30 recent runs green
+- Workflow reliability: 23/30 recent runs green
 - Open findings: 0 critical / 0 high

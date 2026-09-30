@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T02:05:33Z",
+ "generated": "2026-09-30T01:22:45Z",
  "method": "annualised stdev of the last 30 daily returns",
  "note": "Volatility measures how violently these prices have already moved, in both directions. Risk measure, not a forecast and not a recommendation.",
  "window_sessions": 30,
@@ -66,10 +66,10 @@
    {
     "symbol": "WBD",
     "name": "Warner Bros. Discovery",
-    "vol_30d": 33.25,
+    "vol_30d": 33.24,
     "sessions": 30,
-    "last_close": 30.9,
-    "as_of": "2026-09-28"
+    "last_close": 30.85,
+    "as_of": "2026-09-29"
    },
    {
     "symbol": "TTWO",
@@ -204,19 +204,19 @@
     "as_of": "2026-09-28"
    },
    {
+    "symbol": "WMT",
+    "name": "Walmart",
+    "vol_30d": 33.8,
+    "sessions": 30,
+    "last_close": 106.8,
+    "as_of": "2026-09-29"
+   },
+   {
     "symbol": "HRL",
     "name": "Hormel Foods",
     "vol_30d": 33.68,
     "sessions": 30,
     "last_close": 19.97,
-    "as_of": "2026-09-28"
-   },
-   {
-    "symbol": "WMT",
-    "name": "Walmart",
-    "vol_30d": 33.52,
-    "sessions": 30,
-    "last_close": 108.73,
     "as_of": "2026-09-28"
    },
    {
@@ -436,10 +436,10 @@
    {
     "symbol": "VEEV",
     "name": "Veeva Systems",
-    "vol_30d": 52.66,
+    "vol_30d": 52.12,
     "sessions": 30,
-    "last_close": 279.96,
-    "as_of": "2026-09-28"
+    "last_close": 278.57,
+    "as_of": "2026-09-29"
    },
    {
     "symbol": "COO",
@@ -516,19 +516,19 @@
     "as_of": "2026-09-28"
    },
    {
+    "symbol": "VRT",
+    "name": "Vertiv",
+    "vol_30d": 59.31,
+    "sessions": 30,
+    "last_close": 248.34,
+    "as_of": "2026-09-29"
+   },
+   {
     "symbol": "AXON",
     "name": "Axon Enterprise",
     "vol_30d": 59.15,
     "sessions": 30,
     "last_close": 424.75,
-    "as_of": "2026-09-28"
-   },
-   {
-    "symbol": "VRT",
-    "name": "Vertiv",
-    "vol_30d": 58.93,
-    "sessions": 30,
-    "last_close": 244.04,
     "as_of": "2026-09-28"
    },
    {
@@ -810,20 +810,20 @@
     "as_of": "2026-09-28"
    },
    {
-    "symbol": "VMRK",
-    "name": "Vivmark Residential",
-    "vol_30d": 24.49,
-    "sessions": 30,
-    "last_close": 61.37,
-    "as_of": "2026-09-28"
-   },
-   {
     "symbol": "SBAC",
     "name": "SBA Communications",
     "vol_30d": 23.29,
     "sessions": 30,
     "last_close": 163.43,
     "as_of": "2026-09-28"
+   },
+   {
+    "symbol": "VMRK",
+    "name": "Vivmark Residential",
+    "vol_30d": 22.44,
+    "sessions": 30,
+    "last_close": 61.35,
+    "as_of": "2026-09-29"
    }
   ],
   "Utilities": [
@@ -862,10 +862,10 @@
    {
     "symbol": "VST",
     "name": "Vistra Corp.",
-    "vol_30d": 32.02,
+    "vol_30d": 32.47,
     "sessions": 30,
-    "last_close": 138.02,
-    "as_of": "2026-09-28"
+    "last_close": 140.83,
+    "as_of": "2026-09-29"
    },
    {
     "symbol": "SRE",
@@ -884,19 +884,19 @@
     "as_of": "2026-09-28"
    },
    {
+    "symbol": "XEL",
+    "name": "Xcel Energy",
+    "vol_30d": 18.84,
+    "sessions": 30,
+    "last_close": 70.69,
+    "as_of": "2026-09-29"
+   },
+   {
     "symbol": "ES",
     "name": "Eversource Energy",
     "vol_30d": 18.06,
     "sessions": 30,
     "last_close": 63.28,
-    "as_of": "2026-09-28"
-   },
-   {
-    "symbol": "XEL",
-    "name": "Xcel Energy",
-    "vol_30d": 17.66,
-    "sessions": 30,
-    "last_close": 69.39,
     "as_of": "2026-09-28"
    },
    {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T02:05:33Z",
+ "generated": "2026-09-30T01:22:45Z",
  "method": "OLS of log(close) on session index over 90 sessions; ranked by annualized slope x r2",
  "note": "r2 measures how straight the PAST price path was, not the probability of anything. It is a goodness-of-fit statistic, not a forecast and not advice. Whether straight past trends continue is what the dartboard experiment tests, against a random control.",
  "window_sessions": 90,
@@ -11,10 +11,10 @@
   {
    "symbol": "VEEV",
    "name": "Veeva Systems",
-   "last_close": 279.96,
-   "as_of": "2026-09-28",
-   "slope_annual_pct": 520.58,
-   "r2": 0.8897,
+   "last_close": 278.57,
+   "as_of": "2026-09-29",
+   "slope_annual_pct": 526.57,
+   "r2": 0.8924,
    "sessions": 90
   },
   {
@@ -85,10 +85,10 @@
   {
    "symbol": "VEEV",
    "name": "Veeva Systems",
-   "last_close": 279.96,
-   "as_of": "2026-09-28",
-   "slope_annual_pct": 520.58,
-   "r2": 0.8897,
+   "last_close": 278.57,
+   "as_of": "2026-09-29",
+   "slope_annual_pct": 526.57,
+   "r2": 0.8924,
    "sessions": 90
   },
   {
@@ -130,10 +130,10 @@
   {
    "symbol": "ZBRA",
    "name": "Zebra Technologies",
-   "last_close": 371.87,
-   "as_of": "2026-09-28",
-   "slope_annual_pct": 377.47,
-   "r2": 0.7872,
+   "last_close": 375.97,
+   "as_of": "2026-09-29",
+   "slope_annual_pct": 380.99,
+   "r2": 0.79,
    "sessions": 90
   },
   {
@@ -148,10 +148,10 @@
   {
    "symbol": "WDAY",
    "name": "Workday, Inc.",
-   "last_close": 188.6,
-   "as_of": "2026-09-28",
-   "slope_annual_pct": 370.06,
-   "r2": 0.7434,
+   "last_close": 189.17,
+   "as_of": "2026-09-29",
+   "slope_annual_pct": 366.52,
+   "r2": 0.74,
    "sessions": 90
   },
   {
@@ -425,15 +425,6 @@
    "sessions": 90
   },
   {
-   "symbol": "WTW",
-   "name": "Willis Towers Watson",
-   "last_close": 292.11,
-   "as_of": "2026-09-28",
-   "slope_annual_pct": 136.22,
-   "r2": 0.6428,
-   "sessions": 90
-  },
-  {
    "symbol": "EXPE",
    "name": "Expedia Group",
    "last_close": 264.23,
@@ -494,6 +485,15 @@
    "as_of": "2026-09-28",
    "slope_annual_pct": 137.69,
    "r2": 0.5668,
+   "sessions": 90
+  },
+  {
+   "symbol": "WTW",
+   "name": "Willis Towers Watson",
+   "last_close": 288.57,
+   "as_of": "2026-09-29",
+   "slope_annual_pct": 128.2,
+   "r2": 0.6051,
    "sessions": 90
   },
   {

@@ -1,0 +1,111 @@
+{
+ "generated": "2026-10-01T01:22:46Z",
+ "method": "variance-components Gage R&R; parts=tickers, operators=data sources, trials=repeated computations",
+ "note": "Measurement system analysis, not a market claim. It asks whether a KPI can be measured consistently \u2014 never whether the KPI predicts anything. Acceptance bands are AIAG (<=10% acceptable, <=30% marginal).",
+ "acceptance_bands": {
+  "acceptable_pct": 10.0,
+  "marginal_pct": 30.0
+ },
+ "kpis": {
+  "max_drawdown_90d": {
+   "evaluated": true,
+   "parts": 501,
+   "operators": [
+    "yahoo-fallback"
+   ],
+   "repeatability_sd": 0.0,
+   "reproducibility_sd": 0.0,
+   "part_variation_sd": 9.66733827,
+   "total_variation_sd": 9.66733827,
+   "pct_rr": 0.0,
+   "pct_repeatability": 0.0,
+   "pct_reproducibility": 0.0,
+   "pct_part_variation": 100.0,
+   "verdict": "acceptable",
+   "deterministic": true
+  },
+  "slope_annual_pct": {
+   "evaluated": true,
+   "parts": 501,
+   "operators": [
+    "yahoo-fallback"
+   ],
+   "repeatability_sd": 0.0,
+   "reproducibility_sd": 0.0,
+   "part_variation_sd": 255.99584678,
+   "total_variation_sd": 255.99584678,
+   "pct_rr": 0.0,
+   "pct_repeatability": 0.0,
+   "pct_reproducibility": 0.0,
+   "pct_part_variation": 100.0,
+   "verdict": "acceptable",
+   "deterministic": true
+  },
+  "trend_r2_90d": {
+   "evaluated": true,
+   "parts": 501,
+   "operators": [
+    "yahoo-fallback"
+   ],
+   "repeatability_sd": 0.0,
+   "reproducibility_sd": 0.0,
+   "part_variation_sd": 0.26649335,
+   "total_variation_sd": 0.26649335,
+   "pct_rr": 0.0,
+   "pct_repeatability": 0.0,
+   "pct_reproducibility": 0.0,
+   "pct_part_variation": 100.0,
+   "verdict": "acceptable",
+   "deterministic": true
+  },
+  "vol_30d": {
+   "evaluated": true,
+   "parts": 501,
+   "operators": [
+    "yahoo-fallback"
+   ],
+   "repeatability_sd": 0.0,
+   "reproducibility_sd": 0.0,
+   "part_variation_sd": 14.51959761,
+   "total_variation_sd": 14.51959761,
+   "pct_rr": 0.0,
+   "pct_repeatability": 0.0,
+   "pct_reproducibility": 0.0,
+   "pct_part_variation": 100.0,
+   "verdict": "acceptable",
+   "deterministic": true
+  },
+  "volume_surge": {
+   "evaluated": false,
+   "reason": "need >= 2 parts (tickers), got 0"
+  }
+ },
+ "gates": {
+  "max_drawdown_90d": {
+   "status": "PASS",
+   "reason": "%R&R 0.0% (acceptable), repeatability exactly 0",
+   "root_cause_required": false
+  },
+  "slope_annual_pct": {
+   "status": "PASS",
+   "reason": "%R&R 0.0% (acceptable), repeatability exactly 0",
+   "root_cause_required": false
+  },
+  "trend_r2_90d": {
+   "status": "PASS",
+   "reason": "%R&R 0.0% (acceptable), repeatability exactly 0",
+   "root_cause_required": false
+  },
+  "vol_30d": {
+   "status": "PASS",
+   "reason": "%R&R 0.0% (acceptable), repeatability exactly 0",
+   "root_cause_required": false
+  },
+  "volume_surge": {
+   "status": "FAIL",
+   "reason": "need >= 2 parts (tickers), got 0",
+   "root_cause_required": true
+  }
+ },
+ "overall": "FAIL"
+}

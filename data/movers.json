@@ -1,148 +1,148 @@
 {
- "updated": "2026-09-29T05:41:47Z",
- "coverage": 501,
+ "updated": "2026-10-01T05:49:14Z",
+ "coverage": 464,
  "gainers": [
   {
-   "symbol": "P",
-   "name": "Everpure",
-   "sector": "Information Technology",
-   "close": 129.4,
-   "pct": 6.17
-  },
-  {
-   "symbol": "VTRS",
-   "name": "Viatris",
-   "sector": "Health Care",
-   "close": 18.27,
-   "pct": 4.88
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
-   "sector": "Information Technology",
-   "close": 268.7,
-   "pct": 4.59
-  },
-  {
-   "symbol": "MCHP",
-   "name": "Microchip Technology",
-   "sector": "Information Technology",
-   "close": 77.97,
-   "pct": 4.39
-  },
-  {
-   "symbol": "BKNG",
-   "name": "Booking Holdings",
+   "symbol": "CCL",
+   "name": "Carnival Corporation",
    "sector": "Consumer Discretionary",
-   "close": 163.87,
-   "pct": 4.1
+   "close": 25.11,
+   "pct": 13.41
   },
   {
-   "symbol": "BMY",
-   "name": "Bristol Myers Squibb",
-   "sector": "Health Care",
-   "close": 63.88,
-   "pct": 3.87
-  },
-  {
-   "symbol": "SHW",
-   "name": "Sherwin-Williams",
-   "sector": "Materials",
-   "close": 332.79,
-   "pct": 3.87
-  },
-  {
-   "symbol": "ISRG",
-   "name": "Intuitive Surgical",
-   "sector": "Health Care",
-   "close": 414.79,
-   "pct": 3.82
-  },
-  {
-   "symbol": "NTAP",
-   "name": "NetApp",
-   "sector": "Information Technology",
-   "close": 204.41,
-   "pct": 3.64
-  },
-  {
-   "symbol": "FDX",
-   "name": "FedEx",
+   "symbol": "BE",
+   "name": "Bloom Energy",
    "sector": "Industrials",
-   "close": 289.65,
-   "pct": 3.62
-  }
- ],
- "losers": [
+   "close": 291.25,
+   "pct": 10.8
+  },
   {
-   "symbol": "GEN",
-   "name": "Gen Digital",
+   "symbol": "RCL",
+   "name": "Royal Caribbean Group",
+   "sector": "Consumer Discretionary",
+   "close": 260.67,
+   "pct": 7.45
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 20.85,
-   "pct": -9.62
-  },
-  {
-   "symbol": "INTC",
-   "name": "Intel",
-   "sector": "Information Technology",
-   "close": 116.03,
-   "pct": -8.92
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms",
-   "sector": "Communication Services",
-   "close": 715.62,
-   "pct": -7.97
-  },
-  {
-   "symbol": "GDDY",
-   "name": "GoDaddy",
-   "sector": "Information Technology",
-   "close": 93.71,
-   "pct": -7.04
-  },
-  {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
-   "sector": "Information Technology",
-   "close": 130.33,
-   "pct": -6.55
-  },
-  {
-   "symbol": "RDDT",
-   "name": "Reddit",
-   "sector": "Communication Services",
-   "close": 143.08,
-   "pct": -6.31
-  },
-  {
-   "symbol": "BA",
-   "name": "Boeing",
-   "sector": "Industrials",
-   "close": 184.39,
-   "pct": -6.31
-  },
-  {
-   "symbol": "MOS",
-   "name": "Mosaic Company (The)",
-   "sector": "Materials",
-   "close": 22.25,
-   "pct": -6.08
+   "close": 973.49,
+   "pct": 5.66
   },
   {
    "symbol": "CVNA",
    "name": "Carvana",
    "sector": "Consumer Discretionary",
-   "close": 60.47,
-   "pct": -5.78
+   "close": 63.62,
+   "pct": 5.21
   },
   {
-   "symbol": "REGN",
-   "name": "Regeneron Pharmaceuticals",
-   "sector": "Health Care",
-   "close": 752.25,
-   "pct": -5.5
+   "symbol": "AMAT",
+   "name": "Applied Materials",
+   "sector": "Information Technology",
+   "close": 512.01,
+   "pct": 5.19
+  },
+  {
+   "symbol": "DASH",
+   "name": "DoorDash",
+   "sector": "Consumer Discretionary",
+   "close": 187.1,
+   "pct": 4.88
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 158.71,
+   "pct": 4.7
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 263.27,
+   "pct": 4.51
+  },
+  {
+   "symbol": "EIX",
+   "name": "Edison International",
+   "sector": "Utilities",
+   "close": 53.56,
+   "pct": 4.06
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
+   "sector": "Information Technology",
+   "close": 617.87,
+   "pct": -26.52
+  },
+  {
+   "symbol": "STLD",
+   "name": "Steel Dynamics",
+   "sector": "Materials",
+   "close": 221.9,
+   "pct": -3.69
+  },
+  {
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 96.87,
+   "pct": -3.69
+  },
+  {
+   "symbol": "EFX",
+   "name": "Equifax",
+   "sector": "Industrials",
+   "close": 140.83,
+   "pct": -3.4
+  },
+  {
+   "symbol": "NUE",
+   "name": "Nucor",
+   "sector": "Materials",
+   "close": 236.24,
+   "pct": -3.37
+  },
+  {
+   "symbol": "SLB",
+   "name": "Schlumberger",
+   "sector": "Energy",
+   "close": 49.87,
+   "pct": -3.15
+  },
+  {
+   "symbol": "FDS",
+   "name": "FactSet",
+   "sector": "Financials",
+   "close": 259.97,
+   "pct": -2.88
+  },
+  {
+   "symbol": "PSKY",
+   "name": "Paramount Skydance Corporation",
+   "sector": "Communication Services",
+   "close": 9.99,
+   "pct": -2.82
+  },
+  {
+   "symbol": "FIS",
+   "name": "Fidelity National Information Services",
+   "sector": "Financials",
+   "close": 33.35,
+   "pct": -2.8
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 328.7,
+   "pct": -2.79
   }
  ]
 }

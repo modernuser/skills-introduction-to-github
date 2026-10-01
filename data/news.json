@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-01T00:35:44Z",
+ "updated": "2026-10-01T05:49:07Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Is AI-Driven Edge Security Integration With Nvidia\u2019s Stack Altering The Investment Case For Palo Alto Networks (PANW)?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-driven-edge-security-integration-012337957.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:23:37 +0000"
+   },
+   {
+    "title": "GMI Cloud Raises Over $660 Million to Accelerate Global AI Infrastructure Expansion",
+    "link": "https://finance.yahoo.com/technology/ai/articles/gmi-cloud-raises-over-660-010500878.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:05:00 +0000"
+   },
    {
     "title": "Nvidia Could Have a Monster October. Here's Why.",
     "link": "https://www.fool.com/investing/2026/09/30/nvidia-could-have-a-monster-october-heres-why/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 00:23:00 +0000"
-   },
-   {
-    "title": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
-    "link": "https://www.fool.com/investing/2026/09/30/nvidia-broadcom-and-amd-investors-need-to-have-oct/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:04:00 +0000"
-   },
-   {
-    "title": "Nvidia Stock Can Top $400 in 5 Years If One Assumption Holds Up",
-    "link": "https://www.fool.com/investing/2026/09/30/nvidia-stock-can-top-usd400-in-5-years-if-one-assumption-holds-up/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 22:37:01 +0000"
    }
   ],
   "AMD": [
@@ -27,7 +27,7 @@
    {
     "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
     "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 00:13:07 +0000"
+    "pubDate": "Thu, 01 Oct 2026 03:04:10 +0000"
    },
    {
     "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/30/applied-materials-vs-taiwan-semiconductor-manufacturing-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:34:01 +0000"
+   },
+   {
     "title": "TSMC's next move could ripple far beyond Apple, Nvidia",
     "link": "https://www.thestreet.com/technology/beyond-nvidia-tsmc-expansion-benefits-chip-toolmakers-amat-lrcx?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 18:17:00 +0000"
@@ -62,11 +67,6 @@
     "title": "TSMC (TSM) is a Great Momentum Stock: Should You Buy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-great-momentum-stock-150002955.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 15:00:02 +0000"
-   },
-   {
-    "title": "TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger",
-    "link": "https://finance.yahoo.com/technology/articles/tsmcs-265-billion-u-expansion-142520071.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 14:25:20 +0000"
    }
   ],
   "INTC": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
-    "title": "AI demand fuels Micron earnings beat",
-    "link": "https://finance.yahoo.com/video/ai-demand-fuels-micron-earnings-204600971.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 20:46:00 +0000"
+    "title": "Japanese chipmakers rally as Micron earnings boost AI trade",
+    "link": "https://finance.yahoo.com/technology/ai/articles/japanese-chipmakers-rally-micron-earnings-045459000.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 04:54:59 +0000"
    },
    {
-    "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-    "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 00:13:07 +0000"
+    "title": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-rise-chipmaker-gains-043635538.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 04:36:35 +0000"
    },
    {
-    "title": "Micron\u2019s Revenue More Than Quadrupled. Here\u2019s What Comes Next for the AI Chipmaker.",
-    "link": "https://www.fool.com/investing/2026/09/30/microns-revenue-more-than-quadrupled-heres-what-comes-next-for-the-ai-chipmaker/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:14:01 +0000"
+    "title": "Micron Says Humanoid Robots Could Be Next Big Memory Driver, Analyst Sees 'Millions Of Machines' With Server-Level Chips",
+    "link": "https://finance.yahoo.com/technology/ai/articles/micron-says-humanoid-robots-could-032514668.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 03:25:14 +0000"
    }
   ],
   "SNDK": [

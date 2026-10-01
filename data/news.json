@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-01T15:25:18Z",
+ "updated": "2026-10-01T19:31:34Z",
  "news": {
   "NVDA": [
    {
-    "title": "My Nvidia Price Target Looks Beyond the Next Few Quarters",
-    "link": "https://247wallst.com/investing/2026/10/01/my-nvidia-price-target-looks-beyond-the-next-few-quarters/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 15:00:52 +0000"
+    "title": "Why Nvidia\u2019s \u2018circular financing\u2019 is a masterclass in ROI",
+    "link": "https://finance.yahoo.com/video/why-nvidia-circular-financing-masterclass-180900111.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 18:09:00 +0000"
    },
    {
-    "title": "Nvidia\u2019s Hyperscaler Revenue Could Reach $401B In 2027, Says Analyst: SpaceX Could Push Barclays\u2019 \u2018Napkin Math\u2019 Higher",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-hyperscaler-revenue-could-reach-401-b-in-2027-spacex-could-push-it-higher/cZD0ItVRB0G?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:51:56 +0000"
+    "title": "Should You Buy Nvidia Stock in October? What Its Decade-Low Valuation Signals",
+    "link": "https://www.fool.com/investing/2026/10/01/should-you-buy-nvidia-stock-in-october-what-its-de/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 18:50:00 +0000"
    },
    {
-    "title": "Nvidia Just Gave Investors 150 Billion Reasons to Buy the Stock",
-    "link": "https://www.fool.com/investing/2026/10/01/nvidia-just-gave-investors-150-billion-reasons-to-buy-the-stock/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:20:03 +0000"
+    "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+    "link": "https://www.trefis.com/articles/617293/is-nvidia-stock-increasing-your-market-risk/2026-10-01?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 18:05:59 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "3 Top AI Stocks for October",
-    "link": "https://www.fool.com/investing/2026/10/01/3-top-ai-stocks-for-october/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:35:00 +0000"
+    "title": "Advanced Micro Devices (AMD) Benefit from Surging CPU Demand in Autonomous AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-benefit-174606152.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 17:46:06 +0000"
    },
    {
-    "title": "The Hyperscaler CPU Threat to AMD No One Is Talking About",
-    "link": "https://247wallst.com/investing/2026/10/01/the-hyperscaler-cpu-threat-to-amd-no-one-is-talking-about/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 11:15:41 +0000"
+    "title": "AMD Just Bought the Research That Defines What Its Chips Are For",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-bought-research-defines-174221101.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 17:42:21 +0000"
    },
    {
-    "title": "I\u2019m Dollar Cost Averaging AMD at Today\u2019s Price Without Fear",
-    "link": "https://247wallst.com/investing/2026/10/01/im-dollar-cost-averaging-amd-at-todays-price-without-fear/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 11:15:14 +0000"
+    "title": "Advanced Micro Devices (AMD) Could Be 33% Undervalued Following Its World Labs Deal",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-could-171050511.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 17:10:50 +0000"
    }
   ],
   "AVGO": [
@@ -42,14 +42,14 @@
     "pubDate": "Thu, 01 Oct 2026 12:16:17 +0000"
    },
    {
+    "title": "Broadcom lends Anthropic $42B, Nike releases Caitlin 1s, and Micron earnings takeaways",
+    "link": "https://finance.yahoo.com/video/broadcom-lends-anthropic-42b-nike-141320810.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 14:13:20 +0000"
+   },
+   {
     "title": "Broadcom to lend Anthropic $42 billion in finance infrastructure spending",
     "link": "https://finance.yahoo.com/video/broadcom-lend-anthropic-42-billion-133805147.html?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 13:38:05 +0000"
-   },
-   {
-    "title": "Anthropic and Broadcom Are Becoming More Intertwined. What It Means for Broadcom Stock.",
-    "link": "https://finance.yahoo.com/m/ea49aba6-700c-36b3-aecb-a1ee3f6dbcd8/anthropic-and-broadcom-are.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:11:00 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-rides-ai-optimism-170940802.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 17:09:40 +0000"
+   },
+   {
     "title": "3 Top AI Stocks for October",
     "link": "https://www.fool.com/investing/2026/10/01/3-top-ai-stocks-for-october/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 14:35:00 +0000"
@@ -79,28 +84,23 @@
     "title": "Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech.",
     "link": "https://www.fool.com/investing/2026/10/01/not-intel-not-nvidia-these-2-chip-stocks-hold-an-u/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 12:52:00 +0000"
-   },
-   {
-    "title": "Intel Surges 222% in a Year: Should Investors Join the Bandwagon?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-surges-222-investors-join-124900941.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 12:49:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron keeps surging as AI demand show no signs of slowing",
-    "link": "https://finance.yahoo.com/video/micron-keeps-surging-ai-demand-145300442.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:53:00 +0000"
+    "title": "Micron CFO: No 'line of sight' for when memory shortage will end",
+    "link": "https://finance.yahoo.com/technology/article/micron-cfo-no-line-of-sight-for-when-memory-shortage-will-end-165934130.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 16:59:34 +0000"
    },
    {
-    "title": "Make sure to smell the roses and appreciate Micron's awesome quarter",
-    "link": "https://finance.yahoo.com/video/sure-smell-roses-appreciate-microns-143241690.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:32:41 +0000"
+    "title": "Stock Market Today: Nasdaq Gains As Micron Reverses Higher; This Retail Name Breaks Out (Live Coverage)",
+    "link": "https://finance.yahoo.com/m/5f6e8554-d4a8-3f1c-bce8-2f5074e2e587/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 19:14:45 +0000"
    },
    {
-    "title": "10-Year Treasury yield touches highest level since 2002: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-touches-highest-level-since-2002-alphacheck-135255038.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 13:52:55 +0000"
+    "title": "Stocks Fall as Treasury Selloff Flips",
+    "link": "https://www.wsj.com/finance/ai-stock-rally-checked-by-relentless-treasury-selloff-c434b12e?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 19:03:00 +0000"
    }
   ],
   "SNDK": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "3 Stocks With Accelerating Earnings Poised to Soar in October",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-accelerating-earnings-poised-180000895.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 18:00:00 +0000"
+   },
+   {
     "title": "Micron Slips 3% Despite Record Quarter and Above-Consensus Guidance; Western Digital Dips, SK Hynix Drifts",
     "link": "https://247wallst.com/investing/2026/10/01/micron-slips-3-despite-record-quarter-and-above-consensus-guidance-western-digital-dips-sk-hynix-drifts/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 14:16:36 +0000"
@@ -130,14 +135,14 @@
     "title": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-attracting-120002701.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 12:00:02 +0000"
-   },
-   {
-    "title": "Western Digital Stock And 2 More AI Infrastructure Stocks To Own",
-    "link": "https://finance.yahoo.com/technology/ai/articles/western-digital-stock-2-more-111228046.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 11:12:28 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "AI Needs Massive Storage. Seagate Is Ready",
+    "link": "https://247wallst.com/investing/2026/10/01/ai-needs-massive-storage-seagate-is-ready/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 15:30:29 +0000"
+   },
    {
     "title": "The Zacks Analyst Blog Highlights Seagate, Western Digital, Micron and Sandisk",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-061400412.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Is Seagate Stock a Buy, Hold, or Sell Above $900?",
     "link": "https://247wallst.com/investing/2026/09/27/is-seagate-stock-a-buy-hold-or-sell-above-900/?.tsrc=rss",
     "pubDate": "Sun, 27 Sep 2026 20:00:28 +0000"
-   },
-   {
-    "title": "Seagate Stock Has a Bigger AI Connection Than You Might Think",
-    "link": "https://247wallst.com/investing/2026/09/24/seagate-stock-has-a-bigger-ai-connection-than-you-might-think/?.tsrc=rss",
-    "pubDate": "Thu, 24 Sep 2026 17:30:15 +0000"
    }
   ],
   "SOXX": [
@@ -161,14 +161,14 @@
     "pubDate": "Thu, 01 Oct 2026 07:31:40 +0000"
    },
    {
+    "title": "AI Uncertainty Is Rising, But These 3 Chip ETFs Still Have Momentum",
+    "link": "https://www.marketbeat.com/articles/ai-uncertainty-is-rising-but-these-3-chip-etfs-still-have-momentum/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 15:00:00 +0000"
+   },
+   {
     "title": "If You'd Invested $5,000 in the iShares Semiconductor ETF the Day It Launched, Here's Exactly What You'd Have Today",
     "link": "https://www.fool.com/investing/2026/09/29/if-invest-5k-ishares-semiconductor-etf/?.tsrc=rss",
     "pubDate": "Tue, 29 Sep 2026 14:05:00 +0000"
-   },
-   {
-    "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-    "link": "https://247wallst.com/investing/2026/09/30/intel-rises-3-as-chip-contender-caps-off-surprisingly-strong-september-nvidia-ticks-up-amd-slips/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 16:29:13 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
+    "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-171345834.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 17:13:45 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132230485.html?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 13:22:30 +0000"
@@ -198,28 +203,23 @@
     "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-higher-us-171614405.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 17:16:14 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132034377.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 13:20:34 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Forget Waiting Three Months for SPY\u2019s Dividend. Invesco\u2019s High-Dividend Fund Pays Every Month",
-    "link": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:06:29 +0000"
-   },
-   {
-    "title": "Wall Street Now Sells 11 Weekly-Pay ETFs. Only Three Have Beaten the S&P. Here They Are",
-    "link": "https://247wallst.com/investing/etf/2026/09/30/wall-street-now-sells-11-weekly-pay-etfs-only-three-have-beaten-the-sp-here-they-are/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 21:35:03 +0000"
-   },
-   {
     "title": "Accenture Soars 23% as Record Bookings Dispel AI Demand Fears; Infosys Jumps 8%, IBM Climbs 5%",
     "link": "https://247wallst.com/investing/2026/10/01/accenture-soars-23-as-record-bookings-dispel-ai-demand-fears-infosys-jumps-8-ibm-climbs-5/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 14:11:18 +0000"
+   },
+   {
+    "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132230485.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 13:22:30 +0000"
+   },
+   {
+    "title": "Tesla Is Down 20% in 2026. These Two Other EV Makers Are Doing Even Worse.",
+    "link": "https://247wallst.com/investing/2026/10/01/tesla-is-down-20-in-2026-these-two-other-ev-makers-are-doing-even-worse/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 19:13:17 +0000"
    }
   ]
  },

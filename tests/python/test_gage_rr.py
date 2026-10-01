@@ -188,3 +188,59 @@ def test_panel_emits_no_direction_or_recommendation(workdir):
     for row in out["panel"].values():
         assert not banned & set(row) and not banned & set(row["kpis"])
     assert "forecast" in out["note"] and "advice" in out["note"]
+
+
+# ------------------------------------------- the transport production uses
+
+def closes_only(n=200, seed=3):
+    """What update_quotes.fetch_closes actually returns: (date, close).
+
+    sector_depth feeds kpi_panel from THIS, not from fetch_ohlcv. The
+    original tests used 3-tuples only, so an IndexError ran in production
+    for eight weeks while the suite stayed green.
+    """
+    rng = random.Random(seed)
+    px, out = 100.0, []
+    for i in range(n):
+        px *= (1 + rng.gauss(0.0004, 0.015))
+        out.append((f"d{i:04d}", round(px, 4)))
+    return out
+
+
+def test_measure_accepts_two_tuples_from_fetch_closes():
+    """The regression. Before the fix this raised IndexError."""
+    kp = load("kpi_panel")
+    row = kp.measure(closes_only())
+    assert row["kpis"]["vol_30d"] is not None
+    assert row["kpis"]["trend_r2_90d"] is not None
+    assert row["kpis"]["max_drawdown_90d"] is not None
+    # volume was never supplied, so the one volume KPI reports null
+    assert row["kpis"]["volume_surge"] is None
+    assert row["returns"]["r30"] is not None
+
+
+def test_missing_volume_is_null_not_zero():
+    """'not measured' and 'no surge' are different facts; conflating them
+    would put a fabricated 0 into a ranking."""
+    kp = load("kpi_panel")
+    assert kp.measure(closes_only())["kpis"]["volume_surge"] is None
+
+
+def test_panel_builds_end_to_end_from_closes_only(workdir):
+    kp = load("kpi_panel")
+    hist = {f"T{i}": closes_only(seed=i) for i in range(5)}
+    assert kp.main({"yahoo-fallback": hist}, names={}) in (0, 1)
+    out = json.loads(Path("data/kpi_panel.json").read_text())
+    assert out["tickers"] == 5
+    assert Path("data/gage_rr.json").exists()
+
+
+def test_the_exact_call_sector_depth_makes(workdir):
+    """Mirrors scripts/sector_depth.py's own invocation, so this fails if
+    that wiring drifts from what kpi_panel accepts."""
+    kp = load("kpi_panel")
+    histories = {f"T{i}": closes_only(seed=i) for i in range(4)}
+    rc = kp.main({"stooq": histories},
+                 names={f"T{i}": f"Name {i}" for i in range(4)})
+    assert rc in (0, 1)
+    assert Path("data/kpi_panel.json").exists()

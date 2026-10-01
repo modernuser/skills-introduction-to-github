@@ -184,6 +184,17 @@ def main() -> int:
                 f"52-week ranges missing on {expected - present}/{expected} "
                 "tiles — the price source is not supplying enough history")
 
+    missing = health.get("missing_unexpected") or []
+    if missing:
+        # Sep 2026: kpi_panel and gage_rr were absent for eight weeks.
+        # health.json recorded them as "missing" the whole time and still
+        # reported overall "ok", because only "stale" counted. A check
+        # that sees the fault but does not raise it is not a check.
+        findings.append(
+            f"expected data file(s) never produced: {', '.join(missing)} — "
+            "check the generating step's stderr; a best-effort step that "
+            "fails silently leaves no other trace")
+
     if published.get("checked") and not published.get("ok", True):
         findings.append(
             "PUBLISHED DATA IS STALE — the site is serving "

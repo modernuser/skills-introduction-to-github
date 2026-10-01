@@ -71,7 +71,11 @@ def test_health_report_written(workdir):
     assert h["files"]["quotes"]["status"] == "ok"
     assert h["files"]["quotes"]["records"] == 35
     assert h["files"]["news"]["status"] == "missing"
-    assert h["overall"] == "ok"
+    # A missing expected file is a fault, not a shrug. Until Sep 2026 only
+    # "stale" counted toward `overall`, so kpi_panel and gage_rr were absent
+    # for eight weeks while health reported "ok" every single run.
+    assert h["overall"] == "degraded"
+    assert "news" in h["missing_unexpected"]
     assert "generated" in h and "duration_ms" in h
 
 
@@ -101,3 +105,20 @@ def test_accepts_wellformed_sector_depth(workdir):
     assert run_validator() == 0
     h = json.loads(Path("data/health.json").read_text())
     assert h["files"]["sector_depth"]["records"] == 2
+
+
+def test_session_gated_file_absence_is_never_a_fault(workdir):
+    """extended.json exists only once a pre/after session has printed, so
+    its absence must never appear as a fault — an alarm that cries wolf
+    stops being read, which is how the real one got ignored."""
+    import datetime
+    vd = load("validate_data")
+    assert "extended" in vd.OPTIONAL_FILES
+    write_quotes(fabricated_quotes(date=datetime.date.today().isoformat()))
+    assert run_validator() == 0
+    h = json.loads(Path("data/health.json").read_text())
+    assert h["files"]["extended"]["status"] == "missing"
+    assert "extended" not in h["missing_unexpected"]
+    # ...while a genuinely unexpected absence IS reported.
+    assert "kpi_panel" in h["missing_unexpected"]
+    assert "gage_rr" in h["missing_unexpected"]

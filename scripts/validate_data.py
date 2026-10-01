@@ -18,6 +18,11 @@ from atomic import write_json
 from market_session import describe, last_session_close
 
 MAX_QUOTE_AGE_DAYS = 6  # stooq date can lag a long weekend, never a week
+# Absent for legitimate reasons: extended.json exists only once a pre/
+# after-hours session has produced a print. Everything else missing is a
+# fault — Sep 2026, kpi_panel and gage_rr were absent for eight weeks
+# while `overall` stayed "ok", because only "stale" counted.
+OPTIONAL_FILES = {"extended"}
 STALE_AGE_DAYS = 4      # fallback; session-aware check below is primary
 
 
@@ -77,8 +82,13 @@ def write_health(q, newest, started) -> None:
         "week52_ranges": {"present": q.get("ranges_present"),
                           "expected": q.get("ranges_expected")},
         "files": files,
+        "missing_unexpected": sorted(
+            name for name, v in files.items()
+            if v.get("status") == "missing" and name not in OPTIONAL_FILES),
         "overall": ("degraded"
                     if any(v["status"] == "stale" for v in files.values())
+                    or any(v.get("status") == "missing" and n not in OPTIONAL_FILES
+                           for n, v in files.items())
                     or q.get("errors") else "ok"),
     }, indent=1)
 

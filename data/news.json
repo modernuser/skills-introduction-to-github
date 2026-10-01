@@ -1,24 +1,29 @@
 {
- "updated": "2026-10-01T19:31:34Z",
+ "updated": "2026-10-01T23:26:29Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why Nvidia\u2019s \u2018circular financing\u2019 is a masterclass in ROI",
-    "link": "https://finance.yahoo.com/video/why-nvidia-circular-financing-masterclass-180900111.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:09:00 +0000"
+    "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
+    "link": "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:50:00 +0000"
    },
    {
-    "title": "Should You Buy Nvidia Stock in October? What Its Decade-Low Valuation Signals",
-    "link": "https://www.fool.com/investing/2026/10/01/should-you-buy-nvidia-stock-in-october-what-its-de/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:50:00 +0000"
+    "title": "What Is the Worst-Performing \"Magnificent Seven\" Stock in 2026?",
+    "link": "https://www.fool.com/investing/2026/10/01/worst-performing-magnificent-seven-stock-2026/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:25:00 +0000"
    },
    {
-    "title": "Is NVIDIA Stock Increasing Your Market Risk?",
-    "link": "https://www.trefis.com/articles/617293/is-nvidia-stock-increasing-your-market-risk/2026-10-01?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 18:05:59 +0000"
+    "title": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-gets-fair-220550617.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:05:50 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Applied Materials vs. AMD: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 19:28:01 +0000"
+   },
    {
     "title": "Advanced Micro Devices (AMD) Benefit from Surging CPU Demand in Autonomous AI",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-benefit-174606152.html?.tsrc=rss",
@@ -28,19 +33,9 @@
     "title": "AMD Just Bought the Research That Defines What Its Chips Are For",
     "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-bought-research-defines-174221101.html?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 17:42:21 +0000"
-   },
-   {
-    "title": "Advanced Micro Devices (AMD) Could Be 33% Undervalued Following Its World Labs Deal",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-could-171050511.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 17:10:50 +0000"
    }
   ],
   "AVGO": [
-   {
-    "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal",
-    "link": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 12:16:17 +0000"
-   },
    {
     "title": "Broadcom lends Anthropic $42B, Nike releases Caitlin 1s, and Micron earnings takeaways",
     "link": "https://finance.yahoo.com/video/broadcom-lends-anthropic-42b-nike-141320810.html?.tsrc=rss",
@@ -50,26 +45,36 @@
     "title": "Broadcom to lend Anthropic $42 billion in finance infrastructure spending",
     "link": "https://finance.yahoo.com/video/broadcom-lend-anthropic-42-billion-133805147.html?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 13:38:05 +0000"
+   },
+   {
+    "title": "Anthropic and Broadcom Are Becoming More Intertwined. What It Means for Broadcom Stock.",
+    "link": "https://finance.yahoo.com/m/ea49aba6-700c-36b3-aecb-a1ee3f6dbcd8/anthropic-and-broadcom-are.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 19:13:00 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
+    "link": "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:50:00 +0000"
+   },
+   {
+    "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/01/intel-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:20:01 +0000"
+   },
+   {
     "title": "TSMC mulls multibillion-dollar chip manufacturing campus in Texas",
     "link": "https://qz.com/tsmc-texas-chip-campus-expansion-100126?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 13:53:54 +0000"
-   },
-   {
-    "title": "TSMC considers investment in Texas \u2013 report",
-    "link": "https://www.investmentmonitor.ai/news/tsmc-weighs-investment-texas/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 13:45:46 +0000"
-   },
-   {
-    "title": "TSMC Mulls Multibillion-Dollar Texas Campus for More AI Chips",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-mulls-multibillion-dollar-texas-102454782.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 10:24:54 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/01/intel-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 22:20:01 +0000"
+   },
    {
     "title": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-rides-ai-optimism-170940802.html?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "3 Top AI Stocks for October",
     "link": "https://www.fool.com/investing/2026/10/01/3-top-ai-stocks-for-october/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 14:35:00 +0000"
-   },
-   {
-    "title": "Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech.",
-    "link": "https://www.fool.com/investing/2026/10/01/not-intel-not-nvidia-these-2-chip-stocks-hold-an-u/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 12:52:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron CFO: No 'line of sight' for when memory shortage will end",
-    "link": "https://finance.yahoo.com/technology/article/micron-cfo-no-line-of-sight-for-when-memory-shortage-will-end-165934130.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 16:59:34 +0000"
+    "title": "Should Apple join the consumer AI agent race? And should Big Tech self-police on AI?",
+    "link": "https://finance.yahoo.com/video/apple-join-consumer-ai-agent-182722480.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 18:27:22 +0000"
    },
    {
-    "title": "Stock Market Today: Nasdaq Gains As Micron Reverses Higher; This Retail Name Breaks Out (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/5f6e8554-d4a8-3f1c-bce8-2f5074e2e587/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 19:14:45 +0000"
+    "title": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
+    "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 23:13:33 +0000"
    },
    {
-    "title": "Stocks Fall as Treasury Selloff Flips",
-    "link": "https://www.wsj.com/finance/ai-stock-rally-checked-by-relentless-treasury-selloff-c434b12e?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 19:03:00 +0000"
+    "title": "Micron's Bull Run Isn't Over",
+    "link": "https://www.fool.com/investing/2026/10/01/micron-s-bull-run-isn-t-over/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 21:05:01 +0000"
    }
   ],
   "SNDK": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "Western Digital (WDC) Exceeds Market Returns: Some Facts to Consider",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-exceeds-market-210007330.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 21:00:07 +0000"
+   },
+   {
     "title": "3 Stocks With Accelerating Earnings Poised to Soar in October",
     "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-accelerating-earnings-poised-180000895.html?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 18:00:00 +0000"
@@ -130,11 +135,6 @@
     "title": "Micron Slips 3% Despite Record Quarter and Above-Consensus Guidance; Western Digital Dips, SK Hynix Drifts",
     "link": "https://247wallst.com/investing/2026/10/01/micron-slips-3-despite-record-quarter-and-above-consensus-guidance-western-digital-dips-sk-hynix-drifts/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 14:16:36 +0000"
-   },
-   {
-    "title": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-attracting-120002701.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 12:00:02 +0000"
    }
   ],
   "STX": [

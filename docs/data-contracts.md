@@ -214,7 +214,8 @@ results: `docs/msa-protocol.md`.
 
 ## health.json
 ```
-{ generated, duration_ms, source_errors: [str], overall: ok|degraded,
+{ generated, duration_ms, source_errors: [str],
+  missing_unexpected: [str], overall: ok|degraded,
   files: { quotes|news|movers|rotation|portfolios:
            { present, status: ok|stale|missing, records?, updated?,
              newest_record_age_days? } } }

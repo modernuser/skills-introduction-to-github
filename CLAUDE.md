@@ -114,7 +114,22 @@ framed. Offer data-display alternatives instead.
    in-sample `min_r2` gate: one adds noise columns, the other deletes
    rows. Before adopting an acceptance rule, ask what result would make
    it FAIL — if nothing would, it measures nothing.
-18. **Measure claims, don't repeat them.** The site said "every 20 min"
+19. **"Best-effort" must still be observable.** Sep 2026: the kpi_panel
+   step inside sector_depth.py raised `IndexError` on every scheduled run
+   for eight weeks. It was wrapped in try/except printing to stderr, and
+   nobody reads stderr on a green run. health.json recorded both output
+   files as "missing" the entire time and still reported `overall: ok`,
+   because only "stale" counted. Wrapping a step so it cannot break the
+   job is correct; leaving its failure with no path to an alarm is not.
+   `missing_unexpected` now degrades health and raises a daily-ops finding.
+20. **Match the tuple shape of the producer, not the one you imagined.**
+   Same bug: `kpi_panel` was written for `fetch_ohlcv`'s
+   `(date, close, volume)` and wired to `fetch_closes`'s `(date, close)`.
+   The tests used synthetic 3-tuples and stayed green for eight weeks.
+   This is rule 6 and rule 8 together — when a function consumes another
+   function's output, at least one test must feed it the REAL producer's
+   shape.
+21. **Measure claims, don't repeat them.** The site said "every 20 min"
    because the cron said so; run history showed ~6 fires/day (GitHub
    throttles busy cron slots). Copy must describe observed behavior.
 

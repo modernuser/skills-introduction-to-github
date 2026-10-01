@@ -158,3 +158,25 @@ def test_full_range_coverage_is_silent(workdir, monkeypatch):
     monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
 
     assert do.main() == 0
+
+
+def test_unexpectedly_missing_files_raise_a_finding(workdir, monkeypatch):
+    """The eight-week silence: health recorded kpi_panel/gage_rr missing
+    on every run and still reported ok, so nothing ever surfaced it."""
+    import json as _json
+    from pathlib import Path as _P
+    do = load("daily_ops")
+    monkeypatch.setattr(do, "run_tests", lambda: {
+        "passed": 1, "failed": 0, "ok": True, "summary": "1 passed"})
+    monkeypatch.setattr(do, "check_published_freshness", lambda branch="data": {
+        "checked": False, "reason": "skipped"})
+    _P("data").mkdir(exist_ok=True)
+    _P("data/health.json").write_text(_json.dumps({
+        "overall": "degraded", "files": {},
+        "missing_unexpected": ["gage_rr", "kpi_panel"]}))
+    import sys
+    monkeypatch.setattr(sys, "argv", ["daily_ops.py"])
+
+    assert do.main() == 1
+    body = next(_P("reports/daily").glob("*.md")).read_text()
+    assert "never produced: gage_rr, kpi_panel" in body

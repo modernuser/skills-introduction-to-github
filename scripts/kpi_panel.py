@@ -98,10 +98,21 @@ def window_returns(closes: list[float]) -> dict:
     return out
 
 
-def measure(bars: list[tuple[str, float, float]]) -> dict:
-    """All five KPIs plus the window returns for one ticker."""
+def measure(bars) -> dict:
+    """All five KPIs plus the window returns for one ticker.
+
+    Accepts BOTH shapes the pipeline produces:
+      (date, close)          update_quotes.fetch_closes  — no volume
+      (date, close, volume)  market_data.fetch_ohlcv
+
+    Sep 2026: this was written for 3-tuples and wired to the 2-tuple
+    source, so every scheduled run raised IndexError for eight weeks
+    while the tests passed on synthetic 3-tuples. Volume is optional
+    here; the one volume-dependent KPI reports null rather than taking
+    the whole panel down with it.
+    """
     closes = [b[1] for b in bars]
-    volumes = [b[2] for b in bars]
+    volumes = [b[2] for b in bars if len(b) > 2]
     trend = trend_fit(closes[-TREND_WINDOW:]) or {}
     return {
         "as_of": bars[-1][0] if bars else None,
@@ -112,7 +123,9 @@ def measure(bars: list[tuple[str, float, float]]) -> dict:
             "trend_r2_90d": trend.get("r2"),
             "slope_annual_pct": trend.get("slope_annual_pct"),
             "max_drawdown_90d": max_drawdown(closes),
-            "volume_surge": volume_surge(volumes),
+            # None when the source carried no volume column, never 0 —
+            # "not measured" and "no surge" are different facts.
+            "volume_surge": volume_surge(volumes) if volumes else None,
         },
         "returns": window_returns(closes),
     }

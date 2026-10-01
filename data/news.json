@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-30T23:09:52Z",
+ "updated": "2026-10-01T00:35:44Z",
  "news": {
   "NVDA": [
    {
-    "title": "Why today's headwinds could set up a major stock rally in coming months",
-    "link": "https://finance.yahoo.com/video/why-todays-headwinds-could-set-210000474.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 21:00:00 +0000"
+    "title": "Nvidia Could Have a Monster October. Here's Why.",
+    "link": "https://www.fool.com/investing/2026/09/30/nvidia-could-have-a-monster-october-heres-why/?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:23:00 +0000"
+   },
+   {
+    "title": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
+    "link": "https://www.fool.com/investing/2026/09/30/nvidia-broadcom-and-amd-investors-need-to-have-oct/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:04:00 +0000"
    },
    {
     "title": "Nvidia Stock Can Top $400 in 5 Years If One Assumption Holds Up",
     "link": "https://www.fool.com/investing/2026/09/30/nvidia-stock-can-top-usd400-in-5-years-if-one-assumption-holds-up/?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 22:37:01 +0000"
-   },
-   {
-    "title": "Nvidia's record buyback exposes strange Wall Street gap",
-    "link": "https://www.thestreet.com/investing/nvidias-record-buyback-exposes-strange-wall-street-gap?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 22:32:00 +0000"
    }
   ],
   "AMD": [
    {
     "title": "HPE CFO discusses $1.2B deal with Vultr to deploy AMD Helios AI racks",
-    "link": "https://finance.yahoo.com/video/hpe-cfo-discusses-12b-deal-with-vultr-to-deploy-amd-helios-ai-racks-194217758.html?.tsrc=rss",
+    "link": "https://finance.yahoo.com/video/hpe-cfo-discusses-1-2b-194217758.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 19:42:17 +0000"
+   },
+   {
+    "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+    "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:13:07 +0000"
    },
    {
     "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/09/30/advanced-micro-devices-vs-arm-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 23:00:09 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-    "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 22:57:19 +0000"
    }
   ],
   "AVGO": [
@@ -93,20 +93,20 @@
     "pubDate": "Wed, 30 Sep 2026 20:46:00 +0000"
    },
    {
-    "title": "Micron Technology Q4 Earnings Call Highlights",
-    "link": "https://www.marketbeat.com/instant-alerts/transcript-micron-technology-q4-earnings-call-highlights-2026-09-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 23:02:39 +0000"
-   },
-   {
     "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
     "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 22:57:19 +0000"
+    "pubDate": "Thu, 01 Oct 2026 00:13:07 +0000"
+   },
+   {
+    "title": "Micron\u2019s Revenue More Than Quadrupled. Here\u2019s What Comes Next for the AI Chipmaker.",
+    "link": "https://www.fool.com/investing/2026/09/30/microns-revenue-more-than-quadrupled-heres-what-comes-next-for-the-ai-chipmaker/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:14:01 +0000"
    }
   ],
   "SNDK": [
    {
     "title": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
-    "link": "https://finance.yahoo.com/video/jensen-huangs-biggest-q3-moves-rubrik-ceo-talks-tech--cybersecurity-150732044.html?.tsrc=rss",
+    "link": "https://finance.yahoo.com/video/jensen-huangs-biggest-q3-moves-150732044.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 15:07:32 +0000"
    },
    {
@@ -116,7 +116,7 @@
    },
    {
     "title": "Micron is crushing it, but so is SanDisk. So why are they still underestimated?",
-    "link": "https://finance.yahoo.com/video/micron-is-crushing-it-but-so-is-sandisk-so-why-are-they-still-underestimated-142425792.html?.tsrc=rss",
+    "link": "https://finance.yahoo.com/video/micron-crushing-sandisk-why-still-142425792.html?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 14:24:25 +0000"
    }
   ],
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Forget Waiting Three Months for SPY\u2019s Dividend. Invesco\u2019s High-Dividend Fund Pays Every Month",
+    "link": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/?.tsrc=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:06:29 +0000"
+   },
+   {
     "title": "Wall Street Now Sells 11 Weekly-Pay ETFs. Only Three Have Beaten the S&P. Here They Are",
     "link": "https://247wallst.com/investing/etf/2026/09/30/wall-street-now-sells-11-weekly-pay-etfs-only-three-have-beaten-the-sp-here-they-are/?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 21:35:03 +0000"
@@ -215,11 +220,6 @@
     "title": "Which Airline Stock Dominated in September: American, United, or Delta?",
     "link": "https://247wallst.com/investing/2026/09/30/which-airline-stock-dominated-in-september-american-united-or-delta/?.tsrc=rss",
     "pubDate": "Wed, 30 Sep 2026 19:03:40 +0000"
-   },
-   {
-    "title": "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-    "link": "https://247wallst.com/investing/2026/09/30/mp-materials-surges-6-as-traders-weigh-critical-minerals-growth-story-usa-rare-earth-rises-3-critical-metals-stays-flat/?.tsrc=rss",
-    "pubDate": "Wed, 30 Sep 2026 17:56:22 +0000"
    }
   ]
  },

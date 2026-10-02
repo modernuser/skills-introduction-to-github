@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-02T00:52:00Z",
+ "updated": "2026-10-02T05:34:01Z",
  "news": {
   "NVDA": [
    {
-    "title": "Is Nvidia a good long-term buy? Why its massive size may not matter",
-    "link": "https://www.thestreet.com/investing/is-nvidia-a-good-long-term-buy-why-its-massive-size-may-not-matter?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:55:24 +0000"
+    "title": "Amazon seeks to offload $8 bln of Nvidia chips to investors- FT",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-seeks-offload-8-bln-044847290.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 04:48:47 +0000"
    },
    {
-    "title": "History Says a Market Crash Would Be a Buying Opportunity for These 2 Industrial Stocks",
-    "link": "https://www.fool.com/investing/2026/10/01/history-says-a-market-crash-would-be-a-buying-oppo/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:50:00 +0000"
+    "title": "Here's My Top AI Stock to Buy in October",
+    "link": "https://www.fool.com/investing/2026/10/01/heres-my-top-ai-stock-to-buy-in-october/?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 03:20:00 +0000"
    },
    {
-    "title": "SpaceX's Terafab Will Be Bigger Than Any Building on Earth. Here's When Investors Will Profit.",
-    "link": "https://www.fool.com/investing/2026/10/01/spacexs-chip-fab-will-be-bigger-than-any-building/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:25:00 +0000"
+    "title": "Tesla Is the Only Magnificent Seven Stock in the Red for 2026",
+    "link": "https://www.fool.com/investing/2026/10/01/tesla-is-the-only-magnificent-seven-stock-in-the-red-for-2026/?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 02:57:01 +0000"
    }
   ],
   "AMD": [
@@ -47,12 +47,17 @@
     "pubDate": "Thu, 01 Oct 2026 13:38:05 +0000"
    },
    {
-    "title": "Anthropic and Broadcom Are Becoming More Intertwined. What It Means for Broadcom Stock.",
-    "link": "https://finance.yahoo.com/m/ea49aba6-700c-36b3-aecb-a1ee3f6dbcd8/anthropic-and-broadcom-are.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 19:13:00 +0000"
+    "title": "Broadcom starts amassing $60 bln to fund chips for Anthropic- Bloomberg",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-starts-amassing-60-bln-050839573.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 05:08:39 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Taiwan Semiconductor Manufacturing (TSM), Why Is Fresh Attention Building Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-why-051154839.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 05:11:54 +0000"
+   },
    {
     "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
     "link": "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/?.tsrc=rss",
@@ -62,62 +67,57 @@
     "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/10/01/intel-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 22:20:01 +0000"
-   },
-   {
-    "title": "TSMC mulls multibillion-dollar chip manufacturing campus in Texas",
-    "link": "https://qz.com/tsmc-texas-chip-campus-expansion-100126?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 13:53:54 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Ex-Intel CEO urges New Mexico to embrace tech revolution amid quantum push",
+    "link": "https://www.abqjournal.com/business/ex-intel-ceo-urges-new-mexico-to-embrace-tech-revolution-amid-quantum-push/3133396?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 03:06:00 +0000"
+   },
+   {
+    "title": "Trump Reportedly Says Government 'Might' Take a Stake in OpenAI, Anthropic, Just Like It Did With Intel: 'I Have Many Deals Like That'",
+    "link": "https://finance.yahoo.com/technology/ai/articles/trump-reportedly-says-government-might-015421566.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 01:54:21 +0000"
+   },
+   {
     "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/10/01/intel-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 22:20:01 +0000"
-   },
-   {
-    "title": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-rides-ai-optimism-170940802.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 17:09:40 +0000"
-   },
-   {
-    "title": "3 Top AI Stocks for October",
-    "link": "https://www.fool.com/investing/2026/10/01/3-top-ai-stocks-for-october/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 14:35:00 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron Says Memory Supply Will Be Much Tighter in 2028. Sandisk's Contracts Limit How Much It Can Gain.",
+    "link": "https://www.fool.com/investing/2026/10/01/micron-says-memory-supply-will-be-much-tighter-in-2028-sandisk-s-contracts-limit-how-much-it-can-gain/?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 03:58:02 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",
     "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html?.tsrc=rss",
-    "pubDate": "Fri, 02 Oct 2026 00:38:32 +0000"
+    "pubDate": "Fri, 02 Oct 2026 03:03:28 +0000"
    },
    {
-    "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields \u2014 GOOGL, MU, MAT, NVDA In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-cheer-cooling-yields-googl-mu-mat-nvda-in-focus/cZD0mZmRB01?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 23:27:59 +0000"
-   },
-   {
-    "title": "Micron's Bull Run Isn't Over",
-    "link": "https://www.fool.com/investing/2026/10/01/micron-s-bull-run-isn-t-over/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 21:05:01 +0000"
+    "title": "Elon Musk Says Cutting Optimus Memory Was Tesla's 'Only Way' to Scale, As Micron Says Humanoid Robots Need 200GB+ of Memory Each",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-cutting-optimus-030226823.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 03:02:26 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Micron Says Memory Supply Will Be Much Tighter in 2028. Sandisk's Contracts Limit How Much It Can Gain.",
+    "link": "https://www.fool.com/investing/2026/10/01/micron-says-memory-supply-will-be-much-tighter-in-2028-sandisk-s-contracts-limit-how-much-it-can-gain/?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 03:58:02 +0000"
+   },
+   {
+    "title": "SanDisk (SNDK) vs. Seagate (STX): Which Storage Stock Is the Better Buy Right Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-vs-seagate-stx-025905868.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 02:59:05 +0000"
+   },
+   {
     "title": "Why Did SanDisk Stock Jump?",
     "link": "https://www.trefis.com/articles/617143/why-did-sandisk-stock-jump/2026-10-01?.tsrc=rss",
     "pubDate": "Fri, 02 Oct 2026 00:01:58 +0000"
-   },
-   {
-    "title": "Play Sandisk Correctly As It Moves Sideways And Slightly Upward",
-    "link": "https://247wallst.com/investing/2026/10/01/play-sandisk-correctly-as-it-moves-sideways-and-slightly-upward/?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 12:45:13 +0000"
-   },
-   {
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Thursday; Alphabet, Sandisk to Advance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103407953.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 10:34:07 +0000"
    }
   ],
   "WDC": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "SanDisk (SNDK) vs. Seagate (STX): Which Storage Stock Is the Better Buy Right Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-vs-seagate-stx-025905868.html?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 02:59:05 +0000"
+   },
+   {
     "title": "AI Needs Massive Storage. Seagate Is Ready",
     "link": "https://247wallst.com/investing/2026/10/01/ai-needs-massive-storage-seagate-is-ready/?.tsrc=rss",
     "pubDate": "Thu, 01 Oct 2026 15:30:29 +0000"
@@ -147,11 +152,6 @@
     "title": "The Zacks Analyst Blog Highlights Seagate, Western Digital, Micron and Sandisk",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-061400412.html?.tsrc=rss",
     "pubDate": "Tue, 29 Sep 2026 06:14:00 +0000"
-   },
-   {
-    "title": "Is Seagate Stock a Buy, Hold, or Sell Above $900?",
-    "link": "https://247wallst.com/investing/2026/09/27/is-seagate-stock-a-buy-hold-or-sell-above-900/?.tsrc=rss",
-    "pubDate": "Sun, 27 Sep 2026 20:00:28 +0000"
    }
   ],
   "SOXX": [
@@ -217,9 +217,9 @@
     "pubDate": "Thu, 01 Oct 2026 14:11:18 +0000"
    },
    {
-    "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132230485.html?.tsrc=rss",
-    "pubDate": "Thu, 01 Oct 2026 13:22:30 +0000"
+    "title": "The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names",
+    "link": "https://247wallst.com/investing/etf/2026/10/01/the-hidden-cost-of-owning-every-stock-167050-of-a-500000-vti-position-sits-in-its-top-ten-names/?.tsrc=rss",
+    "pubDate": "Fri, 02 Oct 2026 00:33:42 +0000"
    }
   ]
  },

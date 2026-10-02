@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-01T05:49:14Z",
- "coverage": 464,
+ "updated": "2026-10-02T05:34:06Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "CCL",
-   "name": "Carnival Corporation",
-   "sector": "Consumer Discretionary",
-   "close": 25.11,
-   "pct": 13.41
+   "symbol": "ACN",
+   "name": "Accenture",
+   "sector": "Information Technology",
+   "close": 212.3,
+   "pct": 19.86
   },
   {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 291.25,
-   "pct": 10.8
+   "symbol": "SNPS",
+   "name": "Synopsys",
+   "sector": "Information Technology",
+   "close": 490.54,
+   "pct": 18.18
   },
   {
-   "symbol": "RCL",
-   "name": "Royal Caribbean Group",
-   "sector": "Consumer Discretionary",
-   "close": 260.67,
-   "pct": 7.45
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 319.19,
+   "pct": 9.23
+  },
+  {
+   "symbol": "CDNS",
+   "name": "Cadence Design Systems",
+   "sector": "Information Technology",
+   "close": 350.73,
+   "pct": 8.19
   },
   {
    "symbol": "LITE",
    "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 973.49,
-   "pct": 5.66
+   "close": 1045.78,
+   "pct": 7.43
   },
   {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "close": 63.62,
-   "pct": 5.21
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "close": 420.15,
+   "pct": 7.17
   },
   {
-   "symbol": "AMAT",
-   "name": "Applied Materials",
+   "symbol": "CTSH",
+   "name": "Cognizant",
    "sector": "Information Technology",
-   "close": 512.01,
-   "pct": 5.19
+   "close": 60.88,
+   "pct": 7.11
   },
-  {
-   "symbol": "DASH",
-   "name": "DoorDash",
-   "sector": "Consumer Discretionary",
-   "close": 187.1,
-   "pct": 4.88
-  },
-  {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
-   "sector": "Information Technology",
-   "close": 158.71,
-   "pct": 4.7
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 263.27,
-   "pct": 4.51
-  },
-  {
-   "symbol": "EIX",
-   "name": "Edison International",
-   "sector": "Utilities",
-   "close": 53.56,
-   "pct": 4.06
-  }
- ],
- "losers": [
   {
    "symbol": "FICO",
    "name": "Fair Isaac",
    "sector": "Information Technology",
-   "close": 617.87,
-   "pct": -26.52
+   "close": 661.75,
+   "pct": 7.1
   },
   {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
-   "sector": "Materials",
-   "close": 221.9,
-   "pct": -3.69
-  },
-  {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 96.87,
-   "pct": -3.69
-  },
-  {
-   "symbol": "EFX",
-   "name": "Equifax",
-   "sector": "Industrials",
-   "close": 140.83,
-   "pct": -3.4
-  },
-  {
-   "symbol": "NUE",
-   "name": "Nucor",
-   "sector": "Materials",
-   "close": 236.24,
-   "pct": -3.37
-  },
-  {
-   "symbol": "SLB",
-   "name": "Schlumberger",
-   "sector": "Energy",
-   "close": 49.87,
-   "pct": -3.15
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 379.14,
+   "pct": 6.82
   },
   {
    "symbol": "FDS",
    "name": "FactSet",
    "sector": "Financials",
-   "close": 259.97,
-   "pct": -2.88
+   "close": 277.61,
+   "pct": 6.79
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "CTVA",
+   "name": "Corteva",
+   "sector": "Materials",
+   "close": 12.57,
+   "pct": -83.86
+  },
+  {
+   "symbol": "MKC",
+   "name": "McCormick & Company",
+   "sector": "Consumer Staples",
+   "close": 44.14,
+   "pct": -8.8
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 281.31,
+   "pct": -7.97
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 188.94,
+   "pct": -7.14
   },
   {
    "symbol": "PSKY",
    "name": "Paramount Skydance Corporation",
    "sector": "Communication Services",
-   "close": 9.99,
-   "pct": -2.82
+   "close": 9.34,
+   "pct": -6.51
   },
   {
-   "symbol": "FIS",
-   "name": "Fidelity National Information Services",
-   "sector": "Financials",
-   "close": 33.35,
-   "pct": -2.8
+   "symbol": "GIS",
+   "name": "General Mills",
+   "sector": "Consumer Staples",
+   "close": 31.67,
+   "pct": -6.36
   },
   {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 328.7,
-   "pct": -2.79
+   "symbol": "DHR",
+   "name": "Danaher Corporation",
+   "sector": "Health Care",
+   "close": 211.76,
+   "pct": -6.35
+  },
+  {
+   "symbol": "JBL",
+   "name": "Jabil",
+   "sector": "Information Technology",
+   "close": 299.79,
+   "pct": -5.97
+  },
+  {
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Information Technology",
+   "close": 83.16,
+   "pct": -5.54
+  },
+  {
+   "symbol": "INCY",
+   "name": "Incyte",
+   "sector": "Health Care",
+   "close": 117.14,
+   "pct": -4.92
   }
  ]
 }

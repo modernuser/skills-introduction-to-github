@@ -56,12 +56,21 @@ CONSTITUENTS = {
 }
 
 
-def closes_factory(vol_by_symbol, missing=()):
-    def closes_for(symbol):
+def closes_factory(vol_by_symbol, missing=(), volume=4_000_000.0):
+    """Bars in the shape sector_depth's real producer returns.
+
+    market_data.fetch_ohlcv yields (date, close, volume) 3-tuples. Keeping
+    this factory aligned with the producer is what makes these tests fail
+    when the wiring drifts — the Sep 2026 IndexError survived eight weeks
+    precisely because a synthetic shape disagreed with the real one.
+    """
+    def closes_for(symbol, drop_zero_volume=True):
+        # Accepts the kwarg sector_depth actually passes, so a change to
+        # that call signature fails here rather than in production.
         if symbol in missing:
             raise OSError("network down")
         amp = vol_by_symbol[symbol]
-        return [(f"2026-07-{(i % 28) + 1:02d}", p)
+        return [(f"2026-07-{(i % 28) + 1:02d}", p, volume)
                 for i, p in enumerate(series([amp if i % 2 == 0 else -amp
                                               for i in range(40)]))]
     return closes_for
@@ -103,7 +112,7 @@ def test_low_coverage_aborts_without_writing(workdir, monkeypatch):
     module = load("sector_depth")
     monkeypatch.setattr(module, "load_constituents",
                         lambda: {"AAA": {"name": "A", "sector": "Energy"}})
-    monkeypatch.setattr(module, "fetch_closes",
+    monkeypatch.setattr(module, "fetch_ohlcv",
                         lambda s: [(f"2026-07-{i + 1:02d}", 100.0 + i)
                                    for i in range(40)])
     monkeypatch.setattr(module.time, "sleep", lambda s: None)
@@ -119,7 +128,7 @@ def test_main_writes_expected_contract(workdir, monkeypatch):
         for i in range(120)
     }
     monkeypatch.setattr(module, "load_constituents", lambda: constituents)
-    monkeypatch.setattr(module, "fetch_closes",
+    monkeypatch.setattr(module, "fetch_ohlcv",
                         closes_factory({s: 0.01 for s in constituents}))
     monkeypatch.setattr(module.time, "sleep", lambda s: None)
     assert module.main() == 0
@@ -144,7 +153,7 @@ def test_writes_sp500_closes_state(workdir, monkeypatch):
     constituents = {f"S{i}": {"name": f"N{i}", "sector": "Energy"}
                     for i in range(120)}
     monkeypatch.setattr(module, "load_constituents", lambda: constituents)
-    monkeypatch.setattr(module, "fetch_closes",
+    monkeypatch.setattr(module, "fetch_ohlcv",
                         closes_factory({s: 0.01 for s in constituents}))
     monkeypatch.setattr(module.time, "sleep", lambda s: None)
     assert module.main() == 0
@@ -164,7 +173,7 @@ def test_closes_state_merges_rather_than_replaces(workdir, monkeypatch):
     constituents = {f"S{i}": {"name": f"N{i}", "sector": "Energy"}
                     for i in range(120)}
     monkeypatch.setattr(module, "load_constituents", lambda: constituents)
-    monkeypatch.setattr(module, "fetch_closes",
+    monkeypatch.setattr(module, "fetch_ohlcv",
                         closes_factory({s: 0.01 for s in constituents}))
     monkeypatch.setattr(module.time, "sleep", lambda s: None)
     assert module.main() == 0

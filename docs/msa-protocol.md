@@ -123,3 +123,56 @@ detectable, not disqualifying. It becomes disqualifying when ranking a
 narrow, homogeneous set, which is exactly what a single-sector or
 top-10 screen does. Carrying raw and adjusted closes separately remains
 the correct fix; this quantifies its priority rather than guessing at it.
+
+
+## Result — 2026-10-02 (first live run)
+
+The harness ran against real constituents for the first time after the
+tuple fix (#113). **OVERALL: FAIL**, correctly.
+
+| KPI | gate | parts | %R&R | repeatability |
+|---|---|---|---|---|
+| vol_30d | PASS | 501 | 0.0% | exactly 0 |
+| trend_r2_90d | PASS | 501 | 0.0% | exactly 0 |
+| slope_annual_pct | PASS | 501 | 0.0% | exactly 0 |
+| max_drawdown_90d | PASS | 501 | 0.0% | exactly 0 |
+| **volume_surge** | **FAIL** | **0** | — | not evaluable |
+
+Repeatability came back exactly zero on 501 real tickers, which is the
+property the gate exists to assert: the pipeline is deterministic.
+
+**Root cause — two faults, one shape.** The panel declared more than the
+wired source could supply:
+
+1. `volume_surge` 0/501. `sector_depth` fetched through
+   `update_quotes.fetch_closes`, which returns `(date, close)` — no
+   volume column exists, so the KPI could never be computed.
+2. `r200` and `r360` 0/501. `HISTORY_KEEP` was 120 bars, so the two
+   longest declared return windows were structurally unreachable.
+
+A declared column with no reachable data is a promise the pipeline cannot
+keep. Neither fault could fail: both produced nulls, and nulls read as
+"nothing happened".
+
+**Corrective actions.**
+
+- `sector_depth` now sources `market_data.fetch_ohlcv`, which carries
+  volume, at the same request cost.
+- It passes `drop_zero_volume=False`: zero-volume bars are a hazard for
+  volume-weighted features but are perfectly good closes, and dropping
+  them would silently shorten the series the volatility and trend fits
+  depend on.
+- `market_data` gains the circuit breaker `update_quotes` already had.
+  Without it, swapping the source would have cost ~503 futile round-trips
+  per run against a dead primary instead of 3 — a regression hidden
+  inside a fix.
+- `HISTORY_KEEP` 120 → 400, covering the 360-session window with margin.
+- Four guards added: retention must exceed the longest declared window;
+  the job must source a volume-bearing fetch; the zero-volume flag must
+  exist; the breaker must be set. The `sector_depth` test factory now
+  yields the producer's real 3-tuples and accepts its real kwarg, so
+  wiring drift fails in the suite rather than in production.
+
+**Evidence of PASS.** Re-run over 501 tickers with the corrected source
+shape: all five KPIs evaluated, 501 parts each, `OVERALL: PASS`, and no
+return window reporting null.

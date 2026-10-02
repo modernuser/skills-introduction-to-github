@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from atomic import write_json
 from update_movers import load_constituents
-from update_quotes import fetch_closes
+from market_data import fetch_ohlcv
 
 OUT_PATH = "data/sector_depth.json"
 # The bulk quote endpoint update_movers relies on began 404ing in Aug 2026.
@@ -31,8 +31,10 @@ CLOSES_PATH = "data/sp500_closes.json"
 WINDOW = 30          # daily returns in the volatility window
 PER_SECTOR = 10      # names kept per sector
 MIN_SESSIONS = 20    # too little history to characterise risk honestly
-# Trailing closes retained per symbol for the trend-quality regression.
-HISTORY_KEEP = 120
+# Trailing bars retained per symbol. 400 covers the longest KPI window
+# (360 sessions) with margin; at 120 the r200 and r360 columns were
+# structurally impossible and reported null for all 501 tickers.
+HISTORY_KEEP = 400
 TRADING_DAYS = 252   # annualisation factor
 MIN_COVERAGE = 100   # below this the run is broken, not just degraded
 PACE_SECONDS = 0.25
@@ -72,7 +74,7 @@ def build(constituents: dict, closes_for) -> tuple[dict, list, int, dict, dict]:
             continue
         closes[symbol] = {"date": history[-1][0], "close": history[-1][1]}
         histories[symbol] = history[-HISTORY_KEEP:]
-        vol, sessions = realized_volatility([c for _, c in history])
+        vol, sessions = realized_volatility([b[1] for b in history])
         if vol is None:
             continue
         measured += 1
@@ -99,7 +101,9 @@ def main() -> int:
 
     def paced(symbol):
         time.sleep(PACE_SECONDS)
-        return fetch_closes(symbol)
+        # drop_zero_volume=False: this job's volatility and trend fits
+        # are price math and must not lose a bar to a zero-volume day.
+        return fetch_ohlcv(symbol, drop_zero_volume=False)
 
     by_sector, errors, measured, closes, histories = build(constituents, paced)
     if measured < MIN_COVERAGE:
@@ -153,7 +157,7 @@ def main() -> int:
     # makes unavoidable.
     try:
         import kpi_panel
-        from update_quotes import LAST_SOURCE
+        from market_data import LAST_SOURCE
         kpi_panel.main({LAST_SOURCE: histories},
                        names={s: m["name"] for s, m in constituents.items()})
     except Exception as exc:

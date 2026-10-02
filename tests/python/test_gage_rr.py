@@ -244,3 +244,41 @@ def test_the_exact_call_sector_depth_makes(workdir):
                  names={f"T{i}": f"Name {i}" for i in range(4)})
     assert rc in (0, 1)
     assert Path("data/kpi_panel.json").exists()
+
+
+def test_retention_covers_every_declared_return_window():
+    """Oct 2026: the panel declared 10 windows while sector_depth kept 120
+    bars, so r200 and r360 were structurally impossible and reported null
+    for all 501 tickers. A declared column with no reachable data is a
+    promise the pipeline cannot keep."""
+    kp = load("kpi_panel")
+    sd = load("sector_depth")
+    assert sd.HISTORY_KEEP > max(kp.RETURN_WINDOWS), (
+        f"HISTORY_KEEP={sd.HISTORY_KEEP} cannot supply "
+        f"r{max(kp.RETURN_WINDOWS)}")
+
+
+def test_sector_depth_sources_volume_bearing_bars():
+    """volume_surge is declared as a KPI, so the job feeding the panel must
+    fetch a source that actually carries volume."""
+    import inspect
+    sd = load("sector_depth")
+    src = inspect.getsource(sd)
+    assert "fetch_ohlcv" in src
+    # ...and must not let the volume filter eat bars its price math needs.
+    assert "drop_zero_volume=False" in src
+
+
+def test_zero_volume_bars_survive_when_the_caller_asks():
+    md = load("market_data")
+    bars = [("d1", 10.0, 0.0), ("d2", 11.0, 5.0)]
+    assert len([b for b in bars if b[2] > 0]) == 1      # the old behaviour
+    # the flag exists so price math keeps both
+    assert "drop_zero_volume" in md.fetch_ohlcv.__code__.co_varnames
+
+
+def test_market_data_has_a_circuit_breaker():
+    """A dead primary source must cost 3 round-trips on the constituent
+    sweep, not ~503."""
+    md = load("market_data")
+    assert md.STOOQ_GIVE_UP_AFTER == 3

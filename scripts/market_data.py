@@ -22,10 +22,15 @@ from datetime import datetime, timezone
 STOOQ_URL = "https://stooq.com/q/d/l/?s={symbol}.us&i=d"
 YAHOO_URL = ("https://query1.finance.yahoo.com/v8/finance/chart/"
              "{symbol}?range={range}&interval=1d")
-DEFAULT_RANGE = "2y"        # enough history for a 120-session training warmup
+DEFAULT_RANGE = "2y"        # ~504 sessions: covers the 360-session window
+# Mirrors update_quotes.STOOQ_GIVE_UP_AFTER. Each module guards its own
+# fetching independently; without this, a dead primary source costs one
+# futile round-trip per symbol — ~503 of them on the constituent sweep.
+STOOQ_GIVE_UP_AFTER = 3
 
 LAST_SOURCE = "stooq"
 PRIMARY_FAILURES: list[str] = []
+STOOQ_EMPTY_STREAK = 0
 
 
 def _get(url: str) -> bytes:
@@ -65,26 +70,35 @@ def _rows_yahoo(symbol: str, rng: str) -> list[tuple[str, float, float]]:
     return bars
 
 
-def fetch_ohlcv(symbol: str, rng: str = DEFAULT_RANGE):
+def fetch_ohlcv(symbol: str, rng: str = DEFAULT_RANGE,
+                drop_zero_volume: bool = True):
     """Daily bars as (date, close, volume), oldest first.
 
     Bars whose volume is zero or missing are dropped: a volume-weighted
     feature computed from a zero-volume row is not a weak signal, it is an
     arithmetic artefact of a data gap.
     """
-    global LAST_SOURCE
+    global LAST_SOURCE, STOOQ_EMPTY_STREAK
     bars = []
-    try:
-        bars = _rows_stooq(symbol)
-        if bars:
-            LAST_SOURCE = "stooq"
-        else:
-            PRIMARY_FAILURES.append(f"{symbol}: stooq returned no rows")
-    except Exception as exc:
-        PRIMARY_FAILURES.append(f"{symbol}: stooq {type(exc).__name__}: {exc}")
+    if STOOQ_EMPTY_STREAK < STOOQ_GIVE_UP_AFTER:
+        try:
+            bars = _rows_stooq(symbol)
+            if bars:
+                STOOQ_EMPTY_STREAK = 0
+                LAST_SOURCE = "stooq"
+            else:
+                STOOQ_EMPTY_STREAK += 1
+                PRIMARY_FAILURES.append(f"{symbol}: stooq returned no rows")
+        except Exception as exc:
+            STOOQ_EMPTY_STREAK += 1
+            PRIMARY_FAILURES.append(f"{symbol}: stooq {type(exc).__name__}: {exc}")
 
     if not bars:
         LAST_SOURCE = "yahoo-fallback"
         bars = _rows_yahoo(symbol, rng)
 
-    return [b for b in bars if b[2] > 0]
+    # Zero-volume bars are an arithmetic hazard for volume-weighted
+    # features, but they are perfectly good CLOSES. Callers doing price
+    # math (volatility, trend) keep every bar; only the volume-weighted
+    # consumers drop them, or a holiday silently shortens the series.
+    return [b for b in bars if b[2] > 0] if drop_zero_volume else bars

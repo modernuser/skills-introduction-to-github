@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T01:45:43Z",
+ "generated": "2026-10-03T01:16:39Z",
  "method": "variance-components Gage R&R; parts=tickers, operators=data sources, trials=repeated computations",
  "note": "Measurement system analysis, not a market claim. It asks whether a KPI can be measured consistently \u2014 never whether the KPI predicts anything. Acceptance bands are AIAG (<=10% acceptable, <=30% marginal).",
  "acceptance_bands": {
@@ -76,8 +76,21 @@
    "deterministic": true
   },
   "volume_surge": {
-   "evaluated": false,
-   "reason": "need >= 2 parts (tickers), got 0"
+   "evaluated": true,
+   "parts": 501,
+   "operators": [
+    "yahoo-fallback"
+   ],
+   "repeatability_sd": 0.0,
+   "reproducibility_sd": 0.0,
+   "part_variation_sd": 0.88436514,
+   "total_variation_sd": 0.88436514,
+   "pct_rr": 0.0,
+   "pct_repeatability": 0.0,
+   "pct_reproducibility": 0.0,
+   "pct_part_variation": 100.0,
+   "verdict": "acceptable",
+   "deterministic": true
   }
  },
  "gates": {
@@ -102,10 +115,10 @@
    "root_cause_required": false
   },
   "volume_surge": {
-   "status": "FAIL",
-   "reason": "need >= 2 parts (tickers), got 0",
-   "root_cause_required": true
+   "status": "PASS",
+   "reason": "%R&R 0.0% (acceptable), repeatability exactly 0",
+   "root_cause_required": false
   }
  },
- "overall": "FAIL"
+ "overall": "PASS"
 }

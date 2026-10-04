@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-03T18:00:55Z",
+ "updated": "2026-10-04T00:42:01Z",
  "news": {
   "NVDA": [
    {
-    "title": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
-    "link": "https://www.fool.com/investing/2026/10/03/sp-500-not-enough-my-3-stock-starter-portfolio/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 17:35:00 +0000"
+    "title": "3 Investing Rules That CNBC's Jim Cramer Swears By",
+    "link": "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 00:20:00 +0000"
    },
    {
-    "title": "How much Nvidia stock does CEO Jensen Huang actually own?",
-    "link": "https://www.thestreet.com/personalities/how-much-nvidia-stock-does-ceo-jensen-huang-own?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 16:53:00 +0000"
+    "title": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 23:06:22 +0000"
    },
    {
-    "title": "Where Will CoreWeave Stock Be in 5 Years?",
-    "link": "https://www.fool.com/investing/2026/10/03/where-will-coreweave-stock-be-in-5-years/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 15:03:00 +0000"
+    "title": "Why I'm Building My Entire Retirement Around Dividend Stocks in 2026",
+    "link": "https://www.fool.com/investing/2026/10/03/why-im-building-my-entire-retirement-around-divide/?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 22:05:00 +0000"
    }
   ],
   "AMD": [
@@ -71,22 +71,27 @@
   ],
   "INTC": [
    {
-    "title": "Intel vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/10/03/intel-vs-marvell-technology-which-ai-chip-stock-better-buy-2026/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 13:05:01 +0000"
+    "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-views-intel-intc-201026810.html?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 20:10:26 +0000"
    },
    {
-    "title": "Where Will Intel Stock Be in 5 Years: Comeback Story or Cautionary Tale?",
-    "link": "https://www.fool.com/investing/2026/10/03/where-will-intel-stock-be-5-years-comeback-story/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 11:07:00 +0000"
+    "title": "Intel (INTC) Data Center Comeback: Real Recovery or Just a Supply Squeeze?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-data-center-comeback-195750952.html?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 19:57:50 +0000"
    },
    {
-    "title": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
-    "link": "https://www.fool.com/investing/2026/10/03/intel-was-worth-about-28-times-as-much-as-amd-10-years-ago-now-amd-is-worth-about-60-more/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 09:32:01 +0000"
+    "title": "Should You Buy Intel Stock as Its Foundry Turnaround Takes Shape?",
+    "link": "https://www.fool.com/investing/2026/10/03/should-you-buy-intel-stock-as-its-foundry-turnarou/?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 19:05:00 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "A chipmaker's boom is quietly raising the price of your electronics",
+    "link": "https://www.thestreet.com/investing/micron-mu-boom-memory-chip-shortage-raising-price-of-electronics?.tsrc=rss",
+    "pubDate": "Sat, 03 Oct 2026 21:17:00 +0000"
+   },
    {
     "title": "Micron Just Extended Its Forecast for the AI Build-Out to 2031. Its Stock Is Bound to Defy History.",
     "link": "https://www.fool.com/investing/2026/10/03/micron-just-extended-the-ai-build-out-to-2031-its/?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Is Micron Stock Cheap Enough to Survive Lower Memory Profits?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-cheap-enough-survive-150938325.html?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 15:09:38 +0000"
-   },
-   {
-    "title": "Micron, Snowflake Lead Techs Near Buy Points. Two Consumer Plays Also Are Stocks To Watch.",
-    "link": "https://finance.yahoo.com/m/5f063bc5-34a9-328a-8a05-d2a0656c5806/micron%2C-snowflake-lead-techs.html?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 12:00:02 +0000"
    }
   ],
   "SNDK": [

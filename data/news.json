@@ -1,24 +1,29 @@
 {
- "updated": "2026-10-04T18:11:37Z",
+ "updated": "2026-10-05T01:00:03Z",
  "news": {
   "NVDA": [
    {
-    "title": "Michael Burry pulls an old playbook into the Nvidia fight",
-    "link": "https://www.thestreet.com/investing/stocks/michael-burry-valuation-depreciation-argument-nvidia?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 17:33:00 +0000"
+    "title": "Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+    "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures-rise%3B.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 00:04:19 +0000"
    },
    {
-    "title": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI\u2019s Financing Model Starting to Change?",
-    "link": "https://247wallst.com/investing/2026/10/04/amazon-wants-to-move-8-billion-in-nvidia-chips-off-its-books-is-ais-financing-model-starting-to-change/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 15:38:29 +0000"
+    "title": "Billionaire Investor Dan Loeb\u2019s Third Point Exited 5 Chip Stocks Last Quarter \u2014 Here\u2019s How They\u2019re Performing Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-dan-loeb-third-233016814.html?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 23:30:16 +0000"
    },
    {
-    "title": "AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?",
-    "link": "https://www.fool.com/investing/2026/10/04/amd-reaches-a-1-trillion-market-cap-can-it-finally/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 13:34:00 +0000"
+    "title": "Nvidia\u2019s AI boom revives a Warren Buffett warning for investors",
+    "link": "https://www.thestreet.com/investing/stocks/nvidia-ai-buffett-warning?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 21:47:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-8-2-billion-ai-190159237.html?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 19:01:59 +0000"
+   },
    {
     "title": "AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?",
     "link": "https://www.fool.com/investing/2026/10/04/amd-reaches-a-1-trillion-market-cap-can-it-finally/?.tsrc=rss",
@@ -28,31 +33,31 @@
     "title": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-still-004250845.html?.tsrc=rss",
     "pubDate": "Sun, 04 Oct 2026 00:42:50 +0000"
-   },
-   {
-    "title": "Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amd-cpu-business-fund-ai-152236804.html?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 15:22:36 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Broadcom\u2019s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
-    "link": "https://247wallst.com/investing/2026/10/04/broadcoms-massive-42-billion-chip-buying-deal-with-anthropic-raises-circular-financing-worries/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 15:33:48 +0000"
+    "title": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+    "link": "https://www.fool.com/coverage/charts/2026/10/04/broadcom-vs-intel-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 23:36:28 +0000"
    },
    {
-    "title": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy",
-    "link": "https://www.fool.com/investing/2026/10/04/broadcoms-2028-projection-makes-the-stock-a-scream/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 13:04:00 +0000"
+    "title": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-keep-growing-dividend-ai-203334720.html?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 20:33:34 +0000"
    },
    {
-    "title": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030",
-    "link": "https://www.fool.com/investing/2026/10/04/what-10k-investment-split-nvidia-broadcom-ai/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 12:45:00 +0000"
+    "title": "Here is Why Broadcom (AVGO) is a Good Investment at Today\u2019s Price",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-good-investment-201656820.html?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 20:16:56 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "How Much Overseas Factory Cost Can TSMC\u2019s Valuation Absorb?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/much-overseas-factory-cost-tsmc-203504361.html?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 20:35:04 +0000"
+   },
    {
     "title": "ASML vs. Taiwan Semiconductor Manufacturing Company: What Revenue Trends Tell Investors About These Companies Tied to Artificial Intelligence",
     "link": "https://www.fool.com/coverage/charts/2026/10/03/asml-vs-taiwan-semiconductor-manufacturing-company-what-revenue-trends-tell-investors-about-these-companies-tied-to-artificial-intelligence/?.tsrc=rss",
@@ -62,14 +67,14 @@
     "title": "The AI Chip Revolution Wouldn\u2019t Be Possible Without This Company",
     "link": "https://247wallst.com/investing/2026/10/03/the-ai-chip-revolution-wouldnt-be-possible-without-this-company/?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 15:30:55 +0000"
-   },
-   {
-    "title": "TSMC (TSM) Exceeds Market Returns: Some Facts to Consider",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-exceeds-market-returns-204504709.html?.tsrc=rss",
-    "pubDate": "Fri, 02 Oct 2026 20:45:04 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+    "link": "https://www.fool.com/coverage/charts/2026/10/04/broadcom-vs-intel-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 23:36:28 +0000"
+   },
    {
     "title": "Gary Shapiro: why trade shows matter and how to get them right",
     "link": "https://finance.yahoo.com/media-advertising/articles/gary-shapiro-why-trade-shows-113000904.html?.tsrc=rss",
@@ -79,11 +84,6 @@
     "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-views-intel-intc-201026810.html?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 20:10:26 +0000"
-   },
-   {
-    "title": "Intel (INTC) Data Center Comeback: Real Recovery or Just a Supply Squeeze?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-data-center-comeback-195750952.html?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 19:57:50 +0000"
    }
   ],
   "MU": [
@@ -93,14 +93,14 @@
     "pubDate": "Sun, 04 Oct 2026 12:00:00 +0000"
    },
    {
+    "title": "Micron Growth Is Surging and the Stock Looks Dirt Cheap. But Is the Stock a Buy?",
+    "link": "https://www.fool.com/investing/2026/10/04/micron-growth-is-surging-and-the-stock-looks-dirt/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 00:20:00 +0000"
+   },
+   {
     "title": "Investors Had a Tepid Reaction to Micron's Latest Earnings Report. An Overlooked Headwind May Explain Why.",
     "link": "https://www.fool.com/investing/2026/10/04/investors-had-tepid-reaction-to-microns-earnings/?.tsrc=rss",
     "pubDate": "Sun, 04 Oct 2026 16:39:54 +0000"
-   },
-   {
-    "title": "Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-    "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-says-crypto-is-at-its-micron-moment-sees-token-volumes-going-through-the-roof/cZDFvD2RB1H?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 16:30:35 +0000"
    }
   ],
   "SNDK": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Forget the S&P 500: SCHD Is Beating It by Nearly 10 Points in 2026 and Its Dividend Just Grew",
+    "link": "https://247wallst.com/investing/etf/2026/10/04/forget-the-sp-500-schd-is-beating-it-by-nearly-10-points-in-2026-and-its-dividend-just-grew/?.tsrc=rss",
+    "pubDate": "Sun, 04 Oct 2026 21:03:17 +0000"
+   },
+   {
     "title": "Michael Saylor Says Strategy's STRC Is Now Steadier Than The S&P 500's Biggest Tracker: \u2018A Milestone For Digital Credit\u2019",
     "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-mstr-strc-steady-sp-500-tracker-digital-credit/cZDZpACRB1h?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 17:46:24 +0000"
@@ -215,11 +220,6 @@
     "title": "3 Option Income ETFs That Pay You 12 Times a Year. Here\u2019s How the Monthly Check Is Generated",
     "link": "https://247wallst.com/investing/etf/2026/10/02/3-option-income-etfs-that-pay-you-12-times-a-year-heres-how-the-monthly-check-is-generated/?.tsrc=rss",
     "pubDate": "Fri, 02 Oct 2026 20:33:31 +0000"
-   },
-   {
-    "title": "Is the AI Bull Market About to Crash? This Risk Indicator Is Saying Yes",
-    "link": "https://247wallst.com/investing/2026/10/03/is-the-ai-bull-market-about-to-crash-this-risk-indicator-is-saying-yes/?.tsrc=rss",
-    "pubDate": "Sat, 03 Oct 2026 14:44:43 +0000"
    }
   ]
  },

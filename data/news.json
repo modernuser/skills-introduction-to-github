@@ -1,24 +1,29 @@
 {
- "updated": "2026-10-05T17:06:44Z",
+ "updated": "2026-10-05T21:32:29Z",
  "news": {
   "NVDA": [
    {
-    "title": "NYSE parent company's joint venture plans 24/7 tokenized stock trading, and it's a huge deal",
-    "link": "https://finance.yahoo.com/video/nyse-parent-companys-joint-venture-163000438.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 16:30:00 +0000"
+    "title": "Could Nvidia reach a $6T market cap by the end of October?",
+    "link": "https://finance.yahoo.com/video/could-nvidia-reach-6t-market-194127253.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 19:41:27 +0000"
    },
    {
-    "title": "TSMC stock hits all-time high after Elon Musk confirms early Terafab talks",
-    "link": "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-hits-all-time-high-after-elon-musk-confirms-early-terafab-talks-162904771.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 16:29:04 +0000"
+    "title": "This \"Magnificent Seven\" Stock Could Be Overdue for a Big Rally",
+    "link": "https://www.fool.com/investing/2026/10/05/this-magnificent-seven-stock-could-be-overdue-for-a-big-rally/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 21:15:02 +0000"
    },
    {
-    "title": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles \u2014 Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-is-tip-of-the-spear-for-ai-trade-warns-either-the-bond-market-or-stock-market-is-wrong/cZDqcswRBjS?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 16:59:34 +0000"
+    "title": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
+    "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 21:11:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Are stocks expensive? This 30-year-low stat says otherwise.",
+    "link": "https://finance.yahoo.com/markets/article/are-stocks-expensive-this-30-year-low-stat-says-otherwise-200519109.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 20:05:19 +0000"
+   },
    {
     "title": "TSMC stock hits all-time high after Elon Musk confirms early Terafab talks",
     "link": "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-hits-all-time-high-after-elon-musk-confirms-early-terafab-talks-162904771.html?.tsrc=rss",
@@ -28,28 +33,23 @@
     "title": "Amazon stock is trading at its lowest valuation ever as a public company, despite AI boom",
     "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-is-trading-at-its-lowest-valuation-ever-as-a-public-company-despite-ai-boom-154718912.html?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 15:47:18 +0000"
-   },
-   {
-    "title": "Sozzi talks with Zscaler CEO about AI cybersecurity, while Nvidia & AMD stocks rip higher",
-    "link": "https://finance.yahoo.com/video/sozzi-talks-zscaler-ceo-ai-151212213.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 15:12:12 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62174172/nvidia-broadcom-ai-power-shortage?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 18:51:53 +0000"
+   },
+   {
+    "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
+    "link": "https://247wallst.com/investing/2026/10/05/taiwan-semiconductor-gains-2-to-record-as-musk-confirms-early-terafab-talks-broadcom-rises-2-qualcomm-pulls-back/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 17:02:39 +0000"
+   },
+   {
     "title": "Broadcom Is Up More Than 25X in 10 Years. Can AI Drive the Next Chapter?",
     "link": "https://247wallst.com/investing/2026/10/05/broadcom-is-up-more-than-25x-in-10-years-can-ai-drive-the-next-chapter/?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 16:30:25 +0000"
-   },
-   {
-    "title": "Prediction: $5,000 Invested in Broadcom Could Be Worth This Much in 2028",
-    "link": "https://www.fool.com/investing/2026/10/05/prediction-usd5-000-invested-in-broadcom-could-be-worth-this-much-in-2028/?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 15:29:02 +0000"
-   },
-   {
-    "title": "Prediction: The AI Spending Boom Could Be Just Getting Started for This Company",
-    "link": "https://247wallst.com/investing/2026/10/05/prediction-the-ai-spending-boom-could-be-just-getting-started-for-this-company/?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 14:30:41 +0000"
    }
   ],
   "TSM": [
@@ -59,14 +59,14 @@
     "pubDate": "Mon, 05 Oct 2026 16:29:04 +0000"
    },
    {
-    "title": "Intel Drops as Musk Signals TSMC Could Join Terafab, a \u201cSetback\u201d for Its Foundry Comeback",
-    "link": "https://www.tikr.com/blog/intel-drops-as-musk-signals-tsmc-could-join-terafab-a-setback-for-its-foundry-comeback?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 15:19:56 +0000"
+    "title": "SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks",
+    "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-ends-higher-on-starship-fuel-plans-analyst-optimism-and-tsmc-talks/cZDqBUNRBjY?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 21:26:03 +0000"
    },
    {
-    "title": "Why Intel Stock Slips as TSMC Eyes a Seat at Musk\u2019s Terafab",
-    "link": "https://www.tikr.com/blog/why-intel-stock-slips-as-tsmc-eyes-a-seat-at-musks-terafab?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 15:03:06 +0000"
+    "title": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
+    "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 21:11:00 +0000"
    }
   ],
   "INTC": [
@@ -76,14 +76,14 @@
     "pubDate": "Mon, 05 Oct 2026 16:29:04 +0000"
    },
    {
-    "title": "Intel, XP Inc., PTC, RXO, Vaxcyte, Western Digital, Cerebras, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/29d68e20-e649-3819-9021-a07b7ebc77c5/intel%2C-xp-inc.%2C-ptc%2C-rxo%2C.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 16:12:00 +0000"
+    "title": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/05/advanced-micro-devices-vs-intel-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 20:39:49 +0000"
    },
    {
-    "title": "Final Opportunity to Join More Than 155 Technology Leaders Tomorrow at HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit",
-    "link": "https://finance.yahoo.com/technology/articles/final-opportunity-join-more-155-153600882.html?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 15:36:00 +0000"
+    "title": "Intel Stock Drops as Elon Musk Deals a Setback to the Chip Maker. Why You Shouldn\u2019t Panic.",
+    "link": "https://finance.yahoo.com/m/7ada7199-cb94-3586-911f-48d268e568a0/intel-stock-drops-as-elon.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 20:13:00 +0000"
    }
   ],
   "MU": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Could Sandisk Stock Double in Value in 12 Months?",
+    "link": "https://www.fool.com/investing/2026/10/05/could-sandisk-stock-double-in-value-in-12-months/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 18:00:01 +0000"
+   },
+   {
     "title": "Western Digital Jumps 7%, Seagate Climbs 5% as Bernstein Calls Toshiba Selloff a Storm in a Teacup; SanDisk Inches Higher",
     "link": "https://247wallst.com/investing/2026/10/05/western-digital-jumps-7-seagate-climbs-5-as-bernstein-calls-toshiba-selloff-a-storm-in-a-teacup-sandisk-inches-higher/?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 13:50:41 +0000"
@@ -113,11 +118,6 @@
     "title": "Can Sandisk (SNDK) Stock Keep Rising?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-keep-rising-132601585.html?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 13:26:01 +0000"
-   },
-   {
-    "title": "Why Sandisk Stock Rocked the Market Last Month",
-    "link": "https://www.fool.com/investing/2026/10/05/why-sandisk-stock-rocked-the-market-last-month/?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 12:51:03 +0000"
    }
   ],
   "WDC": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "Seagate Is Riding One of AI\u2019s Most Important Trends",
+    "link": "https://247wallst.com/investing/2026/10/05/seagate-is-riding-one-of-ais-most-important-trends/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 18:00:55 +0000"
+   },
+   {
     "title": "What Was Seagate Telling You Before Its Stock Ran?",
     "link": "https://www.trefis.com/articles/617541/what-was-seagate-telling-you-before-its-stock-ran/2026-10-05?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 16:01:45 +0000"
@@ -147,11 +152,6 @@
     "title": "Western Digital and Seagate Stock Jump as Analysts Say \u2018Buy the Dip\u2019",
     "link": "https://finance.yahoo.com/m/e4d75608-5564-3ea4-9327-c12901faede4/western-digital-and-seagate.html?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 14:46:00 +0000"
-   },
-   {
-    "title": "Western Digital Jumps 7%, Seagate Climbs 5% as Bernstein Calls Toshiba Selloff a Storm in a Teacup; SanDisk Inches Higher",
-    "link": "https://247wallst.com/investing/2026/10/05/western-digital-jumps-7-seagate-climbs-5-as-bernstein-calls-toshiba-selloff-a-storm-in-a-teacup-sandisk-inches-higher/?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 13:50:41 +0000"
    }
   ],
   "SOXX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Rise, US Equities Higher After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171005649.html?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 17:10:05 +0000"
+   },
+   {
     "title": "Here\u2019s the 1 ETF I Would Put $1,000 Into This October",
     "link": "https://247wallst.com/investing/etf/2026/10/05/heres-the-1-etf-i-would-put-1000-into-this-october/?.tsrc=rss",
     "pubDate": "Mon, 05 Oct 2026 11:15:02 +0000"
@@ -198,11 +203,6 @@
     "title": "Is the AI Bull Market About to Crash? This Risk Indicator Is Saying Yes",
     "link": "https://247wallst.com/investing/2026/10/03/is-the-ai-bull-market-about-to-crash-this-risk-indicator-is-saying-yes/?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 14:44:43 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171324140.html?.tsrc=rss",
-    "pubDate": "Fri, 02 Oct 2026 17:13:24 +0000"
    }
   ],
   "SPY": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 05 Oct 2026 16:08:40 +0000"
    },
    {
-    "title": "International Markets Are Pulling Ahead Of US Stocks In 2026: These 4 ETFs Have Left SPY, QQQ, DIA In The Dust",
-    "link": "https://stocktwits.com/news-articles/markets/equity/international-markets-are-pulling-ahead-of-us-stocks-in-2026-these-4-et-fs-have-left-spy-qqq-dia-in-the-dust/cZDpm1lRBS7?.tsrc=rss",
-    "pubDate": "Mon, 05 Oct 2026 04:56:34 +0000"
+    "title": "A New ETF Is Betting the S&P 500 Hits 10,000 and Almost Nobody Is Buying It",
+    "link": "https://247wallst.com/investing/etf/2026/10/05/a-new-etf-is-betting-the-sp-500-hits-10000-and-almost-nobody-is-buying-it/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 21:17:05 +0000"
    },
    {
-    "title": "Forget the S&P 500: SCHD Is Beating It by Nearly 10 Points in 2026 and Its Dividend Just Grew",
-    "link": "https://247wallst.com/investing/etf/2026/10/04/forget-the-sp-500-schd-is-beating-it-by-nearly-10-points-in-2026-and-its-dividend-just-grew/?.tsrc=rss",
-    "pubDate": "Sun, 04 Oct 2026 21:03:17 +0000"
+    "title": "Affirm Climbs 5% as Buy Now Pay Later Group Rallies Together; Klarna Rises 5%, PayPal Ticks Up",
+    "link": "https://247wallst.com/investing/2026/10/05/affirm-climbs-5-as-buy-now-pay-later-group-rallies-together-klarna-rises-5-paypal-ticks-up/?.tsrc=rss",
+    "pubDate": "Mon, 05 Oct 2026 16:54:09 +0000"
    }
   ]
  },

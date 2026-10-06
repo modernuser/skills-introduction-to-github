@@ -41,3 +41,7 @@ __pycache__/
 # scripts/data_branch.py force-adds these when publishing there.
 data/*.json
 reports/
+# Research notes and reports from /deep-research runs: session working
+# material, not project source. Kept out of the repo for the same reason
+# as reports/ — generated artefacts do not belong in version control.
+research_notes/

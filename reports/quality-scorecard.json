@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-06T17:15:50Z",
+ "generated": "2026-10-07T17:50:30Z",
  "tests": {
   "passed": 236,
   "failed": 0,
   "ok": true,
-  "summary": "236 passed in 17.93s"
+  "summary": "236 passed in 11.88s"
  },
  "broken_internal_links": [],
  "secret_scan": {
@@ -12,8 +12,10 @@
   "hits": []
  },
  "data_health": {
-  "overall": "ok",
-  "stale_sections": [],
+  "overall": "degraded",
+  "stale_sections": [
+   "trend_quality"
+  ],
   "week52_ranges": {
    "present": 13,
    "expected": 13
@@ -22,8 +24,8 @@
  "published_freshness": {
   "checked": true,
   "ok": true,
-  "published_newest": "2026-10-06",
-  "expected_through": "2026-10-05",
+  "published_newest": "2026-10-07",
+  "expected_through": "2026-10-06",
   "sessions_behind": -1
  },
  "workflow_reliability": {
@@ -37,5 +39,5 @@
   "high": 0,
   "note": "per docs/engineering-audit.md (H1/M1/M2 fixed, M3 fixed by test suite)"
  },
- "last_successful_maintenance": "2026-10-06"
+ "last_successful_maintenance": "2026-10-07"
 }

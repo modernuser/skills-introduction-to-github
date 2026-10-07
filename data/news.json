@@ -1,29 +1,24 @@
 {
- "updated": "2026-10-07T15:31:41Z",
+ "updated": "2026-10-07T19:55:32Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia and Micron are about to dominate earnings season",
-    "link": "https://finance.yahoo.com/markets/article/nvidia-and-micron-are-about-to-dominate-earnings-season-150631365.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:06:31 +0000"
+    "title": "The tech industry wants you to run AI models at home, but it's not for everyone",
+    "link": "https://finance.yahoo.com/technology/article/the-tech-industry-wants-you-to-run-ai-models-at-home-but-its-not-for-everyone-195314548.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 19:53:14 +0000"
    },
    {
-    "title": "Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point",
-    "link": "https://finance.yahoo.com/m/fdec2ba0-0866-38b0-a7ad-793b74ca1cbf/dow-jones-ai-giant-nvidia.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:19:16 +0000"
+    "title": "Microsoft unveils new AI laptop powered by Nvidia chips",
+    "link": "https://finance.yahoo.com/video/microsoft-unveils-ai-laptop-powered-194227586.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 19:42:27 +0000"
    },
    {
-    "title": "SpaceX vs. Nvidia: Which Is the Better Trillion-Dollar Artificial Intelligence (AI) Stock for 2027?",
-    "link": "https://www.fool.com/investing/2026/10/07/spacex-vs-nvidia-which-is-the-better-buy-for-2027/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:50:00 +0000"
+    "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
+    "link": "https://finance.yahoo.com/technology/article/microsoft-debuts-nvidia-powered-surface-laptop-ultra-as-it-aims-for-ai-market-185630649.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:56:30 +0000"
    }
   ],
   "AMD": [
-   {
-    "title": "10-year Treasury yield hits highest level since 2002 as stocks retreat: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2002-as-stocks-retreat-alphacheck-134621987.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 13:46:21 +0000"
-   },
    {
     "title": "Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-stock-151220023.html?.tsrc=rss",
@@ -33,23 +28,28 @@
     "title": "HPE Stock Hits Record High After Company Adds 4 AMD-Powered Servers For Enterprise AI",
     "link": "https://stocktwits.com/news-articles/markets/equity/hpe-stock-hits-record-high-after-company-adds-4-amd-powered-servers-for-enterprise-ai/cZDvgSqRBmM?.tsrc=rss",
     "pubDate": "Wed, 07 Oct 2026 14:45:31 +0000"
+   },
+   {
+    "title": "Nvidia Takes Aim at Intel\u2019s $32 Billion PC Business With Microsoft\u2019s Surface Laptop Ultra",
+    "link": "https://www.tikr.com/blog/nvidia-takes-aim-at-intels-32-billion-pc-business-with-microsofts-surface-laptop-ultra?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 14:40:58 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Advanced Micro Devices vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/10/07/advanced-micro-devices-vs-broadcom-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:00:02 +0000"
+    "title": "Broadcom (AVGO) Is Lagging the Market This Year. Is It a Buy?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-lagging-market-buy-184215311.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:42:15 +0000"
    },
    {
-    "title": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs.",
-    "link": "https://www.fool.com/investing/2026/10/07/broadcom-ai-revenue-grow-custom-chip-gpu/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 11:53:00 +0000"
+    "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
+    "link": "https://www.fool.com/coverage/charts/2026/10/07/broadcom-vs-qualcomm-rapid-growth-vs-flat-revenue/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:20:02 +0000"
    },
    {
-    "title": "Broadcom Owns the Backstage; AMD Fights for the Spotlight",
-    "link": "https://247wallst.com/investing/2026/10/07/broadcom-owns-the-backstage-amd-fights-for-the-spotlight/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 11:15:38 +0000"
+    "title": "ASML Holding N.V. vs. Broadcom: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/07/asml-holding-nv-vs-broadcom-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 16:25:02 +0000"
    }
   ],
   "TSM": [
@@ -64,26 +64,26 @@
     "pubDate": "Wed, 07 Oct 2026 11:37:28 +0000"
    },
    {
-    "title": "Elon Musk Clarifies TSMC's Terafab Role; Grok Adds Rival Models",
-    "link": "https://finance.yahoo.com/m/28f15b2c-8c2b-316d-918c-f220b0c19ec3/elon-musk-clarifies-tsmc%27s.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 15:05:13 +0000"
+    "title": "Why Intel Stock Is Defying Today\u2019s Chip-Sector Slump",
+    "link": "https://finance.yahoo.com/m/7f8c8db4-a4f8-355b-b9e2-c331484afe4f/why-intel-stock-is-defying.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:51:00 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Why Jim Cramer Is All-In on Intel\u2019s CPU Comeback",
-    "link": "https://247wallst.com/investing/2026/10/07/why-jim-cramer-is-all-in-on-intels-cpu-comeback/?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:45:19 +0000"
+    "title": "Why Intel Stock Is Defying Today\u2019s Chip-Sector Slump",
+    "link": "https://finance.yahoo.com/m/7f8c8db4-a4f8-355b-b9e2-c331484afe4f/why-intel-stock-is-defying.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 18:51:00 +0000"
    },
    {
-    "title": "Nvidia Takes Aim at Intel\u2019s $32 Billion PC Business With Microsoft\u2019s Surface Laptop Ultra",
-    "link": "https://www.tikr.com/blog/nvidia-takes-aim-at-intels-32-billion-pc-business-with-microsofts-surface-laptop-ultra?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:40:58 +0000"
+    "title": "Intel vs. SK Hynix: Which Semiconductor Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/07/intel-vs-sk-hynix-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 16:58:02 +0000"
    },
    {
-    "title": "Flutter upgraded, AppFolio downgraded: Wall Street's top analyst calls",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-downgraded-marvell-upgraded-wall-133448639.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:00:13 +0000"
+    "title": "Constellation Brands Down on Earnings; Intel Up on Terafab | Stock Movers",
+    "link": "https://finance.yahoo.com/video/constellation-brands-down-earnings-intel-153817762.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 15:38:17 +0000"
    }
   ],
   "MU": [
@@ -93,17 +93,22 @@
     "pubDate": "Wed, 07 Oct 2026 15:06:31 +0000"
    },
    {
-    "title": "Micron\u2019s profits surge as Meta\u2019s AI spending accelerates",
-    "link": "https://finance.yahoo.com/video/micron-profits-surge-meta-ai-143600421.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:36:00 +0000"
+    "title": "At $1,069, Is Micron Stock Going to Split?",
+    "link": "https://www.fool.com/investing/2026/10/07/at-1069-is-micron-stock-going-to-split/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 19:35:00 +0000"
    },
    {
-    "title": "Why Sozzi just added McDonald's to the 'Wall of Underperformers'",
-    "link": "https://finance.yahoo.com/video/why-sozzi-just-added-mcdonalds-to-the-wall-of-underperformers-141102739.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 14:11:02 +0000"
+    "title": "Prediction: Micron Will Have a Larger Market Cap Than Nvidia by 2030",
+    "link": "https://www.fool.com/investing/2026/10/07/prediction-micron-market-cap-vs-nvidia-2030/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 19:11:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "SanDisk and Micron Rise 3% as Tight Memory Supply Outruns a Softer Tech Tape; Western Digital Lags",
+    "link": "https://247wallst.com/investing/2026/10/07/sandisk-and-micron-rise-3-as-tight-memory-supply-outruns-a-softer-tech-tape-western-digital-lags/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 15:54:40 +0000"
+   },
    {
     "title": "Sandisk Is Up 613% in 2026 and Micron Isn't Far Behind. Which AI Memory Stock Has More Room to Run?",
     "link": "https://www.fool.com/investing/2026/10/07/sandisk-is-up-500-in-2026-and-micron-isnt-far-behi/?.tsrc=rss",
@@ -113,14 +118,14 @@
     "title": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
     "link": "https://www.fool.com/investing/2026/10/07/ai-stocks-micron-sandisk-up-1190-this-happen-next/?.tsrc=rss",
     "pubDate": "Wed, 07 Oct 2026 09:08:02 +0000"
-   },
-   {
-    "title": "SK Hynix Falls 4% on Earnings Caution Before a Rebalancing Goldman Says Favors It; SanDisk Slips 2%, Micron Holds Firm",
-    "link": "https://247wallst.com/investing/2026/10/06/sk-hynix-falls-4-on-earnings-caution-before-a-rebalancing-goldman-says-favors-it-sandisk-slips-2-micron-holds-firm/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 16:59:39 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "SanDisk and Micron Rise 3% as Tight Memory Supply Outruns a Softer Tech Tape; Western Digital Lags",
+    "link": "https://247wallst.com/investing/2026/10/07/sandisk-and-micron-rise-3-as-tight-memory-supply-outruns-a-softer-tech-tape-western-digital-lags/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 15:54:40 +0000"
+   },
    {
     "title": "Seagate vs. Western Digital: Which HDD Stock Has More Room to Run?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-vs-western-digital-hdd-124200949.html?.tsrc=rss",
@@ -130,28 +135,23 @@
     "title": "Why Memory Stocks Are Sitting Out the Stock Market Rally",
     "link": "https://finance.yahoo.com/m/6612443d-a988-30ab-8b0c-3bf4dceff987/why-memory-stocks-are-sitting.html?.tsrc=rss",
     "pubDate": "Tue, 06 Oct 2026 19:25:01 +0000"
-   },
-   {
-    "title": "Seagate and Western Digital Drop. The Hot Tech Stocks Have a Big Toshiba Problem.",
-    "link": "https://finance.yahoo.com/m/667e263c-1832-3aad-8c7e-270a36395b2a/seagate-and-western-digital.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 18:32:00 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "The Hard Drive Maker That Quietly Turned $1,000 Into $31,680 Over Ten Years",
+    "link": "https://247wallst.com/investing/2026/10/07/the-hard-drive-maker-that-quietly-turned-1000-into-31680-over-ten-years/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 19:00:37 +0000"
+   },
    {
     "title": "Trmeric Raises $6.5 Million Led by Hitachi Ventures as Agentic Platform Powers $1 Billion in Enterprise Transformation",
     "link": "https://finance.yahoo.com/technology/ai/articles/trmeric-raises-6-5-million-130000325.html?.tsrc=rss",
     "pubDate": "Wed, 07 Oct 2026 13:00:00 +0000"
    },
    {
-    "title": "Seagate vs. Western Digital: Which HDD Stock Has More Room to Run?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-vs-western-digital-hdd-124200949.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 12:42:00 +0000"
-   },
-   {
-    "title": "Seagate\u2019s (STX) CEO Sold $17.4 Million the Day Before the Toshiba Drop. The Stock Is Falling Again",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-ceo-sold-17-234840999.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 23:48:40 +0000"
+    "title": "What to Expect From Seagate Technology\u2019s Next Quarterly Earnings Report",
+    "link": "https://www.barchart.com/story/news/5005491/what-to-expect-from-seagate-technologys-next-quarterly-earnings-report?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 12:58:30 +0000"
    }
   ],
   "SOXX": [
@@ -166,9 +166,9 @@
     "pubDate": "Thu, 01 Oct 2026 07:31:40 +0000"
    },
    {
-    "title": "Forget SMH: BlackRock\u2019s Chip Fund Beat It by 22.43 Points Over the Past Year",
-    "link": "https://247wallst.com/investing/etf/2026/10/06/forget-smh-blackrocks-chip-fund-beat-it-by-22-43-points-over-the-past-year/?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 21:33:46 +0000"
+    "title": "Michael Burry Sees a Government-Backed AI Boom. A Memory-Style Rally Could Be Around the Corner.",
+    "link": "https://www.barchart.com/story/news/5002722/michael-burry-sees-a-government-backed-ai-boom-a-memory-style-rally-could-be-around-the-corner?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 11:30:02 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Lower as US Equities Decline After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-171013395.html?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 17:10:13 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132253503.html?.tsrc=rss",
     "pubDate": "Wed, 07 Oct 2026 13:22:53 +0000"
@@ -198,14 +203,14 @@
     "title": "Exchange-Traded Funds Mixed, US Equities Rise After Midday",
     "link": "https://finance.yahoo.com/news/exchange-traded-funds-mixed-us-170916680.html?.tsrc=rss",
     "pubDate": "Tue, 06 Oct 2026 17:09:16 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Lower Oil Prices",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131237791.html?.tsrc=rss",
-    "pubDate": "Tue, 06 Oct 2026 13:12:37 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "October Rate-Hike Odds Just Fell From 51% to 19% in One Week",
+    "link": "https://247wallst.com/investing/2026/10/07/october-rate-hike-odds-just-fell-from-51-to-19-in-one-week/?.tsrc=rss",
+    "pubDate": "Wed, 07 Oct 2026 15:25:21 +0000"
+   },
    {
     "title": "Joby Falls 2% as Jury Hands Aerosonic a $116.9 Million Trade-Secret Verdict; Archer Slips, EHang Declines 3%",
     "link": "https://247wallst.com/investing/2026/10/07/joby-falls-2-as-jury-hands-aerosonic-a-116-9-million-trade-secret-verdict-archer-slips-ehang-declines-3/?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132253503.html?.tsrc=rss",
     "pubDate": "Wed, 07 Oct 2026 13:22:53 +0000"
-   },
-   {
-    "title": "Most Undervalued Chip Stocks In October 2026: Four Are Cheaper Than The S&P 500",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/most-undervalued-chip-stocks-october-124950212.html?.tsrc=rss",
-    "pubDate": "Wed, 07 Oct 2026 12:49:50 +0000"
    }
   ]
  },

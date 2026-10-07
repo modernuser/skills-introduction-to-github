@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:46:55Z",
+ "updated": "2026-10-07T05:56:30Z",
  "significant_pct": 3.0,
  "quotes": [
   {
@@ -275,15 +275,14 @@
   {
    "symbol": "SNDK",
    "name": "SanDisk",
-   "date": "2026-10-05",
-   "close": 1704.16,
-   "d1": -0.92,
-   "w1": -0.51,
-   "m1": 9.59,
+   "date": "2026-10-06",
+   "close": 1660.46,
+   "d1": -2.56,
+   "w1": -4.01,
+   "m1": -4.57,
    "significant": false,
    "source": "yahoo-fallback",
    "recent": [
-    1493.12,
     1480.77,
     1499.37,
     1484.95,
@@ -312,7 +311,8 @@
     1739.89,
     1787.6899,
     1719.99,
-    1704.16
+    1704.16,
+    1660.46
    ],
    "hi52": 2335.0,
    "lo52": 116.91
@@ -726,11 +726,11 @@
   {
    "symbol": "XLC",
    "name": "Communication Services",
-   "date": "2026-10-05",
-   "close": 111.61,
-   "d1": 1.17,
-   "w1": 0.39,
-   "m1": -1.56,
+   "date": "2026-10-06",
+   "close": 111.65,
+   "d1": 0.04,
+   "w1": 0.16,
+   "m1": -0.34,
    "significant": false,
    "source": "yahoo-fallback"
   },
@@ -814,11 +814,11 @@
   {
    "symbol": "XLRE",
    "name": "Real Estate",
-   "date": "2026-10-05",
-   "close": 40.67,
-   "d1": -0.34,
-   "w1": -1.64,
-   "m1": -8.09,
+   "date": "2026-10-06",
+   "close": 41.1,
+   "d1": 1.06,
+   "w1": -0.58,
+   "m1": -6.44,
    "significant": false,
    "source": "yahoo-fallback"
   },

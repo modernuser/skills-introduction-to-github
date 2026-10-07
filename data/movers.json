@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-06T06:17:46Z",
+ "updated": "2026-10-07T05:56:37Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "PTC",
-   "name": "PTC Inc.",
+   "symbol": "CIEN",
+   "name": "Ciena",
    "sector": "Information Technology",
-   "close": 192.26,
-   "pct": 31.26
+   "close": 443.65,
+   "pct": 13.85
   },
   {
-   "symbol": "ECHO",
-   "name": "EchoStar",
-   "sector": "Communication Services",
-   "close": 98.21,
-   "pct": 11.29
+   "symbol": "CTVA",
+   "name": "Corteva",
+   "sector": "Materials",
+   "close": 13.91,
+   "pct": 12.27
   },
   {
-   "symbol": "ILMN",
-   "name": "Illumina, Inc.",
-   "sector": "Health Care",
-   "close": 293.69,
-   "pct": 10.53
+   "symbol": "CEG",
+   "name": "Constellation Energy",
+   "sector": "Utilities",
+   "close": 300.4,
+   "pct": 12.25
   },
   {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 160.5,
+   "pct": 10.77
+  },
+  {
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 103.6,
+   "pct": 7.02
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "close": 1817.96,
+   "pct": 6.12
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
    "sector": "Information Technology",
-   "close": 1479.89,
-   "pct": 8.74
+   "close": 168.97,
+   "pct": 6.02
   },
   {
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "sector": "Health Care",
-   "close": 310.77,
-   "pct": 8.35
+   "symbol": "EME",
+   "name": "Emcor",
+   "sector": "Industrials",
+   "close": 824.52,
+   "pct": 5.82
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 287.01,
+   "pct": 5.81
+  },
+  {
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "close": 719.56,
+   "pct": 5.29
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 805.63,
+   "pct": -9.18
   },
   {
    "symbol": "MRNA",
    "name": "Moderna",
    "sector": "Health Care",
-   "close": 203.21,
-   "pct": 7.55
-  },
-  {
-   "symbol": "ON",
-   "name": "ON Semiconductor",
-   "sector": "Information Technology",
-   "close": 85.93,
-   "pct": 7.31
-  },
-  {
-   "symbol": "P",
-   "name": "Everpure",
-   "sector": "Information Technology",
-   "close": 143.88,
-   "pct": 7.27
-  },
-  {
-   "symbol": "TSLA",
-   "name": "Tesla, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 378.73,
-   "pct": 6.95
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 444.53,
-   "pct": 6.91
-  }
- ],
- "losers": [
-  {
-   "symbol": "LEN",
-   "name": "Lennar",
-   "sector": "Consumer Discretionary",
-   "close": 74.44,
-   "pct": -9.34
-  },
-  {
-   "symbol": "CHRW",
-   "name": "C.H. Robinson",
-   "sector": "Industrials",
-   "close": 140.61,
-   "pct": -8.18
-  },
-  {
-   "symbol": "ACN",
-   "name": "Accenture",
-   "sector": "Information Technology",
-   "close": 195.05,
-   "pct": -8.13
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 887.09,
-   "pct": -6.18
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1704.16,
-   "pct": -4.67
-  },
-  {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
-   "sector": "Consumer Discretionary",
-   "close": 30.85,
-   "pct": -4.55
+   "close": 187.46,
+   "pct": -7.75
   },
   {
    "symbol": "WDC",
    "name": "Western Digital",
    "sector": "Information Technology",
-   "close": 441.64,
-   "pct": -4.52
+   "close": 411.04,
+   "pct": -6.93
   },
   {
-   "symbol": "CTSH",
-   "name": "Cognizant",
-   "sector": "Information Technology",
-   "close": 58.17,
-   "pct": -4.45
-  },
-  {
-   "symbol": "BMY",
-   "name": "Bristol Myers Squibb",
+   "symbol": "ILMN",
+   "name": "Illumina, Inc.",
    "sector": "Health Care",
-   "close": 58.81,
-   "pct": -4.31
+   "close": 273.54,
+   "pct": -6.86
   },
   {
-   "symbol": "NKE",
-   "name": "Nike, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 33.96,
-   "pct": -3.39
+   "symbol": "KLAC",
+   "name": "KLA Corporation",
+   "sector": "Information Technology",
+   "close": 197.46,
+   "pct": -4.54
+  },
+  {
+   "symbol": "DXCM",
+   "name": "Dexcom",
+   "sector": "Health Care",
+   "close": 83.39,
+   "pct": -4.04
+  },
+  {
+   "symbol": "CHRW",
+   "name": "C.H. Robinson",
+   "sector": "Industrials",
+   "close": 135.05,
+   "pct": -3.95
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 333.89,
+   "pct": -3.44
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 430.32,
+   "pct": -3.2
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 112.5,
+   "pct": -3.18
   }
  ]
 }

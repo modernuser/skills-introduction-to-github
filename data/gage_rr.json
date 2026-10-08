@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T01:41:33Z",
+ "generated": "2026-10-08T02:04:51Z",
  "method": "variance-components Gage R&R; parts=tickers, operators=data sources, trials=repeated computations",
  "note": "Measurement system analysis, not a market claim. It asks whether a KPI can be measured consistently \u2014 never whether the KPI predicts anything. Acceptance bands are AIAG (<=10% acceptable, <=30% marginal).",
  "acceptance_bands": {
@@ -9,14 +9,14 @@
  "kpis": {
   "max_drawdown_90d": {
    "evaluated": true,
-   "parts": 501,
+   "parts": 500,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 10.04803825,
-   "total_variation_sd": 10.04803825,
+   "part_variation_sd": 9.55781603,
+   "total_variation_sd": 9.55781603,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -26,14 +26,14 @@
   },
   "slope_annual_pct": {
    "evaluated": true,
-   "parts": 500,
+   "parts": 499,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 327.06574988,
-   "total_variation_sd": 327.06574988,
+   "part_variation_sd": 339.66368625,
+   "total_variation_sd": 339.66368625,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -43,14 +43,14 @@
   },
   "trend_r2_90d": {
    "evaluated": true,
-   "parts": 500,
+   "parts": 499,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 0.26897177,
-   "total_variation_sd": 0.26897177,
+   "part_variation_sd": 0.27066413,
+   "total_variation_sd": 0.27066413,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -60,14 +60,14 @@
   },
   "vol_30d": {
    "evaluated": true,
-   "parts": 500,
+   "parts": 499,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 13.52296707,
-   "total_variation_sd": 13.52296707,
+   "part_variation_sd": 13.32457271,
+   "total_variation_sd": 13.32457271,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -83,8 +83,8 @@
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 0.37659151,
-   "total_variation_sd": 0.37659151,
+   "part_variation_sd": 0.2874549,
+   "total_variation_sd": 0.2874549,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,

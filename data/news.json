@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:17:16Z",
+ "updated": "2026-10-09T01:18:35Z",
  "news": {
   "NVDA": [
    {
@@ -25,14 +25,14 @@
     "pubDate": "Thu, 08 Oct 2026 17:56:14 +0000"
    },
    {
+    "title": "AMD CEO delivers stark warning on chip market\u2019s future",
+    "link": "https://www.thestreet.com/investing/stocks/amd-ceo-lisa-su-ai-chip-supply-crisis?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 01:03:00 +0000"
+   },
+   {
     "title": "Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/10/08/advanced-micro-devices-vs-asml-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 23:42:51 +0000"
-   },
-   {
-    "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
-    "link": "https://www.fool.com/investing/2026/10/08/amd-vs-intel-which-chip-stock-has-more-upside-from/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 16:50:00 +0000"
    }
   ],
   "AVGO": [
@@ -59,31 +59,31 @@
     "pubDate": "Fri, 09 Oct 2026 00:03:00 +0000"
    },
    {
+    "title": "Intel CEO Lip-Bu Tan Says Company Will Keep Working on Terafab \u2014 Elon Musk Confirms TSMC May Only Sublease Part of the Fab, Not Own It",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-lip-bu-tan-233019464.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 23:30:19 +0000"
+   },
+   {
     "title": "TSMC (TSM) Declines More Than Market: Some Information for Investors",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-declines-more-market-204503795.html?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 20:45:03 +0000"
-   },
-   {
-    "title": "Chip Foundry TSMC Beats September Sales Target",
-    "link": "https://finance.yahoo.com/m/b8de028d-3a89-3308-bf97-38091fa35ca4/chip-foundry-tsmc-beats.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 20:18:31 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "AMD CEO delivers stark warning on chip market\u2019s future",
+    "link": "https://www.thestreet.com/investing/stocks/amd-ceo-lisa-su-ai-chip-supply-crisis?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 01:03:00 +0000"
+   },
+   {
+    "title": "Intel CEO Lip-Bu Tan Says Company Will Keep Working on Terafab \u2014 Elon Musk Confirms TSMC May Only Sublease Part of the Fab, Not Own It",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-lip-bu-tan-233019464.html?.tsrc=rss",
+    "pubDate": "Thu, 08 Oct 2026 23:30:19 +0000"
+   },
+   {
     "title": "Prediction: This Will Happen to Intel Stock in 2027",
     "link": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 23:27:00 +0000"
-   },
-   {
-    "title": "Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/anaconda-expands-collaboration-intel-enterprises-190000433.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 19:00:00 +0000"
-   },
-   {
-    "title": "Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-buy-sell-hold-172009957.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 17:20:09 +0000"
    }
   ],
   "MU": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Is SanDisk Stock's Fall A Bargain Or A Warning?",
+    "link": "https://www.trefis.com/articles/617813/is-sandisk-stocks-fall-a-bargain-or-a-warning/2026-10-08?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 00:55:07 +0000"
+   },
+   {
     "title": "Why SandiskStock Dropped on Thursday",
     "link": "https://www.fool.com/investing/2026/10/08/why-sandiskstock-dropped-on-thursday/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 21:13:04 +0000"
@@ -113,11 +118,6 @@
     "title": "Billionaire David Tepper Dumped Sandisk for This Trillion-Dollar AI Chip Giant",
     "link": "https://www.fool.com/investing/2026/10/08/billionaire-david-tepper-dumped-sandisk-for-this-t/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 18:20:00 +0000"
-   },
-   {
-    "title": "Sandisk (SNDK) Is Up 1,322% in a Year: Is There Still Room to Run?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-1-322-still-130824956.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 13:08:24 +0000"
    }
   ],
   "WDC": [

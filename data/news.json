@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-09T19:32:10Z",
+ "updated": "2026-10-09T23:33:33Z",
  "news": {
   "NVDA": [
    {
-    "title": "Elon Musk, Michael Dell, Jensen Huang, and other tech leaders receive White House National Medals",
-    "link": "https://finance.yahoo.com/video/elon-musk-michael-dell-jensen-huang-and-other-tech-leaders-receive-white-house-national-medals-184725677.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 17:45:53 +0000"
+    "title": "Are markets still overconcentrated in tech heading into earnings season?",
+    "link": "https://finance.yahoo.com/video/are-markets-still-overconcentrated-in-tech-heading-into-earnings-season-210415308.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 21:04:15 +0000"
    },
    {
-    "title": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree?",
-    "link": "https://www.trefis.com/articles/618174/management-raised-the-bar-for-nvidia-stock-does-the-chart-agree/2026-10-09?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 18:22:11 +0000"
+    "title": "Why CrowdStrike Holdings Stock Crushed it on Friday",
+    "link": "https://www.fool.com/investing/2026/10/09/why-crowdstrike-holdings-stock-crushed-it-on-friday/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 23:16:18 +0000"
    },
    {
-    "title": "Nvidia-Backed Fermus Wanted $30 Billion Valuation on Just $51 Million in Revenue",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62281613/firmus-ipo-30-billion-valuation-revenue?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 18:20:39 +0000"
+    "title": "Elon Musk Just Made a Surprising Statement About AI Chips. Here's the Stock It Helps.",
+    "link": "https://www.fool.com/investing/2026/10/09/elon-musk-just-made-a-surprising-statement-about-a/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 22:08:00 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Here's What a $5,000 Investment in Broadcom Could Be Worth by 2032",
+    "link": "https://www.fool.com/investing/2026/10/09/heres-what-a-5000-investment-in-broadcom-could-be/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 19:50:00 +0000"
+   },
+   {
     "title": "AMD vs. Broadcom: How Much Faster Must AMD\u2019s Cash Flow Grow to Earn Its Premium?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-broadcom-much-faster-160521892.html?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 16:05:21 +0000"
@@ -45,14 +50,14 @@
     "title": "Prediction: A $5,000 Investment Split Between Nvidia and Broadcom Will Triple by 2028",
     "link": "https://www.fool.com/investing/2026/10/09/prediction-a-5000-investment-split-between-nvidia/?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 15:41:00 +0000"
-   },
-   {
-    "title": "Broadcom Turned $10,000 Into More Than $260,000. Can It Happen Again?",
-    "link": "https://247wallst.com/investing/2026/10/09/broadcom-turned-10000-into-more-than-260000-can-it-happen-again/?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 15:30:08 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
+    "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:44:20 +0000"
+   },
    {
     "title": "Taiwan Semiconductor Vs. ASML: If I Had to Choose One For the Next 5 Years, It\u2019s This One",
     "link": "https://247wallst.com/investing/2026/10/09/taiwan-semiconductor-vs-asml-if-i-had-to-choose-one-for-the-next-5-years-its-this-one/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Should You Buy Taiwan Semiconductor Manufacturing Stock Before Oct. 15? History Is Crystal Clear on Where the Stock Is Headed Next.",
     "link": "https://www.fool.com/investing/2026/10/09/should-you-buy-taiwan-semiconductor-manufacturing/?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 16:20:00 +0000"
-   },
-   {
-    "title": "Taiwan Semiconductor (TSM) Grew Profits 77.4%. Is Its Premium Valuation Justified?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-grew-profits-132723051.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 16:12:23 +0000"
    }
   ],
   "INTC": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 09 Oct 2026 13:54:17 +0000"
    },
    {
-    "title": "Micron Stock Falls. Why Buybacks Could be Crucial for Gains.",
-    "link": "https://finance.yahoo.com/m/778c8164-7071-3bca-ac0b-d50017ff134e/micron-stock-falls.-why.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 17:45:00 +0000"
+    "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 21:18:53 +0000"
    },
    {
-    "title": "Nvidia and Micron are about to lord their successes all over Wall Street",
-    "link": "https://www.thestreet.com/investing/stocks/nvidia-and-micron-are-about-to-lord-their-successes-all-over-wall-street?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 16:37:00 +0000"
+    "title": "Micron Stock Falls. Why Buybacks Could be Crucial for Gains.",
+    "link": "https://finance.yahoo.com/m/778c8164-7071-3bca-ac0b-d50017ff134e/micron-stock-falls.-why.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:22:00 +0000"
    }
   ],
   "SNDK": [
@@ -122,22 +122,27 @@
   ],
   "WDC": [
    {
+    "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 21:18:53 +0000"
+   },
+   {
+    "title": "Western Digital (WDC) Outperforms Broader Market: What You Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-outperforms-broader-205003957.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:50:03 +0000"
+   },
+   {
     "title": "Seagate & Western Digital: Jim Cramer Said They Haven\u2019t Added Capacity But The Firms Might Have A Clever Strategy",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-jim-cramer-230032502.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 23:00:32 +0000"
-   },
-   {
-    "title": "What Does Western Digital Offer That Apple Does Not?",
-    "link": "https://www.trefis.com/articles/617933/what-does-western-digital-offer-that-apple-does-not/2026-10-08?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 22:56:41 +0000"
-   },
-   {
-    "title": "Can Supply Discipline Sustain AI Storage Momentum for Western Digital (WDC)?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/supply-discipline-sustain-ai-storage-195921574.html?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 19:59:21 +0000"
+    "pubDate": "Fri, 09 Oct 2026 20:20:32 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Seagate & Western Digital: Jim Cramer Said They Haven\u2019t Added Capacity But The Firms Might Have A Clever Strategy",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-jim-cramer-230032502.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 20:20:32 +0000"
+   },
    {
     "title": "Seagate (STX) Stock Could Be 36% Undervalued After HDD Capacity News",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-could-36-180819000.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Seagate\u2019s Dividend Has a Large Cash Cushion. Does It Offer Much Income?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-dividend-large-cash-cushion-135735421.html?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 16:12:35 +0000"
-   },
-   {
-    "title": "Can Seagate\u2019s (STX) AI-Driven Growth Justify Its Sky-High Expectations?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-stx-ai-driven-growth-152442735.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 15:24:42 +0000"
    }
   ],
   "SOXX": [
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
+    "title": "State Street (STT) Gains A Trump Account Tailwind, Is It Still 12% Below Fair Value?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-gains-trump-231320886.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 23:13:20 +0000"
+   },
+   {
+    "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season \u2014 MSFT, NFLX, SPCX, ASTS In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 22:53:11 +0000"
+   },
+   {
     "title": "Snap Jumps 7% as Social Media Names Rally; Pinterest Climbs 3%, Meta Holds Flat",
     "link": "https://247wallst.com/investing/2026/10/09/snap-jumps-4-as-social-media-names-rally-pinterest-climbs-3-meta-holds-flat/?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 14:58:29 +0000"
-   },
-   {
-    "title": "Alibaba Is Now Down 24% This Year: Did BABA Stock Just Find a Bottom?",
-    "link": "https://247wallst.com/investing/2026/10/09/alibaba-is-now-down-24-this-year-did-baba-stock-just-find-a-bottom/?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 19:06:44 +0000"
-   },
-   {
-    "title": "NuScale Power Is Now Down 49% This Year: Is SMR Stock Dead Money or Due for a Bounce?",
-    "link": "https://247wallst.com/investing/2026/10/09/nuscale-power-is-now-down-49-this-year-is-smr-stock-dead-money-or-due-for-a-bounce/?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 18:58:31 +0000"
    }
   ]
  },

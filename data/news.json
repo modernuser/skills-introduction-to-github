@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-09T01:18:35Z",
+ "updated": "2026-10-09T06:05:53Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers \u2014 NVDA, DIS, ORCL, SBUX In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 22:55:19 +0000"
+    "title": "Zacks Investment Ideas feature highlights: Microsoft, Dell, HP, Lenovo and Nvidia",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-044500352.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 04:45:00 +0000"
    },
    {
-    "title": "Nvidia, Apple, and Microsoft Spell Trouble for Index Investors",
-    "link": "https://247wallst.com/videos/nvidia-apple-and-microsoft-spell-trouble-for-index-investors/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 21:54:25 +0000"
+    "title": "Forget Waiting for an Nvidia Split: NVDA's Real Value Has Nothing to Do With Share Price",
+    "link": "https://www.fool.com/investing/2026/10/09/forget-waiting-for-an-nvidia-split-nvdas-real-valu/?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 04:20:00 +0000"
    },
    {
-    "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
-    "link": "https://www.fool.com/investing/2026/10/08/nvidia-vs-broadcom-which-ai-chip-stock-is-the-bett/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 21:49:00 +0000"
+    "title": "Asian stocks mixed amid AI concerns, oil dips after surge",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-amid-ai-031816763.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 03:18:16 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-told-broadcom-avgo-023103180.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 02:31:03 +0000"
+   },
+   {
     "title": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk",
     "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-spree-hammers-tech-222451927.html?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 22:24:51 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-looks-trade-221759849.html?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 22:17:59 +0000"
-   },
-   {
-    "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
-    "link": "https://www.fool.com/investing/2026/10/08/nvidia-vs-broadcom-which-ai-chip-stock-is-the-bett/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 21:49:00 +0000"
    }
   ],
   "TSM": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron (MU) Is Down 5.6% After Netlist Deal, Strong Earnings And Dividend Affirmation - What's Changed",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-down-5-6-051403875.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 05:14:03 +0000"
+   },
+   {
     "title": "Micron (MU) Is A Stock Jim Cramer Thinks Could Go From ~$1,000 To ~$2,000 Per Share",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-jim-cramer-225900219.html?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 22:59:00 +0000"
@@ -96,14 +101,14 @@
     "title": "Samsung's Operating Profit Hit a Record $80 Billion. Like Micron's Memory Prices, Its Growth Is Slowing.",
     "link": "https://www.fool.com/investing/2026/10/08/samsung-s-operating-profit-hit-a-record-usd80-billion-like-micron-s-memory-prices-its-growth-is-slowing/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 21:06:02 +0000"
-   },
-   {
-    "title": "Why MicronStock Dropped on Thursday",
-    "link": "https://www.fool.com/investing/2026/10/08/why-micronstock-dropped-on-thursday/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 21:01:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "3 AI Infrastructure Hardware Stocks To Watch As AI Server Demand Builds",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-hardware-stocks-011138260.html?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 01:11:38 +0000"
+   },
    {
     "title": "Is SanDisk Stock's Fall A Bargain Or A Warning?",
     "link": "https://www.trefis.com/articles/617813/is-sandisk-stocks-fall-a-bargain-or-a-warning/2026-10-08?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Why SandiskStock Dropped on Thursday",
     "link": "https://www.fool.com/investing/2026/10/08/why-sandiskstock-dropped-on-thursday/?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 21:13:04 +0000"
-   },
-   {
-    "title": "Billionaire David Tepper Dumped Sandisk for This Trillion-Dollar AI Chip Giant",
-    "link": "https://www.fool.com/investing/2026/10/08/billionaire-david-tepper-dumped-sandisk-for-this-t/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 18:20:00 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Chip, Cloud Stocks Edge Up Overnight After OpenAI\u2019s $50B Revenue Figure Sparks Selloff: Analyst Calls Reaction \u2018Overblown\u2019",
+    "link": "https://stocktwits.com/news-articles/markets/equity/chip-cloud-stocks-edge-up-overnight-after-open-ai-s-50-b-revenue-figure-sparks-selloff-analyst-calls-reaction-overblown/cZD6J6GRBV9?.tsrc=rss",
+    "pubDate": "Fri, 09 Oct 2026 02:22:18 +0000"
+   },
+   {
     "title": "Markets News, Oct. 8, 2026: AI Stock Selloff Pills Nasdaq, S&P 500 Lower; Oil Prices Surge on Middle East, Hurricane Worries",
     "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10082026-12164066?.tsrc=rss",
     "pubDate": "Thu, 08 Oct 2026 10:54:00 +0000"
@@ -164,11 +169,6 @@
     "title": "Why the iShares Semiconductor ETF Gained 11% in September",
     "link": "https://www.fool.com/investing/2026/10/02/why-the-ishares-semiconductor-etf-gained-11-in-september/?.tsrc=rss",
     "pubDate": "Sat, 03 Oct 2026 02:05:02 +0000"
-   },
-   {
-    "title": "Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip",
-    "link": "https://247wallst.com/investing/2026/10/08/intel-slides-3-as-chip-stocks-sell-off-with-yields-and-oil-higher-nvidia-and-amd-slip/?.tsrc=rss",
-    "pubDate": "Thu, 08 Oct 2026 14:05:43 +0000"
    }
   ],
   "SOXL": [

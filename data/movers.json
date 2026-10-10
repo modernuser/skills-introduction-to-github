@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-09T06:06:00Z",
+ "updated": "2026-10-10T05:49:39Z",
  "coverage": 498,
  "gainers": [
   {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
+   "symbol": "CCI",
+   "name": "Crown Castle",
    "sector": "Real Estate",
-   "close": 29.81,
-   "pct": 8.01
+   "close": 79.64,
+   "pct": 15.6
   },
   {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
-   "sector": "Consumer Discretionary",
-   "close": 32.68,
-   "pct": 6.21
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 225.0,
+   "pct": 14.21
   },
   {
-   "symbol": "GDDY",
-   "name": "GoDaddy",
+   "symbol": "HUM",
+   "name": "Humana",
+   "sector": "Health Care",
+   "close": 431.87,
+   "pct": 11.56
+  },
+  {
+   "symbol": "AMT",
+   "name": "American Tower",
+   "sector": "Real Estate",
+   "close": 182.24,
+   "pct": 9.3
+  },
+  {
+   "symbol": "SBAC",
+   "name": "SBA Communications",
+   "sector": "Real Estate",
+   "close": 182.49,
+   "pct": 7.34
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
    "sector": "Information Technology",
-   "close": 103.19,
-   "pct": 6.15
+   "close": 293.26,
+   "pct": 7.11
   },
   {
-   "symbol": "ACN",
-   "name": "Accenture",
+   "symbol": "AKAM",
+   "name": "Akamai Technologies",
    "sector": "Information Technology",
-   "close": 208.36,
-   "pct": 5.96
+   "close": 106.95,
+   "pct": 6.0
   },
   {
-   "symbol": "IT",
-   "name": "Gartner",
+   "symbol": "CIEN",
+   "name": "Ciena",
    "sector": "Information Technology",
-   "close": 195.41,
-   "pct": 5.19
-  },
-  {
-   "symbol": "CTSH",
-   "name": "Cognizant",
-   "sector": "Information Technology",
-   "close": 60.01,
-   "pct": 5.15
-  },
-  {
-   "symbol": "FDS",
-   "name": "FactSet",
-   "sector": "Financials",
-   "close": 286.52,
-   "pct": 5.04
-  },
-  {
-   "symbol": "LDOS",
-   "name": "Leidos",
-   "sector": "Industrials",
-   "close": 119.22,
-   "pct": 4.99
-  },
-  {
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "sector": "Energy",
-   "close": 463.34,
-   "pct": 4.77
-  },
-  {
-   "symbol": "VLO",
-   "name": "Valero Energy",
-   "sector": "Energy",
-   "close": 443.8,
-   "pct": 4.65
-  }
- ],
- "losers": [
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 302.35,
-   "pct": -9.63
-  },
-  {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
-   "sector": "Information Technology",
-   "close": 152.83,
-   "pct": -6.38
-  },
-  {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "close": 156.14,
-   "pct": -6.35
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 272.82,
-   "pct": -6.34
+   "close": 449.77,
+   "pct": 5.6
   },
   {
    "symbol": "LITE",
    "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 1048.6,
-   "pct": -5.62
+   "close": 1103.355,
+   "pct": 5.22
   },
   {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
    "sector": "Information Technology",
-   "close": 135.69,
-   "pct": -5.48
+   "close": 209.05,
+   "pct": 5.17
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "close": 148.58,
+   "pct": -13.27
   },
   {
-   "symbol": "INTC",
-   "name": "Intel",
+   "symbol": "T",
+   "name": "AT&T",
+   "sector": "Communication Services",
+   "close": 22.18,
+   "pct": -10.82
+  },
+  {
+   "symbol": "VZ",
+   "name": "Verizon",
+   "sector": "Communication Services",
+   "close": 41.65,
+   "pct": -10.14
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
    "sector": "Information Technology",
-   "close": 107.08,
-   "pct": -5.34
+   "close": 30.2,
+   "pct": -6.91
   },
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 103.38,
+   "pct": -5.74
+  },
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
    "sector": "Information Technology",
-   "close": 1609.46,
-   "pct": -4.9
+   "close": 667.58,
+   "pct": -5.63
   },
   {
-   "symbol": "CEG",
-   "name": "Constellation Energy",
-   "sector": "Utilities",
-   "close": 285.07,
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Information Technology",
+   "close": 76.35,
+   "pct": -5.45
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mosaic Company (The)",
+   "sector": "Materials",
+   "close": 18.74,
+   "pct": -5.02
+  },
+  {
+   "symbol": "DE",
+   "name": "Deere & Company",
+   "sector": "Industrials",
+   "close": 620.93,
    "pct": -4.85
   },
   {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 42.77,
-   "pct": -4.83
+   "symbol": "BG",
+   "name": "Bunge Global",
+   "sector": "Consumer Staples",
+   "close": 102.73,
+   "pct": -4.72
   }
  ]
 }

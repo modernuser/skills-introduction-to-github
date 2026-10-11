@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-10T18:40:27Z",
+ "updated": "2026-10-11T01:01:51Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-wants-investors-finance-221126922.html?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 22:11:26 +0000"
+   },
+   {
+    "title": "\u2018Big Short\u2019 investors split over the AI risk that matters most",
+    "link": "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 19:13:00 +0000"
+   },
    {
     "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
     "link": "https://www.fool.com/investing/2026/10/10/1-reason-the-meta-muse-ai-agent-has-the-upper-hand/?.tsrc=rss",
     "pubDate": "Sat, 10 Oct 2026 17:50:00 +0000"
-   },
-   {
-    "title": "Nvidia (NVDA) More Than Doubled Revenue, Yet Its Multiple Sits Below History. Bargain or Warning?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-more-doubled-revenue-132539113.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 17:10:39 +0000"
-   },
-   {
-    "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 16:38:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "What Jim Cramer Says About Advanced Micro Devices\u2019 (AMD) AI Opportunity",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-advanced-micro-085039242.html?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 19:50:39 +0000"
+   },
    {
     "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/10/10/advanced-micro-devices-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Sat, 10 Oct 2026 17:03:01 +0000"
    },
    {
-    "title": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
-    "link": "https://247wallst.com/investing/2026/10/10/the-next-wave-of-ai-demand-could-send-broadcom-marvell-and-amd-soaring/?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 14:30:57 +0000"
-   },
-   {
-    "title": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks \u2014 But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",
-    "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-biotech-stocks-sells-amd-spcx-goog/cZxTVbERBnq?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 06:02:32 +0000"
+    "title": "AMD Stock Is Set to Benefit From Both Physical and Agentic AI",
+    "link": "https://www.barchart.com/story/news/5718421/amd-stock-is-set-to-benefit-from-both-physical-and-agentic-ai?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 15:30:02 +0000"
    }
   ],
   "AVGO": [
@@ -54,19 +54,19 @@
   ],
   "TSM": [
    {
-    "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 16:38:00 +0000"
+    "title": "3 AI Infrastructure Stocks to Watch Before TSMC Earnings",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-watch-001353154.html?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 00:13:53 +0000"
    },
    {
-    "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
-    "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 15:28:10 +0000"
+    "title": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for October 15",
+    "link": "https://www.barchart.com/story/news/5746316/dear-taiwan-semi-stock-fans-mark-your-calendars-for-october-15?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 17:30:02 +0000"
    },
    {
-    "title": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
-    "link": "https://www.fool.com/investing/2026/10/10/this-forgotten-ai-stock-is-up-689-and-nobodys-talk/?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 05:20:00 +0000"
+    "title": "SpaceX\u2019s Terafab Probably Won\u2019t Deliver Very High Profits, Despite Taiwan Semiconductor\u2019s Limited Role",
+    "link": "https://www.barchart.com/story/news/5743503/spacexs-terafab-probably-wont-deliver-very-high-profits-despite-taiwan-semiconductors-limited-role?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 17:19:23 +0000"
    }
   ],
   "INTC": [
@@ -98,9 +98,9 @@
     "pubDate": "Sat, 10 Oct 2026 16:18:53 +0000"
    },
    {
-    "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-mu-facing-100944712.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 10:09:44 +0000"
+    "title": "Micron\u2019s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
+    "link": "https://www.barchart.com/story/news/5727029/microns-taiwan-union-authorized-a-strike-over-a-bonus-dispute-what-this-means-for-mu-stock?.tsrc=rss",
+    "pubDate": "Sat, 10 Oct 2026 16:00:02 +0000"
    }
   ],
   "SNDK": [

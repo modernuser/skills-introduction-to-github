@@ -1,41 +1,46 @@
 {
- "updated": "2026-10-11T18:58:04Z",
+ "updated": "2026-10-12T01:22:29Z",
  "news": {
   "NVDA": [
    {
-    "title": "Beyond S&P 500 Index Funds: Here's the 1 Sector I'd Buy First as a New Investor",
-    "link": "https://www.fool.com/investing/2026/10/11/beyond-sp-500-index-funds-heres-the-1-sector-id-bu/?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 18:37:00 +0000"
+    "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
+    "link": "https://www.fool.com/investing/2026/10/11/not-nvidia-not-broadcom-this-little-known-chip-sup/?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 23:50:00 +0000"
    },
    {
-    "title": "If I Had a Choice to Invest $10,000 in SpaceX or Nvidia, Here's What I Would Do",
-    "link": "https://www.fool.com/investing/2026/10/11/if-choice-invest-10k-spacex-nvidia-what-do/?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 17:38:00 +0000"
+    "title": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
+    "link": "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 23:20:00 +0000"
    },
    {
-    "title": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
-    "link": "https://www.fool.com/investing/2026/10/11/qualcomm-looks-cheap-next-to-its-ai-chip-peers-her/?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 16:50:00 +0000"
+    "title": "Following OpenAI\u2019s Revenue Report, Should You Really Buy AI Stocks Right Now?",
+    "link": "https://www.fool.com/investing/2026/10/11/following-openai-s-revenue-report-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 22:25:02 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-stock-221047670.html?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 22:10:47 +0000"
+   },
+   {
+    "title": "History Says This Will Happen to AMD Stock in 2027",
+    "link": "https://www.fool.com/investing/2026/10/11/history-says-this-will-happen-to-amd-stock-in-2027/?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 21:35:00 +0000"
+   },
+   {
     "title": "AMD Stock Fell 6% in Three Sessions After Its Record Close. Here\u2019s What OpenAI\u2019s $20 Billion Revenue Gap Means for the Stock",
     "link": "https://www.tikr.com/blog/amd-stock-fell-6-in-three-sessions-after-its-record-close-heres-what-openais-20-billion-revenue-gap-means-for-the-stock?ref=yahoofinance&.tsrc=rss",
     "pubDate": "Sun, 11 Oct 2026 15:07:44 +0000"
-   },
-   {
-    "title": "Not Anthropic. Not AMD. Here's My Top AI Stock for 2027.",
-    "link": "https://www.fool.com/investing/2026/10/11/not-anthropic-not-palantir-top-ai-stock-2027/?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 12:35:00 +0000"
-   },
-   {
-    "title": "AMD\u2019s Biggest Problem Is No Longer Demand. Lisa Su Is in Asia to Fix the Real One",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-biggest-problem-no-longer-123014754.html?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 12:30:14 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "How Broadcom\u2019s $42 Billion \u2018Loan\u2019 to Anthropic Is a Bet on a $2 Trillion IPO",
+    "link": "https://www.barchart.com/story/news/6022564/how-broadcoms-42-billion-loan-to-anthropic-is-a-bet-on-a-2-trillion-ipo?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 13:45:15 +0000"
+   },
    {
     "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-told-broadcom-avgo-023103180.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "3 Low-Cost ETFs Spreading Income Across Hundreds of Holdings. One Still Puts 7.35% Behind a Single Company",
     "link": "https://247wallst.com/investing/etf/2026/10/10/3-low-cost-etfs-spreading-income-across-hundreds-of-holdings-one-still-puts-7-35-behind-a-single-company/?.tsrc=rss",
     "pubDate": "Sat, 10 Oct 2026 16:03:12 +0000"
-   },
-   {
-    "title": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/10/10/broadcom-vs-intel-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 15:35:02 +0000"
    }
   ],
   "TSM": [
@@ -59,17 +59,22 @@
     "pubDate": "Sun, 11 Oct 2026 10:00:00 +0000"
    },
    {
-    "title": "Dow Jones Futures: Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
-    "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-trump.html?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 17:23:44 +0000"
+    "title": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
+    "link": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-rise-as.html?.tsrc=rss",
+    "pubDate": "Mon, 12 Oct 2026 00:09:34 +0000"
    },
    {
-    "title": "3 Things to Watch When Taiwan Semiconductor (TSMC) Reports Earnings on Oct. 15",
-    "link": "https://www.fool.com/investing/2026/10/11/3-things-to-watch-when-taiwan-semiconductor-report/?.tsrc=rss",
-    "pubDate": "Sun, 11 Oct 2026 10:25:00 +0000"
+    "title": "CPI, Earnings and Other Can't Miss Items this Week",
+    "link": "https://www.barchart.com/story/news/6039957/cpi-earnings-and-other-can-t-miss-items-this-week?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 17:00:02 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+    "link": "https://www.thestreet.com/investing/stocks/elon-musk-just-handed-intel-a-new-problem-wall-street-cant-ignore?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 20:33:00 +0000"
+   },
    {
     "title": "Intel (INTC) Reaches 500 Million AI Tool Downloads As Edge Integrations Expand",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-reaches-500-million-141135053.html?.tsrc=rss",
@@ -79,14 +84,14 @@
     "title": "Intel and Applied Materials Just Deepened Their AI Partnership. Which Stock Looks Better Positioned?",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-applied-materials-just-deepened-121609404.html?.tsrc=rss",
     "pubDate": "Sun, 11 Oct 2026 12:16:09 +0000"
-   },
-   {
-    "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 16:38:00 +0000"
    }
   ],
   "MU": [
+   {
+    "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
+    "link": "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 22:50:00 +0000"
+   },
    {
     "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
     "link": "https://www.fool.com/investing/2026/10/11/spacex-vs-micron-better-artificial-intelligence-ai/?.tsrc=rss",
@@ -96,11 +101,6 @@
     "title": "Prediction: This Is How Much Micron Stock Will Be Worth By the End of 2027",
     "link": "https://www.fool.com/investing/2026/10/11/prediction-this-is-how-much-micron-stock-will-be-worth-by-the-end-of-2027/?.tsrc=rss",
     "pubDate": "Sun, 11 Oct 2026 09:30:02 +0000"
-   },
-   {
-    "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
-    "pubDate": "Sat, 10 Oct 2026 16:18:53 +0000"
    }
   ],
   "SNDK": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "A Western Digital (WDC) Investor\u2019s Losses Prompt Jim Cramer to Bring Up Micron (MU)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-investor-losses-194706973.html?.tsrc=rss",
+    "pubDate": "Sun, 11 Oct 2026 19:47:06 +0000"
+   },
+   {
     "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-western-digital-ai-211853844.html?.tsrc=rss",
     "pubDate": "Sat, 10 Oct 2026 16:18:53 +0000"
@@ -130,11 +135,6 @@
     "title": "Western Digital (WDC) Outperforms Broader Market: What You Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-outperforms-broader-205003957.html?.tsrc=rss",
     "pubDate": "Fri, 09 Oct 2026 20:50:03 +0000"
-   },
-   {
-    "title": "Seagate & Western Digital: Jim Cramer Said They Haven\u2019t Added Capacity But The Firms Might Have A Clever Strategy",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-jim-cramer-230032502.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 20:20:32 +0000"
    }
   ],
   "STX": [
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
+    "title": "What is Domino\u2019s (DPZ) Economic Moat, and is it Widening or Narrowing?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/domino-dpz-economic-moat-widening-011131749.html?.tsrc=rss",
+    "pubDate": "Mon, 12 Oct 2026 01:11:31 +0000"
+   },
+   {
+    "title": "What is Philip Morris\u2019 (PM) Economic Moat, and is it Widening or Narrowing?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-pm-economic-moat-005705275.html?.tsrc=rss",
+    "pubDate": "Mon, 12 Oct 2026 00:57:05 +0000"
+   },
+   {
     "title": "KLA Turned $1,000 Into $31,595 in a Decade, Crushing the S&P 500 by 8.7x",
     "link": "https://247wallst.com/investing/2026/10/11/kla-turned-1000-into-31595-in-a-decade-crushing-the-sp-500-by-8-7x/?.tsrc=rss",
     "pubDate": "Sun, 11 Oct 2026 14:00:16 +0000"
-   },
-   {
-    "title": "State Street (STT) Gains A Trump Account Tailwind, Is It Still 12% Below Fair Value?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-gains-trump-231320886.html?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 23:13:20 +0000"
-   },
-   {
-    "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season \u2014 MSFT, NFLX, SPCX, ASTS In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
-    "pubDate": "Fri, 09 Oct 2026 22:53:11 +0000"
    }
   ]
  },

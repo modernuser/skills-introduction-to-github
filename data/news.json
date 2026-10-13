@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:36:10Z",
+ "updated": "2026-10-13T06:45:33Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
-    "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:11:19 +0000"
+    "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-chip-share-china-061558719.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 06:15:58 +0000"
    },
    {
-    "title": "Nvidia\u2019s 'Reflection' move could put customers on edge",
-    "link": "https://www.thestreet.com/investing/nvidias-reflection-move-could-put-customers-on-edge?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 00:03:00 +0000"
+    "title": "NOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, BlackBerry, But Retail Disagrees",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nok-bb-stocks-in-focus-jim-cramer-expresses-confidence-in-nokia-black-berry-but-retail-disagrees/cZxB4bBRBoT?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 05:47:14 +0000"
    },
    {
-    "title": "Why Harmony Biosciences Stock Got Mashed on Monday",
-    "link": "https://www.fool.com/investing/2026/10/12/why-harmony-biosciences-stock-got-mashed-on-monday/?.tsrc=rss",
-    "pubDate": "Mon, 12 Oct 2026 23:36:32 +0000"
+    "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/13/better-artificial-intelligence-stock-for-2026-intel-vs-nvidia/?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 05:04:33 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-vs-broadcom-avgo-204108303.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 03:22:08 +0000"
+   },
+   {
     "title": "Broadcom CEO follows a proven blueprint for labs buying its chips",
     "link": "https://www.thestreet.com/investing/broadcom-avgo-ai-chip-lending-risk-analysis?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 02:04:00 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
     "link": "https://www.fool.com/coverage/better-buy/2026/10/12/broadcom-vs-qualcomm-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
     "pubDate": "Mon, 12 Oct 2026 22:51:01 +0000"
-   },
-   {
-    "title": "3 Dividend Paying Stocks Offering AI Exposure",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-paying-stocks-offering-204700813.html?.tsrc=rss",
-    "pubDate": "Mon, 12 Oct 2026 20:47:00 +0000"
    }
   ],
   "TSM": [
@@ -76,31 +76,31 @@
     "pubDate": "Mon, 12 Oct 2026 19:29:16 +0000"
    },
    {
+    "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/13/better-artificial-intelligence-stock-for-2026-intel-vs-nvidia/?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 05:04:33 +0000"
+   },
+   {
     "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
     "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-intc-amd-skhy-chip-stocks-extend-slide-as-ai-funding-concerns-china-competition-weigh-on-sector/cZxBG1BRB8u?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 01:42:28 +0000"
-   },
-   {
-    "title": "Intel (INTC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-sees-more-significant-204504098.html?.tsrc=rss",
-    "pubDate": "Mon, 12 Oct 2026 20:45:04 +0000"
    }
   ],
   "MU": [
    {
-    "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-intc-amd-skhy-chip-stocks-extend-slide-as-ai-funding-concerns-china-competition-weigh-on-sector/cZxBG1BRB8u?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:42:28 +0000"
+    "title": "Chip selloff extends as South Korean stock market sinks 6%",
+    "link": "https://finance.yahoo.com/markets/stocks/article/chip-selloff-extends-as-south-korean-stock-market-sinks-6-032602153.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 03:26:02 +0000"
+   },
+   {
+    "title": "Wall Street\u2019s Biggest Micron Bull Just Raised Its Target Again. It Now Sees the Stock Nearly Tripling",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-micron-bull-212054647.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 03:20:54 +0000"
    },
    {
     "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
     "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:11:19 +0000"
-   },
-   {
-    "title": "Monolithic Power Systems, MACOM, Micron, Seagate, and Vishay Intertechnology Shares Plummet, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-macom-micron-004703356.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 00:47:03 +0000"
+    "pubDate": "Tue, 13 Oct 2026 03:03:19 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Mon, 12 Oct 2026 18:19:41 +0000"
    },
    {
+    "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+    "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 03:03:19 +0000"
+   },
+   {
     "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
     "link": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-intc-amd-skhy-chip-stocks-extend-slide-as-ai-funding-concerns-china-competition-weigh-on-sector/cZxBG1BRB8u?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 01:42:28 +0000"
-   },
-   {
-    "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
-    "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:11:19 +0000"
    }
   ],
   "WDC": [
@@ -207,19 +207,19 @@
   ],
   "SPY": [
    {
-    "title": "Ventas (VTR) Pays Out Over 370% of Its Earnings as Dividends, So What Actually Funds It?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ventas-vtr-pays-over-370-020603623.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 02:06:03 +0000"
+    "title": "Michael Burry Flags \u2018Bull Trap\u2019 Risk, Holds Back On New Shorts \u2014 Why Trump\u2019s Fannie-Freddie Call Matters To His Portfolio",
+    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bull-trap-risk-holds-back-new-shorts-trump-fannie-freddie-call/cZxBdKIRBob?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 04:49:14 +0000"
    },
    {
-    "title": "Charter Communications (CHTR) Trades at 2.69 Times Earnings With 41.52% of Its Float Sold Short. Which Side Is Reading It Right?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-trades-2-015656570.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:56:56 +0000"
+    "title": "Illumina\u2019s (ILMN) Sequencing Business Is Recovering, But Is the Stock Getting Ahead of Itself?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/illumina-ilmn-sequencing-business-recovering-035246371.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 03:52:46 +0000"
    },
    {
-    "title": "ServiceNow (NOW) Grew Revenue 24% While Earnings Fell 22.60%. Where Did the Profit Go?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-grew-revenue-24-014421273.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 01:44:21 +0000"
+    "title": "TransDigm (TDG) Has Negative Book Value of almost $168 a Share. Is That a Problem?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-tdg-negative-book-value-024812228.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 02:48:12 +0000"
    }
   ]
  },

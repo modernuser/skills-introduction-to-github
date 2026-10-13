@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-10T05:49:39Z",
- "coverage": 498,
+ "updated": "2026-10-13T06:45:42Z",
+ "coverage": 500,
  "gainers": [
   {
-   "symbol": "CCI",
-   "name": "Crown Castle",
-   "sector": "Real Estate",
-   "close": 79.64,
-   "pct": 15.6
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 225.0,
-   "pct": 14.21
-  },
-  {
-   "symbol": "HUM",
-   "name": "Humana",
-   "sector": "Health Care",
-   "close": 431.87,
-   "pct": 11.56
-  },
-  {
-   "symbol": "AMT",
-   "name": "American Tower",
-   "sector": "Real Estate",
-   "close": 182.24,
-   "pct": 9.3
-  },
-  {
-   "symbol": "SBAC",
-   "name": "SBA Communications",
-   "sector": "Real Estate",
-   "close": 182.49,
-   "pct": 7.34
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
+   "symbol": "FICO",
+   "name": "Fair Isaac",
    "sector": "Information Technology",
-   "close": 293.26,
-   "pct": 7.11
+   "close": 740.0,
+   "pct": 10.85
   },
   {
-   "symbol": "AKAM",
-   "name": "Akamai Technologies",
-   "sector": "Information Technology",
-   "close": 106.95,
-   "pct": 6.0
+   "symbol": "MDT",
+   "name": "Medtronic",
+   "sector": "Health Care",
+   "close": 91.93,
+   "pct": 3.9
   },
+  {
+   "symbol": "VYLR",
+   "name": "Vylor",
+   "sector": "Consumer Staples",
+   "close": 75.89,
+   "pct": 3.75
+  },
+  {
+   "symbol": "ZBH",
+   "name": "Zimmer Biomet",
+   "sector": "Health Care",
+   "close": 92.17,
+   "pct": 3.4
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "sector": "Communication Services",
+   "close": 742.96,
+   "pct": 3.38
+  },
+  {
+   "symbol": "PODD",
+   "name": "Insulet Corporation",
+   "sector": "Health Care",
+   "close": 139.81,
+   "pct": 3.35
+  },
+  {
+   "symbol": "TYL",
+   "name": "Tyler Technologies",
+   "sector": "Information Technology",
+   "close": 339.94,
+   "pct": 3.15
+  },
+  {
+   "symbol": "KDP",
+   "name": "Keurig Dr Pepper",
+   "sector": "Consumer Staples",
+   "close": 32.75,
+   "pct": 3.12
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands",
+   "sector": "Consumer Staples",
+   "close": 126.4,
+   "pct": 3.07
+  },
+  {
+   "symbol": "GEHC",
+   "name": "GE HealthCare",
+   "sector": "Health Care",
+   "close": 67.74,
+   "pct": 3.04
+  }
+ ],
+ "losers": [
   {
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "close": 449.77,
-   "pct": 5.6
+   "close": 405.01,
+   "pct": -9.95
   },
   {
    "symbol": "LITE",
    "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 1103.355,
-   "pct": 5.22
+   "close": 995.41,
+   "pct": -9.78
   },
   {
-   "symbol": "PLTR",
-   "name": "Palantir Technologies",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 209.05,
-   "pct": 5.17
-  }
- ],
- "losers": [
-  {
-   "symbol": "TMUS",
-   "name": "T-Mobile US",
-   "sector": "Communication Services",
-   "close": 148.58,
-   "pct": -13.27
+   "close": 288.02,
+   "pct": -7.87
   },
   {
-   "symbol": "T",
-   "name": "AT&T",
-   "sector": "Communication Services",
-   "close": 22.18,
-   "pct": -10.82
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "close": 59.51,
+   "pct": -6.62
   },
   {
-   "symbol": "VZ",
-   "name": "Verizon",
-   "sector": "Communication Services",
-   "close": 41.65,
-   "pct": -10.14
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "close": 30.2,
-   "pct": -6.91
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 103.38,
-   "pct": -5.74
-  },
-  {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
-   "sector": "Information Technology",
-   "close": 667.58,
-   "pct": -5.63
-  },
-  {
-   "symbol": "SWKS",
-   "name": "Skyworks Solutions",
-   "sector": "Information Technology",
-   "close": 76.35,
-   "pct": -5.45
-  },
-  {
-   "symbol": "MOS",
-   "name": "Mosaic Company (The)",
-   "sector": "Materials",
-   "close": 18.74,
-   "pct": -5.02
-  },
-  {
-   "symbol": "DE",
-   "name": "Deere & Company",
+   "symbol": "BE",
+   "name": "Bloom Energy",
    "sector": "Industrials",
-   "close": 620.93,
-   "pct": -4.85
+   "close": 262.28,
+   "pct": -6.5
   },
   {
-   "symbol": "BG",
-   "name": "Bunge Global",
-   "sector": "Consumer Staples",
-   "close": 102.73,
-   "pct": -4.72
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 147.28,
+   "pct": -6.0
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "close": 1487.33,
+   "pct": -5.97
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 213.74,
+   "pct": -5.0
+  },
+  {
+   "symbol": "AKAM",
+   "name": "Akamai Technologies",
+   "sector": "Information Technology",
+   "close": 101.65,
+   "pct": -4.96
+  },
+  {
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
+   "sector": "Information Technology",
+   "close": 1319.23,
+   "pct": -4.84
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:47:15Z",
+ "updated": "2026-10-14T00:21:17Z",
  "news": {
   "NVDA": [
    {
@@ -8,14 +8,14 @@
     "pubDate": "Tue, 13 Oct 2026 23:33:53 +0000"
    },
    {
+    "title": "4 Factors That Drive Share Outperformance",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/4-factors-drive-share-outperformance-231000568.html?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 23:10:00 +0000"
+   },
+   {
     "title": "Nvidia in 5 Years: Where the Stock Could Be Headed",
     "link": "https://www.fool.com/investing/2026/10/13/nvidia-in-5-years-where-the-stock-could-be-headed/?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 22:26:00 +0000"
-   },
-   {
-    "title": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
-    "link": "https://247wallst.com/investing/etf/2026/10/13/you-bought-a-semiconductor-fund-on-500000-87743-of-it-is-nvidia/?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 21:03:09 +0000"
    }
   ],
   "AMD": [
@@ -27,7 +27,7 @@
    {
     "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
     "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-stock.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 23:26:48 +0000"
+    "pubDate": "Wed, 14 Oct 2026 00:14:32 +0000"
    },
    {
     "title": "Stock Market Today, Oct. 13: Fermi Surges 14% on AMD Credit Support for Project Matador",
@@ -88,11 +88,6 @@
   ],
   "MU": [
    {
-    "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-    "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-stock.html?.tsrc=rss",
-    "pubDate": "Tue, 13 Oct 2026 23:26:48 +0000"
-   },
-   {
     "title": "Micron Just Raised Its Buyback Authorization to $35 Billion. Prediction: It Spends More Buying Back Stock in the Next Year Than in the Past 8 Combined.",
     "link": "https://www.fool.com/investing/2026/10/13/micron-just-raised-its-buyback-authorization-to-usd35-billion-prediction-it-spends-more-buying-back-stock-in-the-next-year-than-in-the-past-8-combined/?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 20:57:02 +0000"
@@ -101,6 +96,11 @@
     "title": "Micron (MU) Trades at 7x Forward Earnings: Is it a Bargain or a Peak-Cycle Warning?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-trades-7x-forward-204223074.html?.tsrc=rss",
     "pubDate": "Tue, 13 Oct 2026 20:42:23 +0000"
+   },
+   {
+    "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today",
+    "link": "https://www.kiplinger.com/investing/stocks/stocks-struggle-ahead-of-september-cpi-report-stock-market-today?.tsrc=rss",
+    "pubDate": "Tue, 13 Oct 2026 20:08:50 +0000"
    }
   ],
   "SNDK": [

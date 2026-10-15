@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-13T06:45:42Z",
- "coverage": 500,
+ "updated": "2026-10-15T04:35:37Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
+   "symbol": "CDW",
+   "name": "CDW Corporation",
    "sector": "Information Technology",
-   "close": 740.0,
-   "pct": 10.85
+   "close": 151.97,
+   "pct": 5.71
   },
   {
-   "symbol": "MDT",
-   "name": "Medtronic",
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "close": 484.92,
+   "pct": 5.69
+  },
+  {
+   "symbol": "IFF",
+   "name": "International Flavors & Fragrances",
+   "sector": "Materials",
+   "close": 89.6,
+   "pct": 5.46
+  },
+  {
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "close": 459.78,
+   "pct": 5.45
+  },
+  {
+   "symbol": "GRMN",
+   "name": "Garmin",
+   "sector": "Consumer Discretionary",
+   "close": 279.72,
+   "pct": 4.86
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
    "sector": "Health Care",
-   "close": 91.93,
-   "pct": 3.9
+   "close": 70.16,
+   "pct": 4.69
   },
   {
-   "symbol": "VYLR",
-   "name": "Vylor",
-   "sector": "Consumer Staples",
-   "close": 75.89,
-   "pct": 3.75
-  },
-  {
-   "symbol": "ZBH",
-   "name": "Zimmer Biomet",
-   "sector": "Health Care",
-   "close": 92.17,
-   "pct": 3.4
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms",
-   "sector": "Communication Services",
-   "close": 742.96,
-   "pct": 3.38
-  },
-  {
-   "symbol": "PODD",
-   "name": "Insulet Corporation",
-   "sector": "Health Care",
-   "close": 139.81,
-   "pct": 3.35
-  },
-  {
-   "symbol": "TYL",
-   "name": "Tyler Technologies",
+   "symbol": "CTSH",
+   "name": "Cognizant",
    "sector": "Information Technology",
-   "close": 339.94,
-   "pct": 3.15
+   "close": 62.47,
+   "pct": 4.67
   },
   {
-   "symbol": "KDP",
-   "name": "Keurig Dr Pepper",
-   "sector": "Consumer Staples",
-   "close": 32.75,
-   "pct": 3.12
-  },
-  {
-   "symbol": "STZ",
-   "name": "Constellation Brands",
-   "sector": "Consumer Staples",
-   "close": 126.4,
-   "pct": 3.07
-  },
-  {
-   "symbol": "GEHC",
-   "name": "GE HealthCare",
+   "symbol": "UNH",
+   "name": "UnitedHealth Group",
    "sector": "Health Care",
-   "close": 67.74,
-   "pct": 3.04
+   "close": 395.62,
+   "pct": 4.52
+  },
+  {
+   "symbol": "BG",
+   "name": "Bunge Global",
+   "sector": "Consumer Staples",
+   "close": 108.91,
+   "pct": 4.5
+  },
+  {
+   "symbol": "DRI",
+   "name": "Darden Restaurants",
+   "sector": "Consumer Discretionary",
+   "close": 208.52,
+   "pct": 4.46
   }
  ],
  "losers": [
   {
+   "symbol": "SKYD",
+   "name": "Skydance Corporation",
+   "sector": "Communication Services",
+   "close": 7.06,
+   "pct": -22.93
+  },
+  {
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
+   "sector": "Information Technology",
+   "close": 100.35,
+   "pct": -14.41
+  },
+  {
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "close": 405.01,
-   "pct": -9.95
+   "close": 359.6,
+   "pct": -11.21
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
+   "symbol": "SMCI",
+   "name": "Supermicro",
    "sector": "Information Technology",
-   "close": 995.41,
-   "pct": -9.78
+   "close": 35.78,
+   "pct": -10.51
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "AMAT",
+   "name": "Applied Materials",
    "sector": "Information Technology",
-   "close": 288.02,
-   "pct": -7.87
-  },
-  {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "close": 59.51,
-   "pct": -6.62
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 262.28,
-   "pct": -6.5
-  },
-  {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
-   "sector": "Information Technology",
-   "close": 147.28,
-   "pct": -6.0
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1487.33,
-   "pct": -5.97
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 213.74,
-   "pct": -5.0
+   "close": 446.63,
+   "pct": -10.23
   },
   {
    "symbol": "AKAM",
    "name": "Akamai Technologies",
    "sector": "Information Technology",
-   "close": 101.65,
-   "pct": -4.96
+   "close": 91.71,
+   "pct": -9.78
   },
   {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "close": 198.06,
+   "pct": -9.3
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 1319.23,
-   "pct": -4.84
+   "close": 263.32,
+   "pct": -8.58
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 245.28,
+   "pct": -7.74
+  },
+  {
+   "symbol": "ECHO",
+   "name": "EchoStar",
+   "sector": "Communication Services",
+   "close": 87.86,
+   "pct": -7.61
   }
  ]
 }

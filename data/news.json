@@ -1,29 +1,24 @@
 {
- "updated": "2026-10-16T01:42:38Z",
+ "updated": "2026-10-16T04:29:09Z",
  "news": {
   "NVDA": [
    {
-    "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center",
-    "link": "https://www.fool.com/investing/2026/10/15/not-nvidia-not-cisco-this-is-the-ai-networking-sto/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 23:35:00 +0000"
+    "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock.",
+    "link": "https://www.fool.com/investing/2026/10/15/lenders-are-getting-nervous-about-coreweave-i-d-still-buy-nvidia-stock/?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 04:06:02 +0000"
    },
    {
-    "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
-    "link": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 22:43:00 +0000"
+    "title": "Taiwan plans $4 bln Texas park to support Nvidia\u2019s AI supply chain - Bloomberg",
+    "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-plans-4-bln-texas-030702909.html?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 03:07:02 +0000"
    },
    {
-    "title": "VGT Returned 799.70% and VOO Returned 324.46% Over a Decade. Adding VUG Does Not Make It Diversified",
-    "link": "https://247wallst.com/investing/etf/2026/10/15/vgt-returned-799-70-and-voo-returned-324-46-over-a-decade-adding-vug-does-not-make-it-diversified/?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 22:03:10 +0000"
+    "title": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
+    "link": "https://www.fool.com/investing/2026/10/15/tsmc-just-posted-record-profit-for-the-sixth-straight-quarter-why-did-the-stock-fall/?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 02:50:02 +0000"
    }
   ],
   "AMD": [
-   {
-    "title": "Nvidia stock trims losses as chip sell-off eases amid AI financing concerns",
-    "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-trims-losses-as-chip-sell-off-eases-amid-ai-financing-concerns-203300012.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 13:42:37 +0000"
-   },
    {
     "title": "Tech slumps as AI financing worries grow, investors flock to bonds: AlphaCheck",
     "link": "https://finance.yahoo.com/markets/article/tech-slumps-as-ai-financing-worries-grow-investors-flock-to-bonds-alphacheck-140248350.html?.tsrc=rss",
@@ -33,9 +28,19 @@
     "title": "Advanced Micro Devices (AMD) Expands AI Infrastructure Cooling, Is The Stock Fully Priced?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-expands-181012642.html?.tsrc=rss",
     "pubDate": "Thu, 15 Oct 2026 18:10:12 +0000"
+   },
+   {
+    "title": "The Real AMD Catalyst Investors Are Sleeping On Isn\u2019t What You Think",
+    "link": "https://247wallst.com/investing/2026/10/15/the-real-amd-catalyst-investors-are-sleeping-on-isnt-what-you-think/?.tsrc=rss",
+    "pubDate": "Thu, 15 Oct 2026 16:30:34 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-warning-change-broadcom-031330056.html?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 03:13:30 +0000"
+   },
    {
     "title": "Broadcom CEO Hock Tan Echoes Warren Buffett in Warning About \"Casino\"-Like Investing",
     "link": "https://www.fool.com/investing/2026/10/15/broadcom-ceo-hock-tan-echoes-warren-buffett/?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "I\u2019m Simply Not Worried About Broadcom\u2019s Multi-Segment Drag",
     "link": "https://247wallst.com/investing/2026/10/15/im-simply-not-worried-about-broadcoms-multi-segment-drag/?.tsrc=rss",
     "pubDate": "Thu, 15 Oct 2026 16:45:34 +0000"
-   },
-   {
-    "title": "\u2018They are in a casino\u2019: Broadcom is making billions off the AI boom, but CEO Hock Tan said many AI investors have \u2018no clue\u2019 what they\u2019re investing in",
-    "link": "https://finance.yahoo.com/technology/ai/articles/casino-broadcom-making-billions-off-153009774.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 15:30:09 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
+    "link": "https://www.fool.com/investing/2026/10/15/tsmc-just-posted-record-profit-for-the-sixth-straight-quarter-why-did-the-stock-fall/?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 02:50:02 +0000"
+   },
    {
     "title": "Chip Stocks Tumble On AI Investment Worries",
     "link": "https://finance.yahoo.com/m/e0ef6d90-1f3d-3925-9be0-e5d8d98435b3/chip-stocks-tumble-on-ai.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report",
     "link": "https://finance.yahoo.com/m/e77c8dc4-38ba-3d35-ae51-3ccbe56ac9d0/chip-leader-tsmc-delivers.html?.tsrc=rss",
     "pubDate": "Thu, 15 Oct 2026 20:24:52 +0000"
-   },
-   {
-    "title": "Sector Update: Tech Stocks Fall Thursday Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174132830.html?.tsrc=rss",
-    "pubDate": "Thu, 15 Oct 2026 17:41:32 +0000"
    }
   ],
   "INTC": [

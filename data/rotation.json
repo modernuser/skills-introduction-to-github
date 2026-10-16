@@ -1,8 +1,116 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "window_days": 14,
  "trigger_pct": 5.0,
  "entries": [
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -9.28,
+   "last_close": 896.33,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "entered": "2026-10-15",
+   "trigger_pct": -9.15,
+   "last_close": 239.34,
+   "first_entered": "2026-09-29"
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -5.33,
+   "last_close": 1403.34,
+   "first_entered": "2026-10-12"
+  },
+  {
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -5.54,
+   "last_close": 375.04,
+   "first_entered": "2026-10-09"
+  },
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "entered": "2026-10-15",
+   "trigger_pct": -6.51,
+   "last_close": 151.79,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "CEG",
+   "name": "Constellation Energy",
+   "sector": "Utilities",
+   "entered": "2026-10-15",
+   "trigger_pct": -5.49,
+   "last_close": 279.54,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -8.28,
+   "last_close": 63.11,
+   "first_entered": "2026-09-03"
+  },
+  {
+   "symbol": "P",
+   "name": "Everpure",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -9.86,
+   "last_close": 141.49,
+   "first_entered": "2026-09-21"
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "entered": "2026-10-15",
+   "trigger_pct": -6.09,
+   "last_close": 222.83,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "sector": "Industrials",
+   "entered": "2026-10-15",
+   "trigger_pct": -6.2,
+   "last_close": 941.78,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "entered": "2026-10-15",
+   "trigger_pct": -8.54,
+   "last_close": 101.08,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "entered": "2026-10-15",
+   "trigger_pct": -11.27,
+   "last_close": 507.93,
+   "first_entered": "2026-10-15"
+  },
   {
    "symbol": "CIEN",
    "name": "Ciena",
@@ -171,7 +279,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-14",
    "trigger_pct": 5.71,
-   "last_close": 151.97,
+   "last_close": 150.1,
    "first_entered": "2026-08-25"
   },
   {
@@ -310,21 +418,12 @@
    "first_entered": "2026-10-14"
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "entered": "2026-10-12",
-   "trigger_pct": -9.78,
-   "last_close": 987.99,
-   "first_entered": "2026-08-04"
-  },
-  {
    "symbol": "MRNA",
    "name": "Moderna",
    "sector": "Health Care",
    "entered": "2026-10-12",
    "trigger_pct": -5.0,
-   "last_close": 216.25,
+   "last_close": 226.3,
    "first_entered": "2026-08-07"
   },
   {
@@ -346,31 +445,13 @@
    "first_entered": "2026-09-04"
   },
   {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "entered": "2026-10-12",
-   "trigger_pct": -6.5,
-   "last_close": 263.45,
-   "first_entered": "2026-09-29"
-  },
-  {
    "symbol": "CVNA",
    "name": "Carvana",
    "sector": "Consumer Discretionary",
    "entered": "2026-10-12",
    "trigger_pct": -6.62,
-   "last_close": 60.39,
+   "last_close": 57.96,
    "first_entered": "2026-09-16"
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "entered": "2026-10-12",
-   "trigger_pct": -5.97,
-   "last_close": 1482.33,
-   "first_entered": "2026-10-12"
   },
   {
    "symbol": "ILMN",
@@ -450,7 +531,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-09",
    "trigger_pct": 7.11,
-   "last_close": 283.34,
+   "last_close": 269.33,
    "first_entered": "2026-10-09"
   },
   {
@@ -459,16 +540,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-09",
    "trigger_pct": 5.17,
-   "last_close": 208.67,
-   "first_entered": "2026-10-09"
-  },
-  {
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
-   "sector": "Information Technology",
-   "entered": "2026-10-09",
-   "trigger_pct": 5.09,
-   "last_close": 397.03,
+   "last_close": 200.97,
    "first_entered": "2026-10-09"
   },
   {
@@ -508,15 +580,6 @@
    "first_entered": "2026-10-09"
   },
   {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "entered": "2026-10-08",
-   "trigger_pct": -6.35,
-   "last_close": 162.36,
-   "first_entered": "2026-10-06"
-  },
-  {
    "symbol": "ACN",
    "name": "Accenture",
    "sector": "Information Technology",
@@ -549,7 +612,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-08",
    "trigger_pct": 6.15,
-   "last_close": 103.03,
+   "last_close": 103.36,
    "first_entered": "2026-09-08"
   },
   {
@@ -616,15 +679,6 @@
    "first_entered": "2026-09-23"
   },
   {
-   "symbol": "CEG",
-   "name": "Constellation Energy",
-   "sector": "Utilities",
-   "entered": "2026-10-06",
-   "trigger_pct": 12.25,
-   "last_close": 295.79,
-   "first_entered": "2026-10-06"
-  },
-  {
    "symbol": "EME",
    "name": "Emcor",
    "sector": "Industrials",
@@ -643,15 +697,6 @@
    "first_entered": "2026-10-06"
   },
   {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "entered": "2026-10-05",
-   "trigger_pct": 5.85,
-   "last_close": 68.81,
-   "first_entered": "2026-09-03"
-  },
-  {
    "symbol": "ON",
    "name": "ON Semiconductor",
    "sector": "Information Technology",
@@ -668,15 +713,6 @@
    "trigger_pct": 31.26,
    "last_close": 193.64,
    "first_entered": "2026-10-01"
-  },
-  {
-   "symbol": "P",
-   "name": "Everpure",
-   "sector": "Information Technology",
-   "entered": "2026-10-05",
-   "trigger_pct": 7.27,
-   "last_close": 156.97,
-   "first_entered": "2026-09-21"
   },
   {
    "symbol": "TSLA",
@@ -747,7 +783,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-05",
    "trigger_pct": 5.27,
-   "last_close": 193.09,
+   "last_close": 184.01,
    "first_entered": "2026-10-05"
   },
   {
@@ -801,7 +837,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-01",
    "trigger_pct": -7.97,
-   "last_close": 272.28,
+   "last_close": 262.19,
    "first_entered": "2026-09-21"
   },
   {
@@ -828,7 +864,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-01",
    "trigger_pct": 6.02,
-   "last_close": 138.61,
+   "last_close": 139.98,
    "first_entered": "2026-10-01"
   },
   {

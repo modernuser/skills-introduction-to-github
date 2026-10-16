@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-15T04:35:37Z",
- "coverage": 501,
+ "updated": "2026-10-16T01:42:45Z",
+ "coverage": 70,
  "gainers": [
   {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
-   "sector": "Information Technology",
-   "close": 151.97,
-   "pct": 5.71
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 226.3,
+   "pct": 4.65
   },
   {
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "sector": "Energy",
-   "close": 484.92,
-   "pct": 5.69
+   "symbol": "ABBV",
+   "name": "AbbVie",
+   "sector": "Health Care",
+   "close": 283.48,
+   "pct": 3.32
   },
   {
-   "symbol": "IFF",
-   "name": "International Flavors & Fragrances",
+   "symbol": "DOW",
+   "name": "Dow Inc.",
    "sector": "Materials",
-   "close": 89.6,
-   "pct": 5.46
+   "close": 29.19,
+   "pct": 2.39
   },
   {
-   "symbol": "VLO",
-   "name": "Valero Energy",
+   "symbol": "OTIS",
+   "name": "Otis Worldwide",
+   "sector": "Industrials",
+   "close": 69.11,
+   "pct": 2.11
+  },
+  {
+   "symbol": "VLTO",
+   "name": "Veralto",
+   "sector": "Industrials",
+   "close": 100.66,
+   "pct": 1.69
+  },
+  {
+   "symbol": "PSX",
+   "name": "Phillips 66",
    "sector": "Energy",
-   "close": 459.78,
-   "pct": 5.45
+   "close": 297.29,
+   "pct": 1.56
   },
   {
-   "symbol": "GRMN",
-   "name": "Garmin",
-   "sector": "Consumer Discretionary",
-   "close": 279.72,
-   "pct": 4.86
-  },
-  {
-   "symbol": "CNC",
-   "name": "Centene Corporation",
-   "sector": "Health Care",
-   "close": 70.16,
-   "pct": 4.69
-  },
-  {
-   "symbol": "CTSH",
-   "name": "Cognizant",
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
    "sector": "Information Technology",
-   "close": 62.47,
-   "pct": 4.67
+   "close": 188.77,
+   "pct": 1.48
   },
   {
-   "symbol": "UNH",
-   "name": "UnitedHealth Group",
-   "sector": "Health Care",
-   "close": 395.62,
-   "pct": 4.52
-  },
-  {
-   "symbol": "BG",
-   "name": "Bunge Global",
+   "symbol": "KVUE",
+   "name": "Kenvue",
    "sector": "Consumer Staples",
-   "close": 108.91,
-   "pct": 4.5
+   "close": 18.01,
+   "pct": 1.41
   },
   {
-   "symbol": "DRI",
-   "name": "Darden Restaurants",
-   "sector": "Consumer Discretionary",
-   "close": 208.52,
-   "pct": 4.46
+   "symbol": "ZTS",
+   "name": "Zoetis",
+   "sector": "Health Care",
+   "close": 75.29,
+   "pct": 1.33
+  },
+  {
+   "symbol": "AMCR",
+   "name": "Amcor",
+   "sector": "Materials",
+   "close": 42.28,
+   "pct": 1.22
   }
  ],
  "losers": [
   {
-   "symbol": "SKYD",
-   "name": "Skydance Corporation",
-   "sector": "Communication Services",
-   "close": 7.06,
-   "pct": -22.93
-  },
-  {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
+   "symbol": "DELL",
+   "name": "Dell Technologies",
    "sector": "Information Technology",
-   "close": 100.35,
-   "pct": -14.41
+   "close": 507.93,
+   "pct": -11.27
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
+   "symbol": "P",
+   "name": "Everpure",
    "sector": "Information Technology",
-   "close": 359.6,
-   "pct": -11.21
+   "close": 141.49,
+   "pct": -9.86
   },
   {
-   "symbol": "SMCI",
-   "name": "Supermicro",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 35.78,
-   "pct": -10.51
+   "close": 896.33,
+   "pct": -9.28
   },
   {
-   "symbol": "AMAT",
-   "name": "Applied Materials",
-   "sector": "Information Technology",
-   "close": 446.63,
-   "pct": -10.23
-  },
-  {
-   "symbol": "AKAM",
-   "name": "Akamai Technologies",
-   "sector": "Information Technology",
-   "close": 91.71,
-   "pct": -9.78
-  },
-  {
-   "symbol": "GNRC",
-   "name": "Generac",
+   "symbol": "BE",
+   "name": "Bloom Energy",
    "sector": "Industrials",
-   "close": 198.06,
-   "pct": -9.3
+   "close": 239.34,
+   "pct": -9.15
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "close": 101.08,
+   "pct": -8.54
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
    "sector": "Information Technology",
-   "close": 263.32,
-   "pct": -8.58
+   "close": 63.11,
+   "pct": -8.28
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 151.79,
+   "pct": -6.51
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "sector": "Industrials",
+   "close": 941.78,
+   "pct": -6.2
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "close": 222.83,
+   "pct": -6.09
+  },
+  {
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
    "sector": "Information Technology",
-   "close": 245.28,
-   "pct": -7.74
-  },
-  {
-   "symbol": "ECHO",
-   "name": "EchoStar",
-   "sector": "Communication Services",
-   "close": 87.86,
-   "pct": -7.61
+   "close": 375.04,
+   "pct": -5.54
   }
  ]
 }

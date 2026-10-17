@@ -1,41 +1,46 @@
 {
- "updated": "2026-10-17T04:25:24Z",
+ "updated": "2026-10-17T17:15:47Z",
  "news": {
   "NVDA": [
    {
-    "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
-    "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 03:17:01 +0000"
+    "title": "Rivian's Key to Success May Not Be Its Vehicles",
+    "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 17:05:00 +0000"
    },
    {
-    "title": "Elon Musk\u2019s Roadster, Nvidia\u2019s Space AI Push, Nadella\u2019s Security Warning: Mag 7 Voices This Week",
-    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 02:46:45 +0000"
+    "title": "Billionaire David Tepper's Appaloosa Management Returned 32% Through the First Half of the Year. Here Are His Top 3 Stocks.",
+    "link": "https://www.fool.com/investing/2026/10/17/billionaire-david-tepper-returned-32-percent-top-3/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:35:00 +0000"
    },
    {
-    "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now",
-    "link": "https://www.fool.com/investing/2026/10/16/1-obvious-metric-that-makes-nvidia-a-top-stock-to/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 23:04:00 +0000"
+    "title": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now?",
+    "link": "https://www.tikr.com/blog/nvidia-stock-is-up-13-this-year-where-does-the-stock-stand-now?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:07:14 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "1 Red Flag That AMD Investors Should Be Aware Of Now",
+    "link": "https://www.fool.com/investing/2026/10/17/1-red-flag-that-amd-investors-should-be-aware-of/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:50:00 +0000"
+   },
+   {
+    "title": "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
+    "link": "https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:15:20 +0000"
+   },
+   {
     "title": "How much AMD stock does CEO Lisa Su actually own?",
     "link": "https://www.thestreet.com/personalities/how-much-amd-stock-does-ceo-lisa-su-own?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 23:12:49 +0000"
-   },
-   {
-    "title": "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/entegris-micron-amd-marvell-technology-200339901.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 20:03:39 +0000"
-   },
-   {
-    "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-    "link": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 18:10:37 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Here's What $10,000 Invested in Broadcom Will Be Worth by 2028",
+    "link": "https://www.fool.com/investing/2026/10/17/heres-what-10000-invested-in-broadcom-will-be-wort/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:08:00 +0000"
+   },
    {
     "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-falls-more-204505934.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Broadcom Falls 4% as CEO Hock Tan\u2019s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
     "link": "https://247wallst.com/investing/2026/10/16/broadcom-falls-4-as-ceo-hock-tans-capital-warning-hangs-over-ai-chips-marvell-drops-4/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 18:02:08 +0000"
-   },
-   {
-    "title": "Will Broadcom Rejoin the $2 Trillion Club in 2027?",
-    "link": "https://www.fool.com/investing/2026/10/16/will-broadcom-rejoin-the-2-trillion-club-in-2027/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 15:52:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Taiwan Semiconductor Manufacturing (TSM) Is In Talks On A US Chipmaking Tie Up",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-talks-051903572.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 05:19:03 +0000"
+   },
    {
     "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
     "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
@@ -62,14 +67,14 @@
     "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 22:36:00 +0000"
-   },
-   {
-    "title": "Prediction: $1,000 Invested in Taiwan Semi (TSMC) Today Will Be Worth This Much by 2030.",
-    "link": "https://www.fool.com/investing/2026/10/16/prediction-1000-invested-in-taiwan-semi-tsmc-today/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 21:25:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "1 Reason Intel Stock Could Outperform in 2027",
+    "link": "https://www.fool.com/investing/2026/10/17/1-reason-intel-stock-could-outperform-in-2027/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 11:05:00 +0000"
+   },
    {
     "title": "Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-lam-research-amkor-kulicke-201139462.html?.tsrc=rss",
@@ -79,45 +84,40 @@
     "title": "Should You Hold on to Cerebras Stock Despite Its 25% One-Month Dip?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/hold-cerebras-stock-despite-25-170200599.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 17:02:00 +0000"
-   },
-   {
-    "title": "Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-beat-estimates-again-151004050.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 15:10:04 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron stock faces unexpected trouble despite sold-out AI factory",
-    "link": "https://www.thestreet.com/investing/stocks/micron-taiwan-union-ai-factory?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 01:37:00 +0000"
+    "title": "Micron Is Down 30% From Its High and Just Lost Its $1 Trillion Status",
+    "link": "https://247wallst.com/investing/2026/10/17/micron-is-down-30-from-its-high-and-just-lost-its-1-trillion-status/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:45:23 +0000"
    },
    {
-    "title": "Micron and Sandisk Have a History of Cyclicality. Is This Time Different?",
-    "link": "https://www.fool.com/investing/2026/10/16/micron-and-sandisk-have-a-history-of-cyclicality-i/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 22:25:00 +0000"
+    "title": "If I Had to Pick 1 Tech Stock to Hold Through the Next Recession, It Would Be This One",
+    "link": "https://www.fool.com/investing/2026/10/17/if-pick-tech-stock-hold-recession-micron/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 12:40:00 +0000"
    },
    {
-    "title": "Prediction: Micron Could Turn $10,000 Into a Fortune by 2030",
-    "link": "https://www.fool.com/investing/2026/10/16/prediction-micron-could-turn-10000-into-a-fortune/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 20:05:00 +0000"
+    "title": "Think It's Too Late to Buy Micron? Here's the 1 Reason Why There's Still Time.",
+    "link": "https://www.fool.com/investing/2026/10/17/think-too-late-buy-micron-1-reason-still-time/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 11:35:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Tesla pops, tech heads for losing week: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/tesla-pops-tech-heads-for-losing-week-alphacheck-135820459.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 13:58:20 +0000"
+    "title": "Sandisk Stock Is Still Up 488% This Year Despite a 40% Drop. Is It a Buy Now?",
+    "link": "https://www.fool.com/investing/2026/10/17/sandisk-stock-is-still-up-488-this-year-despite-a-40-drop-is-it-a-buy-now/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 10:42:02 +0000"
+   },
+   {
+    "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock.",
+    "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 05:50:00 +0000"
    },
    {
     "title": "Micron and Sandisk Have a History of Cyclicality. Is This Time Different?",
     "link": "https://www.fool.com/investing/2026/10/16/micron-and-sandisk-have-a-history-of-cyclicality-i/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 22:25:00 +0000"
-   },
-   {
-    "title": "Sandisk (SNDK) Q4 Revenue Jump Shows Memory Pricing Strength Despite Smartphone Slump",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-q4-revenue-jump-171318153.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 17:13:18 +0000"
    }
   ],
   "WDC": [
@@ -161,14 +161,14 @@
     "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000"
    },
    {
-    "title": "Chip Rout Finally Does What Scott Bessent\u2019s Buybacks Couldn\u2019t: Pulls Treasury Yields Back From 24-Year High",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chip-rout-finally-does-scott-080349523.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 08:03:49 +0000"
-   },
-   {
     "title": "Investors Are Questioning the Entire AI Thesis",
     "link": "https://finance.yahoo.com/m/58908993-ecd4-3762-b621-973adc66cfc4/investors-are-questioning-the.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 18:52:22 +0000"
+   },
+   {
+    "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+    "link": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 18:10:37 +0000"
    }
   ],
   "SOXL": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Tech Stock Sell-Off: 1 Unstoppable ETF to Buy on the Dip in 2026",
+    "link": "https://www.fool.com/investing/2026/10/17/tech-stock-sell-off-1-unstoppable-etf-to-buy-on-th/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 16:37:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Drop as US Equities Fall After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-drop-us-171357763.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 17:13:57 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday Amid Investor Caution",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131413998.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 13:14:13 +0000"
-   },
-   {
-    "title": "Health Care and Crude Led the Week While Tech Lost Its Grip",
-    "link": "https://finance.yahoo.com/healthcare/articles/health-care-crude-led-week-131000070.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 13:10:00 +0000"
    }
   ],
   "SPY": [

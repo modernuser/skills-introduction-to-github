@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-17T01:35:54Z",
+ "updated": "2026-10-17T04:25:24Z",
  "news": {
   "NVDA": [
+   {
+    "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+    "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 03:17:01 +0000"
+   },
+   {
+    "title": "Elon Musk\u2019s Roadster, Nvidia\u2019s Space AI Push, Nadella\u2019s Security Warning: Mag 7 Voices This Week",
+    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 02:46:45 +0000"
+   },
    {
     "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now",
     "link": "https://www.fool.com/investing/2026/10/16/1-obvious-metric-that-makes-nvidia-a-top-stock-to/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 23:04:00 +0000"
-   },
-   {
-    "title": "Prediction: $1,000 Invested in Taiwan Semi (TSMC) Today Will Be Worth This Much by 2030.",
-    "link": "https://www.fool.com/investing/2026/10/16/prediction-1000-invested-in-taiwan-semi-tsmc-today/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 21:25:00 +0000"
-   },
-   {
-    "title": "Inflation Rose to 3.7% in September. Is It Time to Sell the S&P 500?",
-    "link": "https://www.fool.com/investing/2026/10/16/inflation-rose-to-3-7-in-september-is-it-time-to-sell-the-s-and-p-500/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 21:07:02 +0000"
    }
   ],
   "AMD": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+    "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 03:17:01 +0000"
+   },
+   {
     "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 22:36:00 +0000"
@@ -62,11 +67,6 @@
     "title": "Prediction: $1,000 Invested in Taiwan Semi (TSMC) Today Will Be Worth This Much by 2030.",
     "link": "https://www.fool.com/investing/2026/10/16/prediction-1000-invested-in-taiwan-semi-tsmc-today/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 21:25:00 +0000"
-   },
-   {
-    "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
-    "link": "https://www.fool.com/investing/2026/10/16/not-nvidia-not-taiwan-semi-this-equipment-maker-is/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 19:15:00 +0000"
    }
   ],
   "INTC": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron stock faces unexpected trouble despite sold-out AI factory",
+    "link": "https://www.thestreet.com/investing/stocks/micron-taiwan-union-ai-factory?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 01:37:00 +0000"
+   },
+   {
     "title": "Micron and Sandisk Have a History of Cyclicality. Is This Time Different?",
     "link": "https://www.fool.com/investing/2026/10/16/micron-and-sandisk-have-a-history-of-cyclicality-i/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 22:25:00 +0000"
@@ -96,11 +101,6 @@
     "title": "Prediction: Micron Could Turn $10,000 Into a Fortune by 2030",
     "link": "https://www.fool.com/investing/2026/10/16/prediction-micron-could-turn-10000-into-a-fortune/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 20:05:00 +0000"
-   },
-   {
-    "title": "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/entegris-micron-amd-marvell-technology-200339901.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 20:03:39 +0000"
    }
   ],
   "SNDK": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:39:23Z",
+ "updated": "2026-10-17T01:35:54Z",
  "news": {
   "NVDA": [
    {
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
+    "pubDate": "Fri, 16 Oct 2026 22:36:00 +0000"
+   },
+   {
     "title": "Prediction: $1,000 Invested in Taiwan Semi (TSMC) Today Will Be Worth This Much by 2030.",
     "link": "https://www.fool.com/investing/2026/10/16/prediction-1000-invested-in-taiwan-semi-tsmc-today/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 21:25:00 +0000"
@@ -62,11 +67,6 @@
     "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
     "link": "https://www.fool.com/investing/2026/10/16/not-nvidia-not-taiwan-semi-this-equipment-maker-is/?.tsrc=rss",
     "pubDate": "Fri, 16 Oct 2026 19:15:00 +0000"
-   },
-   {
-    "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-    "link": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 18:10:37 +0000"
    }
   ],
   "INTC": [

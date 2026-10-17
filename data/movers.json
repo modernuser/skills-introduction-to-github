@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-16T01:42:45Z",
- "coverage": 70,
+ "updated": "2026-10-17T01:36:00Z",
+ "coverage": 500,
  "gainers": [
   {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 226.3,
-   "pct": 4.65
-  },
-  {
-   "symbol": "ABBV",
-   "name": "AbbVie",
-   "sector": "Health Care",
-   "close": 283.48,
-   "pct": 3.32
-  },
-  {
-   "symbol": "DOW",
-   "name": "Dow Inc.",
-   "sector": "Materials",
-   "close": 29.19,
-   "pct": 2.39
-  },
-  {
-   "symbol": "OTIS",
-   "name": "Otis Worldwide",
+   "symbol": "EFX",
+   "name": "Equifax",
    "sector": "Industrials",
-   "close": 69.11,
-   "pct": 2.11
+   "close": 161.26,
+   "pct": 7.25
   },
   {
-   "symbol": "VLTO",
-   "name": "Veralto",
-   "sector": "Industrials",
-   "close": 100.66,
-   "pct": 1.69
+   "symbol": "RDDT",
+   "name": "Reddit",
+   "sector": "Communication Services",
+   "close": 159.36,
+   "pct": 7.24
   },
   {
-   "symbol": "PSX",
-   "name": "Phillips 66",
-   "sector": "Energy",
-   "close": 297.29,
-   "pct": 1.56
-  },
-  {
-   "symbol": "WDAY",
-   "name": "Workday, Inc.",
+   "symbol": "FICO",
+   "name": "Fair Isaac",
    "sector": "Information Technology",
-   "close": 188.77,
-   "pct": 1.48
+   "close": 769.93,
+   "pct": 6.99
   },
   {
-   "symbol": "KVUE",
-   "name": "Kenvue",
-   "sector": "Consumer Staples",
-   "close": 18.01,
-   "pct": 1.41
-  },
-  {
-   "symbol": "ZTS",
-   "name": "Zoetis",
-   "sector": "Health Care",
-   "close": 75.29,
-   "pct": 1.33
-  },
-  {
-   "symbol": "AMCR",
-   "name": "Amcor",
+   "symbol": "IP",
+   "name": "International Paper",
    "sector": "Materials",
-   "close": 42.28,
-   "pct": 1.22
+   "close": 34.1,
+   "pct": 6.9
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 279.29,
+   "pct": 6.52
+  },
+  {
+   "symbol": "INTU",
+   "name": "Intuit",
+   "sector": "Information Technology",
+   "close": 330.17,
+   "pct": 6.36
+  },
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 183.81,
+   "pct": 6.32
+  },
+  {
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 32.0,
+   "pct": 6.28
+  },
+  {
+   "symbol": "EXPE",
+   "name": "Expedia Group",
+   "sector": "Consumer Discretionary",
+   "close": 291.87,
+   "pct": 6.25
+  },
+  {
+   "symbol": "NOW",
+   "name": "ServiceNow",
+   "sector": "Information Technology",
+   "close": 148.57,
+   "pct": 6.14
   }
  ],
  "losers": [
   {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "close": 58.63,
+   "pct": -7.1
+  },
+  {
    "symbol": "DELL",
    "name": "Dell Technologies",
    "sector": "Information Technology",
-   "close": 507.93,
-   "pct": -11.27
+   "close": 473.39,
+   "pct": -6.8
   },
   {
    "symbol": "P",
    "name": "Everpure",
    "sector": "Information Technology",
-   "close": 141.49,
-   "pct": -9.86
+   "close": 133.4,
+   "pct": -5.72
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
+   "symbol": "ANET",
+   "name": "Arista Networks",
    "sector": "Information Technology",
-   "close": 896.33,
-   "pct": -9.28
+   "close": 185.58,
+   "pct": -5.04
   },
   {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 239.34,
-   "pct": -9.15
+   "symbol": "WMB",
+   "name": "Williams Companies",
+   "sector": "Energy",
+   "close": 69.22,
+   "pct": -4.92
   },
   {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 101.08,
-   "pct": -8.54
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 63.11,
-   "pct": -8.28
+   "close": 250.6,
+   "pct": -4.83
   },
   {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "close": 151.79,
-   "pct": -6.51
-  },
-  {
-   "symbol": "GEV",
-   "name": "GE Vernova",
-   "sector": "Industrials",
-   "close": 941.78,
-   "pct": -6.2
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "close": 222.83,
-   "pct": -6.09
-  },
-  {
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
+   "symbol": "TER",
+   "name": "Teradyne",
    "sector": "Information Technology",
-   "close": 375.04,
-   "pct": -5.54
+   "close": 343.21,
+   "pct": -4.52
+  },
+  {
+   "symbol": "KEYS",
+   "name": "Keysight Technologies",
+   "sector": "Information Technology",
+   "close": 342.08,
+   "pct": -4.35
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "close": 1481.27,
+   "pct": -3.92
+  },
+  {
+   "symbol": "AMAT",
+   "name": "Applied Materials",
+   "sector": "Information Technology",
+   "close": 430.01,
+   "pct": -3.72
   }
  ]
 }

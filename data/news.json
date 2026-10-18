@@ -1,106 +1,106 @@
 {
- "updated": "2026-10-17T17:15:47Z",
+ "updated": "2026-10-18T00:05:03Z",
  "news": {
   "NVDA": [
    {
-    "title": "Rivian's Key to Success May Not Be Its Vehicles",
-    "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 17:05:00 +0000"
+    "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
+    "link": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 23:25:00 +0000"
    },
    {
-    "title": "Billionaire David Tepper's Appaloosa Management Returned 32% Through the First Half of the Year. Here Are His Top 3 Stocks.",
-    "link": "https://www.fool.com/investing/2026/10/17/billionaire-david-tepper-returned-32-percent-top-3/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 16:35:00 +0000"
+    "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:11:05 +0000"
    },
    {
-    "title": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now?",
-    "link": "https://www.tikr.com/blog/nvidia-stock-is-up-13-this-year-where-does-the-stock-stand-now?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 16:07:14 +0000"
+    "title": "\u2018How many canaries have we killed in the coal mine?\u2019 \u2014 Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+    "link": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 19:43:24 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:11:05 +0000"
+   },
+   {
+    "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:10:27 +0000"
+   },
+   {
     "title": "1 Red Flag That AMD Investors Should Be Aware Of Now",
     "link": "https://www.fool.com/investing/2026/10/17/1-red-flag-that-amd-investors-should-be-aware-of/?.tsrc=rss",
     "pubDate": "Sat, 17 Oct 2026 16:50:00 +0000"
-   },
-   {
-    "title": "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
-    "link": "https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 16:15:20 +0000"
-   },
-   {
-    "title": "How much AMD stock does CEO Lisa Su actually own?",
-    "link": "https://www.thestreet.com/personalities/how-much-amd-stock-does-ceo-lisa-su-own?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 23:12:49 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Jim Cramer Sees a Telling Change in Broadcom\u2019s (AVGO) Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-telling-change-223540159.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:35:40 +0000"
+   },
+   {
+    "title": "Broadcom\u2019s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-29-billion-ai-backstop-221120144.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:11:20 +0000"
+   },
+   {
     "title": "Here's What $10,000 Invested in Broadcom Will Be Worth by 2028",
     "link": "https://www.fool.com/investing/2026/10/17/heres-what-10000-invested-in-broadcom-will-be-wort/?.tsrc=rss",
     "pubDate": "Sat, 17 Oct 2026 16:08:00 +0000"
-   },
-   {
-    "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-falls-more-204505934.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 20:45:05 +0000"
-   },
-   {
-    "title": "Broadcom Falls 4% as CEO Hock Tan\u2019s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
-    "link": "https://247wallst.com/investing/2026/10/16/broadcom-falls-4-as-ceo-hock-tans-capital-warning-hangs-over-ai-chips-marvell-drops-4/?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 18:02:08 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Taiwan Semiconductor Manufacturing (TSM) Is In Talks On A US Chipmaking Tie Up",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-talks-051903572.html?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 05:19:03 +0000"
+    "title": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-vs-asml-ai-expansion-221211666.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:12:11 +0000"
    },
    {
-    "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
-    "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 03:17:01 +0000"
+    "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+    "link": "https://www.fool.com/investing/2026/10/17/as-chip-stocks-sell-off-this-is-the-flight-to-safe/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 19:05:00 +0000"
    },
    {
-    "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 22:36:00 +0000"
+    "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Means for Intel\u2019s Margins",
+    "link": "https://www.tikr.com/blog/intel-stock-fell-nearly-6-as-tsmc-took-aim-at-its-packaging-business-heres-what-it-means-for-intels-margins?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 17:26:38 +0000"
    }
   ],
   "INTC": [
    {
+    "title": "Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-micron-mu-intel-185324932.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 18:53:24 +0000"
+   },
+   {
+    "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Means for Intel\u2019s Margins",
+    "link": "https://www.tikr.com/blog/intel-stock-fell-nearly-6-as-tsmc-took-aim-at-its-packaging-business-heres-what-it-means-for-intels-margins?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 17:26:38 +0000"
+   },
+   {
     "title": "1 Reason Intel Stock Could Outperform in 2027",
     "link": "https://www.fool.com/investing/2026/10/17/1-reason-intel-stock-could-outperform-in-2027/?.tsrc=rss",
     "pubDate": "Sat, 17 Oct 2026 11:05:00 +0000"
-   },
-   {
-    "title": "Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-lam-research-amkor-kulicke-201139462.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 20:11:39 +0000"
-   },
-   {
-    "title": "Should You Hold on to Cerebras Stock Despite Its 25% One-Month Dip?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hold-cerebras-stock-despite-25-170200599.html?.tsrc=rss",
-    "pubDate": "Fri, 16 Oct 2026 17:02:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron Is Down 30% From Its High and Just Lost Its $1 Trillion Status",
-    "link": "https://247wallst.com/investing/2026/10/17/micron-is-down-30-from-its-high-and-just-lost-its-1-trillion-status/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 16:45:23 +0000"
+    "title": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-looks-cheap-earnings-much-221112265.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 22:11:12 +0000"
    },
    {
-    "title": "If I Had to Pick 1 Tech Stock to Hold Through the Next Recession, It Would Be This One",
-    "link": "https://www.fool.com/investing/2026/10/17/if-pick-tech-stock-hold-recession-micron/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 12:40:00 +0000"
+    "title": "Is Micron's Incredible Run About to End?",
+    "link": "https://www.fool.com/investing/2026/10/17/is-microns-incredible-run-about-to-end/?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 19:27:00 +0000"
    },
    {
-    "title": "Think It's Too Late to Buy Micron? Here's the 1 Reason Why There's Still Time.",
-    "link": "https://www.fool.com/investing/2026/10/17/think-too-late-buy-micron-1-reason-still-time/?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 11:35:00 +0000"
+    "title": "Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-micron-mu-intel-185324932.html?.tsrc=rss",
+    "pubDate": "Sat, 17 Oct 2026 18:53:24 +0000"
    }
   ],
   "SNDK": [

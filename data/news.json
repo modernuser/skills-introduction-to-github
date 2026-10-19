@@ -1,24 +1,29 @@
 {
- "updated": "2026-10-18T17:24:49Z",
+ "updated": "2026-10-19T00:13:20Z",
  "news": {
   "NVDA": [
    {
-    "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-    "link": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 15:59:30 +0000"
+    "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders",
+    "link": "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 22:30:00 +0000"
    },
    {
-    "title": "History Says Nvidia Stock Does This in November. Here's the 1 Thing That Could Break the Pattern.",
-    "link": "https://www.fool.com/investing/2026/10/18/history-says-nvidia-stock-november-break-pattern/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 16:51:00 +0000"
+    "title": "NVIDIA And 2 Other Fast Growing Stocks To Own",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 22:09:35 +0000"
    },
    {
-    "title": "Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.",
-    "link": "https://www.fool.com/investing/2026/10/18/warren-buffetts-market-warning-is-hard-to-ignore/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 15:37:00 +0000"
+    "title": "The $5 Trillion Club: Which Is the Better Stock to Own, Apple or Nvidia?",
+    "link": "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 20:20:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "3 AI Stocks With Earnings Growth Over 33% To Watch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 21:10:58 +0000"
+   },
    {
     "title": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?",
     "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "What Advanced Micro Devices Buyers Were Betting On Before A 137% Rally",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-buyers-were-041748578.html?.tsrc=rss",
     "pubDate": "Sun, 18 Oct 2026 04:17:48 +0000"
-   },
-   {
-    "title": "What to Expect From Advanced Micro Devices\u2019 Q3 2026 Earnings Report",
-    "link": "https://www.barchart.com/story/news/8148770/what-to-expect-from-advanced-micro-devices-q3-2026-earnings-report?.tsrc=rss",
-    "pubDate": "Sat, 17 Oct 2026 22:27:10 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Can They Stop It?",
+    "link": "https://247wallst.com/investing/cryptocurrency/2026/10/18/nine-companies-including-broadcom-and-verizon-object-to-their-shares-being-tokenized-can-they-stop-it/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 18:30:29 +0000"
+   },
    {
     "title": "What Does Broadcom (AVGO) Face As AI Chip Supply Turns Into A Bottleneck?",
     "link": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-face-ai-160933871.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-went-nowhere-analysts-143448009.html?.tsrc=rss",
     "pubDate": "Sun, 18 Oct 2026 14:34:48 +0000"
-   },
-   {
-    "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
-    "link": "https://www.fool.com/investing/2026/10/17/3000-split-across-nvidia-broadcom-and-tsmc-could-b/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 00:20:00 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment",
+    "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 19:43:00 +0000"
+   },
    {
     "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
     "link": "https://www.fool.com/investing/2026/10/18/better-ai-chip-stock-taiwan-semiconductor-vs-micro/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "TSMC Is Spending up to $64 Billion This Year. Here's Why That's Great News for Investors.",
     "link": "https://www.fool.com/investing/2026/10/18/tsmc-spending-64-billion-this-year-great-news/?.tsrc=rss",
     "pubDate": "Sun, 18 Oct 2026 14:53:00 +0000"
-   },
-   {
-    "title": "TSMC\u2019s (TSM) Record AI Demand Comes With a Growing Cost",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-tsm-record-ai-demand-144104490.html?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 14:41:04 +0000"
    }
   ],
   "INTC": [
@@ -88,36 +88,36 @@
   ],
   "MU": [
    {
+    "title": "Here Is What a $5,000 Investment in Micron Could Be Worth by 2028",
+    "link": "https://www.fool.com/investing/2026/10/18/here-is-what-a-5000-investment-in-micron-could-be/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 23:53:00 +0000"
+   },
+   {
+    "title": "Why Micron's Latest Long-Term Deals Are a Game-Changer for Investors",
+    "link": "https://www.fool.com/investing/2026/10/18/why-micron-latest-long-term-deals-game-changer/?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 20:05:00 +0000"
+   },
+   {
     "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
     "link": "https://www.fool.com/investing/2026/10/18/better-ai-chip-stock-taiwan-semiconductor-vs-micro/?.tsrc=rss",
     "pubDate": "Sun, 18 Oct 2026 16:04:00 +0000"
-   },
-   {
-    "title": "Does Micron (MU) Have an Economic Moat at All?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-micron-mu-economic-moat-143157310.html?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 14:31:57 +0000"
-   },
-   {
-    "title": "Micron Technology (MU) Stock Is Down 24% From Its Peak. History Says $10,000 Invested Right Now Could Be Worth This Much by 2030",
-    "link": "https://www.fool.com/investing/2026/10/18/micron-technology-mu-stock-is-down-24-from-its-pea/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 10:10:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Sandisk\u2019s next chip could save cloud giants billions, but not us",
+    "link": "https://www.thestreet.com/technology/sandisk-hbf-ai-memory-wall?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 17:47:00 +0000"
+   },
    {
     "title": "SanDisk (SNDK) Is Now Worth More Than the Company That Spun It Off",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-now-worth-more-143253971.html?.tsrc=rss",
     "pubDate": "Sun, 18 Oct 2026 14:32:53 +0000"
    },
    {
-    "title": "The Best Growth Stock to Invest $10,000 in Right Now",
-    "link": "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 12:43:01 +0000"
-   },
-   {
-    "title": "Sandisk Is Dominating the S&P 500 in 2026. Can It Repeat in 2027?",
-    "link": "https://www.fool.com/investing/2026/10/18/sandisk-leads-the-sp-500-in-2026-can-it-repeat-in/?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 05:50:00 +0000"
+    "title": "Dear Sandisk Stock Fans, Mark Your Calendar for October 29",
+    "link": "https://www.barchart.com/story/news/8165217/dear-sandisk-stock-fans-mark-your-calendar-for-october-29?.tsrc=rss",
+    "pubDate": "Sun, 18 Oct 2026 12:57:40 +0000"
    }
   ],
   "WDC": [

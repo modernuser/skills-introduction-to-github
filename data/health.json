@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T00:25:27Z",
+ "generated": "2026-10-20T01:15:47Z",
  "market": {
   "session": "closed",
   "label": "Closed",
-  "now_et": "2026-10-19 20:25 EDT",
+  "now_et": "2026-10-19 21:15 EDT",
   "next": "pre-market open",
   "next_at_et": "2026-10-20 04:00 EDT",
-  "minutes_to_next": 454,
+  "minutes_to_next": 404,
   "last_close_et": "2026-10-19 16:00 EDT",
   "max_expected_age_hours": 100
  },
- "duration_ms": 9,
+ "duration_ms": 14,
  "source_errors": [],
  "primary_source_failures_count": 35,
  "week52_ranges": {
@@ -59,13 +59,13 @@
   "sector_depth": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-17T00:36:06Z",
+   "updated": "2026-10-20T01:12:31Z",
    "records": 110
   },
   "factor_lab": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-17T00:36:20Z",
+   "updated": "2026-10-20T01:15:46Z",
    "records": 0
   },
   "trend_quality": {
@@ -77,13 +77,13 @@
   "kpi_panel": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-17T00:36:06Z",
+   "updated": "2026-10-20T01:12:31Z",
    "records": 0
   },
   "gage_rr": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-17T00:36:06Z",
+   "updated": "2026-10-20T01:12:31Z",
    "records": 0
   }
  },

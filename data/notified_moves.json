@@ -1,8 +1,7 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-16",
  "symbols": [
   "AMD",
-  "AMZN",
   "AVGO",
   "INTC",
   "MU",
@@ -10,7 +9,6 @@
   "SOXL",
   "SOXX",
   "STX",
-  "TSM",
   "WDC"
  ]
 }

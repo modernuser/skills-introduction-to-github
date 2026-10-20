@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-17T01:36:00Z",
- "coverage": 500,
+ "updated": "2026-10-20T04:47:07Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "EFX",
-   "name": "Equifax",
+   "symbol": "TRGP",
+   "name": "Targa Resources",
+   "sector": "Energy",
+   "close": 294.9,
+   "pct": 4.37
+  },
+  {
+   "symbol": "FANG",
+   "name": "Diamondback Energy",
+   "sector": "Energy",
+   "close": 203.95,
+   "pct": 4.27
+  },
+  {
+   "symbol": "KMI",
+   "name": "Kinder Morgan",
+   "sector": "Energy",
+   "close": 34.2,
+   "pct": 4.2
+  },
+  {
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "close": 49.15,
+   "pct": 4.07
+  },
+  {
+   "symbol": "NOC",
+   "name": "Northrop Grumman",
    "sector": "Industrials",
-   "close": 161.26,
-   "pct": 7.25
+   "close": 519.86,
+   "pct": 4.05
   },
   {
-   "symbol": "RDDT",
-   "name": "Reddit",
-   "sector": "Communication Services",
-   "close": 159.36,
-   "pct": 7.24
+   "symbol": "RTX",
+   "name": "RTX Corporation",
+   "sector": "Industrials",
+   "close": 193.92,
+   "pct": 3.73
   },
   {
-   "symbol": "FICO",
-   "name": "Fair Isaac",
-   "sector": "Information Technology",
-   "close": 769.93,
-   "pct": 6.99
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "sector": "Industrials",
+   "close": 552.09,
+   "pct": 3.65
   },
   {
-   "symbol": "IP",
-   "name": "International Paper",
-   "sector": "Materials",
-   "close": 34.1,
-   "pct": 6.9
+   "symbol": "EOG",
+   "name": "EOG Resources",
+   "sector": "Energy",
+   "close": 158.01,
+   "pct": 3.53
   },
   {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "close": 279.29,
-   "pct": 6.52
+   "symbol": "EQT",
+   "name": "EQT Corporation",
+   "sector": "Energy",
+   "close": 54.3,
+   "pct": 3.53
   },
   {
-   "symbol": "INTU",
-   "name": "Intuit",
-   "sector": "Information Technology",
-   "close": 330.17,
-   "pct": 6.36
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 183.81,
-   "pct": 6.32
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 32.0,
-   "pct": 6.28
-  },
-  {
-   "symbol": "EXPE",
-   "name": "Expedia Group",
-   "sector": "Consumer Discretionary",
-   "close": 291.87,
-   "pct": 6.25
-  },
-  {
-   "symbol": "NOW",
-   "name": "ServiceNow",
-   "sector": "Information Technology",
-   "close": 148.57,
-   "pct": 6.14
+   "symbol": "NI",
+   "name": "NiSource",
+   "sector": "Utilities",
+   "close": 42.68,
+   "pct": 3.47
   }
  ],
  "losers": [
   {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
+   "symbol": "TWLO",
+   "name": "Twilio",
    "sector": "Information Technology",
-   "close": 58.63,
-   "pct": -7.1
+   "close": 244.37,
+   "pct": -10.62
   },
   {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
+   "symbol": "SMCI",
+   "name": "Supermicro",
    "sector": "Information Technology",
-   "close": 473.39,
-   "pct": -6.8
+   "close": 31.63,
+   "pct": -9.86
   },
   {
-   "symbol": "P",
-   "name": "Everpure",
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
    "sector": "Information Technology",
-   "close": 133.4,
-   "pct": -5.72
+   "close": 90.46,
+   "pct": -8.16
   },
   {
-   "symbol": "ANET",
-   "name": "Arista Networks",
-   "sector": "Information Technology",
-   "close": 185.58,
-   "pct": -5.04
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 218.01,
+   "pct": -7.82
   },
   {
-   "symbol": "WMB",
-   "name": "Williams Companies",
-   "sector": "Energy",
-   "close": 69.22,
-   "pct": -4.92
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "sector": "Information Technology",
+   "close": 342.0,
+   "pct": -7.63
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "close": 639.01,
+   "pct": -7.5
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies",
+   "sector": "Information Technology",
+   "close": 186.03,
+   "pct": -7.22
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "close": 247.11,
+   "pct": -7.19
   },
   {
    "symbol": "COHR",
    "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 250.6,
-   "pct": -4.83
+   "close": 232.9,
+   "pct": -7.06
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
+   "symbol": "P",
+   "name": "Everpure",
    "sector": "Information Technology",
-   "close": 343.21,
-   "pct": -4.52
-  },
-  {
-   "symbol": "KEYS",
-   "name": "Keysight Technologies",
-   "sector": "Information Technology",
-   "close": 342.08,
-   "pct": -4.35
-  },
-  {
-   "symbol": "FIX",
-   "name": "Comfort Systems USA",
-   "sector": "Industrials",
-   "close": 1481.27,
-   "pct": -3.92
-  },
-  {
-   "symbol": "AMAT",
-   "name": "Applied Materials",
-   "sector": "Information Technology",
-   "close": 430.01,
-   "pct": -3.72
+   "close": 124.01,
+   "pct": -7.04
   }
  ]
 }

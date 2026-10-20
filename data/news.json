@@ -1,75 +1,80 @@
 {
- "updated": "2026-10-20T13:35:14Z",
+ "updated": "2026-10-20T18:06:11Z",
  "news": {
   "NVDA": [
    {
-    "title": "Chip stocks decline as AI-trade rebound fizzles",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:04:43 +0000"
+    "title": "When Interest Rates Move, These 7 Income Stocks React Very Differently",
+    "link": "https://www.fool.com/investing/2026/10/20/when-interest-rates-move-these-7-income-stocks-rea/?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:39:00 +0000"
    },
    {
-    "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock",
-    "link": "https://finance.yahoo.com/m/80cbc8ec-aaa7-3785-849b-f4bbd56ee635/not-even-rumors-of-a-big.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:52:00 +0000"
+    "title": "Hasbro, Inc. Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-hasbro-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:20:26 +0000"
    },
    {
-    "title": "Is Nvidia (NVDA) Stock Priced Right?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-priced-180722414.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:41:22 +0000"
+    "title": "Vicor Corporation Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-vicor-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:20:22 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Chip stocks decline as AI-trade rebound fizzles",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html?.tsrc=rss",
+    "title": "Chip stocks recover as AI jitters fade",
+    "link": "https://finance.yahoo.com/markets/article/chip-stocks-recover-as-ai-jitters-fade-144605522.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 13:04:43 +0000"
    },
    {
-    "title": "AMD vs. TSMC: How Much Faster Must AMD\u2019s Cash Flow Grow?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-tsmc-much-faster-185640358.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:40:40 +0000"
+    "title": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck",
+    "link": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 13:43:25 +0000"
    },
    {
-    "title": "3 Growth Stocks with Explosive Upside",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-explosive-upside-083750176.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 08:37:50 +0000"
+    "title": "AMD Stock Price Prediction: Is the AI Chip Opportunity Bigger Than Wall Street Thinks?",
+    "link": "https://247wallst.com/investing/2026/10/20/amd-stock-price-prediction-is-the-ai-chip-opportunity-bigger-than-wall-street-thinks/?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 14:30:19 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Broadcom Announces Continued Infrastructure Agreement with FedEx to Support Global Operations",
-    "link": "https://finance.yahoo.com/technology/articles/broadcom-announces-continued-infrastructure-agreement-130000110.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000"
+    "title": "Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market",
+    "link": "https://finance.yahoo.com/technology/articles/photonic-integrated-circuit-pic-global-154700122.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 15:47:00 +0000"
    },
    {
-    "title": "Broadcom (AVGO) Sees AI Chip Sales Up 236%, but Who Is Paying?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-sees-ai-chip-182852846.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:28:52 +0000"
+    "title": "Broadcom (AVGO), What Is Behind The Fresh Attention?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-behind-fresh-attention-140848019.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 14:08:48 +0000"
    },
    {
-    "title": "Jim Cramer sees something Wall Street may be missing in Broadcom",
-    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sees-something-wall-street-may-be-missing-in-broadcom?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 11:03:00 +0000"
+    "title": "Broadcom (AVGO): Can VMware Remain a Durable Cash Engine as Customers Reassess Private Clouds?",
+    "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-vmware-remain-durable-134447254.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 13:44:47 +0000"
    }
   ],
   "TSM": [
    {
-    "title": "Chip stocks decline as AI-trade rebound fizzles",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html?.tsrc=rss",
+    "title": "Chip stocks shrug off a scary morning, but history says the shakeout isn't over",
+    "link": "https://finance.yahoo.com/markets/article/chip-stocks-shrug-off-a-scary-morning-but-history-says-the-shakeout-isnt-over-154222842.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 15:42:22 +0000"
+   },
+   {
+    "title": "Chip stocks recover as AI jitters fade",
+    "link": "https://finance.yahoo.com/markets/article/chip-stocks-recover-as-ai-jitters-fade-144605522.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 13:04:43 +0000"
    },
    {
-    "title": "AMD vs. TSMC: How Much Faster Must AMD\u2019s Cash Flow Grow?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-tsmc-much-faster-185640358.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:40:40 +0000"
-   },
-   {
-    "title": "Zacks Investment Ideas feature highlights: Taiwan Semiconductor Manufacturing",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121300756.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:13:00 +0000"
+    "title": "Amkor's AI Packaging Growth Accelerates: Can the Momentum Last?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amkors-ai-packaging-growth-accelerates-130500230.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 13:05:00 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "The AI Trade Is Changing. These Stocks Could Be Next.",
+    "link": "https://247wallst.com/investing/2026/10/20/the-ai-trade-is-changing-these-stocks-could-be-next/?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 15:00:35 +0000"
+   },
    {
     "title": "JPMorgan Upgrades Intel Stock Following Strong Management Execution",
     "link": "https://www.tikr.com/blog/intel-stock-jpmorgan-upgrade-neutral-management-execution?ref=yahoofinance&.tsrc=rss",
@@ -79,31 +84,31 @@
     "title": "Extreme Ultraviolet Lithography (EUVL) - Global Strategic Business Report: As Conventional Lithography Reaches its Limits, EUV heads for a $34.1bn Market",
     "link": "https://finance.yahoo.com/technology/articles/extreme-ultraviolet-lithography-euvl-global-083600585.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 08:36:00 +0000"
-   },
-   {
-    "title": "Global chip stocks tumble on AI investment worries",
-    "link": "https://finance.yahoo.com/technology/ai/articles/global-chip-stocks-tumble-ai-080519366.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 08:05:19 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Chip stocks decline as AI-trade rebound fizzles",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html?.tsrc=rss",
+    "title": "AI's next canary in the coal mine: Is it OpenAI, memory, or something else?",
+    "link": "https://finance.yahoo.com/video/ais-next-canary-in-the-coal-mine-is-it-openai-memory-or-something-else-165815565.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 16:58:15 +0000"
+   },
+   {
+    "title": "Chip stocks recover as AI jitters fade",
+    "link": "https://finance.yahoo.com/markets/article/chip-stocks-recover-as-ai-jitters-fade-144605522.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 13:04:43 +0000"
    },
    {
-    "title": "Micron Workers In Taiwan Announce Strike Over Escalating Bonus Dispute",
-    "link": "https://www.tikr.com/blog/micron-taiwan-workers-strike-bonus-dispute?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:16:13 +0000"
-   },
-   {
-    "title": "Micron Invests In US Indium Processing Amid China Export Restrictions \u2013 MU Stock Still Dips",
-    "link": "https://stocktwits.com/news-articles/markets/equity/micron-invests-in-us-indium-processing-amid-china-export-restrictions/cZxqHXXRBus?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:51:38 +0000"
+    "title": "Not Micron. Not Sandisk. This Storage Stock Is Riding the Same AI Infrastructure Wave.",
+    "link": "https://www.fool.com/investing/2026/10/20/not-micron-not-sandisk-this-storage-stock-is-ridin/?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:35:00 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Not Micron. Not Sandisk. This Storage Stock Is Riding the Same AI Infrastructure Wave.",
+    "link": "https://www.fool.com/investing/2026/10/20/not-micron-not-sandisk-this-storage-stock-is-ridin/?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:35:00 +0000"
+   },
    {
     "title": "Cramer warns SanDisk and Western Digital are worst stocks if data center capacity shrinks",
     "link": "https://247wallst.com/investing/2026/10/20/cramer-warns-sandisk-and-western-digital-are-worst-stocks-if-data-center-capacity-shrinks/?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Sandisk (SNDK) at 6 Times Forward Earnings, Is a Peak Already Priced In?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-6-times-forward-183526656.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 03:59:26 +0000"
-   },
-   {
-    "title": "Sandisk (SNDK)  vs. Texas Instruments (TXN): How Much Cash-Yield Protection Does Memory Offer?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-vs-texas-instruments-185731846.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 01:57:31 +0000"
    }
   ],
   "WDC": [
@@ -141,7 +141,7 @@
    {
     "title": "80% Upside? Why Morgan Stanley Is Pounding the Table on Battered Seagate and Western Digital Stocks",
     "link": "https://finance.yahoo.com/m/fc01d01f-de26-385c-8e82-e0c52659d3ac/80%25-upside%3F-why-morgan.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:59:00 +0000"
+    "pubDate": "Tue, 20 Oct 2026 14:09:00 +0000"
    },
    {
     "title": "Is Seagate Stock Still Leading Its Industry?",
@@ -162,7 +162,7 @@
    },
    {
     "title": "Should You Buy the iShares Semiconductor ETF After Its 25% Plunge? The Answer Might Surprise You.",
-    "link": "https://www.fool.com/investing/2026/10/20/should-buy-ishares-semiconductor-etf-25-plunge-ans/?.tsrc=rss",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-ishares-semiconductor-etf-25-112300756.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 11:23:00 +0000"
    },
    {
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Gain as US Equities Advance After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-gain-us-171124946.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 17:11:24 +0000"
+   },
+   {
     "title": "CoreWeave Falls 4% as HSBC Reiterates Bearish Call on Debt Risk; Nebius Drops 5%, Oracle Holds Steady",
     "link": "https://247wallst.com/investing/2026/10/20/coreweave-falls-4-as-hsbc-reiterates-bearish-call-on-debt-risk-nebius-drops-5-oracle-holds-steady/?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 12:36:23 +0000"
@@ -198,28 +203,23 @@
     "title": "Networking Stocks Rally as Tech Rebound Lifts AI Gear Makers: Ciena and Arista Climb 4%, but Cisco Barely Moves",
     "link": "https://247wallst.com/investing/2026/10/19/networking-stocks-rally-as-tech-rebound-lifts-ai-gear-makers-ciena-and-arista-climb-4-but-cisco-barely-moves/?.tsrc=rss",
     "pubDate": "Mon, 19 Oct 2026 18:06:19 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher as US Equities Rise After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-172542006.html?.tsrc=rss",
-    "pubDate": "Mon, 19 Oct 2026 17:25:42 +0000"
    }
   ],
   "SPY": [
    {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as AI Stocks Retreat, Oil Prices Rise",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130913751.html?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 13:09:13 +0000"
+    "title": "What Is Twilio\u2019s (TWLO) Economic Moat, and Is It Widening or Narrowing?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-economic-moat-widening-145146660.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 14:51:46 +0000"
    },
    {
-    "title": "NuScale Power Sinks 7% to New 52-Week Low as Barclays Cuts to Underweight; Oklo Falls 5%, Centrus Energy Drops 3%",
-    "link": "https://247wallst.com/investing/2026/10/20/nuscale-power-sinks-7-to-new-52-week-low-as-barclays-cuts-to-underweight-oklo-falls-5-centrus-energy-drops-3/?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:50:27 +0000"
+    "title": "Can MongoDB (MDB) Hold Its Guidance After Losing Its Chief Executive?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-hold-guidance-losing-145042146.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 14:50:42 +0000"
    },
    {
-    "title": "Coreweave Keeps Getting Crushed: This Analyst Says It\u2019s Going to Quadruple In Price",
-    "link": "https://247wallst.com/investing/2026/10/20/coreweave-keeps-getting-crushed-this-analyst-says-its-going-to-quadruple-in-price/?.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 12:45:25 +0000"
+    "title": "Palo Alto Networks (PANW) Pays a Large Part of Its Wage Bill in Stock. What Does That Do to Profit?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-pays-144939208.html?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 14:49:39 +0000"
    }
   ]
  },

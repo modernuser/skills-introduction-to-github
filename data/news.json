@@ -1,7 +1,12 @@
 {
- "updated": "2026-10-20T18:06:11Z",
+ "updated": "2026-10-20T18:25:54Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Investment summit: German government strikes AI deal with Nvidia",
+    "link": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 18:10:08 +0000"
+   },
    {
     "title": "When Interest Rates Move, These 7 Income Stocks React Very Differently",
     "link": "https://www.fool.com/investing/2026/10/20/when-interest-rates-move-these-7-income-stocks-rea/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Hasbro, Inc. Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-hasbro-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 17:20:26 +0000"
-   },
-   {
-    "title": "Vicor Corporation Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-vicor-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Tue, 20 Oct 2026 17:20:22 +0000"
    }
   ],
   "AMD": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "STX Stock Adds 2% After Morgan Stanley Hikes Price Target To Nearly Double From Current Levels",
+    "link": "https://stocktwits.com/news-articles/markets/equity/stx-stock-adds-2-after-morgan-stanley-hikes-price-target-to-nearly-double-from-current-levels/cZxA2dNRBH7?.tsrc=rss",
+    "pubDate": "Tue, 20 Oct 2026 18:19:45 +0000"
+   },
+   {
     "title": "80% Upside? Why Morgan Stanley Is Pounding the Table on Battered Seagate and Western Digital Stocks",
     "link": "https://finance.yahoo.com/m/fc01d01f-de26-385c-8e82-e0c52659d3ac/80%25-upside%3F-why-morgan.html?.tsrc=rss",
     "pubDate": "Tue, 20 Oct 2026 14:09:00 +0000"
@@ -147,11 +152,6 @@
     "title": "Is Seagate Stock Still Leading Its Industry?",
     "link": "https://www.trefis.com/articles/619200/is-seagate-stock-still-leading-its-industry/2026-10-19?.tsrc=rss",
     "pubDate": "Mon, 19 Oct 2026 12:55:54 +0000"
-   },
-   {
-    "title": "How Did Seagate (STX) Triple Selling a Technology Everyone Buried?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/did-seagate-stx-triple-selling-143319066.html?.tsrc=rss",
-    "pubDate": "Sun, 18 Oct 2026 14:32:32 +0000"
    }
   ],
   "SOXX": [

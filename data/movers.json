@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-21T04:42:48Z",
+ "updated": "2026-10-22T04:40:40Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 352.21,
-   "pct": 6.09
+   "symbol": "EFX",
+   "name": "Equifax",
+   "sector": "Industrials",
+   "close": 176.54,
+   "pct": 11.33
   },
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1371.12,
-   "pct": 5.53
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
-   "sector": "Information Technology",
-   "close": 260.36,
-   "pct": 5.36
-  },
-  {
-   "symbol": "TWLO",
-   "name": "Twilio",
-   "sector": "Information Technology",
-   "close": 257.29,
-   "pct": 5.29
-  },
-  {
-   "symbol": "AMZN",
-   "name": "Amazon",
+   "symbol": "HAS",
+   "name": "Hasbro",
    "sector": "Consumer Discretionary",
-   "close": 262.45,
-   "pct": 4.98
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Technologies",
-   "sector": "Information Technology",
-   "close": 194.15,
-   "pct": 4.36
+   "close": 109.52,
+   "pct": 11.2
   },
   {
    "symbol": "MRNA",
    "name": "Moderna",
    "sector": "Health Care",
-   "close": 226.89,
-   "pct": 4.07
+   "close": 242.08,
+   "pct": 6.69
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "MMM",
+   "name": "3M",
+   "sector": "Industrials",
+   "close": 171.37,
+   "pct": 5.78
+  },
+  {
+   "symbol": "IT",
+   "name": "Gartner",
    "sector": "Information Technology",
-   "close": 237.09,
-   "pct": 4.06
+   "close": 219.64,
+   "pct": 5.74
   },
   {
-   "symbol": "TSLA",
-   "name": "Tesla, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 368.06,
-   "pct": 3.76
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "sector": "Health Care",
+   "close": 315.45,
+   "pct": 5.14
   },
   {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
+   "symbol": "MSCI",
+   "name": "MSCI",
+   "sector": "Financials",
+   "close": 591.69,
+   "pct": 5.0
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "close": 42.65,
+   "pct": 4.97
+  },
+  {
+   "symbol": "BMY",
+   "name": "Bristol Myers Squibb",
+   "sector": "Health Care",
+   "close": 61.68,
+   "pct": 4.84
+  },
+  {
+   "symbol": "TYL",
+   "name": "Tyler Technologies",
    "sector": "Information Technology",
-   "close": 1253.66,
-   "pct": 3.53
+   "close": 377.17,
+   "pct": 4.74
   }
  ],
  "losers": [
   {
-   "symbol": "MOS",
-   "name": "Mosaic Company (The)",
-   "sector": "Materials",
-   "close": 17.92,
-   "pct": -4.78
-  },
-  {
-   "symbol": "NRG",
-   "name": "NRG Energy",
-   "sector": "Utilities",
-   "close": 99.38,
-   "pct": -4.21
-  },
-  {
-   "symbol": "AMP",
-   "name": "Ameriprise Financial",
-   "sector": "Financials",
-   "close": 480.41,
-   "pct": -4.07
-  },
-  {
-   "symbol": "ES",
-   "name": "Eversource Energy",
-   "sector": "Utilities",
-   "close": 64.48,
-   "pct": -3.55
-  },
-  {
-   "symbol": "HONA",
-   "name": "Honeywell Aerospace",
-   "sector": "Industrials",
-   "close": 162.49,
-   "pct": -3.33
-  },
-  {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "close": 87.54,
-   "pct": -3.23
-  },
-  {
-   "symbol": "DOC",
-   "name": "Healthpeak Properties",
-   "sector": "Real Estate",
-   "close": 18.4,
-   "pct": -3.06
-  },
-  {
-   "symbol": "CEG",
-   "name": "Constellation Energy",
-   "sector": "Utilities",
-   "close": 263.19,
-   "pct": -3.01
-  },
-  {
-   "symbol": "DHI",
-   "name": "D. R. Horton",
+   "symbol": "GM",
+   "name": "General Motors",
    "sector": "Consumer Discretionary",
-   "close": 135.31,
-   "pct": -2.93
+   "close": 77.09,
+   "pct": -6.84
   },
   {
-   "symbol": "BG",
-   "name": "Bunge Global",
-   "sector": "Consumer Staples",
-   "close": 103.11,
-   "pct": -2.85
+   "symbol": "DVA",
+   "name": "DaVita",
+   "sector": "Health Care",
+   "close": 175.35,
+   "pct": -6.23
+  },
+  {
+   "symbol": "GPC",
+   "name": "Genuine Parts Company",
+   "sector": "Consumer Discretionary",
+   "close": 123.52,
+   "pct": -5.12
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "close": 1397.09,
+   "pct": -4.57
+  },
+  {
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "sector": "Industrials",
+   "close": 211.63,
+   "pct": -3.82
+  },
+  {
+   "symbol": "GE",
+   "name": "GE Aerospace",
+   "sector": "Industrials",
+   "close": 299.87,
+   "pct": -3.67
+  },
+  {
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "close": 596.0,
+   "pct": -3.62
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 263.45,
+   "pct": -3.21
+  },
+  {
+   "symbol": "KLAC",
+   "name": "KLA Corporation",
+   "sector": "Information Technology",
+   "close": 161.74,
+   "pct": -2.8
+  },
+  {
+   "symbol": "ETN",
+   "name": "Eaton Corporation",
+   "sector": "Industrials",
+   "close": 381.98,
+   "pct": -2.43
   }
  ]
 }

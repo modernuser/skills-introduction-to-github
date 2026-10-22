@@ -1,41 +1,46 @@
 {
- "updated": "2026-10-22T00:02:28Z",
+ "updated": "2026-10-22T04:40:34Z",
  "news": {
   "NVDA": [
    {
-    "title": "History Says This ETF Is a Millionaire Maker. Here's What You'd Need to Invest Each Month to Get There.",
-    "link": "https://www.fool.com/investing/2026/10/21/history-says-this-etf-is-a-millionaire-maker-her/?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 23:20:00 +0000"
+    "title": "DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardized Infrastructure for AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/dayone-supports-nvidia-dsx-pod-034500348.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:45:00 +0000"
    },
    {
-    "title": "Crypto Exchanges Want Your Next Stock Trade in 2027",
-    "link": "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 21:39:43 +0000"
+    "title": "Missed NVIDIA's Rally? Here Is What Holders Saw",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidias-rally-holders-saw-031413419.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:14:13 +0000"
    },
    {
-    "title": "SpaceX shares soar on possible tie-up with Tesla",
-    "link": "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 23:23:23 +0000"
+    "title": "Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching.",
+    "link": "https://www.fool.com/investing/2026/10/21/forget-the-anthropic-ipo-here-are-6-stocks-worth-w/?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 02:41:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Supermicro stock jumps as server maker lifts revenue forecast",
-    "link": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-as-server-maker-lifts-revenue-forecast-122408188.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 12:24:08 +0000"
+    "title": "Our Pick Of The Best AI Stocks In October 2026",
+    "link": "https://finance.yahoo.com/technology/ai/articles/pick-best-ai-stocks-october-031730690.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:17:30 +0000"
    },
    {
-    "title": "Tech stocks lead market higher as SpaceX shares surge: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/tech-stocks-lead-market-higher-as-spacex-shares-surge-alphacheck-134723268.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 13:47:23 +0000"
+    "title": "Advanced Micro Devices (AMD) Lands New AI Infrastructure Builds In Europe And India",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-lands-012253417.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 01:22:53 +0000"
    },
    {
-    "title": "Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyrocket, what you need to know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-nova-amtech-monolithic-235039681.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 23:50:39 +0000"
+    "title": "MACOM, Semtech, FormFactor, Penguin Solutions, and Seagate stocks trade up, what you need to know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/macom-semtech-formfactor-penguin-solutions-235839743.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 23:58:39 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-debuts-arcot-scam-031451230.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:14:51 +0000"
+   },
    {
     "title": "Broadcom\u2019s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending?",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-revenue-surges-221-152533215.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Has Buying Broadcom Stock's Dips Paid Off?",
     "link": "https://www.trefis.com/articles/619622/has-buying-broadcom-stocks-dips-paid-off/2026-10-21?.tsrc=rss",
     "pubDate": "Wed, 21 Oct 2026 13:55:53 +0000"
-   },
-   {
-    "title": "Broadcom Launches Arcot Scam Defense to Block Social Engineering Fraud",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-launches-arcot-scam-defense-130000422.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "What Does Intel (INTC) Joining The Terafab AI Chip Project Mean?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-joining-terafab-012248605.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 01:22:48 +0000"
+   },
+   {
     "title": "SpaceX, Tesla, Meta, Nvidia, Intel, Netflix, AT&T, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/447280e1-16c0-3b2b-9960-de4e1125cffc/spacex%2C-tesla%2C-meta%2C-nvidia%2C.html?.tsrc=rss",
     "pubDate": "Wed, 21 Oct 2026 20:26:00 +0000"
@@ -79,28 +84,23 @@
     "title": "Intel\u2019s $28B Ohio Chip Project Hits Construction Milestone After Years Of Delays \u2014 Arizona Fab Targets 2028 Start",
     "link": "https://stocktwits.com/news-articles/markets/equity/intel-s-28-b-ohio-chip-project-hits-construction-milestone-after-years-of-delays-arizona-fab-targets-2028-start/cZxMJJkRBvr?.tsrc=rss",
     "pubDate": "Wed, 21 Oct 2026 17:41:27 +0000"
-   },
-   {
-    "title": "Intel Stock Rises After Musk Signals Terafab Breakthrough",
-    "link": "https://finance.yahoo.com/m/86456a7f-49bd-36ec-ac00-96590df2d6cc/intel-stock-rises-after-musk.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 17:29:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Tech stocks lead market higher as SpaceX shares surge: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/tech-stocks-lead-market-higher-as-spacex-shares-surge-alphacheck-134723268.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 13:47:23 +0000"
+    "title": "Micron Stock Could Be Worth Buying Before Its Next Earnings Report",
+    "link": "https://www.fool.com/investing/2026/10/21/micron-stock-could-be-worth-buying-before-its-next/?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:20:00 +0000"
+   },
+   {
+    "title": "Micron (MU) Stock Looks Fully Valued After A Critical Minerals Deal",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-fully-012333510.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 01:23:33 +0000"
    },
    {
     "title": "Micron Is Up 221% in 2026 and Seagate Is Up 155%: Take Profits, or Hold On for the Ride?",
     "link": "https://247wallst.com/investing/2026/10/21/micron-is-up-221-in-2026-and-seagate-is-up-155-take-profits-or-hold-on-for-the-ride/?.tsrc=rss",
     "pubDate": "Wed, 21 Oct 2026 18:54:33 +0000"
-   },
-   {
-    "title": "Micron Stock\u2019s Welcome AI Boost After Tough Few Weeks",
-    "link": "https://finance.yahoo.com/m/e703f518-92c5-37e1-a30b-67fdc1265d91/micron-stock%E2%80%99s-welcome-ai.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 17:31:00 +0000"
    }
   ],
   "SNDK": [
@@ -122,22 +122,27 @@
   ],
   "WDC": [
    {
-    "title": "Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyrocket, what you need to know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-nova-amtech-monolithic-235039681.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 23:50:39 +0000"
+    "title": "Western Digital (WDC) Stock Gets Fair Value Trim As Analysts Weigh HDD Demand And HAMR Risks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-gets-031248882.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 03:12:48 +0000"
    },
    {
-    "title": "How Big Could Western Digital Stock's Next Fall Be?",
-    "link": "https://www.trefis.com/articles/619647/how-big-could-western-digital-stocks-next-fall-be/2026-10-21?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 20:40:28 +0000"
+    "title": "BofA lifts Western Digital target despite lower capacity outlook",
+    "link": "https://www.thestreet.com/investing/stocks/bofa-lifts-western-digital-target-despite-lower-capacity-outlook?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 02:33:00 +0000"
    },
    {
-    "title": "Why Western Digital (WDC) is Poised to Beat Earnings Estimates Again",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-poised-151003130.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 15:10:03 +0000"
+    "title": "What Is Western Digital (WDC) Asking After Unauthorized Tokenized Share Trading?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-asking-unauthorized-021835348.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 02:18:35 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "MACOM, Semtech, FormFactor, Penguin Solutions, and Seagate stocks trade up, what you need to know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/macom-semtech-formfactor-penguin-solutions-235839743.html?.tsrc=rss",
+    "pubDate": "Wed, 21 Oct 2026 23:58:39 +0000"
+   },
    {
     "title": "Seagate price target raised as Bank of America sees strong demand for hard drives",
     "link": "https://www.proactiveinvestors.com/companies/news/1100497/seagate-price-target-raised-as-bank-of-america-sees-strong-demand-for-hard-drives-1100497.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Micron Is Up 221% in 2026 and Seagate Is Up 155%: Take Profits, or Hold On for the Ride?",
     "link": "https://247wallst.com/investing/2026/10/21/micron-is-up-221-in-2026-and-seagate-is-up-155-take-profits-or-hold-on-for-the-ride/?.tsrc=rss",
     "pubDate": "Wed, 21 Oct 2026 18:54:33 +0000"
-   },
-   {
-    "title": "Here is Why Growth Investors Should Buy Seagate (STX) Now",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-growth-investors-buy-seagate-154502535.html?.tsrc=rss",
-    "pubDate": "Wed, 21 Oct 2026 15:45:02 +0000"
    }
   ],
   "SOXX": [

@@ -1,7 +1,12 @@
 {
- "updated": "2026-10-22T21:56:01Z",
+ "updated": "2026-10-23T00:00:24Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia CEO's new plan could dramatically reshape the AI race",
+    "link": "https://www.thestreet.com/technology/nvidia-ceo-huang-plan-could-dramatically-accelerate-ai-buildout?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 22:33:00 +0000"
+   },
    {
     "title": "FirstService Corporation Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-firstservice-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Valero Energy Corporation Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-valero-energy-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 21:25:48 +0000"
-   },
-   {
-    "title": "Visteon Corporation Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-visteon-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 21:25:44 +0000"
    }
   ],
   "AMD": [
@@ -30,9 +30,9 @@
     "pubDate": "Thu, 22 Oct 2026 13:47:37 +0000"
    },
    {
-    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 18:25:00 +0000"
+    "title": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-undervalued-amd-221535600.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 22:15:35 +0000"
    }
   ],
   "AVGO": [
@@ -42,14 +42,14 @@
     "pubDate": "Thu, 22 Oct 2026 13:06:48 +0000"
    },
    {
+    "title": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-suffers-larger-204502208.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 20:45:02 +0000"
+   },
+   {
     "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
     "link": "https://247wallst.com/investing/2026/10/22/prediction-broadcom-stock-could-crush-the-sp-500-through-2030/?.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 16:00:47 +0000"
-   },
-   {
-    "title": "Broadcom Has Lost 35% From Its High: Tigress Sees 83% Upside",
-    "link": "https://www.tikr.com/blog/broadcom-has-lost-35-from-its-high-tigress-sees-83-upside?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 15:20:09 +0000"
    }
   ],
   "TSM": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
-    "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:06:48 +0000"
-   },
-   {
     "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck",
     "link": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html?.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 13:47:37 +0000"
    },
    {
-    "title": "What Would Blowout Q3 Earnings Results Look Like?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/blowout-q3-earnings-results-look-202600579.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 20:26:00 +0000"
+    "title": "Why Micron Stock Dropped on Thursday",
+    "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 22:49:01 +0000"
+   },
+   {
+    "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-204503120.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 20:45:03 +0000"
    }
   ],
   "SNDK": [
@@ -122,19 +122,19 @@
   ],
   "WDC": [
    {
-    "title": "Up 3,700%, Should You Buy Sandisk Right Now?",
-    "link": "https://www.fool.com/investing/2026/10/22/up-3700-should-you-buy-sandisk-right-now/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 21:50:00 +0000"
-   },
-   {
     "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
     "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 21:35:03 +0000"
+    "pubDate": "Thu, 22 Oct 2026 23:56:06 +0000"
    },
    {
-    "title": "Dividend Hike Could Change The Case For Western Digital Stock",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-hike-could-change-case-211016445.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 21:10:16 +0000"
+    "title": "Western Digital Reports Quarterly Earnings Beat",
+    "link": "https://finance.yahoo.com/m/7eb2546c-2f18-3691-beff-56a3f7012073/western-digital-reports.html?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 22:24:13 +0000"
+   },
+   {
+    "title": "Western Digital Corporation Q1 2027 Earnings: Recap of $WDC Earnings Call, Stock Forecast",
+    "link": "https://www.thestreet.com/investing/earnings/western-digital-corporation-wdc-q1-2027-earnings-stock-forecast-updates?.tsrc=rss",
+    "pubDate": "Thu, 22 Oct 2026 22:02:51 +0000"
    }
   ],
   "STX": [

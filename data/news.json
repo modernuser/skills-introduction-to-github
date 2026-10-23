@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:57:04Z",
+ "updated": "2026-10-23T18:15:31Z",
  "news": {
   "NVDA": [
    {
@@ -47,9 +47,9 @@
     "pubDate": "Fri, 23 Oct 2026 12:45:58 +0000"
    },
    {
-    "title": "Broadcom Stock Fell 4% as Chip Stocks Slid Days After a 10-Year VMware Deal. Here\u2019s What Wall Street\u2019s Targets Say",
-    "link": "https://www.tikr.com/blog/broadcom-stock-fell-4-as-chip-stocks-slid-days-after-a-10-year-vmware-deal-heres-what-wall-streets-targets-say?ref=yahoofinance&.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 01:29:37 +0000"
+    "title": "The Best Trillion-Dollar Stock To Sell Puts On Isn\u2019t Tesla Or Broadcom",
+    "link": "https://www.barchart.com/story/news/8363312/the-best-trillion-dollar-stock-to-sell-puts-on-isnt-tesla-or-broadcom?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:00:02 +0000"
    }
   ],
   "TSM": [
@@ -93,14 +93,14 @@
     "pubDate": "Fri, 23 Oct 2026 17:09:20 +0000"
    },
    {
+    "title": "Micron Stock Leads Chip Rebound. Dip Buyers Buckle Up.",
+    "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-chip.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 16:38:00 +0000"
+   },
+   {
     "title": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-gain-sk-hynix-161309792.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:13:09 +0000"
-   },
-   {
-    "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First",
-    "link": "https://www.fool.com/investing/2026/10/23/as-the-us-pulls-chip-making-back-home-toolmakers/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 16:05:00 +0000"
    }
   ],
   "SNDK": [
@@ -127,14 +127,14 @@
     "pubDate": "Fri, 23 Oct 2026 13:42:24 +0000"
    },
    {
+    "title": "Western Digital Earnings Fail to Get Stock Back on Track",
+    "link": "https://finance.yahoo.com/m/790a87f5-6b9f-37fa-95fb-0eefdd22614a/western-digital-earnings-fail.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 18:05:00 +0000"
+   },
+   {
     "title": "Western Digital Stock Pullback Despite Fiscal Q1 Beat Reflects AI Capex Concerns, Wedbush Says",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-pullback-despite-162146165.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:21:46 +0000"
-   },
-   {
-    "title": "Memory, Storage Stocks Rebound After Western Digital Earnings Land",
-    "link": "https://www.investopedia.com/market-update-memory-storage-stocks-rebound-after-western-digital-earnings-land-wdc-12189805?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 15:58:16 +0000"
    }
   ],
   "STX": [
@@ -163,7 +163,7 @@
    {
     "title": "Micron Stock Leads Chip Rebound. Dip Buyers Buckle Up.",
     "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-chip.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 13:58:00 +0000"
+    "pubDate": "Fri, 23 Oct 2026 16:38:00 +0000"
    },
    {
     "title": "Memory, Storage Stocks Rebound After Western Digital Earnings Land",
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Dollar Store Stocks Slide as Selling Hits Discount Retail: Dollar Tree and Dollar General Drop 6%",
+    "link": "https://247wallst.com/investing/2026/10/23/dollar-store-stocks-slide-as-selling-hits-discount-retail-dollar-tree-and-dollar-general-drop-6/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 17:55:12 +0000"
+   },
+   {
     "title": "OptionMetrics flags hidden gems in commodities as wheat, soybeans outshine copper",
     "link": "https://finance.yahoo.com/markets/commodities/articles/optionmetrics-flags-hidden-gems-commodities-172655787.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 17:26:55 +0000"
@@ -215,11 +220,6 @@
     "title": "Fastly Jumps 8% as Cloud Rebound Broadens; Nebius Ticks Up, CoreWeave Slips",
     "link": "https://247wallst.com/investing/2026/10/23/fastly-jumps-8-as-cloud-rebound-broadens-nebius-ticks-up-coreweave-slips/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:51:10 +0000"
-   },
-   {
-    "title": "Hewlett Packard Enterprise Climbs 4% While AI Server Peers Lag; Dell Rises 2%, Super Micro Unchanged",
-    "link": "https://247wallst.com/investing/2026/10/23/hewlett-packard-enterprise-climbs-4-while-ai-server-peers-lag-dell-rises-2-super-micro-unchanged/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 17:09:16 +0000"
    }
   ]
  },

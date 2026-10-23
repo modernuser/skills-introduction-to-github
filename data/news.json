@@ -1,7 +1,12 @@
 {
- "updated": "2026-10-23T21:33:11Z",
+ "updated": "2026-10-23T23:52:21Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Neoclouds secure record funds as Nvidia\u2019s Huang says more investment required",
+    "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 22:18:21 +0000"
+   },
    {
     "title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
     "link": "https://www.fool.com/investing/2026/10/23/prediction-nvidia-will-outperform-broadcom-over-the-next-5-years/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Flagstar Financial, Inc. Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-flagstar-financial-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 20:50:09 +0000"
-   },
-   {
-    "title": "Preferred Bank Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-preferred-bank-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 20:45:10 +0000"
    }
   ],
   "AMD": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week \u2014 AAPL, AXP, CART, UBER In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 22:35:57 +0000"
+   },
+   {
     "title": "Even With SOXX and DRAM Down Between 24% and 42% From Their Highs, I'd Still Rather Buy This Vanguard ETF for Semiconductor Stock Exposure",
     "link": "https://finance.yahoo.com/markets/stocks/articles/even-soxx-dram-down-between-112000899.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 11:20:00 +0000"
@@ -164,11 +169,6 @@
     "title": "Micron Stock Leads Chip Rebound. Dip Buyers Buckle Up.",
     "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-chip.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:38:00 +0000"
-   },
-   {
-    "title": "Memory, Storage Stocks Rebound After Western Digital Earnings Land",
-    "link": "https://www.investopedia.com/market-update-memory-storage-stocks-rebound-after-western-digital-earnings-land-wdc-12189805?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 15:58:16 +0000"
    }
   ],
   "SOXL": [

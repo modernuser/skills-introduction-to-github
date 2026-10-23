@@ -1,58 +1,63 @@
 {
- "updated": "2026-10-23T04:46:01Z",
+ "updated": "2026-10-23T13:21:45Z",
  "news": {
   "NVDA": [
    {
-    "title": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
-    "link": "https://www.thestreet.com/investing/sp-500-best-performers-zero-mag-7-stocks-past-13-weeks?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 04:03:00 +0000"
+    "title": "Newegg Now Offers NVIDIA RTX Spark Laptops in the U.S. and Canada",
+    "link": "https://finance.yahoo.com/technology/ai/articles/newegg-now-offers-nvidia-rtx-130000989.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000"
    },
    {
-    "title": "3 AI Stocks Under 27x P E",
-    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-under-27x-031747981.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 03:17:47 +0000"
+    "title": "inDrive and Pony.ai Announce Collaboration to Explore Autonomous Mobility in Kazakhstan Built on NVIDIA Hyperion",
+    "link": "https://finance.yahoo.com/technology/ai/articles/indrive-pony-ai-announce-collaboration-130000659.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000"
    },
    {
-    "title": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
-    "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-just-bought-netflix-stock-should-you-follow-her/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 02:20:02 +0000"
+    "title": "Higgsfield Extends Series B With New Investment From TCV and NVIDIA",
+    "link": "https://finance.yahoo.com/technology/ai/articles/higgsfield-extends-series-b-investment-121700094.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:17:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:47:37 +0000"
+    "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+    "link": "https://247wallst.com/investing/2026/10/23/same-playbook-different-silicon-broadcom-holds-the-throne-marvell-plays-the-amd-challenger/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:45:58 +0000"
    },
    {
-    "title": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-undervalued-amd-221535600.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 22:15:35 +0000"
+    "title": "AMD Has a High Floor, High Volatility Trajectory Through the End of 2026",
+    "link": "https://247wallst.com/investing/2026/10/23/amd-has-a-high-floor-high-volatility-trajectory-through-the-end-of-2026/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 11:15:31 +0000"
    },
    {
-    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 18:25:00 +0000"
+    "title": "Nasdaq, Dow, S&P 500 Futures Drop Premarket: NVDA, AMD, META, CRWV, MRNA, WDC, BE In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-drop-premarket-nvda-amd-meta-crwv-mrna-wdc-be-in-focus/cZxyfNARBxI?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 10:13:48 +0000"
    }
   ],
   "AVGO": [
    {
-    "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-    "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:06:48 +0000"
+    "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+    "link": "https://247wallst.com/investing/2026/10/23/same-playbook-different-silicon-broadcom-holds-the-throne-marvell-plays-the-amd-challenger/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:45:58 +0000"
+   },
+   {
+    "title": "Broadcom Stock Fell 4% as Chip Stocks Slid Days After a 10-Year VMware Deal. Here\u2019s What Wall Street\u2019s Targets Say",
+    "link": "https://www.tikr.com/blog/broadcom-stock-fell-4-as-chip-stocks-slid-days-after-a-10-year-vmware-deal-heres-what-wall-streets-targets-say?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 01:29:37 +0000"
    },
    {
     "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-bargain-011039774.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 01:10:39 +0000"
-   },
-   {
-    "title": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-suffers-larger-204502208.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 20:45:02 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+    "link": "https://247wallst.com/investing/2026/10/23/the-foundry-disconnect-intel-nails-the-transistor-but-tsmc-holds-the-keys-to-yield-and-scale/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 11:15:58 +0000"
+   },
    {
     "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
     "link": "https://www.fool.com/investing/2026/10/22/taiwan-semiconductor-and-asml-are-incredible-but-1/?.tsrc=rss",
@@ -62,79 +67,74 @@
     "title": "Taiwan Semiconductor Wants In on SpaceX\u2019s Terafab \u2014 but Only If It Runs the Fab",
     "link": "https://247wallst.com/investing/2026/10/22/taiwan-semiconductor-wants-in-on-spacexs-terafab-but-only-if-it-runs-the-fab/?.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 16:28:39 +0000"
-   },
-   {
-    "title": "ASML Vs. Taiwan Semiconductor: Who Can More Fully Satisfy AI Demand?",
-    "link": "https://247wallst.com/investing/2026/10/22/asml-vs-taiwan-semiconductor-who-can-more-fully-satisfy-ai-demand/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 12:45:09 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Could Intel be the next trillion-dollar company?",
-    "link": "https://finance.yahoo.com/video/could-intel-be-the-next-trillion-dollar-company-172549462.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 17:25:49 +0000"
+    "title": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+    "link": "https://247wallst.com/investing/2026/10/23/the-foundry-disconnect-intel-nails-the-transistor-but-tsmc-holds-the-keys-to-yield-and-scale/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 11:15:58 +0000"
    },
    {
-    "title": "What Intel, Boeing, Nike Have In Common With Each Other \u2014 And Apple",
-    "link": "https://finance.yahoo.com/m/901193fa-8922-3df6-9417-b947a80babdc/what-intel%2C-boeing%2C-nike-have.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 20:20:09 +0000"
+    "title": "Prediction: Intel Stock Will Take Off After Oct. 29",
+    "link": "https://www.fool.com/investing/2026/10/23/prediction-intel-stock-will-take-off-after-oct-29/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 10:20:02 +0000"
    },
    {
-    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
-    "link": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 18:25:00 +0000"
+    "title": "MARKETS LIVE: US stock futures fall as Nasdaq 100 slides amid AI concerns",
+    "link": "https://www.proactiveinvestors.com/companies/news/1100595/markets-live-wall-street-slides-as-ai-jitters-and-oil-surge-weigh-on-markets-while-ftse-250-recovers-1100595.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 05:56:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Why Micron Stock Dropped on Thursday",
-    "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 22:49:01 +0000"
+    "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
+    "link": "https://www.fool.com/investing/2026/10/23/could-a-10000-investment-in-micron-set-you-up-for/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:33:00 +0000"
    },
    {
-    "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-204503120.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 20:45:03 +0000"
+    "title": "Stock Split Watch: Is Micron Next?",
+    "link": "https://www.fool.com/investing/2026/10/23/stock-split-watch-is-micron-next/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:22:02 +0000"
    },
    {
-    "title": "What Would Blowout Q3 Earnings Results Look Like?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/blowout-q3-earnings-results-look-202600579.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 20:26:00 +0000"
+    "title": "Micron Stock Leads Fragile Chip Rebound. Dip Buyers Buckle Up.",
+    "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-fragile.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:13:00 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Up 3,700%, Should You Buy Sandisk Right Now?",
-    "link": "https://www.fool.com/investing/2026/10/22/up-3700-should-you-buy-sandisk-right-now/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 21:50:00 +0000"
+    "title": "GMIF2026 Exhibition Recap: Innovation Across the AI Memory & Storage Chain on Show",
+    "link": "https://finance.yahoo.com/technology/ai/articles/gmif2026-exhibition-recap-innovation-across-122400814.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:24:00 +0000"
    },
    {
-    "title": "Why Does SanDisk Stock's High Cash Yield Get So Little Credit?",
-    "link": "https://www.trefis.com/articles/619918/why-does-sandisk-stocks-high-cash-yield-get-so-little-credit/2026-10-22?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 19:28:17 +0000"
+    "title": "MU, SNDK, SKHY Stocks Bounce After Thursday\u2019s Markdown, But Strategists Split: \u2018Great Buying Opportunity\u2019 Versus \u2018The Kospi Has Peaked\u2019",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhynix-stocks-rebound-semiconductor-selloff-strategists/cZxyh1rRBxL?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:01:35 +0000"
    },
    {
-    "title": "Prediction: Sandisk Stock Will Soar After Oct. 29. Here Are 379 Billion Reasons Why",
-    "link": "https://www.fool.com/investing/2026/10/22/prediction-sandisk-stock-will-soar-after-oct-29-here-are-379-billion-reasons-why/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 15:36:01 +0000"
+    "title": "Moderna, Meta, SpaceX, AT&T, CoreWeave, Sandisk, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/f96806d8-9583-3620-89cf-a7ccb8de8237/moderna%2C-meta%2C-spacex%2C-at%26t%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 10:45:00 +0000"
    }
   ],
   "WDC": [
    {
-    "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
-    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 03:12:31 +0000"
+    "title": "Western Digital Earnings Easily Beat Estimates. Why The Stock Is Falling Anyway.",
+    "link": "https://finance.yahoo.com/m/7eb2546c-2f18-3691-beff-56a3f7012073/western-digital-earnings.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:48:26 +0000"
    },
    {
-    "title": "WDC Slides Overnight Post-Earnings Despite Goldman\u2019s Upside Call \u2014 CEO Sees Top Customers\u2019 Storage Demand Into 2031",
-    "link": "https://stocktwits.com/news-articles/markets/equity/wdc-post-earnings-goldman-upside-call-ceo-top-customers-storage-demand-2031/cZxU6jVRBDo?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 02:03:06 +0000"
+    "title": "Premarket movers: Crown Castle jumps 7.5% on SpaceX talks; Autoliv slides",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-crown-castle-jumps-121720912.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:17:20 +0000"
    },
    {
-    "title": "Western Digital Reports Quarterly Earnings Beat",
-    "link": "https://finance.yahoo.com/m/7eb2546c-2f18-3691-beff-56a3f7012073/western-digital-reports.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 22:24:13 +0000"
+    "title": "Dow Jones Futures Fall After Moderna Crashes, Meta Fuels AI Meltdown. Warren Buffett Market Is Thriving.",
+    "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures-fall-after.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:14:41 +0000"
    }
   ],
   "STX": [
@@ -156,19 +156,19 @@
   ],
   "SOXX": [
    {
-    "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
-    "link": "https://finance.yahoo.com/m/5712d994-c082-3a96-901a-7cb056f412a7/chip-stock-rebound-comes.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 17:50:00 +0000"
+    "title": "Even With SOXX and DRAM Down Between 24% and 42% From Their Highs, I'd Still Rather Buy This Vanguard ETF for Semiconductor Stock Exposure",
+    "link": "https://www.fool.com/investing/2026/10/23/even-with-soxx-and-dram-down-between-24-and-42-fro/?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 11:20:00 +0000"
    },
    {
-    "title": "SOXX Is Splitting 3-for-1 Again: What Changes for Your Shares and What Doesn\u2019t",
-    "link": "https://247wallst.com/investing/etf/2026/10/22/soxx-is-splitting-3-for-1-again-what-changes-for-your-shares-and-what-doesnt/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 15:05:48 +0000"
+    "title": "Is iShares Semiconductor ETF (SOXX) a Strong ETF Right Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-semiconductor-etf-soxx-strong-092002545.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:20:02 +0000"
    },
    {
-    "title": "Chip Stocks Tumble, Crushing Investor Hopes for a Long-Term Rebound",
-    "link": "https://www.investopedia.com/market-update-chip-stocks-slide-dashing-hopes-for-a-sustained-rebound-lrcx-ter-nvda-lite-meta-tsla-soxx-12187780?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:11:56 +0000"
+    "title": "Micron Stock Leads Fragile Chip Rebound. Dip Buyers Buckle Up.",
+    "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-fragile.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 12:13:00 +0000"
    }
   ],
   "SOXL": [
@@ -190,22 +190,27 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid AI Spending Concerns",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131317616.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 13:13:17 +0000"
+   },
+   {
+    "title": "Seeking Income Without Written Calls, a Hedge Reset Daily: Tuttle Capital Launches the Innovation 100 Income and Hedge ETF (QQDH)",
+    "link": "https://finance.yahoo.com/markets/options/articles/seeking-income-without-written-calls-130500886.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 13:05:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds, US Equities Lower After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171320665.html?.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 17:13:20 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Jobless Claims Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131512646.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:15:12 +0000"
-   },
-   {
-    "title": "Optics Stocks Tumble as Tech Selloff Deepens Ahead of Earnings: Coherent Tumbles 12%, Applied Optoelectronics Drops 10%, Lumentum Falls 9%",
-    "link": "https://247wallst.com/investing/2026/10/22/optics-stocks-tumble-as-tech-selloff-deepens-ahead-of-earnings-coherent-tumbles-12-applied-optoelectronics-drops-10-lumentum-falls-9/?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 17:10:05 +0000"
    }
   ],
   "SPY": [
+   {
+    "title": "Why Healthcare ETFs Are Hovering Around One-Year Highs",
+    "link": "https://finance.yahoo.com/healthcare/articles/why-healthcare-etfs-hovering-around-110000411.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 11:00:00 +0000"
+   },
    {
     "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt \u2014 META, SPCX, BE, MRNA In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-clocks-worst-day-in-four-months/cZxwY21RBDl?.tsrc=rss",
@@ -215,11 +220,6 @@
     "title": "SoFi Is Now Down 44% in 2026: Did SOFI Stock Just Find a Bottom?",
     "link": "https://247wallst.com/investing/2026/10/22/sofi-is-now-down-44-in-2026-did-sofi-stock-just-find-a-bottom/?.tsrc=rss",
     "pubDate": "Thu, 22 Oct 2026 18:31:30 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Jobless Claims Data Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131512646.html?.tsrc=rss",
-    "pubDate": "Thu, 22 Oct 2026 13:15:12 +0000"
    }
   ]
  },

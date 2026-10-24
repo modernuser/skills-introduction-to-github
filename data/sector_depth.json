@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T00:46:56Z",
+ "generated": "2026-10-24T00:50:21Z",
  "method": "annualised stdev of the last 30 daily returns",
  "note": "Volatility measures how violently these prices have already moved, in both directions. Risk measure, not a forecast and not a recommendation.",
  "window_sessions": 30,
@@ -10,902 +10,902 @@
    {
     "symbol": "SKYD",
     "name": "Skydance Corporation",
-    "vol_30d": 93.7,
+    "vol_30d": 93.46,
     "sessions": 30,
-    "last_close": 7.87,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "APP",
-    "name": "AppLovin",
-    "vol_30d": 50.5,
-    "sessions": 30,
-    "last_close": 267.9,
-    "as_of": "2026-10-21"
+    "last_close": 7.79,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "META",
     "name": "Meta Platforms",
-    "vol_30d": 48.43,
+    "vol_30d": 52.6,
     "sessions": 30,
-    "last_close": 697.52,
-    "as_of": "2026-10-21"
+    "last_close": 648.85,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "TMUS",
     "name": "T-Mobile US",
-    "vol_30d": 48.31,
+    "vol_30d": 49.49,
     "sessions": 30,
-    "last_close": 153.75,
-    "as_of": "2026-10-21"
+    "last_close": 158.79,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "RDDT",
-    "name": "Reddit",
-    "vol_30d": 47.81,
+    "symbol": "APP",
+    "name": "AppLovin",
+    "vol_30d": 49.48,
     "sessions": 30,
-    "last_close": 153.28,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "CHTR",
-    "name": "Charter Communications",
-    "vol_30d": 44.16,
-    "sessions": 30,
-    "last_close": 107.26,
-    "as_of": "2026-10-21"
+    "last_close": 264.28,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "ECHO",
     "name": "EchoStar",
-    "vol_30d": 43.16,
+    "vol_30d": 48.25,
     "sessions": 30,
-    "last_close": 92.64,
-    "as_of": "2026-10-21"
+    "last_close": 85.79,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "RDDT",
+    "name": "Reddit",
+    "vol_30d": 44.8,
+    "sessions": 30,
+    "last_close": 150.26,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "CHTR",
+    "name": "Charter Communications",
+    "vol_30d": 43.35,
+    "sessions": 30,
+    "last_close": 111.77,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "T",
     "name": "AT&T",
-    "vol_30d": 41.81,
+    "vol_30d": 43.19,
     "sessions": 30,
-    "last_close": 21.91,
-    "as_of": "2026-10-21"
+    "last_close": 22.74,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "VZ",
     "name": "Verizon",
-    "vol_30d": 37.22,
+    "vol_30d": 39.08,
     "sessions": 30,
-    "last_close": 43.56,
-    "as_of": "2026-10-21"
+    "last_close": 45.2,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "NFLX",
     "name": "Netflix",
-    "vol_30d": 34.82,
+    "vol_30d": 36.32,
     "sessions": 30,
-    "last_close": 65.04,
-    "as_of": "2026-10-21"
+    "last_close": 67.05,
+    "as_of": "2026-10-22"
    }
   ],
   "Consumer Discretionary": [
    {
-    "symbol": "CVNA",
-    "name": "Carvana",
-    "vol_30d": 47.87,
+    "symbol": "LEN",
+    "name": "Lennar",
+    "vol_30d": 50.5,
     "sessions": 30,
-    "last_close": 59.19,
-    "as_of": "2026-10-21"
+    "last_close": 84.45,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CCL",
     "name": "Carnival Corporation",
-    "vol_30d": 47.29,
+    "vol_30d": 47.23,
     "sessions": 30,
-    "last_close": 27.3,
-    "as_of": "2026-10-21"
+    "last_close": 27.08,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "LEN",
-    "name": "Lennar",
-    "vol_30d": 45.03,
+    "symbol": "CVNA",
+    "name": "Carvana",
+    "vol_30d": 46.65,
     "sessions": 30,
-    "last_close": 77.7,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "DASH",
-    "name": "DoorDash",
-    "vol_30d": 42.94,
-    "sessions": 30,
-    "last_close": 184.45,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "RCL",
-    "name": "Royal Caribbean Group",
-    "vol_30d": 41.15,
-    "sessions": 30,
-    "last_close": 288.45,
-    "as_of": "2026-10-21"
+    "last_close": 58.72,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "EXPE",
     "name": "Expedia Group",
-    "vol_30d": 41.13,
+    "vol_30d": 42.83,
     "sessions": 30,
-    "last_close": 285.64,
-    "as_of": "2026-10-21"
+    "last_close": 298.49,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "GM",
-    "name": "General Motors",
-    "vol_30d": 39.75,
+    "symbol": "DASH",
+    "name": "DoorDash",
+    "vol_30d": 42.59,
     "sessions": 30,
-    "last_close": 76.11,
-    "as_of": "2026-10-21"
+    "last_close": 185.94,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "RCL",
+    "name": "Royal Caribbean Group",
+    "vol_30d": 41.25,
+    "sessions": 30,
+    "last_close": 286.13,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "LULU",
+    "name": "Lululemon Athletica",
+    "vol_30d": 40.09,
+    "sessions": 30,
+    "last_close": 104.06,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "HAS",
     "name": "Hasbro",
-    "vol_30d": 38.92,
+    "vol_30d": 39.32,
     "sessions": 30,
-    "last_close": 114.0,
-    "as_of": "2026-10-21"
+    "last_close": 117.23,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "CMG",
-    "name": "Chipotle Mexican Grill",
-    "vol_30d": 38.18,
+    "symbol": "BBY",
+    "name": "Best Buy",
+    "vol_30d": 39.31,
     "sessions": 30,
-    "last_close": 28.12,
-    "as_of": "2026-10-21"
+    "last_close": 99.83,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "MGM",
-    "name": "MGM Resorts",
-    "vol_30d": 37.48,
+    "symbol": "GM",
+    "name": "General Motors",
+    "vol_30d": 39.01,
     "sessions": 30,
-    "last_close": 28.87,
-    "as_of": "2026-10-21"
+    "last_close": 77.21,
+    "as_of": "2026-10-22"
    }
   ],
   "Consumer Staples": [
    {
+    "symbol": "GIS",
+    "name": "General Mills",
+    "vol_30d": 38.25,
+    "sessions": 30,
+    "last_close": 35.18,
+    "as_of": "2026-10-22"
+   },
+   {
     "symbol": "EL",
     "name": "Est\u00e9e Lauder Companies (The)",
-    "vol_30d": 35.32,
+    "vol_30d": 36.09,
     "sessions": 30,
-    "last_close": 103.66,
-    "as_of": "2026-10-21"
+    "last_close": 107.72,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "KR",
     "name": "Kroger",
-    "vol_30d": 30.99,
+    "vol_30d": 34.69,
     "sessions": 30,
-    "last_close": 64.13,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "GIS",
-    "name": "General Mills",
-    "vol_30d": 30.69,
-    "sessions": 30,
-    "last_close": 32.57,
-    "as_of": "2026-10-21"
+    "last_close": 67.87,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "MKC",
     "name": "McCormick & Company",
-    "vol_30d": 30.27,
+    "vol_30d": 34.16,
     "sessions": 30,
-    "last_close": 46.32,
-    "as_of": "2026-10-21"
+    "last_close": 48.71,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "DG",
     "name": "Dollar General",
-    "vol_30d": 30.17,
+    "vol_30d": 33.21,
     "sessions": 30,
-    "last_close": 132.12,
-    "as_of": "2026-10-21"
+    "last_close": 139.11,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CLX",
     "name": "Clorox",
-    "vol_30d": 29.85,
+    "vol_30d": 32.76,
     "sessions": 30,
-    "last_close": 84.77,
-    "as_of": "2026-10-21"
+    "last_close": 88.66,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "DLTR",
     "name": "Dollar Tree",
-    "vol_30d": 29.75,
+    "vol_30d": 32.16,
     "sessions": 30,
-    "last_close": 125.48,
-    "as_of": "2026-10-21"
+    "last_close": 131.04,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "KHC",
+    "name": "Kraft Heinz",
+    "vol_30d": 30.28,
+    "sessions": 30,
+    "last_close": 25.09,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "BG",
     "name": "Bunge Global",
-    "vol_30d": 28.94,
+    "vol_30d": 28.95,
     "sessions": 30,
-    "last_close": 102.23,
-    "as_of": "2026-10-21"
+    "last_close": 103.15,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CASY",
     "name": "Casey's",
-    "vol_30d": 28.18,
+    "vol_30d": 28.9,
     "sessions": 30,
-    "last_close": 695.19,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "KDP",
-    "name": "Keurig Dr Pepper",
-    "vol_30d": 27.65,
-    "sessions": 30,
-    "last_close": 34.47,
-    "as_of": "2026-10-21"
+    "last_close": 713.65,
+    "as_of": "2026-10-22"
    }
   ],
   "Energy": [
    {
     "symbol": "TPL",
     "name": "Texas Pacific Land Corporation",
-    "vol_30d": 40.31,
+    "vol_30d": 40.79,
     "sessions": 30,
-    "last_close": 344.31,
-    "as_of": "2026-10-21"
+    "last_close": 333.67,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "VLO",
     "name": "Valero Energy",
-    "vol_30d": 39.25,
+    "vol_30d": 39.92,
     "sessions": 30,
-    "last_close": 436.75,
-    "as_of": "2026-10-21"
+    "last_close": 426.28,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "APA",
     "name": "APA Corporation",
-    "vol_30d": 37.56,
+    "vol_30d": 37.5,
     "sessions": 30,
-    "last_close": 49.63,
-    "as_of": "2026-10-21"
+    "last_close": 49.44,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "MPC",
     "name": "Marathon Petroleum",
-    "vol_30d": 36.88,
+    "vol_30d": 36.94,
     "sessions": 30,
-    "last_close": 467.98,
-    "as_of": "2026-10-21"
+    "last_close": 459.28,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "FANG",
     "name": "Diamondback Energy",
-    "vol_30d": 34.73,
+    "vol_30d": 34.9,
     "sessions": 30,
-    "last_close": 200.93,
-    "as_of": "2026-10-21"
+    "last_close": 197.14,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "OXY",
     "name": "Occidental Petroleum",
-    "vol_30d": 32.94,
+    "vol_30d": 32.95,
     "sessions": 30,
-    "last_close": 62.7,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "DVN",
-    "name": "Devon Energy",
-    "vol_30d": 31.71,
-    "sessions": 30,
-    "last_close": 49.87,
-    "as_of": "2026-10-21"
+    "last_close": 62.5,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "COP",
     "name": "ConocoPhillips",
-    "vol_30d": 31.56,
+    "vol_30d": 31.57,
     "sessions": 30,
-    "last_close": 145.67,
-    "as_of": "2026-10-21"
+    "last_close": 145.63,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "BKR",
-    "name": "Baker Hughes",
-    "vol_30d": 30.49,
+    "symbol": "DVN",
+    "name": "Devon Energy",
+    "vol_30d": 31.37,
     "sessions": 30,
-    "last_close": 56.0,
-    "as_of": "2026-10-21"
+    "last_close": 49.18,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "SLB",
     "name": "Schlumberger",
-    "vol_30d": 30.48,
+    "vol_30d": 31.18,
     "sessions": 30,
-    "last_close": 51.1,
-    "as_of": "2026-10-21"
+    "last_close": 49.55,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "vol_30d": 30.73,
+    "sessions": 30,
+    "last_close": 284.63,
+    "as_of": "2026-10-22"
    }
   ],
   "Financials": [
    {
     "symbol": "COIN",
     "name": "Coinbase",
-    "vol_30d": 72.07,
+    "vol_30d": 73.21,
     "sessions": 30,
-    "last_close": 177.08,
-    "as_of": "2026-10-21"
+    "last_close": 169.09,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "HOOD",
     "name": "Robinhood Markets",
-    "vol_30d": 54.02,
+    "vol_30d": 55.74,
     "sessions": 30,
-    "last_close": 101.93,
-    "as_of": "2026-10-21"
+    "last_close": 96.58,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "FDS",
     "name": "FactSet",
-    "vol_30d": 44.03,
+    "vol_30d": 41.54,
     "sessions": 30,
-    "last_close": 319.91,
-    "as_of": "2026-10-21"
+    "last_close": 335.45,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CBOE",
     "name": "Cboe Global Markets",
-    "vol_30d": 39.83,
+    "vol_30d": 40.06,
     "sessions": 30,
-    "last_close": 318.82,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "IBKR",
-    "name": "Interactive Brokers",
-    "vol_30d": 32.82,
-    "sessions": 30,
-    "last_close": 85.33,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "ERIE",
-    "name": "Erie Indemnity",
-    "vol_30d": 32.11,
-    "sessions": 30,
-    "last_close": 244.12,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "vol_30d": 32.01,
-    "sessions": 30,
-    "last_close": 258.37,
-    "as_of": "2026-10-21"
+    "last_close": 327.72,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "BX",
     "name": "Blackstone Inc.",
-    "vol_30d": 31.45,
+    "vol_30d": 39.94,
     "sessions": 30,
-    "last_close": 109.57,
-    "as_of": "2026-10-21"
+    "last_close": 118.75,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "XYZ",
-    "name": "Block, Inc.",
-    "vol_30d": 30.03,
+    "symbol": "ERIE",
+    "name": "Erie Indemnity",
+    "vol_30d": 35.11,
     "sessions": 30,
-    "last_close": 78.21,
-    "as_of": "2026-10-21"
+    "last_close": 256.8,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "vol_30d": 34.68,
+    "sessions": 30,
+    "last_close": 270.98,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "IBKR",
+    "name": "Interactive Brokers",
+    "vol_30d": 34.22,
+    "sessions": 30,
+    "last_close": 82.28,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "BRO",
     "name": "Brown & Brown",
-    "vol_30d": 29.69,
+    "vol_30d": 33.51,
     "sessions": 30,
-    "last_close": 70.53,
-    "as_of": "2026-10-21"
+    "last_close": 74.49,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "FISV",
+    "name": "Fiserv",
+    "vol_30d": 33.39,
+    "sessions": 30,
+    "last_close": 50.82,
+    "as_of": "2026-10-22"
    }
   ],
   "Health Care": [
    {
     "symbol": "MRNA",
     "name": "Moderna",
-    "vol_30d": 82.67,
+    "vol_30d": 100.46,
     "sessions": 30,
-    "last_close": 245.81,
-    "as_of": "2026-10-21"
+    "last_close": 202.63,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "ILMN",
     "name": "Illumina, Inc.",
-    "vol_30d": 55.85,
+    "vol_30d": 57.82,
     "sessions": 30,
-    "last_close": 282.86,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "COO",
-    "name": "Cooper Companies (The)",
-    "vol_30d": 50.84,
-    "sessions": 30,
-    "last_close": 58.97,
-    "as_of": "2026-10-21"
+    "last_close": 269.4,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "HUM",
     "name": "Humana",
-    "vol_30d": 47.91,
+    "vol_30d": 48.06,
     "sessions": 30,
-    "last_close": 425.42,
-    "as_of": "2026-10-21"
+    "last_close": 420.97,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CRL",
     "name": "Charles River Laboratories",
-    "vol_30d": 46.09,
+    "vol_30d": 45.9,
     "sessions": 30,
-    "last_close": 344.87,
-    "as_of": "2026-10-21"
+    "last_close": 339.66,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "RVTY",
     "name": "Revvity",
-    "vol_30d": 41.92,
+    "vol_30d": 40.85,
     "sessions": 30,
-    "last_close": 156.61,
-    "as_of": "2026-10-21"
+    "last_close": 157.36,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "DVA",
     "name": "DaVita",
-    "vol_30d": 36.96,
+    "vol_30d": 39.96,
     "sessions": 30,
-    "last_close": 176.81,
-    "as_of": "2026-10-21"
+    "last_close": 186.1,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "DXCM",
     "name": "Dexcom",
-    "vol_30d": 32.62,
+    "vol_30d": 33.17,
     "sessions": 30,
-    "last_close": 80.26,
-    "as_of": "2026-10-21"
+    "last_close": 78.32,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CNC",
     "name": "Centene Corporation",
-    "vol_30d": 31.44,
+    "vol_30d": 31.17,
     "sessions": 30,
-    "last_close": 70.24,
-    "as_of": "2026-10-21"
+    "last_close": 71.24,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "DHR",
-    "name": "Danaher Corporation",
-    "vol_30d": 30.4,
+    "symbol": "BMY",
+    "name": "Bristol Myers Squibb",
+    "vol_30d": 30.94,
     "sessions": 30,
-    "last_close": 233.86,
-    "as_of": "2026-10-21"
+    "last_close": 63.0,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "ZBH",
+    "name": "Zimmer Biomet",
+    "vol_30d": 30.93,
+    "sessions": 30,
+    "last_close": 98.81,
+    "as_of": "2026-10-22"
    }
   ],
   "Industrials": [
    {
     "symbol": "BE",
     "name": "Bloom Energy",
-    "vol_30d": 82.33,
+    "vol_30d": 85.26,
     "sessions": 30,
-    "last_close": 238.53,
-    "as_of": "2026-10-21"
+    "last_close": 217.77,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "GNRC",
     "name": "Generac",
-    "vol_30d": 70.44,
+    "vol_30d": 73.55,
     "sessions": 30,
-    "last_close": 203.14,
-    "as_of": "2026-10-21"
+    "last_close": 188.02,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "FIX",
     "name": "Comfort Systems USA",
-    "vol_30d": 48.69,
+    "vol_30d": 54.23,
     "sessions": 30,
-    "last_close": 1401.27,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "EFX",
-    "name": "Equifax",
-    "vol_30d": 48.1,
-    "sessions": 30,
-    "last_close": 175.57,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "AXON",
-    "name": "Axon Enterprise",
-    "vol_30d": 47.51,
-    "sessions": 30,
-    "last_close": 402.6,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "VRT",
-    "name": "Vertiv",
-    "vol_30d": 47.03,
-    "sessions": 30,
-    "last_close": 212.15,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "JBHT",
-    "name": "J.B. Hunt",
-    "vol_30d": 45.7,
-    "sessions": 30,
-    "last_close": 228.59,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "CHRW",
-    "name": "C.H. Robinson",
-    "vol_30d": 44.97,
-    "sessions": 30,
-    "last_close": 140.95,
-    "as_of": "2026-10-21"
+    "last_close": 1279.37,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "GEV",
     "name": "GE Vernova",
-    "vol_30d": 44.91,
+    "vol_30d": 53.9,
     "sessions": 30,
-    "last_close": 925.92,
-    "as_of": "2026-10-21"
+    "last_close": 827.42,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "ETN",
-    "name": "Eaton Corporation",
-    "vol_30d": 40.24,
+    "symbol": "EFX",
+    "name": "Equifax",
+    "vol_30d": 51.54,
     "sessions": 30,
-    "last_close": 393.94,
-    "as_of": "2026-10-21"
+    "last_close": 187.14,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "VRT",
+    "name": "Vertiv",
+    "vol_30d": 49.4,
+    "sessions": 30,
+    "last_close": 195.59,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "AXON",
+    "name": "Axon Enterprise",
+    "vol_30d": 48.34,
+    "sessions": 30,
+    "last_close": 414.6,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "PWR",
+    "name": "Quanta Services",
+    "vol_30d": 45.98,
+    "sessions": 30,
+    "last_close": 552.44,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "JBHT",
+    "name": "J.B. Hunt",
+    "vol_30d": 45.84,
+    "sessions": 30,
+    "last_close": 230.59,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "CHRW",
+    "name": "C.H. Robinson",
+    "vol_30d": 44.89,
+    "sessions": 30,
+    "last_close": 142.31,
+    "as_of": "2026-10-22"
    }
   ],
   "Information Technology": [
    {
     "symbol": "FICO",
     "name": "Fair Isaac",
-    "vol_30d": 100.48,
+    "vol_30d": 100.99,
     "sessions": 30,
-    "last_close": 795.21,
-    "as_of": "2026-10-21"
+    "last_close": 823.27,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "PTC",
     "name": "PTC Inc.",
-    "vol_30d": 99.44,
+    "vol_30d": 99.45,
     "sessions": 30,
-    "last_close": 194.38,
-    "as_of": "2026-10-21"
+    "last_close": 194.0,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "COHR",
     "name": "Coherent Corp.",
-    "vol_30d": 85.56,
+    "vol_30d": 91.92,
     "sessions": 30,
-    "last_close": 237.53,
-    "as_of": "2026-10-21"
+    "last_close": 207.82,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CIEN",
     "name": "Ciena",
-    "vol_30d": 82.73,
+    "vol_30d": 88.68,
     "sessions": 30,
-    "last_close": 361.34,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "HPE",
-    "name": "Hewlett Packard Enterprise",
-    "vol_30d": 77.03,
-    "sessions": 30,
-    "last_close": 58.17,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "SMCI",
-    "name": "Supermicro",
-    "vol_30d": 76.66,
-    "sessions": 30,
-    "last_close": 35.57,
-    "as_of": "2026-10-21"
+    "last_close": 322.64,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "LITE",
     "name": "Lumentum",
-    "vol_30d": 76.51,
+    "vol_30d": 81.89,
     "sessions": 30,
-    "last_close": 850.7,
-    "as_of": "2026-10-21"
+    "last_close": 752.54,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "SWKS",
-    "name": "Skyworks Solutions",
-    "vol_30d": 72.26,
+    "symbol": "SMCI",
+    "name": "Supermicro",
+    "vol_30d": 77.26,
     "sessions": 30,
-    "last_close": 82.22,
-    "as_of": "2026-10-21"
+    "last_close": 33.72,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "DELL",
-    "name": "Dell Technologies",
-    "vol_30d": 71.36,
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "vol_30d": 76.02,
     "sessions": 30,
-    "last_close": 485.88,
-    "as_of": "2026-10-21"
+    "last_close": 55.47,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "P",
     "name": "Everpure",
-    "vol_30d": 69.9,
+    "vol_30d": 73.23,
     "sessions": 30,
-    "last_close": 130.93,
-    "as_of": "2026-10-21"
+    "last_close": 121.2,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "TER",
+    "name": "Teradyne",
+    "vol_30d": 73.14,
+    "sessions": 30,
+    "last_close": 308.75,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "DELL",
+    "name": "Dell Technologies",
+    "vol_30d": 72.37,
+    "sessions": 30,
+    "last_close": 452.95,
+    "as_of": "2026-10-22"
    }
   ],
   "Materials": [
    {
     "symbol": "ALB",
     "name": "Albemarle Corporation",
-    "vol_30d": 35.56,
+    "vol_30d": 35.17,
     "sessions": 30,
-    "last_close": 94.47,
-    "as_of": "2026-10-21"
+    "last_close": 92.54,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "MOS",
     "name": "Mosaic Company (The)",
-    "vol_30d": 33.23,
+    "vol_30d": 32.94,
     "sessions": 30,
-    "last_close": 17.68,
-    "as_of": "2026-10-21"
+    "last_close": 17.27,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "FCX",
     "name": "Freeport-McMoRan",
-    "vol_30d": 32.92,
+    "vol_30d": 32.38,
     "sessions": 30,
-    "last_close": 68.9,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "NEM",
-    "name": "Newmont",
-    "vol_30d": 31.86,
-    "sessions": 30,
-    "last_close": 117.18,
-    "as_of": "2026-10-21"
+    "last_close": 64.59,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "NUE",
     "name": "Nucor",
-    "vol_30d": 31.55,
+    "vol_30d": 32.28,
     "sessions": 30,
-    "last_close": 264.54,
-    "as_of": "2026-10-21"
+    "last_close": 258.06,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "IP",
-    "name": "International Paper",
-    "vol_30d": 31.2,
+    "symbol": "NEM",
+    "name": "Newmont",
+    "vol_30d": 32.2,
     "sessions": 30,
-    "last_close": 33.63,
-    "as_of": "2026-10-21"
+    "last_close": 114.11,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "STLD",
     "name": "Steel Dynamics",
-    "vol_30d": 30.06,
+    "vol_30d": 31.29,
     "sessions": 30,
-    "last_close": 247.97,
-    "as_of": "2026-10-21"
+    "last_close": 239.9,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "IP",
+    "name": "International Paper",
+    "vol_30d": 31.08,
+    "sessions": 30,
+    "last_close": 33.68,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CF",
     "name": "CF Industries",
-    "vol_30d": 29.65,
+    "vol_30d": 30.1,
     "sessions": 30,
-    "last_close": 116.3,
-    "as_of": "2026-10-21"
+    "last_close": 118.56,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "LYB",
     "name": "LyondellBasell",
-    "vol_30d": 28.48,
+    "vol_30d": 30.09,
     "sessions": 30,
-    "last_close": 63.27,
-    "as_of": "2026-10-21"
+    "last_close": 65.37,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "DOW",
     "name": "Dow Inc.",
-    "vol_30d": 25.08,
+    "vol_30d": 28.34,
     "sessions": 30,
-    "last_close": 30.38,
-    "as_of": "2026-10-21"
+    "last_close": 31.81,
+    "as_of": "2026-10-22"
    }
   ],
   "Real Estate": [
    {
     "symbol": "CCI",
     "name": "Crown Castle",
-    "vol_30d": 52.36,
+    "vol_30d": 52.03,
     "sessions": 30,
-    "last_close": 78.65,
-    "as_of": "2026-10-21"
+    "last_close": 78.83,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CSGP",
     "name": "CoStar Group",
-    "vol_30d": 42.31,
+    "vol_30d": 47.31,
     "sessions": 30,
-    "last_close": 32.9,
-    "as_of": "2026-10-21"
+    "last_close": 35.45,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "ARE",
     "name": "Alexandria Real Estate Equities",
-    "vol_30d": 40.84,
+    "vol_30d": 41.68,
     "sessions": 30,
-    "last_close": 42.26,
-    "as_of": "2026-10-21"
+    "last_close": 43.33,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "SBAC",
     "name": "SBA Communications",
-    "vol_30d": 37.07,
+    "vol_30d": 37.26,
     "sessions": 30,
-    "last_close": 173.41,
-    "as_of": "2026-10-21"
+    "last_close": 178.39,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "AMT",
     "name": "American Tower",
-    "vol_30d": 35.23,
+    "vol_30d": 35.48,
     "sessions": 30,
-    "last_close": 177.64,
-    "as_of": "2026-10-21"
+    "last_close": 181.57,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "CBRE",
     "name": "CBRE Group",
-    "vol_30d": 29.46,
+    "vol_30d": 30.13,
     "sessions": 30,
-    "last_close": 134.65,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "DLR",
-    "name": "Digital Realty",
-    "vol_30d": 28.45,
-    "sessions": 30,
-    "last_close": 176.31,
-    "as_of": "2026-10-21"
+    "last_close": 131.24,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "WY",
     "name": "Weyerhaeuser",
-    "vol_30d": 27.27,
+    "vol_30d": 30.12,
     "sessions": 30,
-    "last_close": 18.98,
-    "as_of": "2026-10-21"
+    "last_close": 19.82,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "DLR",
+    "name": "Digital Realty",
+    "vol_30d": 29.19,
+    "sessions": 30,
+    "last_close": 170.94,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "IRM",
     "name": "Iron Mountain",
-    "vol_30d": 26.9,
+    "vol_30d": 28.23,
     "sessions": 30,
-    "last_close": 114.72,
-    "as_of": "2026-10-21"
+    "last_close": 110.66,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "EQIX",
-    "name": "Equinix",
-    "vol_30d": 25.06,
+    "symbol": "BXP",
+    "name": "BXP, Inc.",
+    "vol_30d": 28.21,
     "sessions": 30,
-    "last_close": 995.0,
-    "as_of": "2026-10-21"
+    "last_close": 61.49,
+    "as_of": "2026-10-22"
    }
   ],
   "Utilities": [
    {
-    "symbol": "CEG",
-    "name": "Constellation Energy",
-    "vol_30d": 57.76,
-    "sessions": 30,
-    "last_close": 270.74,
-    "as_of": "2026-10-21"
-   },
-   {
     "symbol": "VST",
     "name": "Vistra Corp.",
-    "vol_30d": 53.26,
+    "vol_30d": 60.13,
     "sessions": 30,
-    "last_close": 156.14,
-    "as_of": "2026-10-21"
+    "last_close": 140.83,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "CEG",
+    "name": "Constellation Energy",
+    "vol_30d": 59.54,
+    "sessions": 30,
+    "last_close": 255.21,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "NRG",
     "name": "NRG Energy",
-    "vol_30d": 44.4,
+    "vol_30d": 46.03,
     "sessions": 30,
-    "last_close": 99.8,
-    "as_of": "2026-10-21"
+    "last_close": 94.38,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "PCG",
     "name": "PG&E Corporation",
-    "vol_30d": 26.58,
+    "vol_30d": 26.63,
     "sessions": 30,
-    "last_close": 13.15,
-    "as_of": "2026-10-21"
+    "last_close": 12.98,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "EIX",
-    "name": "Edison International",
-    "vol_30d": 21.85,
+    "symbol": "AWK",
+    "name": "American Water Works",
+    "vol_30d": 24.92,
     "sessions": 30,
-    "last_close": 57.19,
-    "as_of": "2026-10-21"
+    "last_close": 143.23,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "PEG",
     "name": "Public Service Enterprise Group",
-    "vol_30d": 21.43,
+    "vol_30d": 22.6,
     "sessions": 30,
-    "last_close": 71.0,
-    "as_of": "2026-10-21"
+    "last_close": 72.72,
+    "as_of": "2026-10-22"
+   },
+   {
+    "symbol": "NEE",
+    "name": "NextEra Energy",
+    "vol_30d": 22.1,
+    "sessions": 30,
+    "last_close": 81.9,
+    "as_of": "2026-10-22"
    },
    {
     "symbol": "ES",
     "name": "Eversource Energy",
-    "vol_30d": 20.01,
+    "vol_30d": 21.86,
     "sessions": 30,
-    "last_close": 65.6,
-    "as_of": "2026-10-21"
+    "last_close": 67.84,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "XEL",
-    "name": "Xcel Energy",
-    "vol_30d": 19.2,
+    "symbol": "EIX",
+    "name": "Edison International",
+    "vol_30d": 21.84,
     "sessions": 30,
-    "last_close": 76.78,
-    "as_of": "2026-10-21"
+    "last_close": 57.9,
+    "as_of": "2026-10-22"
    },
    {
-    "symbol": "NI",
-    "name": "NiSource",
-    "vol_30d": 19.02,
+    "symbol": "EXC",
+    "name": "Exelon",
+    "vol_30d": 21.51,
     "sessions": 30,
-    "last_close": 42.99,
-    "as_of": "2026-10-21"
-   },
-   {
-    "symbol": "SRE",
-    "name": "Sempra",
-    "vol_30d": 18.91,
-    "sessions": 30,
-    "last_close": 83.5,
-    "as_of": "2026-10-21"
+    "last_close": 44.85,
+    "as_of": "2026-10-22"
    }
   ]
  },

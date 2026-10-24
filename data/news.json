@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-23T23:52:21Z",
+ "updated": "2026-10-24T04:33:14Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
+    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 01:37:00 +0000"
+   },
+   {
+    "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches \u2018Financeable\u2019 Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 00:07:10 +0000"
+   },
    {
     "title": "Neoclouds secure record funds as Nvidia\u2019s Huang says more investment required",
     "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 22:18:21 +0000"
-   },
-   {
-    "title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
-    "link": "https://www.fool.com/investing/2026/10/23/prediction-nvidia-will-outperform-broadcom-over-the-next-5-years/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 21:05:01 +0000"
-   },
-   {
-    "title": "Flagstar Financial, Inc. Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-flagstar-financial-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 20:50:09 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Broadcom stock gets massive $600 call even as AI fears grow",
+    "link": "https://www.thestreet.com/investing/broadcom-stock-avgo-600-price-target?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 03:33:00 +0000"
+   },
+   {
     "title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
     "link": "https://www.fool.com/investing/2026/10/23/prediction-nvidia-will-outperform-broadcom-over-the-next-5-years/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 21:05:01 +0000"
@@ -45,14 +50,14 @@
     "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
     "link": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 15:20:00 +0000"
-   },
-   {
-    "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
-    "link": "https://247wallst.com/investing/2026/10/23/same-playbook-different-silicon-broadcom-holds-the-throne-marvell-plays-the-amd-challenger/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 12:45:58 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+    "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 04:20:00 +0000"
+   },
    {
     "title": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
     "link": "https://www.fool.com/investing/2026/10/23/taiwan-semiconductor-posted-record-profit-and-the/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First",
     "link": "https://www.fool.com/investing/2026/10/23/as-the-us-pulls-chip-making-back-home-toolmakers/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:05:00 +0000"
-   },
-   {
-    "title": "This Company Behind the World\u2019s AI Chips Could Be a Huge Winner",
-    "link": "https://247wallst.com/investing/2026/10/23/this-company-behind-the-worlds-ai-chips-could-be-a-huge-winner/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 13:30:26 +0000"
    }
   ],
   "INTC": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron stock gets stunning $3,000 call despite 6% plunge",
+    "link": "https://www.thestreet.com/investing/micron-stock-gets-stunning-3000-call-despite-6-percent-plunge?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 02:17:00 +0000"
+   },
+   {
     "title": "What Could Micron Technology (MU) Strike Risk And Supply Moves Mean For Investors?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/could-micron-technology-mu-strike-211406491.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 21:14:06 +0000"
@@ -96,11 +101,6 @@
     "title": "Micron Stock Leads Chip Rebound. Dip Buyers Buckle Up.",
     "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-chip.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:38:00 +0000"
-   },
-   {
-    "title": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-gain-sk-hynix-161309792.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 16:13:09 +0000"
    }
   ],
   "SNDK": [
@@ -127,17 +127,22 @@
     "pubDate": "Fri, 23 Oct 2026 13:42:24 +0000"
    },
    {
+    "title": "Western Digital Stock Has Fallen 53% Since June. I'd Consider a Small Position After Its Latest Report.",
+    "link": "https://www.fool.com/investing/2026/10/23/western-digital-stock-has-fallen-53-since-june-i-d-consider-a-small-position-after-its-latest-report/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 01:27:02 +0000"
+   },
+   {
     "title": "Western Digital Earnings Fail to Get Stock Back on Track",
     "link": "https://finance.yahoo.com/m/790a87f5-6b9f-37fa-95fb-0eefdd22614a/western-digital-earnings-fail.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 18:05:00 +0000"
-   },
-   {
-    "title": "Western Digital Stock Pullback Despite Fiscal Q1 Beat Reflects AI Capex Concerns, Wedbush Says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-pullback-despite-162146165.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 16:21:46 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Ahead of Seagate Earnings, Here's What Barchart Data Says Comes Next for STX Stock",
+    "link": "https://www.barchart.com/story/news/8381716/ahead-of-seagate-earnings-here-s-what-barchart-data-says-comes-next-for-stx-stock?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 20:12:20 +0000"
+   },
    {
     "title": "Seagate (STX) Stock May Be Undervalued On Fresh HAMR Demand Optimism",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-may-undervalued-190956070.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Should You Buy, Hold, or Sell Seagate Stock Ahead of Q1 Earnings?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-seagate-stock-180500881.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 18:05:00 +0000"
-   },
-   {
-    "title": "Seagate Technology Holdings plc (STX) Stands to Benefit From Rising AI Data Storage Demand",
-    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-holdings-plc-stx-151728170.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 15:17:28 +0000"
    }
   ],
   "SOXX": [

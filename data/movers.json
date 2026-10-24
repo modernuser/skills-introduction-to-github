@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-23T04:46:07Z",
- "coverage": 501,
+ "updated": "2026-10-24T04:33:19Z",
+ "coverage": 500,
  "gainers": [
   {
-   "symbol": "SKYD",
-   "name": "Skydance Corporation",
-   "sector": "Communication Services",
-   "close": 7.87,
-   "pct": 10.85
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 35.57,
-   "pct": 9.55
-  },
-  {
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "sector": "Health Care",
-   "close": 344.87,
-   "pct": 9.33
-  },
-  {
-   "symbol": "ECHO",
-   "name": "EchoStar",
-   "sector": "Communication Services",
-   "close": 92.64,
-   "pct": 7.23
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
+   "symbol": "ALLE",
+   "name": "Allegion",
    "sector": "Industrials",
-   "close": 238.53,
-   "pct": 7.13
+   "close": 176.52,
+   "pct": 11.02
   },
   {
-   "symbol": "DDOG",
-   "name": "Datadog",
+   "symbol": "ROP",
+   "name": "Roper Technologies",
    "sector": "Information Technology",
-   "close": 273.09,
-   "pct": 6.5
+   "close": 436.23,
+   "pct": 9.73
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 361.34,
-   "pct": 5.67
-  },
-  {
-   "symbol": "ILMN",
-   "name": "Illumina, Inc.",
-   "sector": "Health Care",
-   "close": 282.86,
-   "pct": 5.57
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 485.88,
-   "pct": 5.27
-  },
-  {
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "close": 239.34,
-   "pct": 5.26
-  }
- ],
- "losers": [
-  {
-   "symbol": "T",
-   "name": "AT&T",
-   "sector": "Communication Services",
-   "close": 21.91,
-   "pct": -6.45
-  },
-  {
-   "symbol": "DXCM",
-   "name": "Dexcom",
-   "sector": "Health Care",
-   "close": 80.26,
-   "pct": -6.39
-  },
-  {
-   "symbol": "NFLX",
-   "name": "Netflix",
-   "sector": "Communication Services",
-   "close": 65.04,
-   "pct": -5.31
-  },
-  {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
+   "symbol": "LEN",
+   "name": "Lennar",
    "sector": "Consumer Discretionary",
-   "close": 28.12,
-   "pct": -5.16
+   "close": 84.45,
+   "pct": 8.69
   },
   {
-   "symbol": "EXPE",
-   "name": "Expedia Group",
-   "sector": "Consumer Discretionary",
-   "close": 285.64,
-   "pct": -5.03
+   "symbol": "BX",
+   "name": "Blackstone Inc.",
+   "sector": "Financials",
+   "close": 118.75,
+   "pct": 8.38
   },
   {
-   "symbol": "SBAC",
-   "name": "SBA Communications",
-   "sector": "Real Estate",
-   "close": 173.41,
-   "pct": -4.18
-  },
-  {
-   "symbol": "DASH",
-   "name": "DoorDash",
-   "sector": "Consumer Discretionary",
-   "close": 184.45,
-   "pct": -3.77
+   "symbol": "GIS",
+   "name": "General Mills",
+   "sector": "Consumer Staples",
+   "close": 35.18,
+   "pct": 8.01
   },
   {
    "symbol": "LULU",
    "name": "Lululemon Athletica",
    "sector": "Consumer Discretionary",
-   "close": 96.53,
-   "pct": -3.41
+   "close": 104.06,
+   "pct": 7.8
   },
   {
-   "symbol": "BKNG",
-   "name": "Booking Holdings",
-   "sector": "Consumer Discretionary",
-   "close": 158.38,
-   "pct": -3.38
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "close": 33.76,
+   "pct": 7.79
   },
   {
-   "symbol": "HUBB",
-   "name": "Hubbell Incorporated",
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 35.45,
+   "pct": 7.75
+  },
+  {
+   "symbol": "ACN",
+   "name": "Accenture",
+   "sector": "Information Technology",
+   "close": 258.74,
+   "pct": 7.69
+  },
+  {
+   "symbol": "NDAQ",
+   "name": "Nasdaq, Inc.",
+   "sector": "Financials",
+   "close": 103.3,
+   "pct": 7.47
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 202.63,
+   "pct": -17.57
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 207.82,
+   "pct": -12.51
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 230.15,
+   "pct": -11.76
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 752.54,
+   "pct": -11.54
+  },
+  {
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
+   "sector": "Information Technology",
+   "close": 76.69,
+   "pct": -11.08
+  },
+  {
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 322.64,
+   "pct": -10.71
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
    "sector": "Industrials",
-   "close": 445.8,
-   "pct": -3.25
+   "close": 827.42,
+   "pct": -10.64
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 308.75,
+   "pct": -10.63
+  },
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 140.83,
+   "pct": -9.81
+  },
+  {
+   "symbol": "KLAC",
+   "name": "KLA Corporation",
+   "sector": "Information Technology",
+   "close": 147.83,
+   "pct": -9.55
   }
  ]
 }

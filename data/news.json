@@ -1,24 +1,29 @@
 {
- "updated": "2026-10-24T04:33:14Z",
+ "updated": "2026-10-24T17:28:30Z",
  "news": {
   "NVDA": [
    {
-    "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
-    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
-    "pubDate": "Sat, 24 Oct 2026 01:37:00 +0000"
+    "title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+    "link": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 17:15:07 +0000"
    },
    {
-    "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches \u2018Financeable\u2019 Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
-    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
-    "pubDate": "Sat, 24 Oct 2026 00:07:10 +0000"
+    "title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
+    "link": "https://www.fool.com/investing/2026/10/24/can-amazon-take-market-share-from-nvidia-in-the-ai/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 15:35:00 +0000"
    },
    {
-    "title": "Neoclouds secure record funds as Nvidia\u2019s Huang says more investment required",
-    "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 22:18:21 +0000"
+    "title": "Vanguard Morningstar Growth ETF vs. Vanguard Information Technology ETF: Here's Which One I Believe Is the Clear Long-Term Winner.",
+    "link": "https://www.fool.com/investing/2026/10/24/vug-vgt-clear-long-term-winner/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 14:31:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Here's Why AMD Investors Should Consider Selling Before Nov. 3",
+    "link": "https://www.fool.com/investing/2026/10/24/heres-why-amd-investors-should-consider-selling-be/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 11:33:00 +0000"
+   },
    {
     "title": "AMD Stock Fell 8% in a Day as Lam Research\u2019s Supply Warning Sank Chip Stocks. Here\u2019s Where the Stock Could Go by 2030",
     "link": "https://www.tikr.com/blog/amd-stock-fell-8-in-a-day-as-lam-researchs-supply-warning-sank-chip-stocks-heres-where-the-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "TER vs. AMD: Which AI Component Supplier Stock Is the Better Buy?",
     "link": "https://finance.yahoo.com/technology/ai/articles/ter-vs-amd-ai-component-164400420.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:44:00 +0000"
-   },
-   {
-    "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
-    "link": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 15:20:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "2 Unloved Stocks of 2026 to Consider Buying Now",
+    "link": "https://www.fool.com/investing/2026/10/24/2-unloved-stocks-of-2026-to-consider-buying-now/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 09:43:02 +0000"
+   },
    {
     "title": "Broadcom stock gets massive $600 call even as AI fears grow",
     "link": "https://www.thestreet.com/investing/broadcom-stock-avgo-600-price-target?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
     "link": "https://www.fool.com/investing/2026/10/23/prediction-nvidia-will-outperform-broadcom-over-the-next-5-years/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 21:05:01 +0000"
-   },
-   {
-    "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
-    "link": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 15:20:00 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "What Investors Overlooked Before Intel's 127% Run",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-intels-127-run-141028501.html?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 14:10:28 +0000"
+   },
+   {
     "title": "Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One?",
     "link": "https://www.fool.com/investing/2026/10/23/intel-stock-has-moved-an-average-of-16-the-day-after-its-last-3-reports-should-you-buy-before-the-next-one/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 19:37:02 +0000"
@@ -79,53 +84,43 @@
     "title": "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
     "link": "https://finance.yahoo.com/m/e8a0b30e-6f53-3a89-a891-1356e134add8/hyperscalers-microsoft%2C.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 15:11:46 +0000"
-   },
-   {
-    "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
-    "link": "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 14:50:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Micron stock gets stunning $3,000 call despite 6% plunge",
-    "link": "https://www.thestreet.com/investing/micron-stock-gets-stunning-3000-call-despite-6-percent-plunge?.tsrc=rss",
-    "pubDate": "Sat, 24 Oct 2026 02:17:00 +0000"
+    "title": "Micron Says AI Cut Its Data Center SSD Development Time by 60%. Here\u2019s Where the Stock Could Go by 2031",
+    "link": "https://www.tikr.com/blog/micron-says-ai-cut-its-data-center-ssd-development-time-by-60-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 15:16:40 +0000"
    },
    {
-    "title": "What Could Micron Technology (MU) Strike Risk And Supply Moves Mean For Investors?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/could-micron-technology-mu-strike-211406491.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 21:14:06 +0000"
+    "title": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years",
+    "link": "https://www.fool.com/investing/2026/10/24/micron-vs-sandisk-which-is-the-better-ai-memory-st/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 13:22:00 +0000"
    },
    {
-    "title": "Micron Stock Leads Chip Rebound. Dip Buyers Buckle Up.",
-    "link": "https://finance.yahoo.com/m/0790a5a8-c06b-38d0-8217-8a90361ebbb5/micron-stock-leads-chip.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 16:38:00 +0000"
+    "title": "Micron and Sandisk Hit Record Memory Margins. There's One Clear Winner.",
+    "link": "https://www.fool.com/investing/2026/10/24/micron-sandisk-record-memory-margins-winner/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 08:35:00 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Sandisk's New Business Model Is Transforming the Business. Now Is the Time to Buy the Stock.",
+    "link": "https://www.fool.com/investing/2026/10/24/sandisks-new-business-model-is-transforming-the/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 15:05:00 +0000"
+   },
+   {
+    "title": "Micron and Sandisk Hit Record Memory Margins. There's One Clear Winner.",
+    "link": "https://www.fool.com/investing/2026/10/24/micron-sandisk-record-memory-margins-winner/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 08:35:00 +0000"
+   },
+   {
     "title": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
     "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-gain-sk-hynix-161309792.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 16:13:09 +0000"
-   },
-   {
-    "title": "The AI Rout: Sorting CAPEX Fact From Fiction",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-rout-sorting-capex-fact-161000404.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 16:10:00 +0000"
-   },
-   {
-    "title": "SanDisk Falters for 3 Months But One Top-Tier Institutional Desk Is Sure It\u2019s Going to Nearly Triple",
-    "link": "https://247wallst.com/investing/2026/10/23/sandisk-falters-for-3-months-but-one-top-tier-institutional-desk-is-sure-its-going-to-nearly-triple/?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 14:45:59 +0000"
    }
   ],
   "WDC": [
-   {
-    "title": "Stocks extend declines, 10-year Treasury holds below 5%: AlphaCheck",
-    "link": "https://finance.yahoo.com/markets/article/tech-extends-decline-10-year-treasury-holds-below-5-alphacheck-134224473.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 13:42:24 +0000"
-   },
    {
     "title": "Western Digital Stock Has Fallen 53% Since June. I'd Consider a Small Position After Its Latest Report.",
     "link": "https://www.fool.com/investing/2026/10/23/western-digital-stock-has-fallen-53-since-june-i-d-consider-a-small-position-after-its-latest-report/?.tsrc=rss",
@@ -135,23 +130,28 @@
     "title": "Western Digital Earnings Fail to Get Stock Back on Track",
     "link": "https://finance.yahoo.com/m/790a87f5-6b9f-37fa-95fb-0eefdd22614a/western-digital-earnings-fail.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 18:05:00 +0000"
+   },
+   {
+    "title": "Western Digital Stock Pullback Despite Fiscal Q1 Beat Reflects AI Capex Concerns, Wedbush Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-pullback-despite-162146165.html?.tsrc=rss",
+    "pubDate": "Fri, 23 Oct 2026 16:21:46 +0000"
    }
   ],
   "STX": [
    {
+    "title": "Seagate\u2019s Q1 Earnings Dilemma on Oct. 27: Blockbuster AI Data Demand Confronts Rising Oversupply Fears",
+    "link": "https://247wallst.com/investing/2026/10/24/seagates-q1-earnings-dilemma-on-oct-27-blockbuster-ai-data-demand-confronts-rising-oversupply-fears/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 13:29:23 +0000"
+   },
+   {
+    "title": "The Next AI Infrastructure Winner Isn't a Memory Stock. It's This.",
+    "link": "https://www.fool.com/investing/2026/10/24/the-next-ai-infrastructure-winner-isnt-a-memory-st/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 07:50:00 +0000"
+   },
+   {
     "title": "Ahead of Seagate Earnings, Here's What Barchart Data Says Comes Next for STX Stock",
     "link": "https://www.barchart.com/story/news/8381716/ahead-of-seagate-earnings-here-s-what-barchart-data-says-comes-next-for-stx-stock?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 20:12:20 +0000"
-   },
-   {
-    "title": "Seagate (STX) Stock May Be Undervalued On Fresh HAMR Demand Optimism",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-may-undervalued-190956070.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 19:09:56 +0000"
-   },
-   {
-    "title": "Should You Buy, Hold, or Sell Seagate Stock Ahead of Q1 Earnings?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-seagate-stock-180500881.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 18:05:00 +0000"
    }
   ],
   "SOXX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "The Nasdaq-100 Had Its Worst Week in 18 Months. History Says the Following Year Has Usually Been Strong.",
+    "link": "https://www.fool.com/investing/2026/10/24/the-nasdaq-100-had-its-worst-week-in-18-months-history-says-the-following-year-has-usually-been-strong/?.tsrc=rss",
+    "pubDate": "Sat, 24 Oct 2026 15:27:02 +0000"
+   },
+   {
     "title": "Schwab's Dividend ETF Just Closed at a Record Without Owning a Single \"Magnificent Seven\" Stock",
     "link": "https://www.fool.com/investing/2026/10/23/schwab-s-dividend-etf-just-closed-at-a-record-without-owning-a-single-magnificent-seven-stock/?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 17:44:02 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds Lower, US Equities Mixed After Midday",
     "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-us-171437504.html?.tsrc=rss",
     "pubDate": "Fri, 23 Oct 2026 17:14:37 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid AI Spending Concerns",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131317616.html?.tsrc=rss",
-    "pubDate": "Fri, 23 Oct 2026 13:13:17 +0000"
    }
   ],
   "SPY": [

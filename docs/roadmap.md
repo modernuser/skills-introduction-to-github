@@ -70,6 +70,12 @@ markers per docs/model-routing.md.
   set ANTHROPIC_API_KEY + DAILY_AI_MAINTENANCE_ENABLED=true (costs money).
 
 ## Completed
+- 2026-10-25 personal pages: dice.html (Monopoly GO reward-link tracker:
+  paste text, keeps only mply.io links, claim-once state, live search
+  shortcuts, export/import) and calendar.html (Google Calendar embed that
+  reloads every 5 min, plus a booking button). Both keep settings in
+  localStorage, so the owner's address is never committed. Logic is in
+  personal-apps.js and tested under node.
 - 2026-08-07 elder-fraud prevention impact estimator: Monte Carlo
   counterfactual model with a national-consistency filter tied to published
   FTC totals, a provenance gate that blocks unpublishable claims, and three

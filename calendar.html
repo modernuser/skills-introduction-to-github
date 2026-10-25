@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendar — Wolf of Fairhope Avenue</title>
+  <meta name="description" content="Live view of a Google Calendar plus a booking link, set up in your own browser." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%85%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .app-header { padding: 3.5rem 1.5rem 1rem; text-align: center; }
+    .app-header h1 { font-family: var(--font-display); font-size: clamp(1.8rem, 4.5vw, 3rem); color: var(--color-accent); }
+    .app-meta { color: var(--color-muted); font-size: .9rem; margin-top: .5rem; }
+    .back-link { display: inline-block; margin: .75rem .5rem 0; color: var(--color-accent); text-decoration: none; font-size: .9rem; }
+    .back-link:hover { text-decoration: underline; }
+    .panel { max-width: var(--max-w); margin: 1rem auto; padding: 1rem 1.2rem; background: var(--color-surface);
+      border: 1px solid rgba(200,169,110,.15); border-radius: var(--radius); }
+    .panel h2 { font-family: var(--font-display); color: var(--color-accent); font-size: 1.2rem; margin-bottom: .6rem; }
+    .panel p.note { color: var(--color-muted); font-size: .85rem; line-height: 1.55; margin-top: .5rem; }
+    .row { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .6rem; align-items: center; }
+    .row .btn { margin: 0; }
+    button.btn { cursor: pointer; font: inherit; background: none; }
+    .mini { background: none; border: 1px solid rgba(200,169,110,.35); color: var(--color-accent); border-radius: 6px;
+      padding: .3rem .7rem; font: inherit; font-size: .82rem; cursor: pointer; }
+    .field { display: grid; gap: .25rem; margin-top: .6rem; }
+    .field label { color: var(--color-muted); font-size: .85rem; }
+    .field input, .field select { background: var(--color-bg); color: var(--color-text); border: 1px solid rgba(200,169,110,.3);
+      border-radius: 6px; padding: .45rem .6rem; font: inherit; font-size: .9rem; width: 100%; }
+    .cal-frame { width: 100%; height: 70vh; min-height: 480px; border: 0; border-radius: var(--radius); background: #fff; }
+    .empty { color: var(--color-muted); font-size: .9rem; padding: 1.5rem 0; text-align: center; }
+    .status { color: var(--color-accent); font-size: .85rem; min-height: 1.2em; }
+    @media (max-width: 600px) { .panel { margin: 1rem; } .cal-frame { height: 60vh; } }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#cal-h">Skip to calendar</a>
+
+  <header class="app-header">
+    <h1>Calendar</h1>
+    <p class="app-meta" id="meta">Not set up yet</p>
+    <div>
+      <a class="back-link" href="index.html">← Home</a>
+      <a class="back-link" href="dice.html">Dice Links →</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="panel" aria-labelledby="cal-h">
+      <h2 id="cal-h">Live calendar</h2>
+      <div class="row">
+        <a class="btn" id="book-btn" target="_blank" rel="noopener noreferrer" hidden>Book a time</a>
+        <button class="mini" id="refresh-btn" type="button">Refresh now</button>
+      </div>
+      <div id="cal-wrap"><p class="empty">Add your calendar ID under Setup below.</p></div>
+    </section>
+
+    <section class="panel" aria-labelledby="setup-h">
+      <h2 id="setup-h">Setup</h2>
+      <form id="setup">
+        <div class="field">
+          <label for="cal-id">Google Calendar ID (for your main calendar, that's your Gmail address)</label>
+          <input id="cal-id" type="text" autocomplete="off" spellcheck="false" placeholder="you@gmail.com" />
+        </div>
+        <div class="field">
+          <label for="book-url">Booking page URL (Calendly or a Google appointment schedule), optional</label>
+          <input id="book-url" type="url" autocomplete="off" spellcheck="false" placeholder="https://calendly.com/…" />
+        </div>
+        <div class="field">
+          <label for="view">View</label>
+          <select id="view"><option value="week">Week</option><option value="month">Month</option><option value="agenda">Agenda</option></select>
+        </div>
+        <div class="field">
+          <label for="tz">Time zone</label>
+          <input id="tz" type="text" autocomplete="off" spellcheck="false" />
+        </div>
+        <div class="row">
+          <button class="btn" type="submit">Save</button>
+          <button class="mini" id="forget-btn" type="button">Forget settings</button>
+          <span class="status" id="status" role="status" aria-live="polite"></span>
+        </div>
+      </form>
+      <p class="note">Settings are saved only in this browser (localStorage), never in the public repo,
+        so your address isn't published. Google decides what the embed shows. If you're signed in to
+        Google in this browser with access to the calendar, you see your events. Anyone else sees
+        only what you've made public (or an error if nothing is public). Events update as Google
+        updates the embed, and this page reloads it every 5 minutes.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container"><p>&copy; 2026 Wolf of Fairhope Avenue. Built on GitHub.</p></div>
+  </footer>
+
+  <script src="personal-apps.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    var PA = window.PersonalApps;
+    var KEY = "wofa.calendar.v1";
+    var REFRESH_MS = 5 * 60 * 1000;
+    var browserTz = (Intl.DateTimeFormat().resolvedOptions().timeZone) || "UTC";
+    var cfg = { calendarId: "", bookingUrl: "", view: "week", tz: browserTz };
+    var timer = null;
+
+    function load() {
+      try {
+        var s = JSON.parse(localStorage.getItem(KEY) || "null");
+        if (s && typeof s === "object") {
+          ["calendarId", "bookingUrl", "view", "tz"].forEach(function (k) { if (typeof s[k] === "string" && s[k]) cfg[k] = s[k]; });
+        }
+      } catch (e) { /* storage blocked: page still works for this visit */ }
+    }
+    function save() {
+      try { localStorage.setItem(KEY, JSON.stringify(cfg)); return true; } catch (e) { return false; }
+    }
+    function say(msg) { document.getElementById("status").textContent = msg; }
+
+    function renderCalendar() {
+      var wrap = document.getElementById("cal-wrap");
+      var src = PA.buildCalendarEmbedUrl(cfg.calendarId, cfg.tz, cfg.view);
+      if (!src) {
+        wrap.textContent = "";
+        var p = document.createElement("p"); p.className = "empty";
+        p.textContent = "Add your calendar ID under Setup below."; wrap.appendChild(p);
+        document.getElementById("meta").textContent = "Not set up yet";
+        return;
+      }
+      var f = wrap.querySelector("iframe");
+      if (!f) {
+        wrap.textContent = "";
+        f = document.createElement("iframe");
+        f.className = "cal-frame"; f.title = "Google Calendar"; f.loading = "lazy";
+        f.referrerPolicy = "no-referrer";
+        wrap.appendChild(f);
+      }
+      f.src = src;
+      document.getElementById("meta").textContent =
+        "Updated " + new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", timeZoneName: "short" }) + " · " + cfg.tz;
+    }
+
+    function renderBooking() {
+      var b = document.getElementById("book-btn");
+      var url = PA.safeHttpsUrl(cfg.bookingUrl);
+      if (url) { b.href = url; b.hidden = false; } else { b.removeAttribute("href"); b.hidden = true; }
+    }
+
+    function fillForm() {
+      document.getElementById("cal-id").value = cfg.calendarId;
+      document.getElementById("book-url").value = cfg.bookingUrl;
+      document.getElementById("view").value = cfg.view;
+      document.getElementById("tz").value = cfg.tz;
+    }
+
+    function validTz(tz) {
+      try { Intl.DateTimeFormat(undefined, { timeZone: tz }); return true; } catch (e) { return false; }
+    }
+
+    function start() {
+      renderCalendar(); renderBooking();
+      if (timer) clearInterval(timer);
+      timer = setInterval(function () { if (!document.hidden) renderCalendar(); }, REFRESH_MS);
+    }
+
+    document.getElementById("setup").addEventListener("submit", function (e) {
+      e.preventDefault();
+      var id = document.getElementById("cal-id").value.trim();
+      var book = document.getElementById("book-url").value.trim();
+      var tz = document.getElementById("tz").value.trim() || browserTz;
+      if (id && !PA.buildCalendarEmbedUrl(id, tz, "week")) { say("A calendar ID can't contain spaces."); return; }
+      if (book && !PA.safeHttpsUrl(book)) { say("The booking URL has to start with https://"); return; }
+      if (!validTz(tz)) { say("Unknown time zone. Use a name like America/Chicago."); return; }
+      cfg = { calendarId: id, bookingUrl: book, view: document.getElementById("view").value, tz: tz };
+      say(save() ? "Saved." : "Showing it now, but this browser won't let it be saved.");
+      start();
+    });
+    document.getElementById("forget-btn").addEventListener("click", function () {
+      try { localStorage.removeItem(KEY); } catch (e) { /* nothing stored */ }
+      cfg = { calendarId: "", bookingUrl: "", view: "week", tz: browserTz };
+      fillForm(); start(); say("Settings removed from this browser.");
+    });
+    document.getElementById("refresh-btn").addEventListener("click", renderCalendar);
+
+    load(); fillForm(); start();
+  })();
+  </script>
+</body>
+</html>

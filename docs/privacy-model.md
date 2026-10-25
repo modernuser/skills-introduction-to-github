@@ -25,9 +25,20 @@ Pages are static; the only outbound requests the pages make:
 - Clicking a news/source link goes to that publisher (Yahoo Finance,
   Stooq, etc.) — normal link navigation, nothing prefetched
 
-**There are none of:** cookies, localStorage, analytics, tracking pixels,
-session recording, ads, third-party scripts, fonts CDNs. The pages load
-zero external JS.
+**There are none of:** cookies, analytics, tracking pixels, session
+recording, ads, third-party scripts, fonts CDNs. The pages load zero
+external JS.
+
+Exceptions, both owner-facing personal pages:
+- `dice.html` and `calendar.html` use **localStorage** to keep the
+  dice-link list and the calendar settings in the visitor's own browser.
+  Nothing from it gets sent anywhere or committed.
+- `calendar.html` loads a **Google Calendar iframe**
+  (`calendar.google.com`), but only after the visitor enters a calendar
+  ID. Google then sees that request like any embed. The calendar ID is
+  entered at runtime on purpose: committing it would publish the owner's
+  address on this public site, and `tests/python/test_personal_pages.py`
+  fails if an address is committed in either page.
 
 ## What the pipeline sends outward
 

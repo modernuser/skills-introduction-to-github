@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dice Links — Wolf of Fairhope Avenue</title>
+  <meta name="description" content="Personal tracker for Monopoly GO reward links: paste, claim once, find more from live searches." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8E%B2%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .app-header { padding: 3.5rem 1.5rem 1rem; text-align: center; }
+    .app-header h1 { font-family: var(--font-display); font-size: clamp(1.8rem, 4.5vw, 3rem); color: var(--color-accent); }
+    .app-meta { color: var(--color-muted); font-size: .9rem; margin-top: .5rem; }
+    .back-link { display: inline-block; margin: .75rem .5rem 0; color: var(--color-accent); text-decoration: none; font-size: .9rem; }
+    .back-link:hover { text-decoration: underline; }
+    .panel { max-width: var(--max-w); margin: 1rem auto; padding: 1rem 1.2rem; background: var(--color-surface);
+      border: 1px solid rgba(200,169,110,.15); border-radius: var(--radius); }
+    .panel h2 { font-family: var(--font-display); color: var(--color-accent); font-size: 1.2rem; margin-bottom: .6rem; }
+    .panel p.note { color: var(--color-muted); font-size: .85rem; line-height: 1.55; margin-top: .5rem; }
+    textarea { width: 100%; min-height: 90px; background: var(--color-bg); color: var(--color-text);
+      border: 1px solid rgba(200,169,110,.3); border-radius: var(--radius); padding: .6rem; font: inherit; font-size: .9rem; }
+    .row { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .6rem; align-items: center; }
+    .row .btn { margin: 0; }
+    button.btn { cursor: pointer; font: inherit; background: none; }
+    .mini { background: none; border: 1px solid rgba(200,169,110,.35); color: var(--color-accent); border-radius: 6px;
+      padding: .3rem .7rem; font: inherit; font-size: .82rem; cursor: pointer; }
+    .mini:hover { background: rgba(200,169,110,.1); }
+    ul.links { list-style: none; }
+    ul.links li { display: flex; gap: .6rem; align-items: center; justify-content: space-between; flex-wrap: wrap;
+      padding: .55rem 0; border-bottom: 1px solid rgba(200,169,110,.1); }
+    .link-url { color: var(--color-text); word-break: break-all; font-size: .9rem; }
+    .link-age { color: var(--color-muted); font-size: .78rem; display: block; }
+    .empty { color: var(--color-muted); font-size: .88rem; padding: .4rem 0; }
+    .status { color: var(--color-accent); font-size: .85rem; min-height: 1.2em; }
+    details summary { cursor: pointer; color: var(--color-muted); font-size: .9rem; margin-top: .4rem; }
+    label.inline { color: var(--color-muted); font-size: .85rem; }
+    input[type=number] { width: 4rem; background: var(--color-bg); color: var(--color-text);
+      border: 1px solid rgba(200,169,110,.3); border-radius: 6px; padding: .2rem .4rem; font: inherit; }
+    @media (max-width: 600px) { .panel { margin: 1rem; } }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#open-list">Skip to links</a>
+
+  <header class="app-header">
+    <h1>Dice Links</h1>
+    <p class="app-meta" id="meta">Loading…</p>
+    <div>
+      <a class="back-link" href="index.html">← Home</a>
+      <a class="back-link" href="calendar.html">Calendar →</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="panel" aria-labelledby="find-h">
+      <h2 id="find-h">Out of dice? Find new links</h2>
+      <div class="row">
+        <a class="btn" target="_blank" rel="noopener noreferrer"
+           href="https://www.google.com/search?q=%22mply.io%22+%22monopoly+go%22&amp;tbs=qdr:d">Google · past 24h</a>
+        <a class="btn" target="_blank" rel="noopener noreferrer"
+           href="https://x.com/search?q=mply.io%20monopoly%20go&amp;f=live">X · latest</a>
+        <a class="btn" target="_blank" rel="noopener noreferrer"
+           href="https://www.facebook.com/search/posts/?q=monopoly%20go%20free%20dice">Facebook posts</a>
+      </div>
+      <p class="note">Copy a post or a page of links and paste it below. Only <strong>mply.io</strong> links
+        are kept (that's the short domain Monopoly GO reward links use). Look-alike domains and
+        aggregator redirects get dropped. Each link can be claimed once per account.</p>
+    </section>
+
+    <section class="panel" aria-labelledby="add-h">
+      <h2 id="add-h">Add links</h2>
+      <label for="paste" class="inline">Paste text containing links</label>
+      <textarea id="paste" placeholder="Paste posts, pages, or links here…"></textarea>
+      <div class="row">
+        <button class="btn" id="add-btn" type="button">Add links</button>
+        <button class="mini" id="clip-btn" type="button">Paste from clipboard</button>
+        <span class="status" id="status" role="status" aria-live="polite"></span>
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="open-h">
+      <h2 id="open-h">Unclaimed</h2>
+      <ul class="links" id="open-list"></ul>
+      <details>
+        <summary id="old-summary">Older than cutoff</summary>
+        <ul class="links" id="old-list"></ul>
+      </details>
+      <details>
+        <summary id="claimed-summary">Claimed</summary>
+        <ul class="links" id="claimed-list"></ul>
+      </details>
+    </section>
+
+    <section class="panel" aria-labelledby="set-h">
+      <h2 id="set-h">Settings &amp; backup</h2>
+      <div class="row">
+        <label class="inline" for="cutoff">Move unclaimed links to "older" after</label>
+        <input type="number" id="cutoff" min="1" max="30" value="3" />
+        <span class="inline">days</span>
+      </div>
+      <div class="row">
+        <button class="mini" id="export-btn" type="button">Export backup</button>
+        <label class="mini" for="import-file">Import backup</label>
+        <input type="file" id="import-file" accept="application/json" hidden />
+        <button class="mini" id="clear-btn" type="button">Clear claimed</button>
+      </div>
+      <p class="note">Everything stays in this browser only (localStorage). Nothing gets sent anywhere or
+        committed to the repo. Use Export to move your list to another device. The cutoff is
+        your own setting: links don't publish an expiry date, so a link older than the cutoff
+        might still work.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container"><p>&copy; 2026 Wolf of Fairhope Avenue. Not affiliated with Scopely or Hasbro.</p></div>
+  </footer>
+
+  <script src="personal-apps.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    var PA = window.PersonalApps;
+    var KEY = "wofa.dice.v1";
+    var state = { links: [], hideAfterDays: 3 };
+
+    function load() {
+      try {
+        var s = JSON.parse(localStorage.getItem(KEY) || "null");
+        if (s && Array.isArray(s.links)) state = { links: s.links, hideAfterDays: s.hideAfterDays || 3 };
+      } catch (e) { /* private mode or corrupt value: start empty */ }
+    }
+    function save() {
+      try { localStorage.setItem(KEY, JSON.stringify(state)); }
+      catch (e) { say("Couldn't save. This browser is blocking storage."); }
+    }
+    function say(msg) { document.getElementById("status").textContent = msg; }
+
+    function age(iso) {
+      var h = Math.floor((Date.now() - Date.parse(iso)) / 36e5);
+      return h < 1 ? "added just now" : h < 48 ? "added " + h + "h ago" : "added " + Math.floor(h / 24) + "d ago";
+    }
+
+    function item(l) {
+      var li = document.createElement("li");
+      var left = document.createElement("div");
+      var a = document.createElement("a");
+      a.className = "link-url"; a.href = l.url; a.textContent = l.url;
+      a.target = "_blank"; a.rel = "noopener noreferrer";
+      a.addEventListener("click", function () { if (!l.claimed_at) setClaimed(l.url, true); });
+      var sm = document.createElement("span");
+      sm.className = "link-age"; sm.textContent = l.claimed_at ? "claimed " + new Date(l.claimed_at).toLocaleString() : age(l.added_at);
+      left.appendChild(a); left.appendChild(sm);
+      var btn = document.createElement("button");
+      btn.type = "button"; btn.className = "mini";
+      btn.textContent = l.claimed_at ? "Undo" : "Mark claimed";
+      btn.addEventListener("click", function () { setClaimed(l.url, !l.claimed_at); });
+      li.appendChild(left); li.appendChild(btn);
+      return li;
+    }
+
+    function fill(id, list, emptyText) {
+      var ul = document.getElementById(id);
+      ul.textContent = "";
+      if (!list.length) {
+        var li = document.createElement("li"); li.className = "empty"; li.textContent = emptyText; ul.appendChild(li);
+      }
+      list.forEach(function (l) { ul.appendChild(item(l)); });
+    }
+
+    function render() {
+      var p = PA.partitionLinks(state.links, new Date().toISOString(), state.hideAfterDays);
+      fill("open-list", p.open, "No unclaimed links. Use the searches above.");
+      fill("old-list", p.old, "None.");
+      fill("claimed-list", p.claimed, "None yet.");
+      document.getElementById("old-summary").textContent = "Older than " + state.hideAfterDays + " days (" + p.old.length + ")";
+      document.getElementById("claimed-summary").textContent = "Claimed (" + p.claimed.length + ")";
+      document.getElementById("meta").textContent = p.open.length + " unclaimed · " + p.claimed.length + " claimed";
+      document.getElementById("cutoff").value = state.hideAfterDays;
+    }
+
+    function setClaimed(url, on) {
+      state.links.forEach(function (l) { if (l.url === url) l.claimed_at = on ? new Date().toISOString() : null; });
+      save(); render();
+    }
+
+    function addFrom(text) {
+      var urls = PA.extractDiceLinks(text);
+      var r = PA.mergeLinks(state.links, urls, new Date().toISOString());
+      state.links = r.links; save(); render();
+      say(urls.length ? r.added + " new, " + (urls.length - r.added) + " already in your list." : "No mply.io links found in that text.");
+    }
+
+    document.getElementById("add-btn").addEventListener("click", function () {
+      var ta = document.getElementById("paste"); addFrom(ta.value); ta.value = "";
+    });
+    document.getElementById("clip-btn").addEventListener("click", function () {
+      if (!navigator.clipboard || !navigator.clipboard.readText) { say("Clipboard isn't available here. Paste into the box instead."); return; }
+      navigator.clipboard.readText().then(addFrom, function () { say("Clipboard permission denied. Paste into the box instead."); });
+    });
+    document.getElementById("cutoff").addEventListener("change", function (e) {
+      var n = parseInt(e.target.value, 10);
+      if (n >= 1 && n <= 30) { state.hideAfterDays = n; save(); render(); }
+    });
+    document.getElementById("clear-btn").addEventListener("click", function () {
+      if (!confirm("Remove all claimed links from this list?")) return;
+      state.links = state.links.filter(function (l) { return !l.claimed_at; }); save(); render();
+    });
+    document.getElementById("export-btn").addEventListener("click", function () {
+      var blob = new Blob([JSON.stringify(state, null, 2)], { type: "application/json" });
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(blob); a.download = "dice-links-backup.json"; a.click();
+      setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+    });
+    document.getElementById("import-file").addEventListener("change", function (e) {
+      var f = e.target.files[0]; if (!f) return;
+      f.text().then(function (t) {
+        var s = JSON.parse(t);
+        if (!s || !Array.isArray(s.links)) throw new Error("bad file");
+        // Re-validate every URL: an imported file is untrusted input.
+        var urls = s.links.map(function (l) { return l && l.url; }).join(" ");
+        var keep = PA.extractDiceLinks(urls);
+        var byUrl = {}; s.links.forEach(function (l) { if (l && l.url) byUrl[l.url] = l; });
+        var r = PA.mergeLinks(state.links, [], "");
+        keep.forEach(function (u) {
+          if (r.links.some(function (l) { return l.url === u; })) return;
+          var src = byUrl[u] || {};
+          r.links.push({ url: u, added_at: typeof src.added_at === "string" ? src.added_at : new Date().toISOString(),
+                         claimed_at: typeof src.claimed_at === "string" ? src.claimed_at : null });
+        });
+        state.links = PA.mergeLinks(r.links, [], "").links; save(); render();
+        say("Imported " + keep.length + " links.");
+      }).catch(function () { say("That file isn't a dice-links backup."); });
+      e.target.value = "";
+    });
+
+    load(); render();
+  })();
+  </script>
+</body>
+</html>

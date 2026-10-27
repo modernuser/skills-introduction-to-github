@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-24T04:33:19Z",
- "coverage": 500,
+ "updated": "2026-10-27T05:00:28Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "ALLE",
-   "name": "Allegion",
-   "sector": "Industrials",
-   "close": 176.52,
-   "pct": 11.02
-  },
-  {
-   "symbol": "ROP",
-   "name": "Roper Technologies",
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
    "sector": "Information Technology",
-   "close": 436.23,
-   "pct": 9.73
+   "close": 390.46,
+   "pct": 10.01
   },
   {
-   "symbol": "LEN",
-   "name": "Lennar",
-   "sector": "Consumer Discretionary",
-   "close": 84.45,
-   "pct": 8.69
-  },
-  {
-   "symbol": "BX",
-   "name": "Blackstone Inc.",
-   "sector": "Financials",
-   "close": 118.75,
-   "pct": 8.38
-  },
-  {
-   "symbol": "GIS",
-   "name": "General Mills",
-   "sector": "Consumer Staples",
-   "close": 35.18,
-   "pct": 8.01
-  },
-  {
-   "symbol": "LULU",
-   "name": "Lululemon Athletica",
-   "sector": "Consumer Discretionary",
-   "close": 104.06,
-   "pct": 7.8
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "close": 33.76,
-   "pct": 7.79
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
+   "symbol": "CCI",
+   "name": "Crown Castle",
    "sector": "Real Estate",
-   "close": 35.45,
-   "pct": 7.75
-  },
-  {
-   "symbol": "ACN",
-   "name": "Accenture",
-   "sector": "Information Technology",
-   "close": 258.74,
-   "pct": 7.69
-  },
-  {
-   "symbol": "NDAQ",
-   "name": "Nasdaq, Inc.",
-   "sector": "Financials",
-   "close": 103.3,
-   "pct": 7.47
-  }
- ],
- "losers": [
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 202.63,
-   "pct": -17.57
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "close": 207.82,
-   "pct": -12.51
-  },
-  {
-   "symbol": "LRCX",
-   "name": "Lam Research",
-   "sector": "Information Technology",
-   "close": 230.15,
-   "pct": -11.76
+   "close": 85.97,
+   "pct": 9.06
   },
   {
    "symbol": "LITE",
    "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 752.54,
-   "pct": -11.54
+   "close": 818.1,
+   "pct": 8.71
   },
   {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
    "sector": "Information Technology",
-   "close": 76.69,
-   "pct": -11.08
+   "close": 257.57,
+   "pct": 8.25
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 322.64,
-   "pct": -10.71
-  },
-  {
-   "symbol": "GEV",
-   "name": "GE Vernova",
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
    "sector": "Industrials",
-   "close": 827.42,
-   "pct": -10.64
+   "close": 635.2,
+   "pct": 7.68
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
+   "symbol": "SNPS",
+   "name": "Synopsys",
    "sector": "Information Technology",
-   "close": 308.75,
-   "pct": -10.63
+   "close": 454.33,
+   "pct": 7.54
   },
   {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "close": 140.83,
-   "pct": -9.81
+   "symbol": "SLB",
+   "name": "Schlumberger",
+   "sector": "Energy",
+   "close": 53.08,
+   "pct": 7.12
   },
   {
-   "symbol": "KLAC",
-   "name": "KLA Corporation",
+   "symbol": "HAL",
+   "name": "Halliburton",
+   "sector": "Energy",
+   "close": 35.44,
+   "pct": 6.78
+  },
+  {
+   "symbol": "TXN",
+   "name": "Texas Instruments",
    "sector": "Information Technology",
-   "close": 147.83,
-   "pct": -9.55
+   "close": 298.12,
+   "pct": 6.66
+  },
+  {
+   "symbol": "FTNT",
+   "name": "Fortinet",
+   "sector": "Information Technology",
+   "close": 183.33,
+   "pct": 5.98
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
+   "sector": "Information Technology",
+   "close": 708.07,
+   "pct": -13.99
+  },
+  {
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "close": 193.3,
+   "pct": -11.24
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "close": 1160.86,
+   "pct": -9.26
+  },
+  {
+   "symbol": "T",
+   "name": "AT&T",
+   "sector": "Communication Services",
+   "close": 20.93,
+   "pct": -7.96
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit",
+   "sector": "Communication Services",
+   "close": 138.45,
+   "pct": -7.86
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "close": 146.93,
+   "pct": -7.47
+  },
+  {
+   "symbol": "GL",
+   "name": "Globe Life",
+   "sector": "Financials",
+   "close": 156.82,
+   "pct": -6.88
+  },
+  {
+   "symbol": "TSCO",
+   "name": "Tractor Supply",
+   "sector": "Consumer Discretionary",
+   "close": 32.53,
+   "pct": -6.33
+  },
+  {
+   "symbol": "NVR",
+   "name": "NVR, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 5727.77,
+   "pct": -6.27
+  },
+  {
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "sector": "Consumer Staples",
+   "close": 148.53,
+   "pct": -6.06
   }
  ]
 }

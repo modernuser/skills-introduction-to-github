@@ -12,82 +12,82 @@
      "name": "NVIDIA",
      "shares": 4.399395,
      "start_close": 206.64,
-     "last_close": 216.0
+     "last_close": 217.94
     },
     {
      "symbol": "AMD",
      "name": "Advanced Micro Devices",
      "shares": 1.875807,
      "start_close": 484.64,
-     "last_close": 531.28
+     "last_close": 560.26
     },
     {
      "symbol": "AVGO",
      "name": "Broadcom",
      "shares": 2.31775,
      "start_close": 392.23,
-     "last_close": 329.17
+     "last_close": 342.33
     },
     {
      "symbol": "TSM",
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 424.37
+     "last_close": 436.87
     },
     {
      "symbol": "INTC",
      "name": "Intel",
      "shares": 9.99001,
      "start_close": 91.0,
-     "last_close": 90.47
+     "last_close": 93.74
     },
     {
      "symbol": "MU",
      "name": "Micron Technology",
      "shares": 1.09595,
      "start_close": 829.5,
-     "last_close": 903.7
+     "last_close": 928.76
     },
     {
      "symbol": "SNDK",
      "name": "SanDisk",
      "shares": 0.705799,
      "start_close": 1288.03,
-     "last_close": 1255.58
+     "last_close": 1304.84
     },
     {
      "symbol": "WDC",
      "name": "Western Digital",
      "shares": 1.72431,
      "start_close": 527.22,
-     "last_close": 356.13
+     "last_close": 380.88
     },
     {
      "symbol": "STX",
      "name": "Seagate Technology",
      "shares": 1.093893,
      "start_close": 831.06,
-     "last_close": 644.21
+     "last_close": 667.85
     },
     {
      "symbol": "SOXX",
      "name": "iShares Semiconductor ETF",
      "shares": 1.790677,
      "start_close": 507.68,
-     "last_close": 491.83
+     "last_close": 511.06
     },
     {
      "symbol": "SOXL",
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 90.5
+     "last_close": 101.08
     }
    ],
-   "value": 9344.56,
-   "return_pct": -6.55,
-   "alpha_pp": -7.57
+   "value": 9746.22,
+   "return_pct": -2.54,
+   "alpha_pp": -4.12
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -104,21 +104,21 @@
      "name": "Cardinal Health",
      "shares": 3.85862,
      "start_close": 235.6,
-     "last_close": 249.57
+     "last_close": 251.54
     },
     {
      "symbol": "CVX",
      "name": "Chevron Corporation",
      "shares": 4.705927,
      "start_close": 193.18,
-     "last_close": 233.21
+     "last_close": 232.01
     },
     {
      "symbol": "KO",
      "name": "Coca-Cola Company (The)",
      "shares": 10.466163,
      "start_close": 86.86,
-     "last_close": 92.71
+     "last_close": 92.7
     },
     {
      "symbol": "MTD",
@@ -139,7 +139,7 @@
      "name": "Arista Networks",
      "shares": 4.916928,
      "start_close": 184.89,
-     "last_close": 172.37
+     "last_close": 177.24
     },
     {
      "symbol": "SPG",
@@ -153,7 +153,7 @@
      "name": "Equifax",
      "shares": 5.22136,
      "start_close": 174.11,
-     "last_close": 182.36
+     "last_close": 178.56
     },
     {
      "symbol": "RF",
@@ -170,9 +170,9 @@
      "last_close": 333.99
     }
    ],
-   "value": 10089.47,
-   "return_pct": 0.89,
-   "alpha_pp": -0.13
+   "value": 10095.42,
+   "return_pct": 0.95,
+   "alpha_pp": -0.63
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,12 +182,12 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 765.37
+     "last_close": 769.66
     }
    ],
-   "value": 10101.63,
-   "return_pct": 1.02,
-   "alpha_pp": 0.0
+   "value": 10158.25,
+   "return_pct": 1.58,
+   "alpha_pp": -0.0
   },
   "trend": {
    "label": "Trend quality (r2 >= 0.88)",
@@ -214,14 +214,14 @@
      "name": "DaVita",
      "shares": 4.386157,
      "start_close": 227.99,
-     "last_close": 183.64
+     "last_close": 184.03
     },
     {
      "symbol": "CVS",
      "name": "CVS Health",
      "shares": 9.576709,
      "start_close": 104.42,
-     "last_close": 93.47
+     "last_close": 92.53
     },
     {
      "symbol": "STT",
@@ -242,7 +242,7 @@
      "name": "BXP, Inc.",
      "shares": 14.150276,
      "start_close": 70.67,
-     "last_close": 62.1
+     "last_close": 62.26
     },
     {
      "symbol": "MET",
@@ -256,7 +256,7 @@
      "name": "Assurant",
      "shares": 3.554797,
      "start_close": 281.31,
-     "last_close": 284.75
+     "last_close": 287.15
     },
     {
      "symbol": "GL",
@@ -266,9 +266,9 @@
      "last_close": 156.82
     }
    ],
-   "value": 9113.42,
-   "return_pct": -8.87,
-   "alpha_pp": -8.1
+   "value": 9116.92,
+   "return_pct": -8.83,
+   "alpha_pp": -8.61
   }
  },
  "history": [
@@ -1033,7 +1033,14 @@
    "dartboard": 0.89,
    "spy": 1.02,
    "trend": -8.87
+  },
+  {
+   "date": "2026-10-27",
+   "owner": -2.54,
+   "dartboard": 0.95,
+   "spy": 1.58,
+   "trend": -8.83
   }
  ],
- "asof": "2026-10-26"
+ "asof": "2026-10-27"
 }

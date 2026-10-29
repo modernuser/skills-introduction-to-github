@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-29T00:05:35Z",
+ "generated": "2026-10-29T01:02:05Z",
  "market": {
   "session": "closed",
   "label": "Closed",
-  "now_et": "2026-10-28 20:05 EDT",
+  "now_et": "2026-10-28 21:02 EDT",
   "next": "pre-market open",
   "next_at_et": "2026-10-29 04:00 EDT",
-  "minutes_to_next": 474,
+  "minutes_to_next": 417,
   "last_close_et": "2026-10-28 16:00 EDT",
   "max_expected_age_hours": 100
  },
@@ -20,16 +20,16 @@
  "files": {
   "quotes": {
    "present": true,
-   "updated": "2026-10-28T23:39:27Z",
+   "updated": "2026-10-29T01:01:56Z",
    "records": 35,
-   "newest_record_age_days": 1,
-   "sessions_behind_last_close": 0,
+   "newest_record_age_days": 2,
+   "sessions_behind_last_close": 1,
    "status": "ok"
   },
   "news": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-28T23:39:29Z",
+   "updated": "2026-10-29T01:01:58Z",
    "records": 13
   },
   "movers": {
@@ -47,7 +47,7 @@
   "portfolios": {
    "present": true,
    "status": "ok",
-   "updated": "2026-10-28",
+   "updated": "2026-10-27",
    "records": 4
   },
   "extended": {

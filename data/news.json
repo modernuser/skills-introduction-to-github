@@ -1,7 +1,12 @@
 {
- "updated": "2026-10-29T23:37:33Z",
+ "updated": "2026-10-30T01:07:11Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Nvidia's $12.9 billion deal could shape the AI apps you use",
+    "link": "https://www.thestreet.com/investing/nvidias-12-9-billion-deal-could-shape-the-ai-apps-you-use?.tsrc=rss",
+    "pubDate": "Thu, 29 Oct 2026 23:37:00 +0000"
+   },
    {
     "title": "Kymera Therapeutics, Inc. Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kymera-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "Kimco Realty Corporation Q3 2026 Earnings Call Summary",
     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kimco-realty-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 22:49:05 +0000"
-   },
-   {
-    "title": "Laureate Education, Inc. Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-laureate-education-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Thu, 29 Oct 2026 22:48:23 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+    "link": "https://www.fool.com/investing/2026/10/29/semiconductor-sell-off-the-1-ai-chip-stock-id-buy/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 00:13:00 +0000"
+   },
+   {
     "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
     "link": "https://www.fool.com/investing/2026/10/29/prediction-this-will-be-broadcoms-stock-price-by-t/?.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 19:18:00 +0000"
@@ -45,11 +50,6 @@
     "title": "Arista Networks (ANET) vs. CSCO and AVGO: Is AI Data Center Expansion Creating a Long-Term Networking Winner?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-vs-csco-172012012.html?.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 17:20:12 +0000"
-   },
-   {
-    "title": "Prediction: Wall Street\u2019s Next AI Favorite May Not Be Nvidia",
-    "link": "https://247wallst.com/investing/2026/10/29/prediction-wall-streets-next-ai-favorite-may-not-be-nvidia/?.tsrc=rss",
-    "pubDate": "Thu, 29 Oct 2026 17:03:13 +0000"
    }
   ],
   "TSM": [
@@ -76,14 +76,14 @@
     "pubDate": "Thu, 29 Oct 2026 20:44:59 +0000"
    },
    {
+    "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment \u2014  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-dip-on-weak-intel-amazon-earnings-with-bloated-capex-worries-weighing-on-sentiment-amzn-intc-sbux-pltr-asts-in-focus/cZUXcXOR9Ri?.tsrc=rss",
+    "pubDate": "Thu, 29 Oct 2026 23:54:15 +0000"
+   },
+   {
     "title": "What Intel (INTC) Said on Its Q3 Earnings Call",
     "link": "https://www.marketbeat.com/instant-alerts/transcript-what-intel-intc-said-on-its-q3-earnings-call-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 23:14:34 +0000"
-   },
-   {
-    "title": "Amazon cloud business accelerates but shares drop on profit miss",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cloud-business-accelerates-shares-222112520.html?.tsrc=rss",
-    "pubDate": "Thu, 29 Oct 2026 22:21:12 +0000"
    }
   ],
   "MU": [
@@ -93,14 +93,14 @@
     "pubDate": "Thu, 29 Oct 2026 20:26:05 +0000"
    },
    {
+    "title": "Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.",
+    "link": "https://www.fool.com/investing/2026/10/29/micron-is-trading-for-less-than-6x-forward-pe/?.tsrc=rss",
+    "pubDate": "Thu, 29 Oct 2026 23:41:00 +0000"
+   },
+   {
     "title": "Here's Why Micron (MU) Fell More Than Broader Market",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-micron-mu-fell-204503117.html?.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 20:45:03 +0000"
-   },
-   {
-    "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
-    "link": "https://247wallst.com/investing/2026/10/29/sandisk-and-micron-slide-5-as-samsung-miss-cools-memory-rally-ahead-of-sandisk-earnings-sk-hynix-falls-3-western-digital-dips/?.tsrc=rss",
-    "pubDate": "Thu, 29 Oct 2026 19:09:32 +0000"
    }
   ],
   "SNDK": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment \u2014  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-dip-on-weak-intel-amazon-earnings-with-bloated-capex-worries-weighing-on-sentiment-amzn-intc-sbux-pltr-asts-in-focus/cZUXcXOR9Ri?.tsrc=rss",
+    "pubDate": "Thu, 29 Oct 2026 23:54:15 +0000"
+   },
+   {
     "title": "Top Economist Slams Trump\u2019s $21 Trillion Investment Boast \u2014 \u2018The Jobs Are American. The Profits Aren\u2019t\u2019",
     "link": "https://finance.yahoo.com/economy/policy/articles/top-economist-slams-trump-21-203019398.html?.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 20:30:19 +0000"
@@ -215,11 +220,6 @@
     "title": "How Much Does a 67-Year-Old Couple Need Invested to Collect $10,500 a Month for Life?",
     "link": "https://247wallst.com/personal-finance/2026/10/29/how-much-does-a-67-year-old-couple-need-invested-to-collect-10500-a-month-for-life/?.tsrc=rss",
     "pubDate": "Thu, 29 Oct 2026 19:17:27 +0000"
-   },
-   {
-    "title": "AbbVie Stock: What 10 Years of Growth and Dividends Did for $1,000",
-    "link": "https://247wallst.com/investing/2026/10/29/abbvie-stock-what-10-years-of-growth-and-dividends-did-for-1000/?.tsrc=rss",
-    "pubDate": "Thu, 29 Oct 2026 17:18:31 +0000"
    }
   ]
  },

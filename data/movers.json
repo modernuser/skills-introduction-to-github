@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-29T05:44:23Z",
+ "updated": "2026-10-30T05:44:17Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "VRT",
-   "name": "Vertiv",
+   "symbol": "GEN",
+   "name": "Gen Digital",
+   "sector": "Information Technology",
+   "close": 28.2,
+   "pct": 15.81
+  },
+  {
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "close": 68.31,
+   "pct": 15.68
+  },
+  {
+   "symbol": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "sector": "Consumer Discretionary",
+   "close": 18.22,
+   "pct": 13.45
+  },
+  {
+   "symbol": "HII",
+   "name": "Huntington Ingalls Industries",
    "sector": "Industrials",
-   "close": 242.94,
-   "pct": 21.6
+   "close": 316.21,
+   "pct": 13.23
   },
   {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "close": 93.03,
-   "pct": 20.83
-  },
-  {
-   "symbol": "PNR",
-   "name": "Pentair",
+   "symbol": "TXT",
+   "name": "Textron",
    "sector": "Industrials",
-   "close": 64.37,
-   "pct": 16.57
+   "close": 87.46,
+   "pct": 11.67
   },
   {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
-   "sector": "Information Technology",
-   "close": 144.54,
-   "pct": 14.66
+   "symbol": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "sector": "Consumer Discretionary",
+   "close": 31.28,
+   "pct": 8.88
   },
   {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1404.77,
-   "pct": 11.88
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
+   "symbol": "LHX",
+   "name": "L3Harris",
    "sector": "Industrials",
-   "close": 228.08,
-   "pct": 11.85
+   "close": 278.43,
+   "pct": 6.84
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 913.95,
-   "pct": 11.72
-  },
-  {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 396.42,
-   "pct": 11.31
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 35.81,
-   "pct": 9.54
-  },
-  {
-   "symbol": "LH",
-   "name": "Labcorp",
+   "symbol": "LLY",
+   "name": "Lilly (Eli)",
    "sector": "Health Care",
-   "close": 360.25,
-   "pct": 9.2
+   "close": 1373.7,
+   "pct": 6.63
+  },
+  {
+   "symbol": "TSCO",
+   "name": "Tractor Supply",
+   "sector": "Consumer Discretionary",
+   "close": 33.65,
+   "pct": 6.45
+  },
+  {
+   "symbol": "IR",
+   "name": "Ingersoll Rand",
+   "sector": "Industrials",
+   "close": 80.01,
+   "pct": 6.04
   }
  ],
  "losers": [
   {
-   "symbol": "FFIV",
-   "name": "F5, Inc.",
+   "symbol": "NOW",
+   "name": "ServiceNow",
    "sector": "Information Technology",
-   "close": 365.53,
-   "pct": -20.81
+   "close": 109.67,
+   "pct": -26.95
   },
   {
-   "symbol": "XYL",
-   "name": "Xylem Inc.",
+   "symbol": "FTNT",
+   "name": "Fortinet",
+   "sector": "Information Technology",
+   "close": 139.1,
+   "pct": -20.09
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 218.34,
+   "pct": -13.24
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "sector": "Communication Services",
+   "close": 283.82,
+   "pct": -12.64
+  },
+  {
+   "symbol": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "sector": "Communication Services",
+   "close": 282.32,
+   "pct": -12.29
+  },
+  {
+   "symbol": "HONA",
+   "name": "Honeywell Aerospace",
    "sector": "Industrials",
-   "close": 88.23,
-   "pct": -18.49
+   "close": 160.04,
+   "pct": -9.6
   },
   {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 27.54,
-   "pct": -18.28
-  },
-  {
-   "symbol": "BA",
-   "name": "Boeing",
+   "symbol": "CAT",
+   "name": "Caterpillar Inc.",
    "sector": "Industrials",
-   "close": 167.14,
-   "pct": -11.24
+   "close": 647.39,
+   "pct": -9.25
   },
   {
-   "symbol": "LII",
-   "name": "Lennox International",
-   "sector": "Industrials",
-   "close": 332.64,
-   "pct": -9.03
-  },
-  {
-   "symbol": "VLO",
-   "name": "Valero Energy",
-   "sector": "Energy",
-   "close": 388.48,
-   "pct": -8.97
-  },
-  {
-   "symbol": "CHRW",
-   "name": "C.H. Robinson",
-   "sector": "Industrials",
-   "close": 127.6,
-   "pct": -8.95
-  },
-  {
-   "symbol": "ARE",
-   "name": "Alexandria Real Estate Equities",
-   "sector": "Real Estate",
-   "close": 39.91,
-   "pct": -8.04
-  },
-  {
-   "symbol": "BRO",
-   "name": "Brown & Brown",
-   "sector": "Financials",
-   "close": 65.88,
-   "pct": -7.32
-  },
-  {
-   "symbol": "UHS",
-   "name": "Universal Health Services",
+   "symbol": "BAX",
+   "name": "Baxter International",
    "sector": "Health Care",
-   "close": 172.18,
-   "pct": -7.29
+   "close": 23.5,
+   "pct": -7.7
+  },
+  {
+   "symbol": "CTSH",
+   "name": "Cognizant",
+   "sector": "Information Technology",
+   "close": 62.52,
+   "pct": -5.79
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "close": 296.23,
+   "pct": -5.43
   }
  ]
 }

@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-30T19:15:08Z",
+ "updated": "2026-10-30T23:04:04Z",
  "news": {
   "NVDA": [
    {
-    "title": "Alphabet's October wipeout hits $766 billion, its worst month ever",
-    "link": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-766-billion-its-worst-month-ever-181407937.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:14:07 +0000"
+    "title": "Nvidia has a stake in SpaceX that came from an unexpected place",
+    "link": "https://www.thestreet.com/investing/stocks/nvidia-has-a-stake-in-spacex-that-came-from-an-unexpected-place?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 22:33:00 +0000"
    },
    {
-    "title": "Apple Set to Dethrone Nvidia as Largest Company by Market Cap",
-    "link": "https://finance.yahoo.com/m/dc2a0135-80a2-331c-bb29-c2d5ccf6bf51/apple-set-to-dethrone-nvidia.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:48:22 +0000"
+    "title": "Why CareDx Stock Soared Today",
+    "link": "https://www.fool.com/investing/2026/10/30/why-caredx-stock-soared-today/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 22:24:26 +0000"
    },
    {
-    "title": "Nvidia\u2019s GPU Rents Surge as Anthropic\u2019s Revenue Has \u201cGone Vertical,\u201d Says Gavin Baker",
-    "link": "https://www.tikr.com/blog/nvidias-gpu-rents-surge-as-anthropics-revenue-has-gone-vertical-says-gavin-baker?ref=yahoofinance&tlnk=yf-261030-xfwq8rmw&.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:14:45 +0000"
+    "title": "Apple overtakes Nvidia to become world\u2019s most valuable company amid tech selloff",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-214753575.html?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 21:47:53 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Former SEC Chair: Broadcom\u2019s $63 Billion Package Feels Like \u201cThat 08 Off-Balance Sheet Craze\u201d",
+    "link": "https://www.tikr.com/blog/former-sec-chair-broadcoms-63-billion-package-feels-like-that-08-off-balance-sheet-craze?ref=yahoofinance&tlnk=yf-261030-qmxqxqv3&.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 20:52:16 +0000"
+   },
+   {
     "title": "Cramer: Broadcom\u2019s $63 Billion Anthropic Financing Works Because \u201cThere Is Only One Hock\u201d",
     "link": "https://www.tikr.com/blog/cramer-broadcoms-63-billion-anthropic-financing-works-because-there-is-only-one-hock?ref=yahoofinance&tlnk=yf-261030-vq95r5g2&.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 18:13:29 +0000"
@@ -45,11 +50,6 @@
     "title": "Broadcom Stock Outlook Hinges On AI Chip Growth And Anthropic Partnership",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-stock-outlook-hinges-ai-181030148.html?.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 18:10:30 +0000"
-   },
-   {
-    "title": "History Says Now Is the Perfect Time to Buy Broadcom Stock",
-    "link": "https://www.fool.com/investing/2026/10/30/history-says-now-is-perfect-time-to-buy-broadcom/?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 17:35:00 +0000"
    }
   ],
   "TSM": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
-    "title": "Intel's surge this year was a 'narrative bet' \u2014 not an 'execution bet'",
-    "link": "https://finance.yahoo.com/video/intels-surge-this-year-was-a-narrative-bet--not-an-execution-bet-173646975.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 17:36:46 +0000"
+    "title": "Intel CEO reveals a PC problem as Goldman cuts stock target",
+    "link": "https://www.thestreet.com/investing/stocks/intel-pc-memory-crunch-goldman?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 22:07:00 +0000"
    },
    {
-    "title": "Update: Nasdaq Plummets 975 Points as Intel's Results Help Trigger Sell-Off in Mega-Cap Chipmakers",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-plummets-975-points-intel-185707804.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:57:07 +0000"
+    "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-crashes-knocking-12b-215434820.html?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000"
    },
    {
-    "title": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:39:21 +0000"
+    "title": "The PC industry's painful path to an AI future",
+    "link": "https://www.axios.com/2026/10/30/pc-intel-ai-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 21:49:33 +0000"
    }
   ],
   "MU": [
@@ -115,9 +115,9 @@
     "pubDate": "Fri, 30 Oct 2026 13:55:26 +0000"
    },
    {
-    "title": "Wall Street's Next Blockbuster Stock Split Has Arrived -- The Stock Has Gained 3,050% Since Its 2025 Debut and Still More Upside Ahead, According to Wall Street",
-    "link": "https://www.fool.com/investing/2026/10/30/wall-street-s-next-blockbuster-stock-split-has-arrived-the-stock-has-gained-3-050-since-its-2025-debut-and-still-more-upside-ahead-according-to-wall-street/?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 18:17:34 +0000"
+    "title": "Intel, Amazon, Nvidia, ExxonMobil, Sandisk, FedEx Freight, and More Stocks That Explain Today\u2019s Market",
+    "link": "https://finance.yahoo.com/m/6fa63ea7-4dda-36ab-92fc-9135d98e250e/intel%2C-amazon%2C-nvidia%2C.html?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 20:37:00 +0000"
    }
   ],
   "WDC": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "8 Months Ago, A Major Wall Street Bank Said Buy Marvell. It\u2019s Up More Than 150%. Here\u2019s Where We See the Stock Going",
+    "link": "https://247wallst.com/investing/2026/10/30/8-months-ago-a-major-wall-street-bank-said-buy-marvell-its-up-more-than-150-heres-where-we-see-the-stock-going/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 20:17:36 +0000"
+   },
+   {
     "title": "They Called This Stock a Winner in the AI Coding Boom. A Year Later, It\u2019s Up 94%.",
     "link": "https://247wallst.com/investing/2026/10/30/they-called-this-stock-a-winner-in-the-ai-coding-boom-a-year-later-its-up-94/?.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 16:49:21 +0000"
@@ -215,11 +220,6 @@
     "title": "Broadcom\u2019s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
     "link": "https://247wallst.com/investing/2026/10/30/broadcoms-63b-anthropic-deal-could-be-the-one-that-finally-gets-it-into-gear/?.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 11:15:57 +0000"
-   },
-   {
-    "title": "Intel\u2019s Earnings Fallout Is Hitting Your Index Funds Too",
-    "link": "https://247wallst.com/investing/etf/2026/10/30/intels-earnings-fallout-is-hitting-your-index-funds-too/?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 16:21:11 +0000"
    }
   ]
  },

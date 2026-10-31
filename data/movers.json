@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-30T05:44:17Z",
+ "updated": "2026-10-31T05:37:29Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "GEN",
-   "name": "Gen Digital",
-   "sector": "Information Technology",
-   "close": 28.2,
-   "pct": 15.81
-  },
-  {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "close": 68.31,
-   "pct": 15.68
-  },
-  {
-   "symbol": "NCLH",
-   "name": "Norwegian Cruise Line Holdings",
-   "sector": "Consumer Discretionary",
-   "close": 18.22,
-   "pct": 13.45
-  },
-  {
-   "symbol": "HII",
-   "name": "Huntington Ingalls Industries",
+   "symbol": "FDXF",
+   "name": "FedEx Freight",
    "sector": "Industrials",
-   "close": 316.21,
-   "pct": 13.23
+   "close": 126.04,
+   "pct": 14.91
   },
   {
-   "symbol": "TXT",
-   "name": "Textron",
-   "sector": "Industrials",
-   "close": 87.46,
-   "pct": 11.67
-  },
-  {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
-   "sector": "Consumer Discretionary",
-   "close": 31.28,
-   "pct": 8.88
-  },
-  {
-   "symbol": "LHX",
-   "name": "L3Harris",
-   "sector": "Industrials",
-   "close": 278.43,
-   "pct": 6.84
-  },
-  {
-   "symbol": "LLY",
-   "name": "Lilly (Eli)",
+   "symbol": "REGN",
+   "name": "Regeneron Pharmaceuticals",
    "sector": "Health Care",
-   "close": 1373.7,
-   "pct": 6.63
+   "close": 927.89,
+   "pct": 13.33
   },
   {
-   "symbol": "TSCO",
-   "name": "Tractor Supply",
-   "sector": "Consumer Discretionary",
-   "close": 33.65,
-   "pct": 6.45
+   "symbol": "GPN",
+   "name": "Global Payments",
+   "sector": "Financials",
+   "close": 96.84,
+   "pct": 12.97
   },
   {
-   "symbol": "IR",
-   "name": "Ingersoll Rand",
+   "symbol": "GDDY",
+   "name": "GoDaddy",
+   "sector": "Information Technology",
+   "close": 117.24,
+   "pct": 10.72
+  },
+  {
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 30.17,
+   "pct": 7.21
+  },
+  {
+   "symbol": "CBOE",
+   "name": "Cboe Global Markets",
+   "sector": "Financials",
+   "close": 335.53,
+   "pct": 6.77
+  },
+  {
+   "symbol": "VLTO",
+   "name": "Veralto",
    "sector": "Industrials",
-   "close": 80.01,
-   "pct": 6.04
+   "close": 111.1,
+   "pct": 6.77
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "close": 156.44,
+   "pct": 6.21
+  },
+  {
+   "symbol": "TYL",
+   "name": "Tyler Technologies",
+   "sector": "Information Technology",
+   "close": 394.3,
+   "pct": 5.45
+  },
+  {
+   "symbol": "LYB",
+   "name": "LyondellBasell",
+   "sector": "Materials",
+   "close": 68.64,
+   "pct": 5.0
   }
  ],
  "losers": [
   {
-   "symbol": "NOW",
-   "name": "ServiceNow",
-   "sector": "Information Technology",
-   "close": 109.67,
-   "pct": -26.95
-  },
-  {
-   "symbol": "FTNT",
-   "name": "Fortinet",
-   "sector": "Information Technology",
-   "close": 139.1,
-   "pct": -20.09
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 218.34,
-   "pct": -13.24
-  },
-  {
-   "symbol": "GOOGL",
-   "name": "Alphabet Inc. (Class A)",
+   "symbol": "RDDT",
+   "name": "Reddit",
    "sector": "Communication Services",
-   "close": 283.82,
-   "pct": -12.64
+   "close": 91.73,
+   "pct": -29.22
   },
   {
-   "symbol": "GOOG",
-   "name": "Alphabet Inc. (Class C)",
-   "sector": "Communication Services",
-   "close": 282.32,
-   "pct": -12.29
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 65.76,
+   "pct": -28.58
   },
   {
-   "symbol": "HONA",
-   "name": "Honeywell Aerospace",
-   "sector": "Industrials",
-   "close": 160.04,
-   "pct": -9.6
-  },
-  {
-   "symbol": "CAT",
-   "name": "Caterpillar Inc.",
-   "sector": "Industrials",
-   "close": 647.39,
-   "pct": -9.25
-  },
-  {
-   "symbol": "BAX",
-   "name": "Baxter International",
+   "symbol": "ILMN",
+   "name": "Illumina, Inc.",
    "sector": "Health Care",
-   "close": 23.5,
-   "pct": -7.7
+   "close": 235.99,
+   "pct": -18.64
   },
   {
-   "symbol": "CTSH",
-   "name": "Cognizant",
+   "symbol": "TWLO",
+   "name": "Twilio",
    "sector": "Information Technology",
-   "close": 62.52,
-   "pct": -5.79
+   "close": 205.03,
+   "pct": -15.24
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
+   "symbol": "SNDK",
+   "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 296.23,
-   "pct": -5.43
+   "close": 1150.89,
+   "pct": -13.47
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "close": 235.27,
+   "pct": -11.5
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "close": 210.32,
+   "pct": -11.34
+  },
+  {
+   "symbol": "QCOM",
+   "name": "Qualcomm",
+   "sector": "Information Technology",
+   "close": 164.79,
+   "pct": -11.12
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Information Technology",
+   "close": 504.8,
+   "pct": -10.88
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "close": 424.3,
+   "pct": -10.77
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:04:04Z",
+ "updated": "2026-10-31T00:51:43Z",
  "news": {
   "NVDA": [
    {
@@ -20,6 +20,11 @@
   ],
   "AMD": [
    {
+    "title": "Cathie Wood Shifts From AI Chips to Robinhood and Air Taxis in Latest ARK Trades",
+    "link": "https://247wallst.com/investing/2026/10/30/cathie-wood-shifts-from-ai-chips-to-robinhood-and-air-taxis-in-latest-ark-trades/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 23:09:47 +0000"
+   },
+   {
     "title": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
     "link": "https://finance.yahoo.com/m/d3ec971d-88fe-3b98-aa2c-d71ab16315ff/apple%2C-super-micro%2C-amd%2C.html?.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 17:44:47 +0000"
@@ -28,11 +33,6 @@
     "title": "Advanced Micro Devices (AMD) Lands First GSI Deployment Under AI Compute Deal",
     "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-lands-161419228.html?.tsrc=rss",
     "pubDate": "Fri, 30 Oct 2026 16:14:19 +0000"
-   },
-   {
-    "title": "AMD Reports on Nov. 3. Here's What You Should Do Before Then.",
-    "link": "https://www.fool.com/investing/2026/10/30/amd-reports-on-november-3-heres-what-you-should-do/?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 15:50:00 +0000"
    }
   ],
   "AVGO": [
@@ -71,19 +71,19 @@
   ],
   "INTC": [
    {
-    "title": "Intel CEO reveals a PC problem as Goldman cuts stock target",
-    "link": "https://www.thestreet.com/investing/stocks/intel-pc-memory-crunch-goldman?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 22:07:00 +0000"
+    "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI \u2014  AMZN, INTC, LLY, RBLX In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-third-straight-week-lower-as-investors-move-away-from-tech-ai-amzn-intc-lly-rblx-in-focus/cZUKKlTR9cJ?.tsrc=rss",
+    "pubDate": "Sat, 31 Oct 2026 00:05:39 +0000"
    },
    {
-    "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-crashes-knocking-12b-215434820.html?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000"
+    "title": "Why Arm Holdings Stock Plummeted by Nearly 10% Today",
+    "link": "https://www.fool.com/investing/2026/10/30/why-arm-holdings-stock-plummeted-by-nearly-10-today/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 23:44:18 +0000"
    },
    {
-    "title": "The PC industry's painful path to an AI future",
-    "link": "https://www.axios.com/2026/10/30/pc-intel-ai-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-    "pubDate": "Fri, 30 Oct 2026 21:49:33 +0000"
+    "title": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
+    "link": "https://www.fool.com/investing/2026/10/30/is-intel-stock-a-buy-after-its-post-earnings-plunge/?.tsrc=rss",
+    "pubDate": "Fri, 30 Oct 2026 23:34:02 +0000"
    }
   ],
   "MU": [

@@ -1,41 +1,46 @@
 {
- "updated": "2026-11-02T18:15:54Z",
+ "updated": "2026-11-02T22:43:58Z",
  "news": {
   "NVDA": [
    {
-    "title": "TAT Technologies Ltd. Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tat-technologies-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:58:26 +0000"
+    "title": "Napco Security Technologies, Inc. Q1 2027 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-napco-security-technologies-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 21:52:45 +0000"
    },
    {
-    "title": "Krystal Biotech, Inc. Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-krystal-biotech-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:57:52 +0000"
+    "title": "Public Service Enterprise Group Incorporated Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-public-service-enterprise-group-incorporated-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 21:52:42 +0000"
    },
    {
-    "title": "Axsome Therapeutics, Inc. Q3 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-axsome-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:55:33 +0000"
+    "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 21:52:30 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "AMD Slides 3% Ahead of Earnings as PC Worries Linger; Intel Drops 5%, NVIDIA Edges Higher",
-    "link": "https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:49:21 +0000"
+    "title": "AMD to report Q3 results following disappointing showing from Intel",
+    "link": "https://finance.yahoo.com/technology/article/amd-to-report-q3-results-following-disappointing-showing-from-intel-190327545.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 19:03:27 +0000"
    },
    {
-    "title": "Buy, Sell or Hold AMD Stock? Key Tips Ahead of Q3 Earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-amd-stock-161400261.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 16:14:00 +0000"
+    "title": "AMD Heads Into Earnings With AI Guidance in the Spotlight",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-heads-earnings-ai-guidance-184427144.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:44:27 +0000"
    },
    {
-    "title": "AMD\u2019s Profit Is Expected to Grow 501% in Four Years. Tuesday\u2019s Report Starts the Test",
-    "link": "https://www.tikr.com/blog/amds-profit-is-expected-to-grow-501-in-four-years-tuesdays-report-starts-the-test?ref=yahoofinance&tlnk=yf-261102-3w56mrcq&.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 15:58:59 +0000"
+    "title": "AMD Reports Tuesday as Ex-Stability AI CEO Warns \u201cThere Are Not Enough CPUs in the World\u201d",
+    "link": "https://www.tikr.com/blog/amd-reports-tuesday-as-ex-stability-ai-ceo-warns-there-are-not-enough-cpus-in-the-world?ref=yahoofinance&tlnk=yf-261102-39gp4c4j&.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:37:07 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-free-cash-flow-matters-193900582.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 19:39:00 +0000"
+   },
    {
     "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
     "link": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom\u2019s Supply Bottlenecks \u2013 Not Demand \u2013 Continue to Offer Investors a Discount I Keep Buying",
     "link": "https://247wallst.com/investing/2026/11/02/broadcoms-supply-bottlenecks-not-demand-continue-to-offer-investors-a-discount-i-keep-buying/?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 13:45:19 +0000"
-   },
-   {
-    "title": "DriveNets to Join AT&T, KDDI and Broadcom on FYUZ 26 Panel: \"From Backbone Networks to AI Fabrics\"",
-    "link": "https://finance.yahoo.com/technology/ai/articles/drivenets-join-t-kddi-broadcom-123000740.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 12:30:00 +0000"
    }
   ],
   "TSM": [
@@ -71,39 +71,44 @@
   ],
   "INTC": [
    {
+    "title": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading",
+    "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 20:41:39 +0000"
+   },
+   {
+    "title": "AMD to report Q3 results following disappointing showing from Intel",
+    "link": "https://finance.yahoo.com/technology/article/amd-to-report-q3-results-following-disappointing-showing-from-intel-190327545.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 19:03:27 +0000"
+   },
+   {
     "title": "Are we optimistic for November after a rough October?",
     "link": "https://finance.yahoo.com/video/are-we-optimistic-for-november-after-a-rough-october-181044774.html?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 18:10:44 +0000"
-   },
-   {
-    "title": "Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
-    "link": "https://finance.yahoo.com/m/5bb39fb9-cc5c-3bb0-a33e-70a7757663a3/analog-chip-stocks-buoy.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:55:42 +0000"
-   },
-   {
-    "title": "AMD Slides 3% Ahead of Earnings as PC Worries Linger; Intel Drops 5%, NVIDIA Edges Higher",
-    "link": "https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 17:49:21 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Elon Musk sends incredible news to Micron stock investors",
+    "link": "https://www.thestreet.com/investing/elon-musk-incredible-news-micron-stock-investors-humanoid-robot-memory-needs?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 21:23:00 +0000"
+   },
+   {
+    "title": "Micron Falls 4% as Kioxia\u2019s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
+    "link": "https://247wallst.com/investing/2026/11/02/micron-falls-4-as-kioxias-cautious-outlook-hits-memory-stocks-western-digital-drops-5-sandisk-slides-3/?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:53:55 +0000"
+   },
+   {
     "title": "Micron Stock Needs Markets to Clear These 3 Hurdles",
     "link": "https://finance.yahoo.com/m/2b56d52c-5232-33be-a7b5-08712e6a91b0/micron-stock-needs-markets-to.html?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 17:55:00 +0000"
-   },
-   {
-    "title": "Micron is the Real Loser in Lumentum Deal Which Assumes \u201cMarket Will Collapse in Two to Three Years\u201d",
-    "link": "https://www.tikr.com/blog/micron-is-the-real-loser-in-lumentum-deal-which-assumes-market-will-collapse-in-two-to-three-years?ref=yahoofinance&tlnk=yf-261102-x8mw3pcr&.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 16:22:07 +0000"
-   },
-   {
-    "title": "Micron Stock Climbs as Memory Chip Shortages Could Last Until 2030",
-    "link": "https://finance.yahoo.com/technology/articles/micron-stock-climbs-memory-chip-140251957.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 14:02:51 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Micron Falls 4% as Kioxia\u2019s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
+    "link": "https://247wallst.com/investing/2026/11/02/micron-falls-4-as-kioxias-cautious-outlook-hits-memory-stocks-western-digital-drops-5-sandisk-slides-3/?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:53:55 +0000"
+   },
    {
     "title": "Sandisk (SNDK) Flags Memory Recovery As AI Fund Unwind Tests Sector Confidence",
     "link": "https://finance.yahoo.com/technology/articles/sandisk-sndk-flags-memory-recovery-171053320.html?.tsrc=rss",
@@ -113,14 +118,14 @@
     "title": "SanDisk Is Back in the Spotlight. Here\u2019s Where I See SNDK Stock Heading Next",
     "link": "https://247wallst.com/investing/2026/11/02/sandisk-is-back-in-the-spotlight-heres-where-i-see-sndk-stock-heading-next/?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 16:04:40 +0000"
-   },
-   {
-    "title": "Morgan Stanley stands by Sandisk as CFO flags a low-end pullback",
-    "link": "https://www.thestreet.com/investing/morgan-stanley-sandisk-stock-decline?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 15:07:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "Micron Falls 4% as Kioxia\u2019s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
+    "link": "https://247wallst.com/investing/2026/11/02/micron-falls-4-as-kioxias-cautious-outlook-hits-memory-stocks-western-digital-drops-5-sandisk-slides-3/?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:53:55 +0000"
+   },
    {
     "title": "Western Digital's 88% Cloud Revenue Share: Strength or Weakness?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-88-cloud-revenue-143200688.html?.tsrc=rss",
@@ -130,14 +135,14 @@
     "title": "Prediction: This Will Be Western Digital's Stock Price in 2030",
     "link": "https://www.fool.com/investing/2026/11/02/prediction-this-will-be-western-digital-s-stock-price-in-2030/?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 09:04:01 +0000"
-   },
-   {
-    "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Google Search Shift",
-    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-121029257.html?.tsrc=rss",
-    "pubDate": "Sat, 31 Oct 2026 12:10:29 +0000"
    }
   ],
   "STX": [
+   {
+    "title": "Top Stock Reports for Seagate, Chubb & Intercontinental",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-seagate-chubb-202100415.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 20:21:00 +0000"
+   },
    {
     "title": "Is Seagate Worth Buying as Growth Surges but Valuation Stays Rich?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-worth-buying-growth-surges-143300045.html?.tsrc=rss",
@@ -147,11 +152,6 @@
     "title": "Is Seagate Still The Business You Bought?",
     "link": "https://www.trefis.com/stock/stx/articles/621844/is-seagate-still-the-business-you-bought/2026-11-02?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 07:04:15 +0000"
-   },
-   {
-    "title": "STX Q3 deep dive: data center strength and technology transition drive outperformance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stx-q3-deep-dive-data-055529817.html?.tsrc=rss",
-    "pubDate": "Sat, 31 Oct 2026 05:55:29 +0000"
    }
   ],
   "SOXX": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "Exchange-Traded Funds Higher as US Equities Rise After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-182141612.html?.tsrc=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:21:41 +0000"
+   },
+   {
     "title": "VGT vs. QQQ: Which Tech ETF Is the Better Long-Term Buy?",
-    "link": "https://www.fool.com/investing/2026/11/02/vgt-vs-qqq-which-tech-etf-better-long-term-buy/?.tsrc=rss",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vgt-vs-qqq-tech-etf-140500753.html?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 14:05:00 +0000"
    },
    {
     "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Busy Corporate Earnings Week",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140145920.html?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 14:01:45 +0000"
-   },
-   {
-    "title": "INVESCO QQQ (QQQ) Sells NVIDIA and Apple on Oct. 29",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-sells-nvidia-110408798.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 11:04:08 +0000"
    }
   ],
   "SPY": [

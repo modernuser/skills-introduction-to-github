@@ -1,148 +1,148 @@
 {
- "updated": "2026-10-31T05:37:29Z",
- "coverage": 501,
+ "updated": "2026-11-03T06:44:18Z",
+ "coverage": 500,
  "gainers": [
   {
-   "symbol": "FDXF",
-   "name": "FedEx Freight",
-   "sector": "Industrials",
-   "close": 126.04,
-   "pct": 14.91
-  },
-  {
-   "symbol": "REGN",
-   "name": "Regeneron Pharmaceuticals",
+   "symbol": "IDXX",
+   "name": "Idexx Laboratories",
    "sector": "Health Care",
-   "close": 927.89,
-   "pct": 13.33
+   "close": 671.64,
+   "pct": 21.85
   },
   {
-   "symbol": "GPN",
-   "name": "Global Payments",
-   "sector": "Financials",
-   "close": 96.84,
-   "pct": 12.97
-  },
-  {
-   "symbol": "GDDY",
-   "name": "GoDaddy",
-   "sector": "Information Technology",
-   "close": 117.24,
-   "pct": 10.72
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 30.17,
-   "pct": 7.21
-  },
-  {
-   "symbol": "CBOE",
-   "name": "Cboe Global Markets",
-   "sector": "Financials",
-   "close": 335.53,
-   "pct": 6.77
-  },
-  {
-   "symbol": "VLTO",
-   "name": "Veralto",
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
    "sector": "Industrials",
-   "close": 111.1,
-   "pct": 6.77
+   "close": 212.99,
+   "pct": 6.91
   },
   {
-   "symbol": "TMUS",
-   "name": "T-Mobile US",
-   "sector": "Communication Services",
-   "close": 156.44,
-   "pct": 6.21
+   "symbol": "PNR",
+   "name": "Pentair",
+   "sector": "Industrials",
+   "close": 70.56,
+   "pct": 6.49
   },
   {
-   "symbol": "TYL",
-   "name": "Tyler Technologies",
-   "sector": "Information Technology",
-   "close": 394.3,
-   "pct": 5.45
-  },
-  {
-   "symbol": "LYB",
-   "name": "LyondellBasell",
+   "symbol": "CRH",
+   "name": "CRH plc",
    "sector": "Materials",
-   "close": 68.64,
-   "pct": 5.0
+   "close": 96.59,
+   "pct": 6.36
+  },
+  {
+   "symbol": "DASH",
+   "name": "DoorDash",
+   "sector": "Consumer Discretionary",
+   "close": 190.07,
+   "pct": 6.19
+  },
+  {
+   "symbol": "CBRE",
+   "name": "CBRE Group",
+   "sector": "Real Estate",
+   "close": 136.75,
+   "pct": 6.13
+  },
+  {
+   "symbol": "CPRT",
+   "name": "Copart",
+   "sector": "Industrials",
+   "close": 31.93,
+   "pct": 5.97
+  },
+  {
+   "symbol": "SHW",
+   "name": "Sherwin-Williams",
+   "sector": "Materials",
+   "close": 352.37,
+   "pct": 5.94
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "close": 42.57,
+   "pct": 5.9
+  },
+  {
+   "symbol": "TDG",
+   "name": "TransDigm Group",
+   "sector": "Industrials",
+   "close": 1213.62,
+   "pct": 5.83
   }
  ],
  "losers": [
   {
-   "symbol": "RDDT",
-   "name": "Reddit",
-   "sector": "Communication Services",
-   "close": 91.73,
-   "pct": -29.22
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 684.4,
+   "pct": -18.59
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 171.41,
+   "pct": -12.72
+  },
+  {
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 284.34,
+   "pct": -11.34
+  },
+  {
+   "symbol": "P",
+   "name": "Everpure",
+   "sector": "Information Technology",
+   "close": 113.78,
+   "pct": -10.4
   },
   {
    "symbol": "INTC",
    "name": "Intel",
    "sector": "Information Technology",
-   "close": 65.76,
-   "pct": -28.58
+   "close": 59.97,
+   "pct": -8.8
   },
   {
-   "symbol": "ILMN",
-   "name": "Illumina, Inc.",
-   "sector": "Health Care",
-   "close": 235.99,
-   "pct": -18.64
-  },
-  {
-   "symbol": "TWLO",
-   "name": "Twilio",
+   "symbol": "ORCL",
+   "name": "Oracle Corporation",
    "sector": "Information Technology",
-   "close": 205.03,
-   "pct": -15.24
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 1150.89,
-   "pct": -13.47
+   "close": 119.22,
+   "pct": -8.76
   },
   {
    "symbol": "DDOG",
    "name": "Datadog",
    "sector": "Information Technology",
-   "close": 235.27,
-   "pct": -11.5
+   "close": 216.1,
+   "pct": -8.15
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "STX",
+   "name": "Seagate Technology",
    "sector": "Information Technology",
-   "close": 210.32,
-   "pct": -11.34
+   "close": 593.76,
+   "pct": -7.88
   },
   {
-   "symbol": "QCOM",
-   "name": "Qualcomm",
+   "symbol": "SMCI",
+   "name": "Supermicro",
    "sector": "Information Technology",
-   "close": 164.79,
-   "pct": -11.12
+   "close": 30.44,
+   "pct": -7.62
   },
   {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Information Technology",
-   "close": 504.8,
-   "pct": -10.88
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 424.3,
-   "pct": -10.77
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "close": 48.82,
+   "pct": -7.57
   }
  ]
 }

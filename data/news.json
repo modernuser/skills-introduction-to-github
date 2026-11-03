@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-03T02:56:36Z",
+ "updated": "2026-11-03T06:44:12Z",
  "news": {
   "NVDA": [
+   {
+    "title": "Michael Burry\u2019s Substack Turns One: He Says A Year Is \u2018Useless\u2019 For Judging Skill \u2014 Here\u2019s How His Stock Picks Have Fared",
+    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-substack-turns-one-year-useless-judging-skill-how-stock-picks-fared/cNGQuz4R95d?.tsrc=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:17:21 +0000"
+   },
+   {
+    "title": "PATEO Advances In-Vehicle AI with NVIDIA Nemotron and ByteDance Doubao on its AI Box built on NVIDIA DRIVE AGX Thor",
+    "link": "https://finance.yahoo.com/technology/ai/articles/pateo-advances-vehicle-ai-nvidia-050000070.html?.tsrc=rss",
+    "pubDate": "Tue, 03 Nov 2026 05:00:00 +0000"
+   },
    {
     "title": "5 Key Earnings Charts to Watch This Week",
     "link": "https://finance.yahoo.com/markets/stocks/articles/5-key-earnings-charts-watch-002000682.html?.tsrc=rss",
     "pubDate": "Tue, 03 Nov 2026 00:20:00 +0000"
-   },
-   {
-    "title": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
-    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-joined-700-million-001701528.html?.tsrc=rss",
-    "pubDate": "Tue, 03 Nov 2026 00:17:01 +0000"
-   },
-   {
-    "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
-    "link": "https://www.fool.com/investing/2026/11/02/nvidia-reports-nov-17-history-says-what-its-stock-usually-does-next/?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 23:37:01 +0000"
    }
   ],
   "AMD": [
@@ -76,14 +76,14 @@
     "pubDate": "Mon, 02 Nov 2026 20:41:39 +0000"
    },
    {
-    "title": "AMD to report Q3 results following disappointing showing from Intel",
-    "link": "https://finance.yahoo.com/technology/article/amd-to-report-q3-results-following-disappointing-showing-from-intel-190327545.html?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 19:03:27 +0000"
-   },
-   {
     "title": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
     "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-joined-700-million-001701528.html?.tsrc=rss",
     "pubDate": "Tue, 03 Nov 2026 00:17:01 +0000"
+   },
+   {
+    "title": "Bank of America pulls its Buy on Intel as the comeback slips",
+    "link": "https://www.thestreet.com/investing/bank-of-america-pulls-buy-rating-on-intel-as-comeback-slips?.tsrc=rss",
+    "pubDate": "Tue, 03 Nov 2026 00:17:00 +0000"
    }
   ],
   "MU": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "This Data Center and Storage Stock Just Raised Its Dividend by Nearly 17%",
+    "link": "https://www.barchart.com/story/news/8603858/this-data-center-and-storage-stock-just-raised-its-dividend-by-nearly-17?.tsrc=rss",
+    "pubDate": "Tue, 03 Nov 2026 00:30:03 +0000"
+   },
+   {
     "title": "Micron Falls 4% as Kioxia\u2019s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%",
     "link": "https://247wallst.com/investing/2026/11/02/micron-falls-4-as-kioxias-cautious-outlook-hits-memory-stocks-western-digital-drops-5-sandisk-slides-3/?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 18:53:55 +0000"
@@ -130,11 +135,6 @@
     "title": "Western Digital's 88% Cloud Revenue Share: Strength or Weakness?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-88-cloud-revenue-143200688.html?.tsrc=rss",
     "pubDate": "Mon, 02 Nov 2026 14:32:00 +0000"
-   },
-   {
-    "title": "Prediction: This Will Be Western Digital's Stock Price in 2030",
-    "link": "https://www.fool.com/investing/2026/11/02/prediction-this-will-be-western-digital-s-stock-price-in-2030/?.tsrc=rss",
-    "pubDate": "Mon, 02 Nov 2026 09:04:01 +0000"
    }
   ],
   "STX": [

@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-04T02:28:17Z",
+ "generated": "2026-11-04T06:14:59Z",
  "market": {
   "session": "closed",
   "label": "Closed",
-  "now_et": "2026-11-03 21:28 EST",
+  "now_et": "2026-11-04 01:14 EST",
   "next": "pre-market open",
   "next_at_et": "2026-11-04 04:00 EST",
-  "minutes_to_next": 391,
+  "minutes_to_next": 165,
   "last_close_et": "2026-11-03 16:00 EST",
   "max_expected_age_hours": 100
  },
- "duration_ms": 9,
+ "duration_ms": 15,
  "source_errors": [],
  "primary_source_failures_count": 35,
  "week52_ranges": {
@@ -20,34 +20,34 @@
  "files": {
   "quotes": {
    "present": true,
-   "updated": "2026-11-04T01:27:25Z",
+   "updated": "2026-11-04T06:14:52Z",
    "records": 35,
-   "newest_record_age_days": 2,
-   "sessions_behind_last_close": 1,
+   "newest_record_age_days": 1,
+   "sessions_behind_last_close": 0,
    "status": "ok"
   },
   "news": {
    "present": true,
    "status": "ok",
-   "updated": "2026-11-04T01:27:27Z",
+   "updated": "2026-11-04T06:14:53Z",
    "records": 13
   },
   "movers": {
    "present": true,
    "status": "ok",
-   "updated": "2026-11-03T06:44:18Z",
+   "updated": "2026-11-04T06:14:58Z",
    "records": 20
   },
   "rotation": {
    "present": true,
    "status": "ok",
-   "updated": "2026-11-02",
-   "records": 201
+   "updated": "2026-11-03",
+   "records": 211
   },
   "portfolios": {
    "present": true,
    "status": "ok",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "records": 4
   },
   "extended": {

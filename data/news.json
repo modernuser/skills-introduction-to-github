@@ -1,7 +1,12 @@
 {
- "updated": "2026-11-05T01:29:37Z",
+ "updated": "2026-11-05T06:41:55Z",
  "news": {
   "NVDA": [
+   {
+    "title": "History Says This Is the Best Time of the Presidential Cycle To Invest. Could Wednesday's Rally Spark an Epic Bull Market?",
+    "link": "https://www.fool.com/investing/2026/11/04/history-says-this-is-the-best-time-of-the-presidential-cycle-to-invest-could-wednesday-s-rally-be-the-beginning-of-an-epic-bull-market/?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 05:11:39 +0000"
+   },
    {
     "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030",
     "link": "https://www.fool.com/investing/2026/11/04/heres-what-10000-invested-in-spacex-and-nvidia-cou/?.tsrc=rss",
@@ -11,11 +16,6 @@
     "title": "5-star analyst resets Nvidia stock target after Intel crash",
     "link": "https://www.thestreet.com/investing/stocks/melius-nvidia-target-cut-intel?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 00:37:00 +0000"
-   },
-   {
-    "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here\u2019s Who Could Get Hurt",
-    "link": "https://247wallst.com/investing/2026/11/04/steve-weiss-says-the-midterms-just-put-a-lid-on-ai-spending-heres-who-could-get-hurt/?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 00:09:14 +0000"
    }
   ],
   "AMD": [
@@ -25,17 +25,22 @@
     "pubDate": "Wed, 04 Nov 2026 18:50:12 +0000"
    },
    {
-    "title": "The Deal With Meta & OpenAI Just Cost AMD $1.1 Billion",
-    "link": "https://www.ibtimes.com/amd-1-1-billion-charge-openai-meta-deals-3809435?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 00:14:01 +0000"
+    "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
+    "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-051816770.html?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 05:18:16 +0000"
    },
    {
-    "title": "AMD (AMD) Q3 Results Fuel AI Optimism But Valuation Caps Gains",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-q3-results-fuel-232151959.html?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 23:21:51 +0000"
+    "title": "AMD Stock Jumped After Its Report. I'd Wait for a Lower Price to Buy.",
+    "link": "https://www.fool.com/investing/2026/11/04/amd-stock-jumped-after-its-report-i-d-wait-for-a-lower-price-to-buy/?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 04:37:01 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+    "link": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-after-marvell-s-usd115-billion-deal/?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 01:43:01 +0000"
+   },
    {
     "title": "Broadcom Inc. (AVGO) Stock Slides as Market Rises: Facts to Know Before You Trade",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-stock-slides-214502619.html?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "Is Broadcom Stock a Buy Now?",
     "link": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-now/?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 18:20:00 +0000"
-   },
-   {
-    "title": "Butterfly Trade Helps Investors Find A Nugget In This Sagging Stock",
-    "link": "https://finance.yahoo.com/m/75b5ffe0-a1b5-3dcb-928d-f31458920120/butterfly-trade-helps.html?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 17:57:14 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "TSMC Is Up 30% in a Year and 19% Off Its High: Take Profits, or Buy More?",
+    "link": "https://www.tikr.com/blog/tsmc-is-up-30-in-a-year-and-19-off-its-high-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261104-9x47mx2m&.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 02:35:05 +0000"
+   },
    {
     "title": "TSMC Stocks Move Lower as November Sales Data Face a $53.3 Billion Quarterly Hurdle",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-move-lower-november-151537685.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
     "link": "https://www.fool.com/investing/2026/11/04/better-ai-semiconductor-monopoly-stock-taiwan-semi/?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 15:15:00 +0000"
-   },
-   {
-    "title": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, but One Offers a Better Value for 2027",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/04/broadcom-vs-taiwan-semiconductor-two-ai-powerhouses-but-one-offers-a-better-value-for-2027/?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 10:50:02 +0000"
    }
   ],
   "INTC": [
@@ -88,19 +88,19 @@
   ],
   "MU": [
    {
+    "title": "Micron Hits 3-Month Low Amid Chip Rout After Top Democratic Lawmaker Calls For AI Regulation, Pause In Development",
+    "link": "https://stocktwits.com/news-articles/markets/equity/micron-hits-3-month-low-amid-chip-rout-after-top-democratic-lawmaker-calls-for-ai-regulation-pause-in-development/cNG14kWR9Eh?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 05:13:14 +0000"
+   },
+   {
+    "title": "Micron (MU) Stock Looks Near Fair Value Despite AI Optimism",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-near-021122807.html?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 02:11:22 +0000"
+   },
+   {
     "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
     "link": "https://finance.yahoo.com/m/a945593c-d697-3ab1-a864-eea8376eb6d4/spacex%2C-tesla%2C-micron%2C-amd%2C.html?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 21:51:00 +0000"
-   },
-   {
-    "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-sinks-market-214502384.html?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 21:45:02 +0000"
-   },
-   {
-    "title": "Prediction: Micron Stock Will Triple in 2027",
-    "link": "https://www.fool.com/investing/2026/11/04/prediction-micron-stock-will-triple-in-2027/?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 20:50:00 +0000"
    }
   ],
   "SNDK": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "Western Digital (WDC) Stock Sees Fair Value Cut As Analysts Weigh HDD Strength",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-sees-051947495.html?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 05:19:47 +0000"
+   },
+   {
     "title": "Seagate Sinks 8%, Western Digital Down 6% on Election, Memory Price Worries",
     "link": "https://www.tikr.com/blog/seagate-sinks-8-western-digital-down-6-on-election-memory-price-worries?ref=yahoofinance&tlnk=yf-261104-w842cwpg&.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 19:12:24 +0000"
@@ -130,11 +135,6 @@
     "title": "SanDisk Retreats 9%, Micron and Western Digital Fall 7% as Election and Memory Price Worries Weigh",
     "link": "https://247wallst.com/investing/2026/11/04/sandisk-slides-5-micron-and-western-digital-fall-3-as-election-and-memory-price-worries-weigh/?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 16:02:59 +0000"
-   },
-   {
-    "title": "Western Digital's Q1 Beat and Q2 Outlook Signal More Margin Upside",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-q1-beat-q2-152100598.html?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 15:21:00 +0000"
    }
   ],
   "STX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Is the Market Bottoming? 3 Tells to Watch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-bottoming-3-tells-watch-010300254.html?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 01:03:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-180914189.html?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 18:09:14 +0000"
@@ -198,11 +203,6 @@
     "title": "IREN Falls 5%, CoreWeave Drops 4% as Texas Election Stokes Data Center Moratorium Fears; Nebius Dips 2%",
     "link": "https://247wallst.com/investing/2026/11/04/iren-falls-5-coreweave-drops-4-as-texas-election-stokes-data-center-moratorium-fears-nebius-dips-2/?.tsrc=rss",
     "pubDate": "Wed, 04 Nov 2026 15:02:38 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Wednesday as Investors React to US Midterm Election Results",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141810509.html?.tsrc=rss",
-    "pubDate": "Wed, 04 Nov 2026 14:18:10 +0000"
    }
   ],
   "SPY": [

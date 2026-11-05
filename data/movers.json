@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-04T06:14:58Z",
+ "updated": "2026-11-05T06:42:02Z",
  "coverage": 500,
  "gainers": [
   {
-   "symbol": "FISV",
-   "name": "Fiserv",
+   "symbol": "MOS",
+   "name": "Mosaic Company (The)",
+   "sector": "Materials",
+   "close": 21.62,
+   "pct": 17.37
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc.",
    "sector": "Financials",
-   "close": 58.4,
-   "pct": 12.46
+   "close": 87.63,
+   "pct": 15.3
   },
   {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 214.01,
-   "pct": 9.05
-  },
-  {
-   "symbol": "DD",
-   "name": "DuPont",
-   "sector": "Industrials",
-   "close": 153.46,
-   "pct": 8.61
-  },
-  {
-   "symbol": "RVTY",
-   "name": "Revvity",
+   "symbol": "ZBH",
+   "name": "Zimmer Biomet",
    "sector": "Health Care",
-   "close": 163.48,
-   "pct": 7.84
+   "close": 110.15,
+   "pct": 13.49
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 258.38,
+   "pct": 13.11
+  },
+  {
+   "symbol": "SWK",
+   "name": "Stanley Black & Decker",
+   "sector": "Industrials",
+   "close": 118.33,
+   "pct": 13.1
+  },
+  {
+   "symbol": "CDW",
+   "name": "CDW Corporation",
+   "sector": "Information Technology",
+   "close": 168.75,
+   "pct": 12.67
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "sector": "Health Care",
+   "close": 76.01,
+   "pct": 12.64
+  },
+  {
+   "symbol": "UHS",
+   "name": "Universal Health Services",
+   "sector": "Health Care",
+   "close": 196.46,
+   "pct": 10.91
+  },
+  {
+   "symbol": "JKHY",
+   "name": "Jack Henry & Associates",
+   "sector": "Financials",
+   "close": 179.16,
+   "pct": 10.83
   },
   {
    "symbol": "APP",
    "name": "AppLovin",
    "sector": "Communication Services",
-   "close": 245.51,
-   "pct": 7.28
+   "close": 271.75,
+   "pct": 10.69
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "FIS",
+   "name": "Fidelity National Information Services",
+   "sector": "Financials",
+   "close": 29.76,
+   "pct": -23.67
+  },
+  {
+   "symbol": "TRMB",
+   "name": "Trimble Inc.",
+   "sector": "Information Technology",
+   "close": 54.25,
+   "pct": -17.31
   },
   {
    "symbol": "FIX",
    "name": "Comfort Systems USA",
    "sector": "Industrials",
-   "close": 1285.13,
-   "pct": 7.08
+   "close": 1091.3101,
+   "pct": -15.08
   },
   {
-   "symbol": "ETN",
-   "name": "Eaton Corporation",
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "close": 188.72,
+   "pct": -14.42
+  },
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 120.29,
+   "pct": -13.83
+  },
+  {
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 83.25,
+   "pct": -13.52
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 287.65,
+   "pct": -13.36
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv",
    "sector": "Industrials",
-   "close": 391.7,
-   "pct": 7.0
+   "close": 205.55,
+   "pct": -12.89
   },
   {
-   "symbol": "FOXA",
-   "name": "Fox Corporation (Class A)",
-   "sector": "Communication Services",
-   "close": 67.1,
-   "pct": 6.92
+   "symbol": "CVS",
+   "name": "CVS Health",
+   "sector": "Health Care",
+   "close": 79.96,
+   "pct": -12.53
   },
   {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
    "sector": "Information Technology",
-   "close": 1328.3,
-   "pct": 6.78
-  },
-  {
-   "symbol": "FOX",
-   "name": "Fox Corporation (Class B)",
-   "sector": "Communication Services",
-   "close": 59.63,
-   "pct": 6.56
-  }
- ],
- "losers": [
-  {
-   "symbol": "IT",
-   "name": "Gartner",
-   "sector": "Information Technology",
-   "close": 204.22,
-   "pct": -13.19
-  },
-  {
-   "symbol": "SYY",
-   "name": "Sysco",
-   "sector": "Consumer Staples",
-   "close": 74.11,
-   "pct": -9.33
-  },
-  {
-   "symbol": "ZBRA",
-   "name": "Zebra Technologies",
-   "sector": "Information Technology",
-   "close": 329.5,
-   "pct": -8.76
-  },
-  {
-   "symbol": "BALL",
-   "name": "Ball Corporation",
-   "sector": "Materials",
-   "close": 63.21,
-   "pct": -7.14
-  },
-  {
-   "symbol": "ADM",
-   "name": "Archer Daniels Midland",
-   "sector": "Consumer Staples",
-   "close": 70.6,
-   "pct": -6.82
-  },
-  {
-   "symbol": "LDOS",
-   "name": "Leidos",
-   "sector": "Industrials",
-   "close": 134.72,
-   "pct": -6.55
-  },
-  {
-   "symbol": "APTV",
-   "name": "Aptiv",
-   "sector": "Consumer Discretionary",
-   "close": 41.34,
-   "pct": -6.53
-  },
-  {
-   "symbol": "KDP",
-   "name": "Keurig Dr Pepper",
-   "sector": "Consumer Staples",
-   "close": 34.74,
-   "pct": -5.65
-  },
-  {
-   "symbol": "LEN",
-   "name": "Lennar",
-   "sector": "Consumer Discretionary",
-   "close": 86.09,
-   "pct": -5.42
-  },
-  {
-   "symbol": "DHI",
-   "name": "D. R. Horton",
-   "sector": "Consumer Discretionary",
-   "close": 145.23,
-   "pct": -5.03
+   "close": 77.24,
+   "pct": -12.33
   }
  ]
 }

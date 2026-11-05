@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "window_days": 14,
  "trigger_pct": 5.0,
  "entries": [
@@ -7,10 +7,1423 @@
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "entered": "2026-11-03",
-   "trigger_pct": 5.54,
-   "last_close": 300.08,
+   "entered": "2026-11-04",
+   "trigger_pct": -9.28,
+   "last_close": 272.24,
    "first_entered": "2026-10-01"
+  },
+  {
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.36,
+   "last_close": 200.4,
+   "first_entered": "2026-09-29"
+  },
+  {
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -15.08,
+   "last_close": 1091.3101,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -12.89,
+   "last_close": 205.55,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "ETN",
+   "name": "Eaton Corporation",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -9.86,
+   "last_close": 353.08,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit",
+   "sector": "Communication Services",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.97,
+   "last_close": 101.89,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "entered": "2026-11-04",
+   "trigger_pct": 10.69,
+   "last_close": 271.75,
+   "first_entered": "2026-09-21"
+  },
+  {
+   "symbol": "APH",
+   "name": "Amphenol",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.15,
+   "last_close": 79.01,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -11.65,
+   "last_close": 580.44,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -9.3,
+   "last_close": 832.83,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "LEN",
+   "name": "Lennar",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.09,
+   "last_close": 92.19,
+   "first_entered": "2026-10-05"
+  },
+  {
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.06,
+   "last_close": 1261.08,
+   "first_entered": "2026-09-14"
+  },
+  {
+   "symbol": "DHI",
+   "name": "D. R. Horton",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.1,
+   "last_close": 156.99,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "FISV",
+   "name": "Fiserv",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.25,
+   "last_close": 62.05,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "KDP",
+   "name": "Keurig Dr Pepper",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.9,
+   "last_close": 36.79,
+   "first_entered": "2026-11-03"
+  },
+  {
+   "symbol": "BALL",
+   "name": "Ball Corporation",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.6,
+   "last_close": 67.38,
+   "first_entered": "2026-11-03"
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.91,
+   "last_close": 1037.4,
+   "first_entered": "2026-10-12"
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.08,
+   "last_close": 159.8,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.85,
+   "last_close": 626.75,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.0,
+   "last_close": 795.23,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "P",
+   "name": "Everpure",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.0,
+   "last_close": 111.77,
+   "first_entered": "2026-09-21"
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -8.82,
+   "last_close": 372.36,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.77,
+   "last_close": 323.83,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -8.13,
+   "last_close": 557.06,
+   "first_entered": "2026-08-12"
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.67,
+   "last_close": 50.09,
+   "first_entered": "2026-09-03"
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -14.42,
+   "last_close": 188.72,
+   "first_entered": "2026-10-09"
+  },
+  {
+   "symbol": "SYK",
+   "name": "Stryker Corporation",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.37,
+   "last_close": 339.65,
+   "first_entered": "2026-10-30"
+  },
+  {
+   "symbol": "DASH",
+   "name": "DoorDash",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.33,
+   "last_close": 198.59,
+   "first_entered": "2026-10-26"
+  },
+  {
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.81,
+   "last_close": 77.56,
+   "first_entered": "2026-10-29"
+  },
+  {
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.7,
+   "last_close": 29.6,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "sector": "Real Estate",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.8,
+   "last_close": 46.0,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "BSX",
+   "name": "Boston Scientific",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.33,
+   "last_close": 45.82,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "NVR",
+   "name": "NVR, Inc.",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.84,
+   "last_close": 6376.8198,
+   "first_entered": "2026-10-26"
+  },
+  {
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.27,
+   "last_close": 326.29,
+   "first_entered": "2026-09-24"
+  },
+  {
+   "symbol": "CPRT",
+   "name": "Copart",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.02,
+   "last_close": 32.62,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "PHM",
+   "name": "PulteGroup",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.16,
+   "last_close": 135.97,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "CRH",
+   "name": "CRH plc",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.63,
+   "last_close": 98.8,
+   "first_entered": "2026-11-02"
+  },
+  {
+   "symbol": "SHW",
+   "name": "Sherwin-Williams",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.64,
+   "last_close": 363.5,
+   "first_entered": "2026-11-02"
+  },
+  {
+   "symbol": "OXY",
+   "name": "Occidental Petroleum",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.13,
+   "last_close": 57.33,
+   "first_entered": "2026-11-02"
+  },
+  {
+   "symbol": "DVN",
+   "name": "Devon Energy",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -7.35,
+   "last_close": 44.12,
+   "first_entered": "2026-11-02"
+  },
+  {
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.87,
+   "last_close": 44.49,
+   "first_entered": "2026-11-02"
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.82,
+   "last_close": 250.99,
+   "first_entered": "2026-09-04"
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.98,
+   "last_close": 195.09,
+   "first_entered": "2026-08-04"
+  },
+  {
+   "symbol": "FLEX",
+   "name": "Flex Ltd.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -12.33,
+   "last_close": 77.24,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "ANET",
+   "name": "Arista Networks",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.04,
+   "last_close": 178.48,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "JCI",
+   "name": "Johnson Controls",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.26,
+   "last_close": 140.53,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.87,
+   "last_close": 29.93,
+   "first_entered": "2026-10-09"
+  },
+  {
+   "symbol": "KEYS",
+   "name": "Keysight Technologies",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.31,
+   "last_close": 285.86,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "CDW",
+   "name": "CDW Corporation",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 12.67,
+   "last_close": 168.75,
+   "first_entered": "2026-10-30"
+  },
+  {
+   "symbol": "RMD",
+   "name": "ResMed",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.91,
+   "last_close": 240.51,
+   "first_entered": "2026-10-30"
+  },
+  {
+   "symbol": "QCOM",
+   "name": "Qualcomm",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.33,
+   "last_close": 173.19,
+   "first_entered": "2026-10-30"
+  },
+  {
+   "symbol": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.77,
+   "last_close": 18.6,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.83,
+   "last_close": 35.2,
+   "first_entered": "2026-10-08"
+  },
+  {
+   "symbol": "DVA",
+   "name": "DaVita",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.76,
+   "last_close": 192.66,
+   "first_entered": "2026-10-21"
+  },
+  {
+   "symbol": "CAT",
+   "name": "Caterpillar Inc.",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.23,
+   "last_close": 591.3,
+   "first_entered": "2026-10-07"
+  },
+  {
+   "symbol": "LHX",
+   "name": "L3Harris",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.46,
+   "last_close": 259.74,
+   "first_entered": "2026-10-29"
+  },
+  {
+   "symbol": "MGM",
+   "name": "MGM Resorts",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.8,
+   "last_close": 32.82,
+   "first_entered": "2026-10-29"
+  },
+  {
+   "symbol": "MAS",
+   "name": "Masco",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.65,
+   "last_close": 86.82,
+   "first_entered": "2026-10-29"
+  },
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 13.11,
+   "last_close": 258.38,
+   "first_entered": "2026-08-07"
+  },
+  {
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -9.54,
+   "last_close": 189.32,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -8.11,
+   "last_close": 392.68,
+   "first_entered": "2026-09-21"
+  },
+  {
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.76,
+   "last_close": 365.34,
+   "first_entered": "2026-10-01"
+  },
+  {
+   "symbol": "RCL",
+   "name": "Royal Caribbean Group",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.38,
+   "last_close": 333.15,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "GEHC",
+   "name": "GE HealthCare",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.38,
+   "last_close": 85.81,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "GRMN",
+   "name": "Garmin",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.52,
+   "last_close": 289.15,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "UHS",
+   "name": "Universal Health Services",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 10.91,
+   "last_close": 196.46,
+   "first_entered": "2026-10-28"
+  },
+  {
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.88,
+   "last_close": 595.04,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "CCI",
+   "name": "Crown Castle",
+   "sector": "Real Estate",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.46,
+   "last_close": 92.17,
+   "first_entered": "2026-10-09"
+  },
+  {
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.63,
+   "last_close": 163.1,
+   "first_entered": "2026-10-26"
+  },
+  {
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.68,
+   "last_close": 120.25,
+   "first_entered": "2026-10-26"
+  },
+  {
+   "symbol": "EXPE",
+   "name": "Expedia Group",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 10.54,
+   "last_close": 315.88,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "DXCM",
+   "name": "Dexcom",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.64,
+   "last_close": 88.48,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "entered": "2026-11-04",
+   "trigger_pct": -13.83,
+   "last_close": 120.29,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "CEG",
+   "name": "Constellation Energy",
+   "sector": "Utilities",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.71,
+   "last_close": 245.72,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.98,
+   "last_close": 101.36,
+   "first_entered": "2026-10-15"
+  },
+  {
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "entered": "2026-11-04",
+   "trigger_pct": -13.52,
+   "last_close": 83.25,
+   "first_entered": "2026-10-06"
+  },
+  {
+   "symbol": "BX",
+   "name": "Blackstone Inc.",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.24,
+   "last_close": 125.57,
+   "first_entered": "2026-10-14"
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.84,
+   "last_close": 118.77,
+   "first_entered": "2026-09-04"
+  },
+  {
+   "symbol": "GIS",
+   "name": "General Mills",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.19,
+   "last_close": 35.85,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "ARES",
+   "name": "Ares Management",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.14,
+   "last_close": 136.85,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "JKHY",
+   "name": "Jack Henry & Associates",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 10.83,
+   "last_close": 179.16,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "LUV",
+   "name": "Southwest Airlines",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.84,
+   "last_close": 46.42,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "DG",
+   "name": "Dollar General",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.52,
+   "last_close": 141.64,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.33,
+   "last_close": 145.49,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "MKC",
+   "name": "McCormick & Company",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.43,
+   "last_close": 50.48,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "FIS",
+   "name": "Fidelity National Information Services",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": -23.67,
+   "last_close": 29.76,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "EME",
+   "name": "Emcor",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -9.64,
+   "last_close": 639.25,
+   "first_entered": "2026-10-22"
+  },
+  {
+   "symbol": "MMM",
+   "name": "3M",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.55,
+   "last_close": 193.95,
+   "first_entered": "2026-10-21"
+  },
+  {
+   "symbol": "MSCI",
+   "name": "MSCI",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.4,
+   "last_close": 674.3,
+   "first_entered": "2026-10-21"
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mosaic Company (The)",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 17.37,
+   "last_close": 21.62,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc.",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 15.3,
+   "last_close": 87.63,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ZBH",
+   "name": "Zimmer Biomet",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 13.49,
+   "last_close": 110.15,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "SWK",
+   "name": "Stanley Black & Decker",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 13.1,
+   "last_close": 118.33,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 12.64,
+   "last_close": 76.01,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "HCA",
+   "name": "HCA Healthcare",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 10.34,
+   "last_close": 510.7,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "NEM",
+   "name": "Newmont",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.9,
+   "last_close": 118.11,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "BKNG",
+   "name": "Booking Holdings",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.83,
+   "last_close": 170.97,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "DLTR",
+   "name": "Dollar Tree",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.64,
+   "last_close": 147.0,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ISRG",
+   "name": "Intuitive Surgical",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 9.38,
+   "last_close": 482.1,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ALGN",
+   "name": "Align Technology",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.79,
+   "last_close": 164.9,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "APO",
+   "name": "Apollo Global Management",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 8.11,
+   "last_close": 122.76,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "UAL",
+   "name": "United Airlines Holdings",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.98,
+   "last_close": 115.76,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "LOW",
+   "name": "Lowe's",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.5,
+   "last_close": 229.38,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ZTS",
+   "name": "Zoetis",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.48,
+   "last_close": 89.2,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "CCL",
+   "name": "Carnival Corporation",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.26,
+   "last_close": 31.32,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "DAL",
+   "name": "Delta Air Lines",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.16,
+   "last_close": 89.24,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "STE",
+   "name": "Steris",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.16,
+   "last_close": 247.91,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.13,
+   "last_close": 208.9,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "HRL",
+   "name": "Hormel Foods",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.06,
+   "last_close": 22.76,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ADSK",
+   "name": "Autodesk",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 7.04,
+   "last_close": 270.09,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "MCK",
+   "name": "McKesson",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.98,
+   "last_close": 1069.4399,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "HSIC",
+   "name": "Henry Schein",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.96,
+   "last_close": 88.24,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.68,
+   "last_close": 555.8,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "PRU",
+   "name": "Prudential Financial",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.58,
+   "last_close": 126.63,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "PODD",
+   "name": "Insulet Corporation",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.56,
+   "last_close": 165.02,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "GWW",
+   "name": "W. W. Grainger",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.54,
+   "last_close": 1489.39,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "HD",
+   "name": "Home Depot (The)",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.53,
+   "last_close": 355.44,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "MCD",
+   "name": "McDonald's",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.53,
+   "last_close": 280.22,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "LVS",
+   "name": "Las Vegas Sands",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.48,
+   "last_close": 40.74,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.46,
+   "last_close": 270.08,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.31,
+   "last_close": 112.04,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "MDT",
+   "name": "Medtronic",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.15,
+   "last_close": 104.96,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.12,
+   "last_close": 266.03,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ROST",
+   "name": "Ross Stores",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.11,
+   "last_close": 245.74,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "WYNN",
+   "name": "Wynn Resorts",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 6.05,
+   "last_close": 82.38,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "DECK",
+   "name": "Deckers Brands",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.97,
+   "last_close": 89.11,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TROW",
+   "name": "T. Rowe Price",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.97,
+   "last_close": 112.57,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "YUM",
+   "name": "Yum! Brands",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.92,
+   "last_close": 166.31,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "COO",
+   "name": "Cooper Companies (The)",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.9,
+   "last_close": 64.42,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "SBAC",
+   "name": "SBA Communications",
+   "sector": "Real Estate",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.84,
+   "last_close": 195.48,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "CLX",
+   "name": "Clorox",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.71,
+   "last_close": 99.16,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ABNB",
+   "name": "Airbnb",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.64,
+   "last_close": 176.37,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "WY",
+   "name": "Weyerhaeuser",
+   "sector": "Real Estate",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.63,
+   "last_close": 21.75,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ABT",
+   "name": "Abbott Laboratories",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.59,
+   "last_close": 115.51,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "KKR",
+   "name": "KKR & Co.",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.57,
+   "last_close": 101.34,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "BDX",
+   "name": "Becton Dickinson",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.56,
+   "last_close": 209.19,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "EBAY",
+   "name": "eBay Inc.",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.5,
+   "last_close": 125.15,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "AJG",
+   "name": "Arthur J. Gallagher & Co.",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.46,
+   "last_close": 288.38,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "DPZ",
+   "name": "Domino's",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.45,
+   "last_close": 340.69,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "BLK",
+   "name": "BlackRock",
+   "sector": "Financials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.43,
+   "last_close": 1224.37,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solventum",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.42,
+   "last_close": 89.35,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TSN",
+   "name": "Tyson Foods",
+   "sector": "Consumer Staples",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.39,
+   "last_close": 60.03,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "BXP",
+   "name": "BXP, Inc.",
+   "sector": "Real Estate",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.32,
+   "last_close": 65.96,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.31,
+   "last_close": 349.51,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "ALB",
+   "name": "Albemarle Corporation",
+   "sector": "Materials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.3,
+   "last_close": 94.97,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "NKE",
+   "name": "Nike, Inc.",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.22,
+   "last_close": 40.49,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "OMC",
+   "name": "Omnicom Group",
+   "sector": "Communication Services",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.22,
+   "last_close": 87.51,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TJX",
+   "name": "TJX Companies",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.18,
+   "last_close": 144.76,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "DRI",
+   "name": "Darden Restaurants",
+   "sector": "Consumer Discretionary",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.11,
+   "last_close": 230.61,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "AOS",
+   "name": "A. O. Smith",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": 5.06,
+   "last_close": 67.07,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "COP",
+   "name": "ConocoPhillips",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.17,
+   "last_close": 136.94,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "EOG",
+   "name": "EOG Resources",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.23,
+   "last_close": 147.06,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "BKR",
+   "name": "Baker Hughes",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.53,
+   "last_close": 49.87,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "CMI",
+   "name": "Cummins",
+   "sector": "Industrials",
+   "entered": "2026-11-04",
+   "trigger_pct": -5.76,
+   "last_close": 471.84,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "WMB",
+   "name": "Williams Companies",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -6.36,
+   "last_close": 67.86,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "CVS",
+   "name": "CVS Health",
+   "sector": "Health Care",
+   "entered": "2026-11-04",
+   "trigger_pct": -12.53,
+   "last_close": 79.96,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "entered": "2026-11-04",
+   "trigger_pct": -13.36,
+   "last_close": 287.65,
+   "first_entered": "2026-11-04"
+  },
+  {
+   "symbol": "TRMB",
+   "name": "Trimble Inc.",
+   "sector": "Information Technology",
+   "entered": "2026-11-04",
+   "trigger_pct": -17.31,
+   "last_close": 54.25,
+   "first_entered": "2026-11-04"
   },
   {
    "symbol": "ORCL",
@@ -18,7 +1431,7 @@
    "sector": "Information Technology",
    "entered": "2026-11-03",
    "trigger_pct": 5.85,
-   "last_close": 126.19,
+   "last_close": 123.73,
    "first_entered": "2026-10-28"
   },
   {
@@ -27,26 +1440,8 @@
    "sector": "Health Care",
    "entered": "2026-11-03",
    "trigger_pct": 5.24,
-   "last_close": 25.49,
+   "last_close": 26.5,
    "first_entered": "2026-10-29"
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 9.05,
-   "last_close": 214.01,
-   "first_entered": "2026-09-29"
-  },
-  {
-   "symbol": "FIX",
-   "name": "Comfort Systems USA",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 7.08,
-   "last_close": 1285.13,
-   "first_entered": "2026-10-06"
   },
   {
    "symbol": "ILMN",
@@ -54,35 +1449,8 @@
    "sector": "Health Care",
    "entered": "2026-11-03",
    "trigger_pct": 5.13,
-   "last_close": 238.21,
+   "last_close": 226.54,
    "first_entered": "2026-09-23"
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 5.23,
-   "last_close": 235.97,
-   "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "ETN",
-   "name": "Eaton Corporation",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 7.0,
-   "last_close": 391.7,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "RDDT",
-   "name": "Reddit",
-   "sector": "Communication Services",
-   "entered": "2026-11-03",
-   "trigger_pct": 5.69,
-   "last_close": 96.15,
-   "first_entered": "2026-10-15"
   },
   {
    "symbol": "COIN",
@@ -90,17 +1458,8 @@
    "sector": "Financials",
    "entered": "2026-11-03",
    "trigger_pct": 5.53,
-   "last_close": 145.45,
+   "last_close": 151.5,
    "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "entered": "2026-11-03",
-   "trigger_pct": 7.28,
-   "last_close": 245.51,
-   "first_entered": "2026-09-21"
   },
   {
    "symbol": "RVTY",
@@ -108,7 +1467,7 @@
    "sector": "Health Care",
    "entered": "2026-11-03",
    "trigger_pct": 7.84,
-   "last_close": 163.48,
+   "last_close": 159.43,
    "first_entered": "2026-10-30"
   },
   {
@@ -117,71 +1476,8 @@
    "sector": "Information Technology",
    "entered": "2026-11-03",
    "trigger_pct": -13.19,
-   "last_close": 204.22,
+   "last_close": 207.19,
    "first_entered": "2026-10-08"
-  },
-  {
-   "symbol": "APH",
-   "name": "Amphenol",
-   "sector": "Information Technology",
-   "entered": "2026-11-03",
-   "trigger_pct": 5.45,
-   "last_close": 84.19,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "PWR",
-   "name": "Quanta Services",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 5.77,
-   "last_close": 657.0,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "GEV",
-   "name": "GE Vernova",
-   "sector": "Industrials",
-   "entered": "2026-11-03",
-   "trigger_pct": 6.49,
-   "last_close": 918.2,
-   "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "LEN",
-   "name": "Lennar",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-03",
-   "trigger_pct": -5.42,
-   "last_close": 86.09,
-   "first_entered": "2026-10-05"
-  },
-  {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
-   "sector": "Information Technology",
-   "entered": "2026-11-03",
-   "trigger_pct": 6.78,
-   "last_close": 1328.3,
-   "first_entered": "2026-09-14"
-  },
-  {
-   "symbol": "DHI",
-   "name": "D. R. Horton",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-03",
-   "trigger_pct": -5.03,
-   "last_close": 145.23,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "FISV",
-   "name": "Fiserv",
-   "sector": "Financials",
-   "entered": "2026-11-03",
-   "trigger_pct": 12.46,
-   "last_close": 58.4,
-   "first_entered": "2026-10-22"
   },
   {
    "symbol": "DD",
@@ -189,7 +1485,7 @@
    "sector": "Industrials",
    "entered": "2026-11-03",
    "trigger_pct": 8.61,
-   "last_close": 153.46,
+   "last_close": 150.73,
    "first_entered": "2026-11-03"
   },
   {
@@ -198,7 +1494,7 @@
    "sector": "Communication Services",
    "entered": "2026-11-03",
    "trigger_pct": 6.92,
-   "last_close": 67.1,
+   "last_close": 69.65,
    "first_entered": "2026-11-03"
   },
   {
@@ -207,16 +1503,7 @@
    "sector": "Communication Services",
    "entered": "2026-11-03",
    "trigger_pct": 6.56,
-   "last_close": 59.63,
-   "first_entered": "2026-11-03"
-  },
-  {
-   "symbol": "KDP",
-   "name": "Keurig Dr Pepper",
-   "sector": "Consumer Staples",
-   "entered": "2026-11-03",
-   "trigger_pct": -5.65,
-   "last_close": 34.74,
+   "last_close": 61.62,
    "first_entered": "2026-11-03"
   },
   {
@@ -225,7 +1512,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-11-03",
    "trigger_pct": -6.53,
-   "last_close": 41.34,
+   "last_close": 43.26,
    "first_entered": "2026-11-03"
   },
   {
@@ -234,7 +1521,7 @@
    "sector": "Industrials",
    "entered": "2026-11-03",
    "trigger_pct": -6.55,
-   "last_close": 134.72,
+   "last_close": 135.68,
    "first_entered": "2026-11-03"
   },
   {
@@ -243,16 +1530,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-11-03",
    "trigger_pct": -6.82,
-   "last_close": 70.6,
-   "first_entered": "2026-11-03"
-  },
-  {
-   "symbol": "BALL",
-   "name": "Ball Corporation",
-   "sector": "Materials",
-   "entered": "2026-11-03",
-   "trigger_pct": -7.14,
-   "last_close": 63.21,
+   "last_close": 70.84,
    "first_entered": "2026-11-03"
   },
   {
@@ -261,7 +1539,7 @@
    "sector": "Information Technology",
    "entered": "2026-11-03",
    "trigger_pct": -8.76,
-   "last_close": 329.5,
+   "last_close": 332.44,
    "first_entered": "2026-11-03"
   },
   {
@@ -270,44 +1548,8 @@
    "sector": "Consumer Staples",
    "entered": "2026-11-03",
    "trigger_pct": -9.33,
-   "last_close": 74.11,
+   "last_close": 76.94,
    "first_entered": "2026-11-03"
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -6.59,
-   "last_close": 1126.52,
-   "first_entered": "2026-10-12"
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -12.72,
-   "last_close": 171.97,
-   "first_entered": "2026-08-04"
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -18.59,
-   "last_close": 680.16,
-   "first_entered": "2026-08-04"
-  },
-  {
-   "symbol": "MU",
-   "name": "Micron Technology",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -5.78,
-   "last_close": 855.1,
-   "first_entered": "2026-10-14"
   },
   {
    "symbol": "INTC",
@@ -315,44 +1557,8 @@
    "sector": "Information Technology",
    "entered": "2026-11-02",
    "trigger_pct": -8.8,
-   "last_close": 60.55,
+   "last_close": 58.27,
    "first_entered": "2026-09-08"
-  },
-  {
-   "symbol": "P",
-   "name": "Everpure",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -10.4,
-   "last_close": 117.65,
-   "first_entered": "2026-09-21"
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.43,
-   "last_close": 408.4,
-   "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.52,
-   "last_close": 347.35,
-   "first_entered": "2026-10-06"
-  },
-  {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.88,
-   "last_close": 606.38,
-   "first_entered": "2026-08-12"
   },
   {
    "symbol": "AMD",
@@ -360,7 +1566,7 @@
    "sector": "Information Technology",
    "entered": "2026-11-02",
    "trigger_pct": -7.52,
-   "last_close": 483.9,
+   "last_close": 488.78,
    "first_entered": "2026-10-16"
   },
   {
@@ -369,17 +1575,8 @@
    "sector": "Real Estate",
    "entered": "2026-11-02",
    "trigger_pct": 5.47,
-   "last_close": 31.32,
+   "last_close": 32.58,
    "first_entered": "2026-10-08"
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.08,
-   "last_close": 53.1,
-   "first_entered": "2026-09-03"
   },
   {
    "symbol": "AKAM",
@@ -387,17 +1584,8 @@
    "sector": "Information Technology",
    "entered": "2026-11-02",
    "trigger_pct": -6.5,
-   "last_close": 86.53,
+   "last_close": 85.93,
    "first_entered": "2026-09-21"
-  },
-  {
-   "symbol": "DDOG",
-   "name": "Datadog",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -8.15,
-   "last_close": 220.52,
-   "first_entered": "2026-10-09"
   },
   {
    "symbol": "NTAP",
@@ -405,17 +1593,8 @@
    "sector": "Information Technology",
    "entered": "2026-11-02",
    "trigger_pct": -6.99,
-   "last_close": 190.78,
+   "last_close": 187.67,
    "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "SYK",
-   "name": "Stryker Corporation",
-   "sector": "Health Care",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.12,
-   "last_close": 310.55,
-   "first_entered": "2026-10-30"
   },
   {
    "symbol": "FTNT",
@@ -423,17 +1602,8 @@
    "sector": "Information Technology",
    "entered": "2026-11-02",
    "trigger_pct": -7.25,
-   "last_close": 128.11,
+   "last_close": 129.39,
    "first_entered": "2026-10-16"
-  },
-  {
-   "symbol": "DASH",
-   "name": "DoorDash",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-02",
-   "trigger_pct": 6.19,
-   "last_close": 183.32,
-   "first_entered": "2026-10-26"
   },
   {
    "symbol": "HWM",
@@ -441,35 +1611,8 @@
    "sector": "Industrials",
    "entered": "2026-11-02",
    "trigger_pct": 6.91,
-   "last_close": 223.12,
+   "last_close": 213.56,
    "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "CVNA",
-   "name": "Carvana",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.43,
-   "last_close": 71.28,
-   "first_entered": "2026-10-29"
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.62,
-   "last_close": 31.39,
-   "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "ARE",
-   "name": "Alexandria Real Estate Equities",
-   "sector": "Real Estate",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.9,
-   "last_close": 42.28,
-   "first_entered": "2026-10-14"
   },
   {
    "symbol": "PNR",
@@ -477,16 +1620,7 @@
    "sector": "Industrials",
    "entered": "2026-11-02",
    "trigger_pct": 6.49,
-   "last_close": 69.73,
-   "first_entered": "2026-10-28"
-  },
-  {
-   "symbol": "BSX",
-   "name": "Boston Scientific",
-   "sector": "Health Care",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.57,
-   "last_close": 43.5,
+   "last_close": 72.03,
    "first_entered": "2026-10-28"
   },
   {
@@ -495,7 +1629,7 @@
    "sector": "Industrials",
    "entered": "2026-11-02",
    "trigger_pct": 5.26,
-   "last_close": 96.27,
+   "last_close": 101.05,
    "first_entered": "2026-10-28"
   },
   {
@@ -504,7 +1638,7 @@
    "sector": "Real Estate",
    "entered": "2026-11-02",
    "trigger_pct": 6.13,
-   "last_close": 135.52,
+   "last_close": 141.11,
    "first_entered": "2026-10-15"
   },
   {
@@ -513,44 +1647,8 @@
    "sector": "Energy",
    "entered": "2026-11-02",
    "trigger_pct": -6.43,
-   "last_close": 298.56,
+   "last_close": 285.0,
    "first_entered": "2026-10-26"
-  },
-  {
-   "symbol": "NVR",
-   "name": "NVR, Inc.",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.14,
-   "last_close": 6024.7202,
-   "first_entered": "2026-10-26"
-  },
-  {
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "sector": "Health Care",
-   "entered": "2026-11-02",
-   "trigger_pct": -5.81,
-   "last_close": 351.87,
-   "first_entered": "2026-09-24"
-  },
-  {
-   "symbol": "CPRT",
-   "name": "Copart",
-   "sector": "Industrials",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.97,
-   "last_close": 31.06,
-   "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "PHM",
-   "name": "PulteGroup",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.25,
-   "last_close": 126.88,
-   "first_entered": "2026-10-22"
   },
   {
    "symbol": "IDXX",
@@ -558,25 +1656,7 @@
    "sector": "Health Care",
    "entered": "2026-11-02",
    "trigger_pct": 21.85,
-   "last_close": 672.04,
-   "first_entered": "2026-11-02"
-  },
-  {
-   "symbol": "CRH",
-   "name": "CRH plc",
-   "sector": "Materials",
-   "entered": "2026-11-02",
-   "trigger_pct": 6.36,
-   "last_close": 93.53,
-   "first_entered": "2026-11-02"
-  },
-  {
-   "symbol": "SHW",
-   "name": "Sherwin-Williams",
-   "sector": "Materials",
-   "entered": "2026-11-02",
-   "trigger_pct": 5.94,
-   "last_close": 340.87,
+   "last_close": 698.55,
    "first_entered": "2026-11-02"
   },
   {
@@ -585,16 +1665,7 @@
    "sector": "Industrials",
    "entered": "2026-11-02",
    "trigger_pct": 5.83,
-   "last_close": 1208.04,
-   "first_entered": "2026-11-02"
-  },
-  {
-   "symbol": "OXY",
-   "name": "Occidental Petroleum",
-   "sector": "Energy",
-   "entered": "2026-11-02",
-   "trigger_pct": -5.13,
-   "last_close": 60.43,
+   "last_close": 1216.88,
    "first_entered": "2026-11-02"
   },
   {
@@ -603,25 +1674,7 @@
    "sector": "Energy",
    "entered": "2026-11-02",
    "trigger_pct": -5.82,
-   "last_close": 192.34,
-   "first_entered": "2026-11-02"
-  },
-  {
-   "symbol": "DVN",
-   "name": "Devon Energy",
-   "sector": "Energy",
-   "entered": "2026-11-02",
-   "trigger_pct": -6.75,
-   "last_close": 47.62,
-   "first_entered": "2026-11-02"
-  },
-  {
-   "symbol": "APA",
-   "name": "APA Corporation",
-   "sector": "Energy",
-   "entered": "2026-11-02",
-   "trigger_pct": -7.57,
-   "last_close": 47.77,
+   "last_close": 182.88,
    "first_entered": "2026-11-02"
   },
   {
@@ -630,44 +1683,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -5.69,
-   "last_close": 156.2,
+   "last_close": 149.79,
    "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -7.38,
-   "last_close": 269.35,
-   "first_entered": "2026-09-04"
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -11.34,
-   "last_close": 207.49,
-   "first_entered": "2026-08-04"
-  },
-  {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -7.08,
-   "last_close": 88.1,
-   "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "ANET",
-   "name": "Arista Networks",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -8.34,
-   "last_close": 169.91,
-   "first_entered": "2026-10-15"
   },
   {
    "symbol": "LRCX",
@@ -675,7 +1692,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -6.01,
-   "last_close": 230.72,
+   "last_close": 221.43,
    "first_entered": "2026-08-04"
   },
   {
@@ -684,17 +1701,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -7.49,
-   "last_close": 381.92,
+   "last_close": 369.4,
    "first_entered": "2026-09-14"
-  },
-  {
-   "symbol": "JCI",
-   "name": "Johnson Controls",
-   "sector": "Industrials",
-   "entered": "2026-10-30",
-   "trigger_pct": -5.84,
-   "last_close": 149.91,
-   "first_entered": "2026-10-22"
   },
   {
    "symbol": "JBL",
@@ -702,7 +1710,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -5.23,
-   "last_close": 271.7,
+   "last_close": 258.56,
    "first_entered": "2026-10-01"
   },
   {
@@ -711,7 +1719,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -5.48,
-   "last_close": 332.13,
+   "last_close": 325.48,
    "first_entered": "2026-10-28"
   },
   {
@@ -720,7 +1728,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": 5.45,
-   "last_close": 404.24,
+   "last_close": 423.2,
    "first_entered": "2026-10-28"
   },
   {
@@ -729,7 +1737,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -6.91,
-   "last_close": 331.15,
+   "last_close": 329.72,
    "first_entered": "2026-10-28"
   },
   {
@@ -738,7 +1746,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-30",
    "trigger_pct": 6.21,
-   "last_close": 154.41,
+   "last_close": 159.17,
    "first_entered": "2026-10-09"
   },
   {
@@ -747,7 +1755,7 @@
    "sector": "Financials",
    "entered": "2026-10-30",
    "trigger_pct": -7.21,
-   "last_close": 85.68,
+   "last_close": 87.41,
    "first_entered": "2026-10-15"
   },
   {
@@ -756,17 +1764,8 @@
    "sector": "Materials",
    "entered": "2026-10-30",
    "trigger_pct": -5.55,
-   "last_close": 61.77,
+   "last_close": 62.6,
    "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -9.58,
-   "last_close": 28.27,
-   "first_entered": "2026-10-09"
   },
   {
    "symbol": "GDDY",
@@ -774,17 +1773,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": 10.72,
-   "last_close": 113.45,
+   "last_close": 118.32,
    "first_entered": "2026-09-08"
-  },
-  {
-   "symbol": "KEYS",
-   "name": "Keysight Technologies",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -6.86,
-   "last_close": 305.11,
-   "first_entered": "2026-10-22"
   },
   {
    "symbol": "TWLO",
@@ -792,7 +1782,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -15.24,
-   "last_close": 213.77,
+   "last_close": 213.5,
    "first_entered": "2026-10-16"
   },
   {
@@ -801,7 +1791,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-30",
    "trigger_pct": -6.27,
-   "last_close": 175.4,
+   "last_close": 171.7,
    "first_entered": "2026-10-09"
   },
   {
@@ -810,7 +1800,7 @@
    "sector": "Industrials",
    "entered": "2026-10-30",
    "trigger_pct": 14.91,
-   "last_close": 130.26,
+   "last_close": 129.43,
    "first_entered": "2026-10-30"
   },
   {
@@ -819,7 +1809,7 @@
    "sector": "Health Care",
    "entered": "2026-10-30",
    "trigger_pct": 13.33,
-   "last_close": 973.36,
+   "last_close": 930.67,
    "first_entered": "2026-10-30"
   },
   {
@@ -828,7 +1818,7 @@
    "sector": "Financials",
    "entered": "2026-10-30",
    "trigger_pct": 12.97,
-   "last_close": 98.0,
+   "last_close": 96.09,
    "first_entered": "2026-10-30"
   },
   {
@@ -837,7 +1827,7 @@
    "sector": "Financials",
    "entered": "2026-10-30",
    "trigger_pct": 6.77,
-   "last_close": 344.28,
+   "last_close": 345.21,
    "first_entered": "2026-10-30"
   },
   {
@@ -846,7 +1836,7 @@
    "sector": "Industrials",
    "entered": "2026-10-30",
    "trigger_pct": 6.77,
-   "last_close": 116.32,
+   "last_close": 117.02,
    "first_entered": "2026-10-30"
   },
   {
@@ -855,7 +1845,7 @@
    "sector": "Materials",
    "entered": "2026-10-30",
    "trigger_pct": 5.0,
-   "last_close": 66.09,
+   "last_close": 62.96,
    "first_entered": "2026-10-30"
   },
   {
@@ -864,34 +1854,7 @@
    "sector": "Financials",
    "entered": "2026-10-30",
    "trigger_pct": -5.96,
-   "last_close": 77.46,
-   "first_entered": "2026-10-30"
-  },
-  {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -6.91,
-   "last_close": 149.77,
-   "first_entered": "2026-10-30"
-  },
-  {
-   "symbol": "RMD",
-   "name": "ResMed",
-   "sector": "Health Care",
-   "entered": "2026-10-30",
-   "trigger_pct": -9.05,
-   "last_close": 227.08,
-   "first_entered": "2026-10-30"
-  },
-  {
-   "symbol": "QCOM",
-   "name": "Qualcomm",
-   "sector": "Information Technology",
-   "entered": "2026-10-30",
-   "trigger_pct": -11.12,
-   "last_close": 164.43,
+   "last_close": 77.88,
    "first_entered": "2026-10-30"
   },
   {
@@ -900,17 +1863,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-29",
    "trigger_pct": -26.95,
-   "last_close": 109.16,
+   "last_close": 108.81,
    "first_entered": "2026-10-01"
-  },
-  {
-   "symbol": "NCLH",
-   "name": "Norwegian Cruise Line Holdings",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-29",
-   "trigger_pct": 13.45,
-   "last_close": 17.42,
-   "first_entered": "2026-10-28"
   },
   {
    "symbol": "TSCO",
@@ -918,26 +1872,8 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-29",
    "trigger_pct": 6.45,
-   "last_close": 35.1,
+   "last_close": 36.58,
    "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "CMG",
-   "name": "Chipotle Mexican Grill",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-29",
-   "trigger_pct": 8.88,
-   "last_close": 33.26,
-   "first_entered": "2026-10-08"
-  },
-  {
-   "symbol": "DVA",
-   "name": "DaVita",
-   "sector": "Health Care",
-   "entered": "2026-10-29",
-   "trigger_pct": 5.1,
-   "last_close": 182.17,
-   "first_entered": "2026-10-21"
   },
   {
    "symbol": "CTSH",
@@ -945,7 +1881,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-29",
    "trigger_pct": -5.79,
-   "last_close": 63.83,
+   "last_close": 65.78,
    "first_entered": "2026-10-01"
   },
   {
@@ -954,17 +1890,8 @@
    "sector": "Industrials",
    "entered": "2026-10-29",
    "trigger_pct": 6.04,
-   "last_close": 84.56,
+   "last_close": 84.18,
    "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "CAT",
-   "name": "Caterpillar Inc.",
-   "sector": "Industrials",
-   "entered": "2026-10-29",
-   "trigger_pct": -9.25,
-   "last_close": 623.94,
-   "first_entered": "2026-10-07"
   },
   {
    "symbol": "GEN",
@@ -972,7 +1899,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-29",
    "trigger_pct": 15.81,
-   "last_close": 29.71,
+   "last_close": 30.89,
    "first_entered": "2026-10-29"
   },
   {
@@ -981,7 +1908,7 @@
    "sector": "Industrials",
    "entered": "2026-10-29",
    "trigger_pct": 13.23,
-   "last_close": 316.93,
+   "last_close": 303.99,
    "first_entered": "2026-10-29"
   },
   {
@@ -990,16 +1917,7 @@
    "sector": "Industrials",
    "entered": "2026-10-29",
    "trigger_pct": 11.67,
-   "last_close": 87.75,
-   "first_entered": "2026-10-29"
-  },
-  {
-   "symbol": "LHX",
-   "name": "L3Harris",
-   "sector": "Industrials",
-   "entered": "2026-10-29",
-   "trigger_pct": 6.84,
-   "last_close": 277.67,
+   "last_close": 86.65,
    "first_entered": "2026-10-29"
   },
   {
@@ -1008,7 +1926,7 @@
    "sector": "Health Care",
    "entered": "2026-10-29",
    "trigger_pct": 6.63,
-   "last_close": 1409.38,
+   "last_close": 1417.99,
    "first_entered": "2026-10-29"
   },
   {
@@ -1017,7 +1935,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-29",
    "trigger_pct": 5.93,
-   "last_close": 121.02,
+   "last_close": 125.31,
    "first_entered": "2026-10-29"
   },
   {
@@ -1026,16 +1944,7 @@
    "sector": "Materials",
    "entered": "2026-10-29",
    "trigger_pct": 5.78,
-   "last_close": 284.6,
-   "first_entered": "2026-10-29"
-  },
-  {
-   "symbol": "MGM",
-   "name": "MGM Resorts",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-29",
-   "trigger_pct": 5.72,
-   "last_close": 31.02,
+   "last_close": 297.69,
    "first_entered": "2026-10-29"
   },
   {
@@ -1044,7 +1953,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-29",
    "trigger_pct": 5.69,
-   "last_close": 262.79,
+   "last_close": 265.01,
    "first_entered": "2026-10-29"
   },
   {
@@ -1053,16 +1962,7 @@
    "sector": "Materials",
    "entered": "2026-10-29",
    "trigger_pct": 5.45,
-   "last_close": 43.42,
-   "first_entered": "2026-10-29"
-  },
-  {
-   "symbol": "MAS",
-   "name": "Masco",
-   "sector": "Industrials",
-   "entered": "2026-10-29",
-   "trigger_pct": 5.43,
-   "last_close": 82.18,
+   "last_close": 45.19,
    "first_entered": "2026-10-29"
   },
   {
@@ -1071,7 +1971,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-10-29",
    "trigger_pct": 5.15,
-   "last_close": 76.94,
+   "last_close": 78.01,
    "first_entered": "2026-10-29"
   },
   {
@@ -1080,7 +1980,7 @@
    "sector": "Industrials",
    "entered": "2026-10-29",
    "trigger_pct": -9.6,
-   "last_close": 157.5,
+   "last_close": 156.39,
    "first_entered": "2026-10-29"
   },
   {
@@ -1089,7 +1989,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-29",
    "trigger_pct": -12.29,
-   "last_close": 278.27,
+   "last_close": 287.3,
    "first_entered": "2026-10-29"
   },
   {
@@ -1098,7 +1998,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-29",
    "trigger_pct": -12.64,
-   "last_close": 280.03,
+   "last_close": 288.93,
    "first_entered": "2026-10-29"
   },
   {
@@ -1107,7 +2007,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-28",
    "trigger_pct": 6.07,
-   "last_close": 462.88,
+   "last_close": 462.95,
    "first_entered": "2026-10-22"
   },
   {
@@ -1116,17 +2016,8 @@
    "sector": "Communication Services",
    "entered": "2026-10-28",
    "trigger_pct": 5.65,
-   "last_close": 101.94,
+   "last_close": 98.62,
    "first_entered": "2026-10-05"
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "entered": "2026-10-28",
-   "trigger_pct": 7.7,
-   "last_close": 228.44,
-   "first_entered": "2026-08-07"
   },
   {
    "symbol": "CDNS",
@@ -1134,17 +2025,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-28",
    "trigger_pct": 6.3,
-   "last_close": 323.75,
+   "last_close": 329.52,
    "first_entered": "2026-10-01"
-  },
-  {
-   "symbol": "GNRC",
-   "name": "Generac",
-   "sector": "Industrials",
-   "entered": "2026-10-28",
-   "trigger_pct": 6.4,
-   "last_close": 209.28,
-   "first_entered": "2026-10-14"
   },
   {
    "symbol": "BRO",
@@ -1152,7 +2034,7 @@
    "sector": "Financials",
    "entered": "2026-10-28",
    "trigger_pct": -7.32,
-   "last_close": 70.92,
+   "last_close": 73.89,
    "first_entered": "2026-10-22"
   },
   {
@@ -1161,7 +2043,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -6.47,
-   "last_close": 115.65,
+   "last_close": 118.71,
    "first_entered": "2026-10-22"
   },
   {
@@ -1170,7 +2052,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-28",
    "trigger_pct": 7.64,
-   "last_close": 118.89,
+   "last_close": 118.78,
    "first_entered": "2026-10-22"
   },
   {
@@ -1179,26 +2061,8 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-28",
    "trigger_pct": 8.09,
-   "last_close": 88.34,
+   "last_close": 92.43,
    "first_entered": "2026-10-21"
-  },
-  {
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "sector": "Energy",
-   "entered": "2026-10-28",
-   "trigger_pct": -6.35,
-   "last_close": 427.34,
-   "first_entered": "2026-09-21"
-  },
-  {
-   "symbol": "VLO",
-   "name": "Valero Energy",
-   "sector": "Energy",
-   "entered": "2026-10-28",
-   "trigger_pct": -8.97,
-   "last_close": 387.65,
-   "first_entered": "2026-10-01"
   },
   {
    "symbol": "LH",
@@ -1206,7 +2070,7 @@
    "sector": "Health Care",
    "entered": "2026-10-28",
    "trigger_pct": 9.2,
-   "last_close": 353.92,
+   "last_close": 367.79,
    "first_entered": "2026-10-28"
   },
   {
@@ -1215,16 +2079,7 @@
    "sector": "Materials",
    "entered": "2026-10-28",
    "trigger_pct": 7.77,
-   "last_close": 121.24,
-   "first_entered": "2026-10-28"
-  },
-  {
-   "symbol": "RCL",
-   "name": "Royal Caribbean Group",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-28",
-   "trigger_pct": 6.31,
-   "last_close": 313.17,
+   "last_close": 127.27,
    "first_entered": "2026-10-28"
   },
   {
@@ -1233,7 +2088,7 @@
    "sector": "Materials",
    "entered": "2026-10-28",
    "trigger_pct": 5.61,
-   "last_close": 273.53,
+   "last_close": 267.91,
    "first_entered": "2026-10-28"
   },
   {
@@ -1242,16 +2097,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": 5.48,
-   "last_close": 66.81,
-   "first_entered": "2026-10-28"
-  },
-  {
-   "symbol": "GEHC",
-   "name": "GE HealthCare",
-   "sector": "Health Care",
-   "entered": "2026-10-28",
-   "trigger_pct": 5.33,
-   "last_close": 80.66,
+   "last_close": 68.34,
    "first_entered": "2026-10-28"
   },
   {
@@ -1260,7 +2106,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": 5.28,
-   "last_close": 109.17,
+   "last_close": 114.31,
    "first_entered": "2026-10-28"
   },
   {
@@ -1269,7 +2115,7 @@
    "sector": "Materials",
    "entered": "2026-10-28",
    "trigger_pct": 5.24,
-   "last_close": 247.66,
+   "last_close": 240.12,
    "first_entered": "2026-10-28"
   },
   {
@@ -1278,7 +2124,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -5.01,
-   "last_close": 177.68,
+   "last_close": 179.39,
    "first_entered": "2026-10-28"
   },
   {
@@ -1287,7 +2133,7 @@
    "sector": "Real Estate",
    "entered": "2026-10-28",
    "trigger_pct": -5.04,
-   "last_close": 264.9,
+   "last_close": 271.52,
    "first_entered": "2026-10-28"
   },
   {
@@ -1296,7 +2142,7 @@
    "sector": "Energy",
    "entered": "2026-10-28",
    "trigger_pct": -5.22,
-   "last_close": 271.94,
+   "last_close": 259.63,
    "first_entered": "2026-10-28"
   },
   {
@@ -1305,7 +2151,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -5.23,
-   "last_close": 296.01,
+   "last_close": 303.54,
    "first_entered": "2026-10-28"
   },
   {
@@ -1314,7 +2160,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -5.47,
-   "last_close": 449.27,
+   "last_close": 438.26,
    "first_entered": "2026-10-28"
   },
   {
@@ -1323,7 +2169,7 @@
    "sector": "Real Estate",
    "entered": "2026-10-28",
    "trigger_pct": -5.57,
-   "last_close": 241.17,
+   "last_close": 247.99,
    "first_entered": "2026-10-28"
   },
   {
@@ -1332,7 +2178,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -5.81,
-   "last_close": 223.74,
+   "last_close": 229.03,
    "first_entered": "2026-10-28"
   },
   {
@@ -1341,16 +2187,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -6.58,
-   "last_close": 234.67,
-   "first_entered": "2026-10-28"
-  },
-  {
-   "symbol": "GRMN",
-   "name": "Garmin",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-28",
-   "trigger_pct": -6.97,
-   "last_close": 271.44,
+   "last_close": 238.49,
    "first_entered": "2026-10-28"
   },
   {
@@ -1359,16 +2196,7 @@
    "sector": "Real Estate",
    "entered": "2026-10-28",
    "trigger_pct": -7.26,
-   "last_close": 87.04,
-   "first_entered": "2026-10-28"
-  },
-  {
-   "symbol": "UHS",
-   "name": "Universal Health Services",
-   "sector": "Health Care",
-   "entered": "2026-10-28",
-   "trigger_pct": -7.29,
-   "last_close": 177.13,
+   "last_close": 89.2,
    "first_entered": "2026-10-28"
   },
   {
@@ -1377,7 +2205,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -8.95,
-   "last_close": 133.51,
+   "last_close": 133.84,
    "first_entered": "2026-10-28"
   },
   {
@@ -1386,7 +2214,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -9.03,
-   "last_close": 346.49,
+   "last_close": 358.96,
    "first_entered": "2026-10-28"
   },
   {
@@ -1395,7 +2223,7 @@
    "sector": "Industrials",
    "entered": "2026-10-28",
    "trigger_pct": -11.24,
-   "last_close": 173.31,
+   "last_close": 177.0,
    "first_entered": "2026-10-28"
   },
   {
@@ -1404,7 +2232,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-26",
    "trigger_pct": 8.25,
-   "last_close": 244.68,
+   "last_close": 241.0,
    "first_entered": "2026-10-16"
   },
   {
@@ -1413,17 +2241,8 @@
    "sector": "Communication Services",
    "entered": "2026-10-26",
    "trigger_pct": -7.96,
-   "last_close": 21.39,
+   "last_close": 21.83,
    "first_entered": "2026-10-09"
-  },
-  {
-   "symbol": "LMT",
-   "name": "Lockheed Martin",
-   "sector": "Industrials",
-   "entered": "2026-10-26",
-   "trigger_pct": 7.68,
-   "last_close": 639.0,
-   "first_entered": "2026-10-22"
   },
   {
    "symbol": "PANW",
@@ -1431,7 +2250,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-26",
    "trigger_pct": 10.01,
-   "last_close": 350.2,
+   "last_close": 348.04,
    "first_entered": "2026-10-09"
   },
   {
@@ -1440,17 +2259,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-26",
    "trigger_pct": -13.99,
-   "last_close": 724.38,
+   "last_close": 701.03,
    "first_entered": "2026-09-29"
-  },
-  {
-   "symbol": "CCI",
-   "name": "Crown Castle",
-   "sector": "Real Estate",
-   "entered": "2026-10-26",
-   "trigger_pct": 9.06,
-   "last_close": 86.58,
-   "first_entered": "2026-10-09"
   },
   {
    "symbol": "SLB",
@@ -1458,7 +2268,7 @@
    "sector": "Energy",
    "entered": "2026-10-26",
    "trigger_pct": 7.12,
-   "last_close": 52.13,
+   "last_close": 51.56,
    "first_entered": "2026-10-26"
   },
   {
@@ -1467,7 +2277,7 @@
    "sector": "Energy",
    "entered": "2026-10-26",
    "trigger_pct": 6.78,
-   "last_close": 34.07,
+   "last_close": 33.0,
    "first_entered": "2026-10-26"
   },
   {
@@ -1476,16 +2286,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-26",
    "trigger_pct": 6.66,
-   "last_close": 312.49,
-   "first_entered": "2026-10-26"
-  },
-  {
-   "symbol": "TGT",
-   "name": "Target Corporation",
-   "sector": "Consumer Staples",
-   "entered": "2026-10-26",
-   "trigger_pct": -6.06,
-   "last_close": 154.4,
+   "last_close": 311.49,
    "first_entered": "2026-10-26"
   },
   {
@@ -1494,35 +2295,8 @@
    "sector": "Financials",
    "entered": "2026-10-26",
    "trigger_pct": -6.88,
-   "last_close": 158.2,
+   "last_close": 161.72,
    "first_entered": "2026-10-26"
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "entered": "2026-10-26",
-   "trigger_pct": -5.92,
-   "last_close": 113.79,
-   "first_entered": "2026-10-26"
-  },
-  {
-   "symbol": "EXPE",
-   "name": "Expedia Group",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-22",
-   "trigger_pct": -5.03,
-   "last_close": 285.77,
-   "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "DXCM",
-   "name": "Dexcom",
-   "sector": "Health Care",
-   "entered": "2026-10-22",
-   "trigger_pct": -6.39,
-   "last_close": 82.97,
-   "first_entered": "2026-10-15"
   },
   {
    "symbol": "SKYD",
@@ -1530,7 +2304,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-22",
    "trigger_pct": 10.85,
-   "last_close": 8.08,
+   "last_close": 8.39,
    "first_entered": "2026-10-14"
   },
   {
@@ -1539,7 +2313,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-22",
    "trigger_pct": -5.31,
-   "last_close": 63.42,
+   "last_close": 66.39,
    "first_entered": "2026-10-22"
   },
   {
@@ -1548,26 +2322,8 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 6.59,
-   "last_close": 187.72,
+   "last_close": 192.21,
    "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "entered": "2026-10-22",
-   "trigger_pct": -9.81,
-   "last_close": 139.59,
-   "first_entered": "2026-10-06"
-  },
-  {
-   "symbol": "CEG",
-   "name": "Constellation Energy",
-   "sector": "Utilities",
-   "entered": "2026-10-22",
-   "trigger_pct": -5.74,
-   "last_close": 263.4,
-   "first_entered": "2026-10-06"
   },
   {
    "symbol": "INTU",
@@ -1575,17 +2331,8 @@
    "sector": "Information Technology",
    "entered": "2026-10-22",
    "trigger_pct": 5.75,
-   "last_close": 344.72,
+   "last_close": 356.64,
    "first_entered": "2026-09-14"
-  },
-  {
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "sector": "Consumer Discretionary",
-   "entered": "2026-10-22",
-   "trigger_pct": 6.07,
-   "last_close": 93.87,
-   "first_entered": "2026-10-15"
   },
   {
    "symbol": "LULU",
@@ -1593,35 +2340,8 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-22",
    "trigger_pct": 7.8,
-   "last_close": 106.95,
+   "last_close": 112.06,
    "first_entered": "2026-10-15"
-  },
-  {
-   "symbol": "NRG",
-   "name": "NRG Energy",
-   "sector": "Utilities",
-   "entered": "2026-10-22",
-   "trigger_pct": -5.43,
-   "last_close": 96.26,
-   "first_entered": "2026-10-06"
-  },
-  {
-   "symbol": "BX",
-   "name": "Blackstone Inc.",
-   "sector": "Financials",
-   "entered": "2026-10-22",
-   "trigger_pct": 8.38,
-   "last_close": 118.19,
-   "first_entered": "2026-10-14"
-  },
-  {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
-   "sector": "Information Technology",
-   "entered": "2026-10-22",
-   "trigger_pct": -8.1,
-   "last_close": 126.14,
-   "first_entered": "2026-09-04"
   },
   {
    "symbol": "ACN",
@@ -1629,7 +2349,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-22",
    "trigger_pct": 7.69,
-   "last_close": 254.56,
+   "last_close": 264.27,
    "first_entered": "2026-10-01"
   },
   {
@@ -1638,7 +2358,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 11.02,
-   "last_close": 189.35,
+   "last_close": 192.69,
    "first_entered": "2026-10-22"
   },
   {
@@ -1647,16 +2367,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-22",
    "trigger_pct": 9.73,
-   "last_close": 473.58,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "GIS",
-   "name": "General Mills",
-   "sector": "Consumer Staples",
-   "entered": "2026-10-22",
-   "trigger_pct": 8.01,
-   "last_close": 34.08,
+   "last_close": 492.22,
    "first_entered": "2026-10-22"
   },
   {
@@ -1665,7 +2376,7 @@
    "sector": "Financials",
    "entered": "2026-10-22",
    "trigger_pct": 7.47,
-   "last_close": 106.97,
+   "last_close": 109.7,
    "first_entered": "2026-10-22"
   },
   {
@@ -1674,7 +2385,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-10-22",
    "trigger_pct": 6.77,
-   "last_close": 24.52,
+   "last_close": 25.44,
    "first_entered": "2026-10-22"
   },
   {
@@ -1683,7 +2394,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 6.76,
-   "last_close": 50.72,
+   "last_close": 52.05,
    "first_entered": "2026-10-22"
   },
   {
@@ -1692,7 +2403,7 @@
    "sector": "Utilities",
    "entered": "2026-10-22",
    "trigger_pct": 6.29,
-   "last_close": 146.42,
+   "last_close": 149.63,
    "first_entered": "2026-10-22"
   },
   {
@@ -1701,7 +2412,7 @@
    "sector": "Information Technology",
    "entered": "2026-10-22",
    "trigger_pct": 6.07,
-   "last_close": 246.14,
+   "last_close": 248.48,
    "first_entered": "2026-10-22"
   },
   {
@@ -1710,16 +2421,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-10-22",
    "trigger_pct": 5.83,
-   "last_close": 66.81,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "ARES",
-   "name": "Ares Management",
-   "sector": "Financials",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.72,
-   "last_close": 128.93,
+   "last_close": 68.97,
    "first_entered": "2026-10-22"
   },
   {
@@ -1728,7 +2430,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 5.71,
-   "last_close": 197.0,
+   "last_close": 197.85,
    "first_entered": "2026-10-22"
   },
   {
@@ -1737,7 +2439,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-10-22",
    "trigger_pct": 5.58,
-   "last_close": 162.06,
+   "last_close": 167.32,
    "first_entered": "2026-10-22"
   },
   {
@@ -1746,25 +2448,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 5.56,
-   "last_close": 37.35,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "JKHY",
-   "name": "Jack Henry & Associates",
-   "sector": "Financials",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.47,
-   "last_close": 161.66,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "LUV",
-   "name": "Southwest Airlines",
-   "sector": "Industrials",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.39,
-   "last_close": 43.45,
+   "last_close": 38.38,
    "first_entered": "2026-10-22"
   },
   {
@@ -1773,7 +2457,7 @@
    "sector": "Health Care",
    "entered": "2026-10-22",
    "trigger_pct": 5.34,
-   "last_close": 248.93,
+   "last_close": 254.46,
    "first_entered": "2026-10-22"
   },
   {
@@ -1782,25 +2466,7 @@
    "sector": "Consumer Staples",
    "entered": "2026-10-22",
    "trigger_pct": 5.33,
-   "last_close": 104.46,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "DG",
-   "name": "Dollar General",
-   "sector": "Consumer Staples",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.29,
-   "last_close": 130.52,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "STZ",
-   "name": "Constellation Brands",
-   "sector": "Consumer Staples",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.27,
-   "last_close": 138.13,
+   "last_close": 108.79,
    "first_entered": "2026-10-22"
   },
   {
@@ -1809,25 +2475,7 @@
    "sector": "Financials",
    "entered": "2026-10-22",
    "trigger_pct": 5.19,
-   "last_close": 269.67,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "MKC",
-   "name": "McCormick & Company",
-   "sector": "Consumer Staples",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.16,
-   "last_close": 47.88,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "FIS",
-   "name": "Fidelity National Information Services",
-   "sector": "Financials",
-   "entered": "2026-10-22",
-   "trigger_pct": 5.13,
-   "last_close": 38.99,
+   "last_close": 279.96,
    "first_entered": "2026-10-22"
   },
   {
@@ -1836,16 +2484,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": 5.03,
-   "last_close": 242.87,
-   "first_entered": "2026-10-22"
-  },
-  {
-   "symbol": "EME",
-   "name": "Emcor",
-   "sector": "Industrials",
-   "entered": "2026-10-22",
-   "trigger_pct": -5.54,
-   "last_close": 707.43,
+   "last_close": 245.41,
    "first_entered": "2026-10-22"
   },
   {
@@ -1854,7 +2493,7 @@
    "sector": "Industrials",
    "entered": "2026-10-22",
    "trigger_pct": -6.78,
-   "last_close": 944.99,
+   "last_close": 910.19,
    "first_entered": "2026-10-22"
   },
   {
@@ -1863,7 +2502,7 @@
    "sector": "Communication Services",
    "entered": "2026-10-22",
    "trigger_pct": -6.98,
-   "last_close": 621.03,
+   "last_close": 630.0,
    "first_entered": "2026-10-22"
   },
   {
@@ -1872,25 +2511,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-21",
    "trigger_pct": 11.2,
-   "last_close": 117.97,
-   "first_entered": "2026-10-21"
-  },
-  {
-   "symbol": "MMM",
-   "name": "3M",
-   "sector": "Industrials",
-   "entered": "2026-10-21",
-   "trigger_pct": 5.78,
-   "last_close": 177.05,
-   "first_entered": "2026-10-21"
-  },
-  {
-   "symbol": "MSCI",
-   "name": "MSCI",
-   "sector": "Financials",
-   "entered": "2026-10-21",
-   "trigger_pct": 5.0,
-   "last_close": 639.78,
+   "last_close": 121.58,
    "first_entered": "2026-10-21"
   },
   {
@@ -1899,7 +2520,7 @@
    "sector": "Consumer Discretionary",
    "entered": "2026-10-21",
    "trigger_pct": -5.12,
-   "last_close": 124.27,
+   "last_close": 126.4,
    "first_entered": "2026-10-21"
   }
  ]

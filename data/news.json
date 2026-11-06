@@ -1,41 +1,46 @@
 {
- "updated": "2026-11-06T01:36:16Z",
+ "updated": "2026-11-06T06:38:39Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+    "title": "Nasdaq Stock Market Correction: 3 Words From Warren Buffett To Remember RIght Now",
+    "link": "https://www.fool.com/investing/2026/11/06/nasdaq-stock-market-correction-three-words-from-warren-buffett-to-remember-now/?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:27:02 +0000"
+   },
+   {
+    "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+    "link": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 05:20:00 +0000"
+   },
+   {
+    "title": "Dow Jones Futures Fall, Techs Rise After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
     "link": "https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 01:26:25 +0000"
-   },
-   {
-    "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014  NVDA, AAPL, UBER, SOXX In Focus",
-    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-dip-as-investors-step-back-from-ai-and-tech-with-nasdaq-in-correction-territory-nvda-aapl-uber-soxx-in-focus/cNGlIylR94A?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 01:00:30 +0000"
-   },
-   {
-    "title": "Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026",
-    "link": "https://www.marketbeat.com/instant-alerts/event-box-unveils-ai-agent-tools-and-nvidia-partnership-at-boxworks-2026-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 00:14:32 +0000"
+    "pubDate": "Fri, 06 Nov 2026 04:05:01 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "\u2018Everyone Needs Compute\u2019: Lisa Su Sees AMD\u2019s AI Data Center Business More Than Doubling in 2027 as Wedbush Backs $600 Target",
+    "link": "https://finance.yahoo.com/technology/ai/articles/everyone-needs-compute-lisa-su-023005975.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 02:30:05 +0000"
+   },
+   {
+    "title": "AMD CEO Lisa Su Addresses AI Infrastructure Bottleneck Fears: 'We Have Good Visibility Into 2027'",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-ceo-lisa-su-addresses-013006320.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 01:30:06 +0000"
+   },
+   {
     "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
     "link": "https://www.fool.com/investing/2026/11/05/cathie-wood-just-sold-amd-stock-and-bought-this-ai/?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 23:20:00 +0000"
-   },
-   {
-    "title": "Stock Market Today, Nov. 5: Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 22:15:02 +0000"
-   },
-   {
-    "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 22:12:00 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Stock Could Be 37% Undervalued Despite Fresh AI Demand News",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-37-021738809.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 02:17:38 +0000"
+   },
    {
     "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
     "link": "https://app.moby.co/home/news/news-the-ai-trade-just-had-its-worst-day-since-the-pandemic?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Stocks Fall 6.42% With $21.7 Billion AI Forecast in Focus",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-fall-6-42-185039421.html?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 18:50:39 +0000"
-   },
-   {
-    "title": "Broadcom Sinks 9% as AI Regulation Fears Deepen Chip Rout",
-    "link": "https://www.tikr.com/blog/broadcom-sinks-9-as-ai-regulation-fears-deepen-chip-rout?ref=yahoofinance&tlnk=yf-261105-vc2p4rjf&.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 18:25:08 +0000"
    }
   ],
   "TSM": [
@@ -76,31 +76,31 @@
     "pubDate": "Thu, 05 Nov 2026 21:59:41 +0000"
    },
    {
+    "title": "Intel (INTC) Brings Hardware Backed Security To EdgeAI And Sharpens Xeon AI Case",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 02:21:04 +0000"
+   },
+   {
     "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-intel-falls-on-weak-fourth-quarter-sales-outlook-amid-chip-selloff/?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 22:22:16 +0000"
-   },
-   {
-    "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 22:12:00 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-    "link": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 22:12:00 +0000"
+    "title": "Micron Stock Has Lost Over 40% Since Its June Record. I'd Still Buy It.",
+    "link": "https://www.fool.com/investing/2026/11/06/micron-stock-has-lost-over-40-since-its-june-record-i-d-still-buy-it/?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:13:02 +0000"
    },
    {
-    "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects",
-    "link": "https://finance.yahoo.com/m/22d20c1e-16b9-3302-8560-b385ac404513/micron-stock-plunges-as.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 21:35:03 +0000"
+    "title": "A 60-Year-Old Who Bought 1,000 Micron Shares at $192 Just Lost $138,840. He\u2019s Still Up $464,000. Here\u2019s What Happens Next.",
+    "link": "https://247wallst.com/investing/2026/11/05/a-60-year-old-who-bought-1000-micron-shares-at-192-just-lost-138840-hes-still-up-464000-heres-what-happens-next/?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 03:21:54 +0000"
    },
    {
-    "title": "US stocks plummet as Democrat victory sparks investor panic",
-    "link": "https://uk.finance.yahoo.com/news/us-stocks-nosedive-democrat-victory-213240012.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 21:32:40 +0000"
+    "title": "Ecopro Co Ltd (XKRX:086520) (Q3 2026) Earnings Call Highlights: Micron Orders and Recycling ...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ecopro-co-ltd-xkrx-086520-030825144.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 03:08:25 +0000"
    }
   ],
   "SNDK": [
@@ -122,19 +122,19 @@
   ],
   "WDC": [
    {
+    "title": "Why Are Western Digital (WDC) Shares Falling On AI Data Center Policy Risk?",
+    "link": "https://finance.yahoo.com/economy/policy/articles/why-western-digital-wdc-shares-021912081.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 02:19:12 +0000"
+   },
+   {
+    "title": "Micron Technology vs. Western Digital: Which Tech Stock Is the Better Buy for 2027?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/11/05/micron-technology-vs-western-digital-which-tech-stock-is-the-better-buy-for-2027/?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 01:59:01 +0000"
+   },
+   {
     "title": "Western Digital's Gross Margin Momentum: How Long Can It Last?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-gross-margin-momentum-115500721.html?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 11:55:00 +0000"
-   },
-   {
-    "title": "Top 3 AI Stocks To Watch In November 2026",
-    "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-stocks-watch-071837177.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 07:18:37 +0000"
-   },
-   {
-    "title": "Western Digital (WDC) Stock Sees Fair Value Cut As Analysts Weigh HDD Strength",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-sees-051947495.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 05:19:47 +0000"
    }
   ],
   "STX": [
@@ -161,14 +161,14 @@
     "pubDate": "Fri, 06 Nov 2026 01:00:30 +0000"
    },
    {
+    "title": "Dan Ives Remains Bullish on Palantir Despite Sector Weakness. What This Means for PLTR Stock.",
+    "link": "https://www.barchart.com/story/news/8684147/dan-ives-remains-bullish-on-palantir-despite-sector-weakness-what-this-means-for-pltr-stock?.tsrc=rss",
+    "pubDate": "Thu, 05 Nov 2026 21:14:15 +0000"
+   },
+   {
     "title": "2 Semiconductor ETFs Drawing Bearish Options Traders Today",
     "link": "https://finance.yahoo.com/markets/options/articles/2-semiconductor-etfs-drawing-bearish-162400740.html?.tsrc=rss",
     "pubDate": "Thu, 05 Nov 2026 16:24:00 +0000"
-   },
-   {
-    "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and NVDA on Nov. 3",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110441023.html?.tsrc=rss",
-    "pubDate": "Thu, 05 Nov 2026 11:04:41 +0000"
    }
   ],
   "SOXL": [

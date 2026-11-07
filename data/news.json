@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-07T00:58:18Z",
+ "updated": "2026-11-07T05:55:23Z",
  "news": {
   "NVDA": [
    {
-    "title": "Chip rally may be time for investors to 'harvest cash and wait'",
-    "link": "https://finance.yahoo.com/video/chip-rally-may-be-time-for-investors-to-harvest-cash-and-wait-221657650.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 22:16:57 +0000"
+    "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020",
+    "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 05:06:52 +0000"
+   },
+   {
+    "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 01:30:53 +0000"
    },
    {
     "title": "Nvidia (NVDA) Tightens Chip Tracking In Southeast Asia",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-tightens-chip-tracking-001552079.html?.tsrc=rss",
     "pubDate": "Sat, 07 Nov 2026 00:15:52 +0000"
-   },
-   {
-    "title": "Warren Buffett Says This 1 Investing Move Is Key After a Midterm Election. History Says He's Right.",
-    "link": "https://www.fool.com/investing/2026/11/06/warren-buffett-says-this-1-investing-move-is-key-a/?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 23:20:00 +0000"
    }
   ],
   "AMD": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Micron stock flashes bargain pricing signal with costly catch",
+    "link": "https://www.thestreet.com/investing/stocks/micron-stock-valuation-risk?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 02:47:00 +0000"
+   },
+   {
     "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Look Broken; Apple, Amazon, Microsoft Strong",
     "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 23:41:36 +0000"
@@ -96,14 +101,14 @@
     "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-micron-technology-jumps-as-chip-stocks-rebound-from-thursday-s-rout/?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 22:56:15 +0000"
-   },
-   {
-    "title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-nvidia-ai-stock-211242383.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 21:12:42 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Better Stock Split to Buy: Meta Platforms vs. Sandisk",
+    "link": "https://www.fool.com/investing/2026/11/07/better-stock-split-to-buy-meta-platforms-vs-sandis/?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 05:20:00 +0000"
+   },
    {
     "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Look Broken; Apple, Amazon, Microsoft Strong",
     "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "The Chip Stock Bloodbath Is a Case Study in the Risks of Leveraged ETFs",
     "link": "https://finance.yahoo.com/m/e1cc3675-f7f1-37df-be78-62a32fbe2487/the-chip-stock-bloodbath-is-a.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 21:28:00 +0000"
-   },
-   {
-    "title": "Sandisk Stock Has Lost About 64% Since June. Here's the Price at Which I'd Buy It.",
-    "link": "https://www.fool.com/investing/2026/11/06/sandisk-stock-has-lost-about-64-since-june-here-s-the-price-at-which-i-d-buy-it/?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 21:07:19 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "Market Minute 11-6-26- AI Stocks Routed; Tech Loses $2.3 TLN",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-11-6-26-141500562.html?.tsrc=rss",
+    "pubDate": "Fri, 06 Nov 2026 14:15:00 +0000"
+   },
+   {
     "title": "Chip Stocks Just Had Their Second-Worst Day on Record",
     "link": "https://247wallst.com/investing/2026/11/06/chip-stocks-just-had-their-second-worst-day-on-record/?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 14:02:43 +0000"
@@ -164,11 +169,6 @@
     "title": "iShares PHLX SOX Semi Sector Index Fund (SOXX) Adds AMD and NVDA on Wednesday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-sector-110502951.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 11:05:02 +0000"
-   },
-   {
-    "title": "53 ETFs Add to Advanced Micro Devices (AMD) on Nov. 4",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-advanced-micro-110148785.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 11:01:48 +0000"
    }
   ],
   "SOXL": [

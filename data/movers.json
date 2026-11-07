@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-06T06:38:46Z",
- "coverage": 500,
+ "updated": "2026-11-07T05:55:28Z",
+ "coverage": 431,
  "gainers": [
   {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "close": 356.1,
-   "pct": 31.04
-  },
-  {
-   "symbol": "TPR",
-   "name": "Tapestry, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 134.17,
-   "pct": 7.07
-  },
-  {
-   "symbol": "VRSK",
-   "name": "Verisk Analytics",
-   "sector": "Industrials",
-   "close": 211.47,
-   "pct": 6.88
-  },
-  {
-   "symbol": "CPAY",
-   "name": "Corpay",
-   "sector": "Financials",
-   "close": 447.0,
-   "pct": 6.78
-  },
-  {
-   "symbol": "CF",
-   "name": "CF Industries",
-   "sector": "Materials",
-   "close": 118.57,
-   "pct": 6.17
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 125.86,
-   "pct": 4.67
-  },
-  {
-   "symbol": "MSI",
-   "name": "Motorola Solutions",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 517.01,
-   "pct": 4.03
-  },
-  {
-   "symbol": "ALB",
-   "name": "Albemarle Corporation",
-   "sector": "Materials",
-   "close": 98.37,
-   "pct": 3.58
-  },
-  {
-   "symbol": "MOS",
-   "name": "Mosaic Company (The)",
-   "sector": "Materials",
-   "close": 22.33,
-   "pct": 3.28
-  },
-  {
-   "symbol": "STE",
-   "name": "Steris",
-   "sector": "Health Care",
-   "close": 254.12,
-   "pct": 2.5
-  }
- ],
- "losers": [
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
-   "sector": "Information Technology",
-   "close": 806.43,
-   "pct": -22.26
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 509.7,
-   "pct": -18.68
-  },
-  {
-   "symbol": "MU",
-   "name": "Micron Technology",
-   "sector": "Information Technology",
-   "close": 656.39,
-   "pct": -17.46
-  },
-  {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 267.63,
-   "pct": -17.35
+   "close": 192.81,
+   "pct": 13.58
   },
   {
    "symbol": "AMD",
    "name": "Advanced Micro Devices",
    "sector": "Information Technology",
-   "close": 404.4,
-   "pct": -17.26
+   "close": 449.04,
+   "pct": 11.04
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "sector": "Information Technology",
-   "close": 133.55,
-   "pct": -16.43
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 167.52,
-   "pct": -16.41
-  },
-  {
-   "symbol": "P",
-   "name": "Everpure",
-   "sector": "Information Technology",
-   "close": 93.44,
-   "pct": -16.4
+   "symbol": "NRG",
+   "name": "NRG Energy",
+   "sector": "Utilities",
+   "close": 88.29,
+   "pct": 9.61
   },
   {
    "symbol": "LRCX",
    "name": "Lam Research",
    "sector": "Information Technology",
-   "close": 185.2,
-   "pct": -16.36
+   "close": 200.44,
+   "pct": 8.23
   },
   {
-   "symbol": "STX",
-   "name": "Seagate Technology",
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "sector": "Health Care",
+   "close": 337.52,
+   "pct": 7.83
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
    "sector": "Information Technology",
-   "close": 466.53,
-   "pct": -16.25
+   "close": 56.28,
+   "pct": 7.71
+  },
+  {
+   "symbol": "AKAM",
+   "name": "Akamai Technologies",
+   "sector": "Information Technology",
+   "close": 83.09,
+   "pct": 6.74
+  },
+  {
+   "symbol": "KLAC",
+   "name": "KLA Corporation",
+   "sector": "Information Technology",
+   "close": 138.49,
+   "pct": 6.69
+  },
+  {
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "close": 540.9,
+   "pct": 6.25
+  },
+  {
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "close": 28.76,
+   "pct": 6.2
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 313.0,
+   "pct": -18.18
+  },
+  {
+   "symbol": "MCHP",
+   "name": "Microchip Technology",
+   "sector": "Information Technology",
+   "close": 58.35,
+   "pct": -10.02
+  },
+  {
+   "symbol": "CHTR",
+   "name": "Charter Communications",
+   "sector": "Communication Services",
+   "close": 118.07,
+   "pct": -6.19
+  },
+  {
+   "symbol": "PODD",
+   "name": "Insulet Corporation",
+   "sector": "Health Care",
+   "close": 146.51,
+   "pct": -6.16
+  },
+  {
+   "symbol": "DXCM",
+   "name": "Dexcom",
+   "sector": "Health Care",
+   "close": 79.41,
+   "pct": -5.98
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "sector": "Health Care",
+   "close": 69.74,
+   "pct": -5.97
+  },
+  {
+   "symbol": "DLTR",
+   "name": "Dollar Tree",
+   "sector": "Consumer Staples",
+   "close": 131.14,
+   "pct": -4.93
+  },
+  {
+   "symbol": "EXPE",
+   "name": "Expedia Group",
+   "sector": "Consumer Discretionary",
+   "close": 259.24,
+   "pct": -4.86
+  },
+  {
+   "symbol": "BKNG",
+   "name": "Booking Holdings",
+   "sector": "Consumer Discretionary",
+   "close": 160.67,
+   "pct": -4.77
+  },
+  {
+   "symbol": "CSGP",
+   "name": "CoStar Group",
+   "sector": "Real Estate",
+   "close": 30.55,
+   "pct": -4.68
   }
  ]
 }

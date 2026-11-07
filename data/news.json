@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:12:24Z",
+ "updated": "2026-11-07T00:58:18Z",
  "news": {
   "NVDA": [
    {
@@ -8,14 +8,14 @@
     "pubDate": "Fri, 06 Nov 2026 22:16:57 +0000"
    },
    {
+    "title": "Nvidia (NVDA) Tightens Chip Tracking In Southeast Asia",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-tightens-chip-tracking-001552079.html?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 00:15:52 +0000"
+   },
+   {
     "title": "Warren Buffett Says This 1 Investing Move Is Key After a Midterm Election. History Says He's Right.",
     "link": "https://www.fool.com/investing/2026/11/06/warren-buffett-says-this-1-investing-move-is-key-a/?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 23:20:00 +0000"
-   },
-   {
-    "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
-    "link": "https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 23:11:44 +0000"
    }
   ],
   "AMD": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Jim Cramer Says the AI Sell-Off \u201cIs Not Like 2000.\u201d Here\u2019s His Case",
+    "link": "https://247wallst.com/investing/2026/11/06/jim-cramer-says-the-ai-sell-off-is-not-like-2000-heres-his-case/?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 00:09:10 +0000"
+   },
+   {
     "title": "Charlie Bilello Says \u201cSome Sanity Has Returned to the Market.\u201d What That Means for Your Portfolio",
     "link": "https://247wallst.com/investing/2026/11/06/charlie-bilello-says-some-sanity-has-returned-to-the-market-what-that-means-for-your-portfolio/?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 22:07:28 +0000"
@@ -198,11 +203,6 @@
     "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181230703.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 18:12:30 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher, Equity Futures Mixed as US October Jobs Rise More than Expected",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-142316139.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 14:23:16 +0000"
    }
   ],
   "SPY": [

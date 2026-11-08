@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-07T18:49:54Z",
+ "updated": "2026-11-08T01:28:16Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
-    "link": "https://www.fool.com/investing/2026/11/07/nvidia-stock-has-more-than-60-upside-according-to/?.tsrc=rss",
-    "pubDate": "Sat, 07 Nov 2026 18:20:00 +0000"
+    "title": "NVIDIA And 2 Other AI Stocks To Watch",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 23:12:49 +0000"
    },
    {
-    "title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
-    "link": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss",
-    "pubDate": "Sat, 07 Nov 2026 17:33:39 +0000"
+    "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+    "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/?.tsrc=rss",
+    "pubDate": "Sun, 08 Nov 2026 00:58:02 +0000"
    },
    {
-    "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
-    "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors?.tsrc=rss",
-    "pubDate": "Sat, 07 Nov 2026 17:17:00 +0000"
+    "title": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
+    "link": "https://www.fool.com/investing/2026/11/07/warren-buffett-greg-abel-just-sent-shockwaves-through-wall-street-with-377-billion-warning/?.tsrc=rss",
+    "pubDate": "Sun, 08 Nov 2026 00:43:01 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+    "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/?.tsrc=rss",
+    "pubDate": "Sun, 08 Nov 2026 00:58:02 +0000"
+   },
    {
     "title": "AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?",
     "link": "https://www.fool.com/investing/2026/11/07/amd-stock-popped-after-earnings-then-gave-it-back/?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "Advanced Micro Devices (AMD) Recently Crashed Out of the $1 Trillion Club. Should You Buy the Dip?",
     "link": "https://www.fool.com/investing/2026/11/07/advanced-micro-devices-amd-crashed-1-trillion-buy/?.tsrc=rss",
     "pubDate": "Sat, 07 Nov 2026 10:48:00 +0000"
-   },
-   {
-    "title": "1 Reason to Buy AMD Stock Before 2027",
-    "link": "https://www.fool.com/investing/2026/11/07/1-reason-to-buy-amd-stock-before-2027/?.tsrc=rss",
-    "pubDate": "Sat, 07 Nov 2026 09:25:00 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html?.tsrc=rss",
+    "pubDate": "Sun, 08 Nov 2026 00:22:40 +0000"
+   },
+   {
     "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
     "link": "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/?.tsrc=rss",
     "pubDate": "Sat, 07 Nov 2026 15:13:51 +0000"
@@ -62,11 +67,6 @@
     "title": "Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
     "link": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-194817754.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 19:48:17 +0000"
-   },
-   {
-    "title": "TSMC Makes the Chips for Both Nvidia and AMD. Here's What a $5,000 Investment Could Be Worth by 2030.",
-    "link": "https://www.fool.com/investing/2026/11/06/tsmc-makes-the-chips-for-both-nvidia-and-amd-heres/?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 18:34:00 +0000"
    }
   ],
   "INTC": [
@@ -122,6 +122,11 @@
   ],
   "WDC": [
    {
+    "title": "The AI Memory Boom Isn\u2019t Over: Why Billionaires Are Backing Western Digital (WDC)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-boom-isn-t-191739668.html?.tsrc=rss",
+    "pubDate": "Sat, 07 Nov 2026 19:17:39 +0000"
+   },
+   {
     "title": "Marvell and Western Digital Just Had Their Worst Week Since 2001",
     "link": "https://247wallst.com/investing/2026/11/07/marvell-and-western-digital-just-had-their-worst-week-since-2001/?.tsrc=rss",
     "pubDate": "Sat, 07 Nov 2026 13:11:06 +0000"
@@ -130,11 +135,6 @@
     "title": "Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-falls-ai-091335015.html?.tsrc=rss",
     "pubDate": "Sat, 07 Nov 2026 09:13:35 +0000"
-   },
-   {
-    "title": "Memory stocks grab the AI headlines: Is this drive maker the bigger bargain?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/memory-stocks-grab-ai-headlines-143859249.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 14:38:59 +0000"
    }
   ],
   "STX": [

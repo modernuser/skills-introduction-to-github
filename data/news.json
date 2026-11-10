@@ -1,41 +1,46 @@
 {
- "updated": "2026-11-10T03:37:57Z",
+ "updated": "2026-11-10T07:13:44Z",
  "news": {
   "NVDA": [
    {
-    "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-formfactor-amkor-teradyne-nvidia-024536276.html?.tsrc=rss",
-    "pubDate": "Tue, 10 Nov 2026 02:45:36 +0000"
-   },
-   {
-    "title": "Nvidia Faces Class Action Suit Over Huang Allegations; Senator Seeks Probe, Analyst Puts CEO Exit Odds At 15%",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-faces-class-action-suit-over-huang-allegations-senator-seeks-probe-analyst-puts-ceo-exit-odds-at-15/cNGuT97R97g?.tsrc=rss",
-    "pubDate": "Tue, 10 Nov 2026 02:44:48 +0000"
-   },
-   {
     "title": "Tech leads Asian stock rally as traders track Wall St rebound",
     "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html?.tsrc=rss",
-    "pubDate": "Tue, 10 Nov 2026 02:39:30 +0000"
+    "pubDate": "Tue, 10 Nov 2026 07:08:38 +0000"
+   },
+   {
+    "title": "Why Is TSM Stock Rising Overnight?",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-is-tsm-stock-rising-overnight/cNGuJ4aR97V?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 07:02:08 +0000"
+   },
+   {
+    "title": "AMD Stock Clocks Best Day In 6 Months \u2014  But Michael Burry Won\u2019t Touch The Nvidia Headline Trade",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-michael-burry-wont-touch-nvidia-headline-trade/cNGu40nR97l?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 05:59:07 +0000"
    }
   ],
   "AMD": [
    {
+    "title": "AMD Stock Clocks Best Day In 6 Months \u2014  But Michael Burry Won\u2019t Touch The Nvidia Headline Trade",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-michael-burry-wont-touch-nvidia-headline-trade/cNGu40nR97l?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 05:59:07 +0000"
+   },
+   {
+    "title": "3 Growth Stocks To Watch With Up To 58% Earnings Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 05:20:25 +0000"
+   },
+   {
     "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html?.tsrc=rss",
     "pubDate": "Tue, 10 Nov 2026 02:37:36 +0000"
-   },
-   {
-    "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
-    "link": "https://www.fool.com/investing/2026/11/09/the-ai-trade-looks-like-its-falling-apart-amds-ear/?.tsrc=rss",
-    "pubDate": "Tue, 10 Nov 2026 01:20:00 +0000"
-   },
-   {
-    "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/?.tsrc=rss",
-    "pubDate": "Mon, 09 Nov 2026 22:30:02 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Brings VM API To Open Source And Expands Kubernetes Reach",
+    "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-brings-vm-api-061320441.html?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 06:13:20 +0000"
+   },
    {
     "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html?.tsrc=rss",
@@ -45,28 +50,23 @@
     "title": "The Real Winner of Google\u2019s $135 Billion Chip Forecast: Broadcom",
     "link": "https://www.tikr.com/blog/the-real-winner-of-googles-135-billion-chip-forecast-broadcom?ref=yahoofinance&tlnk=yf-261109-h64jj3hh&.tsrc=rss",
     "pubDate": "Mon, 09 Nov 2026 20:45:31 +0000"
-   },
-   {
-    "title": "Broadcom Stock Is Down Over 25% in 3 Months. How to Play the Selloff Here.",
-    "link": "https://www.barchart.com/story/news/8740927/broadcom-stock-is-down-over-25-in-3-months-how-to-play-the-selloff-here?.tsrc=rss",
-    "pubDate": "Mon, 09 Nov 2026 19:53:19 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Why Is TSM Stock Rising Overnight?",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-is-tsm-stock-rising-overnight/cNGuJ4aR97V?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 07:02:08 +0000"
+   },
+   {
+    "title": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-oct-revenue-jumps-60-064407771.html?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 06:44:07 +0000"
+   },
+   {
     "title": "Micron Soars 5% as TSMC Sticks to the \u201cGlobal Logic IC\u201d Industry, Not Memory",
     "link": "https://www.tikr.com/blog/micron-soars-5-as-tsmc-sticks-to-the-global-logic-ic-industry-not-memory?ref=yahoofinance&tlnk=yf-261109-346xjcj3&.tsrc=rss",
     "pubDate": "Mon, 09 Nov 2026 19:35:54 +0000"
-   },
-   {
-    "title": "TSMC Stocks Rise 4.68% as Taiwan Curbs Short Selling, Deploys Stabilization Fund",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-rise-4-68-185010441.html?.tsrc=rss",
-    "pubDate": "Mon, 09 Nov 2026 18:50:10 +0000"
-   },
-   {
-    "title": "Micron Stock Gets Some Relief as This Big Threat Got Kicked Into the Long Grass",
-    "link": "https://finance.yahoo.com/m/e38a4a3c-6530-3954-9118-6aa88fe89efa/micron-stock-gets-some-relief.html?.tsrc=rss",
-    "pubDate": "Mon, 09 Nov 2026 18:10:00 +0000"
    }
   ],
   "INTC": [
@@ -105,6 +105,11 @@
   ],
   "SNDK": [
    {
+    "title": "Sandisk And 2 Cash Flow Stocks To Watch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-2-cash-flow-stocks-061328934.html?.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 06:13:28 +0000"
+   },
+   {
     "title": "Sandisk (SNDK) Stock Looks Reasonable On Its 212% One Year Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-looks-reasonable-191628354.html?.tsrc=rss",
     "pubDate": "Mon, 09 Nov 2026 19:16:28 +0000"
@@ -113,11 +118,6 @@
     "title": "SanDisk's 64% collapse: another leg down or buying opportunity?",
     "link": "https://www.thestreet.com/investing/stocks/sndk-sandisks-64-percent-collapse-another-leg-down-or-golden-buying-opportunity?.tsrc=rss",
     "pubDate": "Mon, 09 Nov 2026 19:03:00 +0000"
-   },
-   {
-    "title": "Micron Rises 6% as Bulls Tout Its Bargain Valuation and Buyback Firepower; Seagate and Western Digital Jump 11%",
-    "link": "https://247wallst.com/investing/2026/11/09/micron-rises-6-as-bulls-tout-its-bargain-valuation-and-buyback-firepower-seagate-and-western-digital-jump-11/?.tsrc=rss",
-    "pubDate": "Mon, 09 Nov 2026 17:52:31 +0000"
    }
   ],
   "WDC": [
@@ -156,6 +156,11 @@
   ],
   "SOXX": [
    {
+    "title": "'Objectively Hilarious': Anthony Pompliano Sees Jensen Huang Affair Potentially Marking the Bottom for AI Stocks \u2014 What Do Crypto Bettors Think?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63077754/jensen-huang-nvidia-anthony-pompliano-ai-sell-off-bottom?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Tue, 10 Nov 2026 03:32:54 +0000"
+   },
+   {
     "title": "Market Minute 11-6-26- AI Stocks Routed; Tech Loses $2.3 TLN",
     "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-11-6-26-141500562.html?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 14:15:00 +0000"
@@ -164,11 +169,6 @@
     "title": "Chip Stocks Just Had Their Second-Worst Day on Record",
     "link": "https://247wallst.com/investing/2026/11/06/chip-stocks-just-had-their-second-worst-day-on-record/?.tsrc=rss",
     "pubDate": "Fri, 06 Nov 2026 14:02:43 +0000"
-   },
-   {
-    "title": "iShares PHLX SOX Semi Sector Index Fund (SOXX) Adds AMD and NVDA on Wednesday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-sector-110502951.html?.tsrc=rss",
-    "pubDate": "Fri, 06 Nov 2026 11:05:02 +0000"
    }
   ],
   "SOXL": [

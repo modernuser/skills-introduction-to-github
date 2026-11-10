@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-07T05:55:28Z",
- "coverage": 431,
+ "updated": "2026-11-10T07:13:52Z",
+ "coverage": 501,
  "gainers": [
+  {
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "close": 133.92,
+   "pct": 18.63
+  },
+  {
+   "symbol": "ANET",
+   "name": "Arista Networks",
+   "sector": "Information Technology",
+   "close": 186.17,
+   "pct": 16.97
+  },
+  {
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 596.16,
+   "pct": 16.96
+  },
   {
    "symbol": "COHR",
    "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 192.81,
-   "pct": 13.58
+   "close": 225.19,
+   "pct": 16.79
   },
   {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
    "sector": "Information Technology",
-   "close": 449.04,
-   "pct": 11.04
+   "close": 1388.05,
+   "pct": 16.6
   },
   {
-   "symbol": "NRG",
-   "name": "NRG Energy",
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "close": 193.88,
+   "pct": 15.74
+  },
+  {
+   "symbol": "CEG",
+   "name": "Constellation Energy",
    "sector": "Utilities",
-   "close": 88.29,
-   "pct": 9.61
+   "close": 276.09,
+   "pct": 15.21
   },
   {
-   "symbol": "LRCX",
-   "name": "Lam Research",
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 410.0,
+   "pct": 15.14
+  },
+  {
+   "symbol": "Q",
+   "name": "Qnity Electronics",
    "sector": "Information Technology",
-   "close": 200.44,
-   "pct": 8.23
+   "close": 125.09,
+   "pct": 13.68
   },
   {
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "sector": "Health Care",
-   "close": 337.52,
-   "pct": 7.83
-  },
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "close": 200.47,
+   "pct": 13.43
+  }
+ ],
+ "losers": [
   {
-   "symbol": "INTC",
-   "name": "Intel",
+   "symbol": "GDDY",
+   "name": "GoDaddy",
    "sector": "Information Technology",
-   "close": 56.28,
-   "pct": 7.71
+   "close": 111.71,
+   "pct": -7.0
+  },
+  {
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
+   "sector": "Information Technology",
+   "close": 190.21,
+   "pct": -4.98
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "close": 191.61,
+   "pct": -4.74
+  },
+  {
+   "symbol": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "close": 178.67,
+   "pct": -4.27
+  },
+  {
+   "symbol": "KHC",
+   "name": "Kraft Heinz",
+   "sector": "Consumer Staples",
+   "close": 24.42,
+   "pct": -3.55
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "close": 207.4,
+   "pct": -3.48
   },
   {
    "symbol": "AKAM",
    "name": "Akamai Technologies",
    "sector": "Information Technology",
-   "close": 83.09,
-   "pct": 6.74
+   "close": 80.29,
+   "pct": -3.37
   },
   {
-   "symbol": "KLAC",
-   "name": "KLA Corporation",
-   "sector": "Information Technology",
-   "close": 138.49,
-   "pct": 6.69
+   "symbol": "DOW",
+   "name": "Dow Inc.",
+   "sector": "Materials",
+   "close": 30.96,
+   "pct": -3.19
   },
-  {
-   "symbol": "PWR",
-   "name": "Quanta Services",
-   "sector": "Industrials",
-   "close": 540.9,
-   "pct": 6.25
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Information Technology",
-   "close": 28.76,
-   "pct": 6.2
-  }
- ],
- "losers": [
   {
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "sector": "Industrials",
-   "close": 313.0,
-   "pct": -18.18
+   "close": 303.18,
+   "pct": -3.14
   },
   {
-   "symbol": "MCHP",
-   "name": "Microchip Technology",
-   "sector": "Information Technology",
-   "close": 58.35,
-   "pct": -10.02
-  },
-  {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 118.07,
-   "pct": -6.19
-  },
-  {
-   "symbol": "PODD",
-   "name": "Insulet Corporation",
+   "symbol": "DVA",
+   "name": "DaVita",
    "sector": "Health Care",
-   "close": 146.51,
-   "pct": -6.16
-  },
-  {
-   "symbol": "DXCM",
-   "name": "Dexcom",
-   "sector": "Health Care",
-   "close": 79.41,
-   "pct": -5.98
-  },
-  {
-   "symbol": "CNC",
-   "name": "Centene Corporation",
-   "sector": "Health Care",
-   "close": 69.74,
-   "pct": -5.97
-  },
-  {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 131.14,
-   "pct": -4.93
-  },
-  {
-   "symbol": "EXPE",
-   "name": "Expedia Group",
-   "sector": "Consumer Discretionary",
-   "close": 259.24,
-   "pct": -4.86
-  },
-  {
-   "symbol": "BKNG",
-   "name": "Booking Holdings",
-   "sector": "Consumer Discretionary",
-   "close": 160.67,
-   "pct": -4.77
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 30.55,
-   "pct": -4.68
+   "close": 185.54,
+   "pct": -3.04
   }
  ]
 }

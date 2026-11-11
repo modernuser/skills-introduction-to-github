@@ -12,82 +12,82 @@
      "name": "NVIDIA",
      "shares": 4.399395,
      "start_close": 206.64,
-     "last_close": 178.67
+     "last_close": 168.89
     },
     {
      "symbol": "AMD",
      "name": "Advanced Micro Devices",
      "shares": 1.875807,
      "start_close": 484.64,
-     "last_close": 508.58
+     "last_close": 515.21
     },
     {
      "symbol": "AVGO",
      "name": "Broadcom",
      "shares": 2.31775,
      "start_close": 392.23,
-     "last_close": 319.48
+     "last_close": 331.98
     },
     {
      "symbol": "TSM",
      "name": "TSMC",
      "shares": 2.238534,
      "start_close": 406.11,
-     "last_close": 388.62
+     "last_close": 396.48
     },
     {
      "symbol": "INTC",
      "name": "Intel",
      "shares": 9.99001,
      "start_close": 91.0,
-     "last_close": 59.37
+     "last_close": 58.13
     },
     {
      "symbol": "MU",
      "name": "Micron Technology",
      "shares": 1.09595,
      "start_close": 829.5,
-     "last_close": 733.15
+     "last_close": 725.11
     },
     {
      "symbol": "SNDK",
      "name": "SanDisk",
      "shares": 0.705799,
      "start_close": 1288.03,
-     "last_close": 886.51
+     "last_close": 859.99
     },
     {
      "symbol": "WDC",
      "name": "Western Digital",
      "shares": 1.72431,
      "start_close": 527.22,
-     "last_close": 289.78
+     "last_close": 289.2
     },
     {
      "symbol": "STX",
      "name": "Seagate Technology",
      "shares": 1.093893,
      "start_close": 831.06,
-     "last_close": 506.14
+     "last_close": 501.62
     },
     {
      "symbol": "SOXX",
      "name": "iShares Semiconductor ETF",
      "shares": 1.790677,
      "start_close": 507.68,
-     "last_close": 146.76
+     "last_close": 146.59
     },
     {
      "symbol": "SOXL",
      "name": "Direxion Semi Bull 3X",
      "shares": 7.789315,
      "start_close": 116.71,
-     "last_close": 56.2
+     "last_close": 56.06
     }
    ],
-   "value": 7126.65,
-   "return_pct": -28.73,
-   "alpha_pp": -28.07
+   "value": 7095.37,
+   "return_pct": -29.05,
+   "alpha_pp": -28.03
   },
   "dartboard": {
    "label": "Dartboard (random)",
@@ -97,35 +97,35 @@
      "name": "Tractor Supply",
      "shares": 28.311769,
      "start_close": 32.11,
-     "last_close": 37.4
+     "last_close": 37.5
     },
     {
      "symbol": "CAH",
      "name": "Cardinal Health",
      "shares": 3.85862,
      "start_close": 235.6,
-     "last_close": 274.29
+     "last_close": 276.79
     },
     {
      "symbol": "CVX",
      "name": "Chevron Corporation",
      "shares": 4.705927,
      "start_close": 193.18,
-     "last_close": 210.78
+     "last_close": 211.22
     },
     {
      "symbol": "KO",
      "name": "Coca-Cola Company (The)",
      "shares": 10.466163,
      "start_close": 86.86,
-     "last_close": 96.03
+     "last_close": 96.91
     },
     {
      "symbol": "MTD",
      "name": "Mettler Toledo",
      "shares": 0.629129,
      "start_close": 1445.0,
-     "last_close": 1762.28
+     "last_close": 1751.38
     },
     {
      "symbol": "FDXF",
@@ -146,33 +146,33 @@
      "name": "Simon Property Group",
      "shares": 3.967058,
      "start_close": 229.16,
-     "last_close": 233.01
+     "last_close": 234.48
     },
     {
      "symbol": "EFX",
      "name": "Equifax",
      "shares": 5.22136,
      "start_close": 174.11,
-     "last_close": 188.33
+     "last_close": 188.23
     },
     {
      "symbol": "RF",
      "name": "Regions Financial Corporation",
      "shares": 28.878364,
      "start_close": 31.48,
-     "last_close": 28.93
+     "last_close": 28.7
     },
     {
      "symbol": "NSC",
      "name": "Norfolk Southern",
      "shares": 2.700404,
      "start_close": 336.65,
-     "last_close": 325.82
+     "last_close": 327.93
     }
    ],
-   "value": 10605.2,
-   "return_pct": 6.05,
-   "alpha_pp": 6.71
+   "value": 10626.47,
+   "return_pct": 6.26,
+   "alpha_pp": 7.28
   },
   "spy": {
    "label": "Just buy SPY",
@@ -182,12 +182,12 @@
      "name": "SPY",
      "shares": 13.198358,
      "start_close": 757.67,
-     "last_close": 752.69
+     "last_close": 749.92
     }
    ],
-   "value": 9934.27,
-   "return_pct": -0.66,
-   "alpha_pp": 0.0
+   "value": 9897.71,
+   "return_pct": -1.02,
+   "alpha_pp": -0.0
   },
   "trend": {
    "label": "Trend quality (r2 >= 0.88)",
@@ -207,68 +207,68 @@
      "name": "Humana",
      "shares": 2.761211,
      "start_close": 362.16,
-     "last_close": 423.22
+     "last_close": 438.06
     },
     {
      "symbol": "DVA",
      "name": "DaVita",
      "shares": 4.386157,
      "start_close": 227.99,
-     "last_close": 185.54
+     "last_close": 179.28
     },
     {
      "symbol": "CVS",
      "name": "CVS Health",
      "shares": 9.576709,
      "start_close": 104.42,
-     "last_close": 85.25
+     "last_close": 89.01
     },
     {
      "symbol": "STT",
      "name": "State Street Corporation",
      "shares": 5.398694,
      "start_close": 185.23,
-     "last_close": 170.88
+     "last_close": 171.62
     },
     {
      "symbol": "MNST",
      "name": "Monster Beverage",
      "shares": 10.617966,
      "start_close": 94.18,
-     "last_close": 45.64
+     "last_close": 45.34
     },
     {
      "symbol": "BXP",
      "name": "BXP, Inc.",
      "shares": 14.150276,
      "start_close": 70.67,
-     "last_close": 66.19
+     "last_close": 63.54
     },
     {
      "symbol": "MET",
      "name": "MetLife",
      "shares": 10.40258,
      "start_close": 96.13,
-     "last_close": 101.67
+     "last_close": 102.44
     },
     {
      "symbol": "AIZ",
      "name": "Assurant",
      "shares": 3.554797,
      "start_close": 281.31,
-     "last_close": 317.21
+     "last_close": 322.16
     },
     {
      "symbol": "GL",
      "name": "Globe Life",
      "shares": 5.437738,
      "start_close": 183.9,
-     "last_close": 161.83
+     "last_close": 163.46
     }
    ],
-   "value": 9111.03,
-   "return_pct": -8.89,
-   "alpha_pp": -6.47
+   "value": 9158.34,
+   "return_pct": -8.42,
+   "alpha_pp": -5.65
   }
  },
  "history": [
@@ -1201,7 +1201,14 @@
    "dartboard": 6.05,
    "spy": -0.66,
    "trend": -8.89
+  },
+  {
+   "date": "2026-11-10",
+   "owner": -29.05,
+   "dartboard": 6.26,
+   "spy": -1.02,
+   "trend": -8.42
   }
  ],
- "asof": "2026-11-09"
+ "asof": "2026-11-10"
 }

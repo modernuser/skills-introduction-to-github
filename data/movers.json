@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-11T06:11:54Z",
- "coverage": 431,
+ "updated": "2026-11-12T07:35:56Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 134.06,
-   "pct": 10.61
-  },
-  {
-   "symbol": "TTWO",
-   "name": "Take-Two Interactive",
-   "sector": "Communication Services",
-   "close": 224.64,
-   "pct": 8.31
-  },
-  {
-   "symbol": "CVS",
-   "name": "CVS Health",
-   "sector": "Health Care",
-   "close": 89.01,
-   "pct": 4.41
-  },
-  {
-   "symbol": "AKAM",
-   "name": "Akamai Technologies",
+   "symbol": "MU",
+   "name": "Micron Technology",
    "sector": "Information Technology",
-   "close": 83.71,
-   "pct": 4.26
+   "close": 811.3,
+   "pct": 11.89
   },
   {
-   "symbol": "EQT",
-   "name": "EQT Corporation",
-   "sector": "Energy",
-   "close": 52.0,
-   "pct": 4.19
-  },
-  {
-   "symbol": "AVGO",
-   "name": "Broadcom",
+   "symbol": "SNDK",
+   "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 331.98,
-   "pct": 3.91
+   "close": 977.69,
+   "pct": 10.29
   },
   {
-   "symbol": "GPN",
-   "name": "Global Payments",
-   "sector": "Financials",
-   "close": 101.59,
-   "pct": 3.91
-  },
-  {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
-   "sector": "Materials",
-   "close": 236.12,
-   "pct": 3.76
-  },
-  {
-   "symbol": "HUM",
-   "name": "Humana",
-   "sector": "Health Care",
-   "close": 438.06,
-   "pct": 3.51
-  },
-  {
-   "symbol": "CBOE",
-   "name": "Cboe Global Markets",
-   "sector": "Financials",
-   "close": 364.81,
-   "pct": 3.41
-  }
- ],
- "losers": [
-  {
-   "symbol": "SKYD",
-   "name": "Skydance",
-   "sector": "Communication Services",
-   "close": 8.04,
-   "pct": -7.59
-  },
-  {
-   "symbol": "FSLR",
-   "name": "First Solar",
+   "symbol": "STX",
+   "name": "Seagate Technology",
    "sector": "Information Technology",
-   "close": 180.98,
-   "pct": -5.55
+   "close": 551.72,
+   "pct": 9.99
   },
   {
-   "symbol": "NVDA",
-   "name": "Nvidia",
+   "symbol": "SMCI",
+   "name": "Supermicro",
    "sector": "Information Technology",
-   "close": 168.89,
-   "pct": -5.47
+   "close": 30.43,
+   "pct": 9.5
   },
   {
-   "symbol": "LEN",
-   "name": "Lennar",
-   "sector": "Consumer Discretionary",
-   "close": 86.66,
-   "pct": -5.37
-  },
-  {
-   "symbol": "NVR",
-   "name": "NVR, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 6036.4199,
-   "pct": -4.76
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 168.8,
+   "pct": 9.33
   },
   {
    "symbol": "COHR",
    "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 214.66,
-   "pct": -4.68
+   "close": 234.51,
+   "pct": 9.25
   },
   {
-   "symbol": "ALB",
-   "name": "Albemarle Corporation",
-   "sector": "Materials",
-   "close": 94.93,
-   "pct": -4.23
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
+   "sector": "Information Technology",
+   "close": 1478.6899,
+   "pct": 8.92
   },
   {
-   "symbol": "NEM",
-   "name": "Newmont",
-   "sector": "Materials",
-   "close": 119.96,
-   "pct": -4.15
+   "symbol": "ORCL",
+   "name": "Oracle Corporation",
+   "sector": "Information Technology",
+   "close": 128.38,
+   "pct": 8.82
   },
   {
-   "symbol": "BXP",
-   "name": "BXP, Inc.",
-   "sector": "Real Estate",
-   "close": 63.54,
-   "pct": -4.0
+   "symbol": "CIEN",
+   "name": "Ciena",
+   "sector": "Information Technology",
+   "close": 296.04,
+   "pct": 8.8
   },
   {
-   "symbol": "PHM",
-   "name": "PulteGroup",
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "sector": "Information Technology",
+   "close": 648.06,
+   "pct": 8.71
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "sector": "Health Care",
+   "close": 248.69,
+   "pct": -7.55
+  },
+  {
+   "symbol": "ABNB",
+   "name": "Airbnb",
    "sector": "Consumer Discretionary",
-   "close": 130.6,
-   "pct": -3.89
+   "close": 181.13,
+   "pct": -4.81
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc.",
+   "sector": "Financials",
+   "close": 85.72,
+   "pct": -3.21
+  },
+  {
+   "symbol": "CVNA",
+   "name": "Carvana",
+   "sector": "Consumer Discretionary",
+   "close": 73.87,
+   "pct": -3.13
+  },
+  {
+   "symbol": "LULU",
+   "name": "Lululemon Athletica",
+   "sector": "Consumer Discretionary",
+   "close": 107.45,
+   "pct": -2.65
+  },
+  {
+   "symbol": "MCD",
+   "name": "McDonald's",
+   "sector": "Consumer Discretionary",
+   "close": 274.8,
+   "pct": -2.61
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "sector": "Industrials",
+   "close": 808.24,
+   "pct": -2.54
+  },
+  {
+   "symbol": "LDOS",
+   "name": "Leidos",
+   "sector": "Industrials",
+   "close": 133.89,
+   "pct": -2.44
+  },
+  {
+   "symbol": "NVR",
+   "name": "NVR, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 5895.3999,
+   "pct": -2.34
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft",
+   "sector": "Information Technology",
+   "close": 521.13,
+   "pct": -2.26
   }
  ]
 }

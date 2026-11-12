@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-12T02:17:42Z",
+ "updated": "2026-11-12T07:09:53Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
-    "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 02:15:03 +0000"
+    "title": "This Is Still A Market You Have To Own Until Proven Otherwise, Says Northern Trust\u2019s Eric Freedman",
+    "link": "https://stocktwits.com/news-articles/markets/equity/this-is-still-a-market-you-have-to-own-until-proven-otherwise-says-northern-trust-s-eric-freedman/cNGznSGR99q?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 07:03:10 +0000"
    },
    {
-    "title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here\u2019s What Investors Need to Know.",
-    "link": "https://www.fool.com/investing/2026/11/11/nvidia-board-may-vote-to-remove-jensen-huang-as-ceo-tonight-here-s-what-investors-need-to-know/?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 01:25:02 +0000"
+    "title": "Congressional Stock-Trading Ban Advocate Ro Khanna, Spouse Sold Nvidia Shares At Peak Before Spy Scandal Emerged",
+    "link": "https://stocktwits.com/news-articles/markets/equity/congressional-stock-trading-ban-advocate-ro-khanna-spouse-sold-nvidia-shares-at-peak-before-spy-scandal-emerged/cNGzn0XR99p?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 07:01:46 +0000"
    },
    {
-    "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-nvidia-011540333.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 01:15:40 +0000"
+    "title": "What Happens to Nvidia Stock if Jensen Huang Is Fired? History Has a Warning",
+    "link": "https://beincrypto.com/nvidia-stock-jensen-huang-fired-history/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 06:15:48 +0000"
    }
   ],
   "AMD": [
@@ -25,31 +25,31 @@
     "pubDate": "Wed, 11 Nov 2026 21:43:46 +0000"
    },
    {
-    "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 00:25:04 +0000"
+    "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/11/11/advanced-micro-devices-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-going-into-2027/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 03:52:24 +0000"
    },
    {
-    "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 22:52:34 +0000"
+    "title": "Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 03:15:12 +0000"
    }
   ],
   "AVGO": [
    {
+    "title": "Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains",
+    "link": "https://finance.yahoo.com/technology/articles/nvidia-turmoil-lifts-amd-broadcom-025615324.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 02:56:15 +0000"
+   },
+   {
+    "title": "Here's My Biggest Worry About Broadcom Stock. It Isn't Enough to Stop Me From Buying.",
+    "link": "https://www.fool.com/investing/2026/11/11/here-s-my-biggest-worry-about-broadcom-stock-it-isn-t-enough-to-stop-me-from-buying/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 02:13:02 +0000"
+   },
+   {
     "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html?.tsrc=rss",
     "pubDate": "Thu, 12 Nov 2026 00:25:04 +0000"
-   },
-   {
-    "title": "Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-broadcom-lead-ai-183708900.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:37:08 +0000"
-   },
-   {
-    "title": "Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-climb-5-18-165920759.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 16:59:20 +0000"
    }
   ],
   "TSM": [
@@ -71,6 +71,11 @@
   ],
   "INTC": [
    {
+    "title": "What Happens to Nvidia Stock if Jensen Huang Is Fired? History Has a Warning",
+    "link": "https://beincrypto.com/nvidia-stock-jensen-huang-fired-history/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 06:15:48 +0000"
+   },
+   {
     "title": "Nvidia\u2019s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald\u2019s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
     "link": "https://247wallst.com/investing/2026/11/11/nvidias-board-is-reportedly-preparing-to-oust-jensen-huang-when-intel-and-mcdonalds-pushed-out-ceos-over-workplace-relationships-shareholders-got-opposite-results/?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 23:34:19 +0000"
@@ -79,31 +84,31 @@
     "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 23:04:34 +0000"
-   },
-   {
-    "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
-    "link": "https://beincrypto.com/intel-stock-softbank-87-million-shares-selloff-risk/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 20:34:28 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron vs. Sandisk: The AI Memory Supercycle Is Big Enough for Both, but Here's the Better Buy.",
+    "link": "https://www.fool.com/investing/2026/11/12/micron-vs-sandisk-the-ai-memory-supercycle-is-big/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 05:20:00 +0000"
+   },
+   {
+    "title": "Jensen Huang\u2019s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
+    "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 02:43:31 +0000"
+   },
+   {
     "title": "5-star analyst flags surprise Micron stock catalyst after CoreWeave rally",
     "link": "https://www.thestreet.com/investing/stocks/micron-keybanc-server-demand?.tsrc=rss",
     "pubDate": "Thu, 12 Nov 2026 02:03:00 +0000"
-   },
-   {
-    "title": "3 Growth Stocks With Earnings Growth Over 20%",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-011311704.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 01:13:11 +0000"
-   },
-   {
-    "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 22:45:02 +0000"
    }
   ],
   "SNDK": [
+   {
+    "title": "Micron vs. Sandisk: The AI Memory Supercycle Is Big Enough for Both, but Here's the Better Buy.",
+    "link": "https://www.fool.com/investing/2026/11/12/micron-vs-sandisk-the-ai-memory-supercycle-is-big/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 05:20:00 +0000"
+   },
    {
     "title": "Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang\u2019s Ousting Outweigh CoreWeave\u2019s Strong Outlook \u2014  NVDA, TSLA, SNDK, CAPR, CRWV In Focus",
     "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss",
@@ -113,11 +118,6 @@
     "title": "Analyst Says Sandisk Corp. (SNDK) Offers More Than 100% Upside. Should You Buy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-sandisk-corp-sndk-232856312.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 23:28:56 +0000"
-   },
-   {
-    "title": "Jim Cramer Says Micron Isn\u2019t Going Away. Here\u2019s Why He Picks It Over Sandisk",
-    "link": "https://247wallst.com/investing/2026/11/11/jim-cramer-says-micron-isnt-going-away-heres-why-he-picks-it-over-sandisk/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 22:07:24 +0000"
    }
   ],
   "WDC": [
@@ -195,14 +195,14 @@
     "pubDate": "Wed, 11 Nov 2026 23:03:03 +0000"
    },
    {
+    "title": "Don\u2019t Get Hurt Catching Falling Knives Like QQQ\u2019s 6.5% Single-Day Drop. Use This Options Strategy Instead.",
+    "link": "https://www.barchart.com/story/news/8787854/dont-get-hurt-catching-falling-knives-like-qqqs-6-5-single-day-drop-use-this-options-strategy-instead?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 21:10:00 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181134424.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 18:11:34 +0000"
-   },
-   {
-    "title": "Invesco QQQ Trust (QQQ) Buys $206.7 Million More Apple on Nov. 9",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-buys-110316461.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 11:03:16 +0000"
    }
   ],
   "SPY": [

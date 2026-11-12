@@ -1,41 +1,46 @@
 {
- "updated": "2026-11-11T21:18:50Z",
+ "updated": "2026-11-12T02:17:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "History Says 1 Month Has Been the S&P 500's Most Reliable Since 1950. It's Only Weeks Away.",
-    "link": "https://www.fool.com/investing/2026/11/11/history-says-1-month-has-been-the-s-and-p-500-s-most-reliable-since-1950-it-s-only-weeks-away/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 21:01:01 +0000"
+    "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
+    "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 02:15:03 +0000"
    },
    {
-    "title": "Don\u2019t buy Nvidia yet: 4 stocks to buy instead",
-    "link": "https://www.thestreet.com/video/dont-buy-nvidia-yet-4-stock-to-buy-instead?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 20:45:12 +0000"
+    "title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here\u2019s What Investors Need to Know.",
+    "link": "https://www.fool.com/investing/2026/11/11/nvidia-board-may-vote-to-remove-jensen-huang-as-ceo-tonight-here-s-what-investors-need-to-know/?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 01:25:02 +0000"
    },
    {
-    "title": "Huang's Ties to Trump Under Scrutiny After Spy Claim",
-    "link": "https://finance.yahoo.com/video/huangs-ties-trump-under-scrutiny-202055805.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 20:20:55 +0000"
+    "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-nvidia-011540333.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 01:15:40 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-broadcom-lead-ai-183708900.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:37:08 +0000"
+    "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
+    "link": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 21:43:46 +0000"
    },
    {
-    "title": "BofA Raised Its Earnings Estimates but Cut Its Target on AMD (AMD), Here\u2019s Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-raised-earnings-estimates-cut-180202870.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:02:02 +0000"
+    "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 00:25:04 +0000"
    },
    {
-    "title": "Why Advanced Micro Devices Stock Popped Today",
-    "link": "https://www.fool.com/investing/2026/11/11/why-advanced-micro-devices-stock-popped-today/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 17:54:22 +0000"
+    "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 22:52:34 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 00:25:04 +0000"
+   },
    {
     "title": "Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-broadcom-lead-ai-183708900.html?.tsrc=rss",
@@ -45,79 +50,74 @@
     "title": "Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-climb-5-18-165920759.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 16:59:20 +0000"
-   },
-   {
-    "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
-    "link": "https://247wallst.com/investing/2026/11/11/nvidia-rises-4-despite-baird-downgrade-and-huang-uncertainty-amd-climbs-5-broadcom-gains-4/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 14:05:16 +0000"
    }
   ],
   "TSM": [
    {
+    "title": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/11/11/dell-technologies-vs-taiwan-semiconductor-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 23:50:02 +0000"
+   },
+   {
+    "title": "Is It Worth Investing in TSMC (TSM) Based on Wall Street's Bullish Views?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-tsmc-tsm-based-202243029.html?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 20:22:43 +0000"
+   },
+   {
     "title": "TSMC Secures Its Future by Investing in Anthropic and OpenAI",
     "link": "https://app.moby.co/home/news/news-tsmc-secures-its-future-by-investing-in-anthropic-and-openai?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 19:59:36 +0000"
-   },
-   {
-    "title": "TSMC Stocks Climb 3.37% After Record NT$586.9 Billion October Revenue",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-3-37-165536443.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 16:55:36 +0000"
-   },
-   {
-    "title": "Something happened in October that changes the TSMC stock debate",
-    "link": "https://www.thestreet.com/investing/tsmc-record-october-sales-chip-sell-off?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 16:07:00 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-5-23-191018499.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 19:10:18 +0000"
+    "title": "Nvidia\u2019s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald\u2019s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
+    "link": "https://247wallst.com/investing/2026/11/11/nvidias-board-is-reportedly-preparing-to-oust-jensen-huang-when-intel-and-mcdonalds-pushed-out-ceos-over-workplace-relationships-shareholders-got-opposite-results/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 23:34:19 +0000"
    },
    {
-    "title": "Intel\u2019s Turnaround Could\u00a0Rewrite the Stock\u2019s\u00a0Story",
-    "link": "https://247wallst.com/investing/2026/11/11/intels-turnaround-could-rewrite-the-stocks-story/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 17:03:09 +0000"
+    "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 23:04:34 +0000"
    },
    {
-    "title": "AMD Rises 4% as CoreWeave\u2019s Raised Outlook Revives the AI Chip Trade",
-    "link": "https://www.tikr.com/blog/amd-rises-4-as-coreweaves-raised-outlook-revives-the-ai-chip-trade?ref=yahoofinance&tlnk=yf-261111-c9f92pr4&.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 15:00:51 +0000"
+    "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
+    "link": "https://beincrypto.com/intel-stock-softbank-87-million-shares-selloff-risk/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 20:34:28 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Marvell Acquires Lumentum in Blockbuster $80 Billion Deal",
-    "link": "https://247wallst.com/videos/marvell-acquires-lumentum-in-blockbuster-80-billion-deal/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 20:19:34 +0000"
+    "title": "5-star analyst flags surprise Micron stock catalyst after CoreWeave rally",
+    "link": "https://www.thestreet.com/investing/stocks/micron-keybanc-server-demand?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 02:03:00 +0000"
    },
    {
-    "title": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
-    "link": "https://finance.yahoo.com/m/84883771-24d1-36d3-b83b-c42cc62afe67/chip-stocks-rally-after.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 19:49:43 +0000"
+    "title": "3 Growth Stocks With Earnings Growth Over 20%",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-011311704.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 01:13:11 +0000"
    },
    {
-    "title": "Micron Stock Fell 30% in a Week. Bernstein Says It Could Nearly Double",
-    "link": "https://www.tikr.com/blog/micron-stock-fell-30-in-a-week-bernstein-says-it-could-nearly-double?ref=yahoofinance&tlnk=yf-261111-vf93wfjf&.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 19:24:48 +0000"
+    "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 22:45:02 +0000"
    }
   ],
   "SNDK": [
    {
-    "title": "Sandisk Stocks Jump 16% as Storage Rally Returns Ahead of 8-for-1 Split",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-jump-16-storage-184727916.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:47:27 +0000"
+    "title": "Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang\u2019s Ousting Outweigh CoreWeave\u2019s Strong Outlook \u2014  NVDA, TSLA, SNDK, CAPR, CRWV In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 00:22:06 +0000"
    },
    {
-    "title": "History Says This Is What Will Happen to Sandisk Stock After Its 8-for-1 Split",
-    "link": "https://www.fool.com/investing/2026/11/11/history-says-this-is-what-will-happen-to-sandisk-stock-after-its-8-for-1-split/?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:20:02 +0000"
+    "title": "Analyst Says Sandisk Corp. (SNDK) Offers More Than 100% Upside. Should You Buy?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-sandisk-corp-sndk-232856312.html?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 23:28:56 +0000"
    },
    {
-    "title": "SNDK Stock Set For Best Day In Nearly Four Months: Evercore ISI Forecasts Stable Demand For NAND Storage Amid AI Spending",
-    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-stock-set-for-best-day-in-nearly-four-months-evercore-isi-forecasts-stable-demand-for-nand-storage-amid-ai-spending/cNGDxXMR99b?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 18:18:38 +0000"
+    "title": "Jim Cramer Says Micron Isn\u2019t Going Away. Here\u2019s Why He Picks It Over Sandisk",
+    "link": "https://247wallst.com/investing/2026/11/11/jim-cramer-says-micron-isnt-going-away-heres-why-he-picks-it-over-sandisk/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 22:07:24 +0000"
    }
   ],
   "WDC": [
@@ -139,6 +139,11 @@
   ],
   "STX": [
    {
+    "title": "Seagate Technology Holdings (STX) Gains Fresh Backing As AI Storage Demand Tests Its Valuation",
+    "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-holdings-stx-gains-011222679.html?.tsrc=rss",
+    "pubDate": "Thu, 12 Nov 2026 01:12:22 +0000"
+   },
+   {
     "title": "Morgan Stanley sees 129% tech company rebound brewing after crash",
     "link": "https://www.thestreet.com/investing/stocks/stx-seagate-morgan-stanley-stock-analysis?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 20:37:00 +0000"
@@ -147,11 +152,6 @@
     "title": "Seagate Expands Storage Portfolio With FireCuda Forge Launch",
     "link": "https://finance.yahoo.com/technology/articles/seagate-expands-storage-portfolio-firecuda-155700464.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 15:57:00 +0000"
-   },
-   {
-    "title": "Seagate Soars 10% as CoreWeave\u2019s \u201cBreakout Quarter\u201d Eases AI Spending Fears",
-    "link": "https://www.tikr.com/blog/seagate-soars-10-as-coreweaves-breakout-quarter-eases-ai-spending-fears?ref=yahoofinance&tlnk=yf-261111-9949p2m5&.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 15:37:16 +0000"
    }
   ],
   "SOXX": [
@@ -190,6 +190,11 @@
   ],
   "QQQ": [
    {
+    "title": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
+    "link": "https://247wallst.com/investing/etf/2026/11/11/every-december-the-nasdaq-100-reshuffles-qqq-holders-feel-it-even-if-they-never-trade/?.tsrc=rss",
+    "pubDate": "Wed, 11 Nov 2026 23:03:03 +0000"
+   },
+   {
     "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181134424.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 18:11:34 +0000"
@@ -198,11 +203,6 @@
     "title": "Invesco QQQ Trust (QQQ) Buys $206.7 Million More Apple on Nov. 9",
     "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-buys-110316461.html?.tsrc=rss",
     "pubDate": "Wed, 11 Nov 2026 11:03:16 +0000"
-   },
-   {
-    "title": "Micron draws $554 million in ETF buying after steep selloff",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-draws-554-million-etf-114345334.html?.tsrc=rss",
-    "pubDate": "Wed, 11 Nov 2026 11:43:45 +0000"
    }
   ],
   "SPY": [

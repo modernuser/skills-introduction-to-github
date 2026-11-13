@@ -1,6 +1,6 @@
-# Quality scorecard — 2026-11-12
+# Quality scorecard — 2026-11-13
 
-- Tests: 236 passed in 14.10s
+- Tests: 236 passed in 15.59s
 - Broken internal links: 0
 - Secret-pattern hits: 0
 - Data health: degraded

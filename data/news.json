@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-13T01:54:50Z",
+ "updated": "2026-11-13T06:40:41Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
-    "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise-after.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 01:30:42 +0000"
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63229873/stock-market-will-sp-500-open-up-or-down-today-77?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 06:26:11 +0000"
    },
    {
-    "title": "CoreWeave stock sinks nearly 7% after Nvidia CEO Jensen Huang resigns",
-    "link": "https://www.thestreet.com/investing/stocks/coreweave-stock-sinks-nearly-7-after-nvidia-ceo-jensen-huang-resigns?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 01:22:01 +0000"
+    "title": "Asian shares are mixed as investors assess impact of Nvidia's fallout on global AI development",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 05:37:08 +0000"
    },
    {
-    "title": "Sansan And 2 High Growth Insider Stocks To Watch",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sansan-2-high-growth-insider-011633947.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 01:16:33 +0000"
+    "title": "What's the Value of a Founder? Nvidia Offers the Greatest Test Yet",
+    "link": "https://www.fool.com/investing/2026/11/13/what-s-the-value-of-a-founder-nvidia-offers-the-greatest-test-yet/?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 05:28:43 +0000"
    }
   ],
   "AMD": [
@@ -37,9 +37,9 @@
   ],
   "AVGO": [
    {
-    "title": "Why Broadcom Stock Rallied Thursday Morning",
-    "link": "https://www.fool.com/investing/2026/11/12/why-broadcom-stock-rallied-thursday-morning/?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 20:07:32 +0000"
+    "title": "Broadcom Stock Just Jumped More Than 20% in 4 Days. It Has Done That Only 6 Other Times Since 2009.",
+    "link": "https://www.fool.com/investing/2026/11/13/broadcom-stock-just-jumped-more-than-20-in-4-days-it-has-done-that-only-6-other-times-since-2009/?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 06:24:02 +0000"
    },
    {
     "title": "Can Huang's Exit Create Chip Competition",
@@ -47,12 +47,17 @@
     "pubDate": "Thu, 12 Nov 2026 23:00:39 +0000"
    },
    {
-    "title": "5 Best Growth Stocks for the Next 5 Years",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 23:11:19 +0000"
+    "title": "Cathie Wood Sees Nvidia\u2019s CAGR Slowing To 25% From 50% Over The Next Five Years: \u2018You\u2019ve Got Powerful Forces Like Elon Musk\u2019",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-nvidia-five-year-annual-return-tesla-elson-musk/cNbbALkR9Om?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 05:02:53 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Asian shares are mixed as investors assess impact of Nvidia's fallout on global AI development",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 05:37:08 +0000"
+   },
    {
     "title": "Bernstein\u2019s Mark Li Raised His Taiwan Semiconductor Manufacturing (TSM) Target to $600. Here\u2019s What Changed",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-mark-li-raised-taiwan-231139059.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Here\u2019s Why Bernstein\u2019s Mark Li Is Raising His Price Target on TSMC (TSM) to $600",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-mark-li-raising-223454329.html?.tsrc=rss",
     "pubDate": "Thu, 12 Nov 2026 22:34:54 +0000"
-   },
-   {
-    "title": "Prediction: $500 a Month Invested in Taiwan Semiconductor Manufacturing Will Be Worth This Much by 2030",
-    "link": "https://www.fool.com/investing/2026/11/12/prediction-500-a-month-invested-in-hot-ticker-will/?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 22:20:00 +0000"
    }
   ],
   "INTC": [

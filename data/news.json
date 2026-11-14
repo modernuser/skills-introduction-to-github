@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-14T06:17:48Z",
+ "updated": "2026-11-14T19:12:42Z",
  "news": {
   "NVDA": [
    {
-    "title": "FormFactor (FORM) Dropped, So What Is Behind The Move?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-form-dropped-behind-move-051120513.html?.tsrc=rss",
-    "pubDate": "Sat, 14 Nov 2026 05:11:20 +0000"
+    "title": "Jim Cramer has a strong take on Nvidia's next chapter",
+    "link": "https://www.thestreet.com/investing/jim-cramer-strong-take-on-nvidia-next-chapter-colette-kress?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 18:33:00 +0000"
    },
    {
-    "title": "Jim Simons\u2019 firm dumps Nvidia, reveals $2.24 billion in 2 tech stocks",
-    "link": "https://www.thestreet.com/investing/stocks/renaissance-technologies-nvidia-13f?.tsrc=rss",
-    "pubDate": "Sat, 14 Nov 2026 04:33:00 +0000"
+    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
+    "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 18:01:02 +0000"
    },
    {
-    "title": "Elon Musk, Tom Lee, Shopify CEO Sign \u2018Stand With Jensen\u2019 Petition To Reinstate Him As Nvidia CEO",
-    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tom-lee-stand-with-jensen-petition-reinstate-nvidia-ceo/cNb2xkrR9Qe?.tsrc=rss",
-    "pubDate": "Sat, 14 Nov 2026 04:24:53 +0000"
+    "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang \u2014 including 5,000+ who say they work at Nvidia",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 17:25:00 +0000"
    }
   ],
   "AMD": [
    {
-    "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 22:13:55 +0000"
+    "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back",
+    "link": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 15:41:51 +0000"
    },
    {
-    "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
-    "link": "https://www.tikr.com/blog/amd-sinks-9-marvell-down-5-as-chip-rally-reverses-and-treasury-yields-hit-5?ref=yahoofinance&tlnk=yf-261113-c83jxhmp&.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 22:05:40 +0000"
+    "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+    "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 15:07:49 +0000"
    },
    {
-    "title": "Better Chip Stock: Nvidia vs. AMD",
-    "link": "https://www.fool.com/investing/2026/11/13/better-chip-stock-nvidia-vs-amd/?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 21:43:02 +0000"
+    "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+    "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 14:38:00 +0000"
    }
   ],
   "AVGO": [
@@ -47,12 +47,17 @@
     "pubDate": "Fri, 13 Nov 2026 19:10:37 +0000"
    },
    {
-    "title": "This Analyst Just Downgraded Broadcom Stock. Here's Why.",
-    "link": "https://www.barchart.com/story/news/8826973/this-analyst-just-downgraded-broadcom-stock-here-s-why?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 18:43:30 +0000"
+    "title": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
+    "link": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 17:03:53 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
+    "link": "https://www.fool.com/investing/2026/11/14/why-a-rising-tsmc-challenger-could-reshape-the-chi/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 12:04:00 +0000"
+   },
    {
     "title": "Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI",
     "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-takes-191146480.html?.tsrc=rss",
@@ -62,18 +67,13 @@
     "title": "TSMC Just Booked a Record NT$587 Billion Month. Nvidia\u2019s November 17 Report Is the Next Test",
     "link": "https://www.tikr.com/blog/tsmc-just-booked-a-record-nt587-billion-month-nvidias-november-17-report-is-the-next-test?ref=yahoofinance&tlnk=yf-261113-5rqrqp4w&.tsrc=rss",
     "pubDate": "Fri, 13 Nov 2026 15:35:48 +0000"
-   },
-   {
-    "title": "TSMC\u2019s Terrific Growth Clearly Shows That the Chip Sell-Off Is Overdone. Here Are the Best Stocks to Buy Hand Over Fist",
-    "link": "https://www.fool.com/investing/2026/11/13/tsmc-s-terrific-growth-clearly-shows-that-the-chip-sell-off-is-overdone-here-are-the-best-stocks-to-buy-hand-over-fist/?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 15:13:02 +0000"
    }
   ],
   "INTC": [
    {
-    "title": "Intel CEO on company's turnaround, foundry bets, and the AI boom",
-    "link": "https://finance.yahoo.com/video/intel-ceo-on-companys-turnaround-foundry-bets-and-the-ai-boom-151704541.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 15:17:04 +0000"
+    "title": "Soros\u2019 Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
+    "link": "https://247wallst.com/investing/2026/11/14/soros-fund-made-intel-its-biggest-stock-bet-right-before-it-halved/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 17:34:54 +0000"
    },
    {
     "title": "Why Intel Stock Slumped Today",
@@ -88,39 +88,44 @@
   ],
   "MU": [
    {
-    "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/13/micron-technology-qualcomm-which-tech-stock-better-buy-for-2027/?.tsrc=rss",
-    "pubDate": "Sat, 14 Nov 2026 01:31:02 +0000"
+    "title": "Where Will Micron Stock Be in 5 Years?",
+    "link": "https://www.fool.com/investing/2026/11/14/where-will-micron-stock-be-in-5-years/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 17:40:00 +0000"
    },
    {
-    "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
-    "link": "https://247wallst.com/investing/2026/11/13/thierry-borgeat-says-chip-stocks-peak-every-two-years-his-chart-points-to-another-top/?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 22:07:13 +0000"
+    "title": "Is It Too Late to Buy Micron Stock?",
+    "link": "https://www.fool.com/investing/2026/11/14/is-it-too-late-to-buy-micron-stock/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 11:10:00 +0000"
    },
    {
-    "title": "What Bernstein Sees in Micron (MU) After the Memory Selloff",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 21:30:06 +0000"
+    "title": "Micron Jumps 12% as CoreWeave\u2019s \u201cBreakout Quarter\u201d Revives the Memory Trade",
+    "link": "https://www.tikr.com/blog/micron-jumps-12-as-coreweaves-breakout-quarter-revives-the-memory-trade?ref=yahoofinance&tlnk=yf-261114-rp2r842h&.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 03:50:27 +0000"
    }
   ],
   "SNDK": [
    {
+    "title": "Sandisk\u2019s Stock Split Takes Effect Nov. 19. Should You Buy It Now?",
+    "link": "https://www.fool.com/investing/2026/11/14/sandisks-stock-split-takes-effect-nov-19-should-you-buy-it-now/?.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 19:05:02 +0000"
+   },
+   {
+    "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
+    "link": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-cf8fgp4v&.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 11:50:39 +0000"
+   },
+   {
     "title": "Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position.",
     "link": "https://www.fool.com/investing/2026/11/13/sandisk-stock-fell-back-under-usd900-on-friday-i-d-start-with-a-small-position/?.tsrc=rss",
     "pubDate": "Fri, 13 Nov 2026 23:37:02 +0000"
-   },
-   {
-    "title": "Chart of the Day: Sandisk Stock Looks Ready to Bounce Back",
-    "link": "https://finance.yahoo.com/m/d27797d9-4ab8-3825-9e2a-b5baba66f462/chart-of-the-day%3A-sandisk.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 19:33:00 +0000"
-   },
-   {
-    "title": "Beat Value Traps: 4 Stocks With Attractive PEG Ratios to Buy Now",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/beat-value-traps-4-stocks-190000039.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 19:00:00 +0000"
    }
   ],
   "WDC": [
+   {
+    "title": "A $13 Billion Hedge Fund Dumps These 3 Stocks",
+    "link": "https://www.tikr.com/blog/a-13-billion-hedge-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-5rhv7c2p&.tsrc=rss",
+    "pubDate": "Sat, 14 Nov 2026 11:49:43 +0000"
+   },
    {
     "title": "Western Digital Stock Gains Fresh Attention After Earnings Beat and AI Storage Demand Strengthens",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-gains-fresh-200713438.html?.tsrc=rss",
@@ -130,11 +135,6 @@
     "title": "Here is Why Growth Investors Should Buy Western Digital (WDC) Now",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-growth-investors-buy-western-164502328.html?.tsrc=rss",
     "pubDate": "Fri, 13 Nov 2026 16:45:02 +0000"
-   },
-   {
-    "title": "Wall Street Bulls Look Optimistic About Western Digital (WDC): Should You Buy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003573.html?.tsrc=rss",
-    "pubDate": "Thu, 12 Nov 2026 13:30:03 +0000"
    }
   ],
   "STX": [
@@ -212,14 +212,14 @@
     "pubDate": "Fri, 13 Nov 2026 11:03:04 +0000"
    },
    {
-    "title": "ETFs Bought $107.9 Million of Visa (V) on Nov. 11",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-107-9-million-110141909.html?.tsrc=rss",
-    "pubDate": "Fri, 13 Nov 2026 11:01:41 +0000"
-   },
-   {
     "title": "Will ETF Buying Change Meta Stock Narrative",
     "link": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html?.tsrc=rss",
     "pubDate": "Sat, 14 Nov 2026 00:20:17 +0000"
+   },
+   {
+    "title": "$1 Million In SCHD Five Years Ago: What Is It Worth Now?",
+    "link": "https://www.trefis.com/stock/schd/articles/624814/1-million-in-schd-five-years-ago-what-is-it-worth-now/2026-11-13?.tsrc=rss",
+    "pubDate": "Fri, 13 Nov 2026 14:56:12 +0000"
    }
   ]
  },

@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-14T06:17:56Z",
- "coverage": 431,
+ "updated": "2026-11-17T07:51:55Z",
+ "coverage": 501,
  "gainers": [
   {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 138.39,
-   "pct": 4.32
-  },
-  {
-   "symbol": "STE",
-   "name": "Steris",
-   "sector": "Health Care",
-   "close": 264.32,
-   "pct": 4.29
-  },
-  {
-   "symbol": "GPN",
-   "name": "Global Payments",
-   "sector": "Financials",
-   "close": 91.9,
-   "pct": 4.21
-  },
-  {
-   "symbol": "FIS",
-   "name": "Fidelity National Information Services",
-   "sector": "Financials",
-   "close": 29.54,
-   "pct": 4.16
-  },
-  {
-   "symbol": "TPL",
-   "name": "Texas Pacific Land Corporation",
-   "sector": "Energy",
-   "close": 291.91,
-   "pct": 3.82
-  },
-  {
-   "symbol": "FISV",
-   "name": "Fiserv",
-   "sector": "Financials",
-   "close": 63.78,
-   "pct": 3.71
-  },
-  {
-   "symbol": "HAL",
-   "name": "Halliburton",
-   "sector": "Energy",
-   "close": 33.78,
-   "pct": 3.11
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 30.96,
-   "pct": 2.86
-  },
-  {
-   "symbol": "COR",
-   "name": "Cencora",
-   "sector": "Health Care",
-   "close": 359.03,
-   "pct": 2.76
-  },
-  {
-   "symbol": "ADM",
-   "name": "Archer Daniels Midland",
+   "symbol": "TSN",
+   "name": "Tyson Foods",
    "sector": "Consumer Staples",
-   "close": 72.9,
-   "pct": 2.72
+   "close": 63.95,
+   "pct": 8.72
+  },
+  {
+   "symbol": "APP",
+   "name": "AppLovin",
+   "sector": "Communication Services",
+   "close": 415.22,
+   "pct": 5.47
+  },
+  {
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "sector": "Health Care",
+   "close": 74.77,
+   "pct": 4.91
+  },
+  {
+   "symbol": "TSCO",
+   "name": "Tractor Supply",
+   "sector": "Consumer Discretionary",
+   "close": 37.95,
+   "pct": 4.12
+  },
+  {
+   "symbol": "ELV",
+   "name": "Elevance Health",
+   "sector": "Health Care",
+   "close": 446.28,
+   "pct": 3.86
+  },
+  {
+   "symbol": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "sector": "Communication Services",
+   "close": 60.75,
+   "pct": 3.47
+  },
+  {
+   "symbol": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "sector": "Communication Services",
+   "close": 67.95,
+   "pct": 3.41
+  },
+  {
+   "symbol": "LUV",
+   "name": "Southwest Airlines",
+   "sector": "Industrials",
+   "close": 46.44,
+   "pct": 3.34
+  },
+  {
+   "symbol": "PCG",
+   "name": "PG&E Corporation",
+   "sector": "Utilities",
+   "close": 13.68,
+   "pct": 3.25
+  },
+  {
+   "symbol": "EIX",
+   "name": "Edison International",
+   "sector": "Utilities",
+   "close": 61.97,
+   "pct": 2.97
   }
  ],
  "losers": [
   {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
+   "symbol": "SNDK",
+   "name": "Sandisk",
    "sector": "Information Technology",
-   "close": 534.06,
-   "pct": -8.75
+   "close": 809.11,
+   "pct": -13.69
   },
   {
-   "symbol": "CSCO",
-   "name": "Cisco",
+   "symbol": "DELL",
+   "name": "Dell Technologies",
    "sector": "Information Technology",
-   "close": 95.64,
-   "pct": -6.24
+   "close": 320.55,
+   "pct": -13.64
   },
   {
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 218.15,
-   "pct": -6.0
+   "close": 546.0,
+   "pct": -12.59
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Information Technology",
-   "close": 249.55,
-   "pct": -5.38
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "close": 177.28,
+   "pct": -12.21
   },
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Information Technology",
-   "close": 295.65,
-   "pct": -5.0
+   "symbol": "HOOD",
+   "name": "Robinhood Markets",
+   "sector": "Financials",
+   "close": 72.06,
+   "pct": -11.42
   },
   {
-   "symbol": "AVGO",
-   "name": "Broadcom",
-   "sector": "Information Technology",
-   "close": 347.01,
-   "pct": -4.76
+   "symbol": "VRT",
+   "name": "Vertiv",
+   "sector": "Industrials",
+   "close": 188.67,
+   "pct": -10.0
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "ANET",
+   "name": "Arista Networks",
    "sector": "Information Technology",
-   "close": 156.76,
-   "pct": -4.68
+   "close": 187.02,
+   "pct": -9.49
+  },
+  {
+   "symbol": "COIN",
+   "name": "Coinbase",
+   "sector": "Financials",
+   "close": 119.84,
+   "pct": -8.29
   },
   {
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "close": 280.54,
-   "pct": -4.57
+   "close": 257.56,
+   "pct": -8.19
   },
   {
-   "symbol": "GLW",
-   "name": "Corning Inc.",
+   "symbol": "MU",
+   "name": "Micron Technology",
    "sector": "Information Technology",
-   "close": 114.08,
-   "pct": -4.54
-  },
-  {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "close": 74.98,
-   "pct": -4.02
+   "close": 719.02,
+   "pct": -7.62
   }
  ]
 }

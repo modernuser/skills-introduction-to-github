@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-17T07:51:55Z",
+ "updated": "2026-11-18T07:24:06Z",
  "coverage": 501,
  "gainers": [
   {
-   "symbol": "TSN",
-   "name": "Tyson Foods",
-   "sector": "Consumer Staples",
-   "close": 63.95,
-   "pct": 8.72
-  },
-  {
-   "symbol": "APP",
-   "name": "AppLovin",
-   "sector": "Communication Services",
-   "close": 415.22,
-   "pct": 5.47
-  },
-  {
-   "symbol": "CNC",
-   "name": "Centene Corporation",
-   "sector": "Health Care",
-   "close": 74.77,
-   "pct": 4.91
-  },
-  {
-   "symbol": "TSCO",
-   "name": "Tractor Supply",
-   "sector": "Consumer Discretionary",
-   "close": 37.95,
-   "pct": 4.12
-  },
-  {
-   "symbol": "ELV",
-   "name": "Elevance Health",
-   "sector": "Health Care",
-   "close": 446.28,
-   "pct": 3.86
-  },
-  {
-   "symbol": "FOX",
-   "name": "Fox Corporation (Class B)",
-   "sector": "Communication Services",
-   "close": 60.75,
-   "pct": 3.47
-  },
-  {
-   "symbol": "FOXA",
-   "name": "Fox Corporation (Class A)",
-   "sector": "Communication Services",
-   "close": 67.95,
-   "pct": 3.41
-  },
-  {
-   "symbol": "LUV",
-   "name": "Southwest Airlines",
+   "symbol": "FIX",
+   "name": "Comfort Systems USA",
    "sector": "Industrials",
-   "close": 46.44,
-   "pct": 3.34
+   "close": 1099.02,
+   "pct": 3.91
   },
   {
-   "symbol": "PCG",
-   "name": "PG&E Corporation",
-   "sector": "Utilities",
-   "close": 13.68,
-   "pct": 3.25
-  },
-  {
-   "symbol": "EIX",
-   "name": "Edison International",
-   "sector": "Utilities",
-   "close": 61.97,
-   "pct": 2.97
-  }
- ],
- "losers": [
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 809.11,
-   "pct": -13.69
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 320.55,
-   "pct": -13.64
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 546.0,
-   "pct": -12.59
-  },
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 177.28,
-   "pct": -12.21
-  },
-  {
-   "symbol": "HOOD",
-   "name": "Robinhood Markets",
-   "sector": "Financials",
-   "close": 72.06,
-   "pct": -11.42
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "close": 188.67,
-   "pct": -10.0
-  },
-  {
-   "symbol": "ANET",
-   "name": "Arista Networks",
-   "sector": "Information Technology",
-   "close": 187.02,
-   "pct": -9.49
-  },
-  {
-   "symbol": "COIN",
-   "name": "Coinbase",
-   "sector": "Financials",
-   "close": 119.84,
-   "pct": -8.29
+   "close": 210.86,
+   "pct": 3.65
   },
   {
    "symbol": "CIEN",
    "name": "Ciena",
    "sector": "Information Technology",
-   "close": 257.56,
-   "pct": -8.19
+   "close": 264.82,
+   "pct": 2.82
   },
   {
-   "symbol": "MU",
-   "name": "Micron Technology",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 719.02,
-   "pct": -7.62
+   "close": 559.97,
+   "pct": 2.56
+  },
+  {
+   "symbol": "AVGO",
+   "name": "Broadcom",
+   "sector": "Information Technology",
+   "close": 341.6,
+   "pct": 2.46
+  },
+  {
+   "symbol": "CHRW",
+   "name": "C.H. Robinson",
+   "sector": "Industrials",
+   "close": 137.95,
+   "pct": 2.44
+  },
+  {
+   "symbol": "ILMN",
+   "name": "Illumina, Inc.",
+   "sector": "Health Care",
+   "close": 202.61,
+   "pct": 2.33
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "Information Technology",
+   "close": 148.74,
+   "pct": 2.33
+  },
+  {
+   "symbol": "GLW",
+   "name": "Corning Inc.",
+   "sector": "Information Technology",
+   "close": 108.49,
+   "pct": 2.19
+  },
+  {
+   "symbol": "SYK",
+   "name": "Stryker Corporation",
+   "sector": "Health Care",
+   "close": 317.54,
+   "pct": 2.19
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "CRM",
+   "name": "Salesforce",
+   "sector": "Information Technology",
+   "close": 194.52,
+   "pct": -9.45
+  },
+  {
+   "symbol": "INTU",
+   "name": "Intuit",
+   "sector": "Information Technology",
+   "close": 320.79,
+   "pct": -7.17
+  },
+  {
+   "symbol": "NOW",
+   "name": "ServiceNow",
+   "sector": "Information Technology",
+   "close": 92.9,
+   "pct": -6.51
+  },
+  {
+   "symbol": "SBAC",
+   "name": "SBA Communications",
+   "sector": "Real Estate",
+   "close": 174.56,
+   "pct": -6.46
+  },
+  {
+   "symbol": "NKE",
+   "name": "Nike, Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 35.85,
+   "pct": -6.3
+  },
+  {
+   "symbol": "FSLR",
+   "name": "First Solar",
+   "sector": "Information Technology",
+   "close": 152.97,
+   "pct": -5.84
+  },
+  {
+   "symbol": "CCI",
+   "name": "Crown Castle",
+   "sector": "Real Estate",
+   "close": 84.16,
+   "pct": -5.82
+  },
+  {
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
+   "sector": "Information Technology",
+   "close": 182.8,
+   "pct": -5.8
+  },
+  {
+   "symbol": "FICO",
+   "name": "Fair Isaac",
+   "sector": "Information Technology",
+   "close": 676.52,
+   "pct": -5.68
+  },
+  {
+   "symbol": "UNH",
+   "name": "UnitedHealth Group",
+   "sector": "Health Care",
+   "close": 389.68,
+   "pct": -5.42
   }
  ]
 }

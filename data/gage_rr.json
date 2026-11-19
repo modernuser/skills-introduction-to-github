@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:47:48Z",
+ "generated": "2026-11-19T03:41:35Z",
  "method": "variance-components Gage R&R; parts=tickers, operators=data sources, trials=repeated computations",
  "note": "Measurement system analysis, not a market claim. It asks whether a KPI can be measured consistently \u2014 never whether the KPI predicts anything. Acceptance bands are AIAG (<=10% acceptable, <=30% marginal).",
  "acceptance_bands": {
@@ -15,8 +15,8 @@
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 10.54825129,
-   "total_variation_sd": 10.54825129,
+   "part_variation_sd": 10.41904412,
+   "total_variation_sd": 10.41904412,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -26,14 +26,14 @@
   },
   "slope_annual_pct": {
    "evaluated": true,
-   "parts": 500,
+   "parts": 499,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 579.94170145,
-   "total_variation_sd": 579.94170145,
+   "part_variation_sd": 546.19280587,
+   "total_variation_sd": 546.19280587,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -43,14 +43,14 @@
   },
   "trend_r2_90d": {
    "evaluated": true,
-   "parts": 500,
+   "parts": 499,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 0.26981745,
-   "total_variation_sd": 0.26981745,
+   "part_variation_sd": 0.26911391,
+   "total_variation_sd": 0.26911391,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -60,14 +60,14 @@
   },
   "vol_30d": {
    "evaluated": true,
-   "parts": 501,
+   "parts": 500,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 18.28144657,
-   "total_variation_sd": 18.28144657,
+   "part_variation_sd": 18.18438204,
+   "total_variation_sd": 18.18438204,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,
@@ -77,14 +77,14 @@
   },
   "volume_surge": {
    "evaluated": true,
-   "parts": 501,
+   "parts": 500,
    "operators": [
     "yahoo-fallback"
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 0.32755829,
-   "total_variation_sd": 0.32755829,
+   "part_variation_sd": 0.57457257,
+   "total_variation_sd": 0.57457257,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,

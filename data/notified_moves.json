@@ -1,20 +1,10 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-19",
  "symbols": [
   "AMD",
   "AMZN",
-  "AVGO",
-  "INTC",
-  "JPM",
-  "MU",
+  "GOOGL",
   "NVDA",
-  "QQQ",
-  "SNDK",
-  "SOXL",
-  "SOXX",
-  "SPY",
-  "STX",
-  "TSM",
-  "WDC"
+  "SOXL"
  ]
 }

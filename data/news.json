@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-24T05:20:55Z",
+ "updated": "2026-11-24T09:50:52Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Corp. (NVDA) Has Made Investors a Fortune \u2014 Is Now Time to Book Profits?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-made-investors-044731067.html?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 04:47:31 +0000"
+    "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO",
+    "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-falls-after-epic-rally-on-jensen-huangs-return-as-ceo-094535877.html?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 09:45:35 +0000"
    },
    {
-    "title": "Stocks climb as Huang's return to Nvidia lifts investor optimism",
-    "link": "https://www.euronews.com/2026/11/24/stocks-climb-as-huangs-return-to-nvidia-lifts-investor-optimism?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 04:30:05 +0000"
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as investors test Nvidia-fueled rally",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 09:06:14 +0000"
    },
    {
-    "title": "What Is Kymera and Why Did an Eczema Pill Outperform All AI Stocks on Monday?",
-    "link": "https://beincrypto.com/what-is-kymera-eczema-pill-stock/?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 04:30:00 +0000"
+    "title": "FalcoTrader Announces Expanded Stock Trading Capabilities Across Its Simulated Trading Challenge Platform",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/falcotrader-announces-expanded-stock-trading-094700625.html?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 09:47:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "US Futures Mixed After Monday\u2019s Nvidia-Led Chip Rally \u2014 ZM, HPE, AMD, BABA In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-monday-s-nvidia-led-chip-rally-zm-hpe-amd-baba-in-focus/cNbs23VR9kf?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 09:30:16 +0000"
+   },
    {
     "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
     "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-dips-overnight-after-nvidia-triggered-rally-amd-registers-337-m-shares-for-resale-tied-to-open-ai-meta-warrants/cNbru6MR9jU?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD Stock Rallies Nearly 8% as a Bernstein Analyst Remains Bullish Despite the Hunterbrook Short Report",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rallies-nearly-8-235832362.html?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 23:58:32 +0000"
-   },
-   {
-    "title": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-registers-337-million-shares-232224001.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 23:22:24 +0000"
    }
   ],
   "AVGO": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I\u2019d Buy on Sale",
+    "link": "https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 07:54:02 +0000"
+   },
+   {
     "title": "Stock Market Today, Nov. 23: Micron Surges 19% as Nvidia CEO Change Calms AI Spending Fears",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 22:20:02 +0000"
@@ -96,19 +101,9 @@
     "title": "Micron Stock Jumps 19%. Why the Rally Has Legs.",
     "link": "https://finance.yahoo.com/m/3f1f89c7-5433-3bc0-990f-eab9250e8983/micron-stock-jumps-19%25.-why.html?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 22:17:00 +0000"
-   },
-   {
-    "title": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 22:16:13 +0000"
    }
   ],
   "SNDK": [
-   {
-    "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-    "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 16:13:02 +0000"
-   },
    {
     "title": "Prediction: This Will Be Sandisk\u2019s Stock Price by the End of 2027",
     "link": "https://www.fool.com/investing/2026/11/23/prediction-this-will-be-sandisks-stock-price-by-the-end-of-2027/?.tsrc=rss",
@@ -118,6 +113,11 @@
     "title": "Sandisk (SNDK) Stock Looks Below Fair Value After Its 179% Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-looks-below-200804651.html?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 20:08:04 +0000"
+   },
+   {
+    "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+    "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html?.tsrc=rss",
+    "pubDate": "Mon, 23 Nov 2026 16:13:02 +0000"
    }
   ],
   "WDC": [
@@ -212,14 +212,14 @@
     "pubDate": "Mon, 23 Nov 2026 15:31:00 +0000"
    },
    {
-    "title": "What SPDR S&P 500 ETF Trust (SPY) Sold: Apple Leads on Nov. 19",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-trust-110402082.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 11:04:02 +0000"
-   },
-   {
     "title": "Nvidia Is About 5% of a $500,000 S&P 500 Fund. On Monday Morning It Delivered About a Third of the Fund\u2019s $23,900 Gain",
     "link": "https://247wallst.com/investing/2026/11/23/nvidia-is-about-5-of-a-500000-sp-500-fund-on-monday-morning-it-delivered-about-a-third-of-the-funds-23900-gain/?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 15:03:00 +0000"
+   },
+   {
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63568369/stock-market-will-sp-500-open-up-or-down-today-84?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:10:37 +0000"
    }
   ]
  },

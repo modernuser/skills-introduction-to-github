@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-21T07:01:51Z",
+ "updated": "2026-11-24T09:50:59Z",
  "coverage": 500,
  "gainers": [
-  {
-   "symbol": "GPN",
-   "name": "Global Payments",
-   "sector": "Financials",
-   "close": 91.83,
-   "pct": 9.95
-  },
-  {
-   "symbol": "GIS",
-   "name": "General Mills",
-   "sector": "Consumer Staples",
-   "close": 35.74,
-   "pct": 3.65
-  },
-  {
-   "symbol": "MKC",
-   "name": "McCormick & Company",
-   "sector": "Consumer Staples",
-   "close": 47.4,
-   "pct": 3.43
-  },
-  {
-   "symbol": "HCA",
-   "name": "HCA Healthcare",
-   "sector": "Health Care",
-   "close": 475.57,
-   "pct": 3.31
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 29.61,
-   "pct": 3.17
-  },
-  {
-   "symbol": "CTSH",
-   "name": "Cognizant",
-   "sector": "Information Technology",
-   "close": 58.06,
-   "pct": 3.11
-  },
-  {
-   "symbol": "DVA",
-   "name": "DaVita",
-   "sector": "Health Care",
-   "close": 161.03,
-   "pct": 3.0
-  },
-  {
-   "symbol": "UNH",
-   "name": "UnitedHealth Group",
-   "sector": "Health Care",
-   "close": 339.85,
-   "pct": 2.84
-  },
-  {
-   "symbol": "HUM",
-   "name": "Humana",
-   "sector": "Health Care",
-   "close": 390.0,
-   "pct": 2.63
-  },
-  {
-   "symbol": "UHS",
-   "name": "Universal Health Services",
-   "sector": "Health Care",
-   "close": 179.43,
-   "pct": 2.54
-  }
- ],
- "losers": [
-  {
-   "symbol": "BE",
-   "name": "Bloom Energy",
-   "sector": "Industrials",
-   "close": 142.39,
-   "pct": -16.72
-  },
-  {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 460.54,
-   "pct": -16.43
-  },
-  {
-   "symbol": "VRT",
-   "name": "Vertiv",
-   "sector": "Industrials",
-   "close": 166.24,
-   "pct": -14.52
-  },
   {
    "symbol": "NVDA",
    "name": "Nvidia",
    "sector": "Information Technology",
-   "close": 125.53,
-   "pct": -14.01
+   "close": 165.05,
+   "pct": 31.48
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "close": 334.91,
+   "pct": 20.46
   },
   {
    "symbol": "MU",
    "name": "Micron Technology",
    "sector": "Information Technology",
-   "close": 594.51,
-   "pct": -13.89
+   "close": 707.7,
+   "pct": 19.04
   },
   {
-   "symbol": "ANET",
-   "name": "Arista Networks",
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
    "sector": "Information Technology",
-   "close": 167.62,
-   "pct": -13.57
+   "close": 144.74,
+   "pct": 18.37
   },
   {
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 424.39,
-   "pct": -13.25
+   "close": 544.38,
+   "pct": 18.2
+  },
+  {
+   "symbol": "BE",
+   "name": "Bloom Energy",
+   "sector": "Industrials",
+   "close": 168.15,
+   "pct": 18.09
+  },
+  {
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "close": 48.02,
+   "pct": 17.38
+  },
+  {
+   "symbol": "MPWR",
+   "name": "Monolithic Power Systems",
+   "sector": "Information Technology",
+   "close": 1333.88,
+   "pct": 16.8
+  },
+  {
+   "symbol": "INTC",
+   "name": "Intel",
+   "sector": "Information Technology",
+   "close": 59.66,
+   "pct": 16.34
   },
   {
    "symbol": "COHR",
    "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 187.22,
-   "pct": -12.9
+   "close": 215.81,
+   "pct": 15.27
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "sector": "Information Technology",
+   "close": 208.97,
+   "pct": -8.92
   },
   {
-   "symbol": "INTU",
-   "name": "Intuit",
-   "sector": "Information Technology",
-   "close": 270.44,
-   "pct": -12.77
+   "symbol": "IP",
+   "name": "International Paper",
+   "sector": "Materials",
+   "close": 28.98,
+   "pct": -4.55
   },
   {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Information Technology",
-   "close": 457.01,
-   "pct": -12.35
+   "symbol": "ELV",
+   "name": "Elevance Health",
+   "sector": "Health Care",
+   "close": 379.55,
+   "pct": -3.78
+  },
+  {
+   "symbol": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "Energy",
+   "close": 258.07,
+   "pct": -3.5
+  },
+  {
+   "symbol": "TSN",
+   "name": "Tyson Foods",
+   "sector": "Consumer Staples",
+   "close": 62.95,
+   "pct": -3.33
+  },
+  {
+   "symbol": "COP",
+   "name": "ConocoPhillips",
+   "sector": "Energy",
+   "close": 132.19,
+   "pct": -2.89
+  },
+  {
+   "symbol": "MNST",
+   "name": "Monster Beverage",
+   "sector": "Consumer Staples",
+   "close": 42.43,
+   "pct": -2.88
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands",
+   "sector": "Consumer Staples",
+   "close": 137.82,
+   "pct": -2.85
+  },
+  {
+   "symbol": "AMT",
+   "name": "American Tower",
+   "sector": "Real Estate",
+   "close": 179.31,
+   "pct": -2.66
+  },
+  {
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "sector": "Energy",
+   "close": 357.69,
+   "pct": -2.59
   }
  ]
 }

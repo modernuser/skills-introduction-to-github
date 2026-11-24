@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-24T01:37:23Z",
+ "updated": "2026-11-24T05:20:55Z",
  "news": {
   "NVDA": [
    {
-    "title": "CFO Colette Kress Just Made This Subtle Shift That Could Save Nvidia Shareholders",
-    "link": "https://www.fool.com/investing/2026/11/23/cfo-colette-kress-just-made-this-subtle-shift-that-could-save-nvidia-shareholders/?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 01:26:02 +0000"
+    "title": "Nvidia Corp. (NVDA) Has Made Investors a Fortune \u2014 Is Now Time to Book Profits?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-made-investors-044731067.html?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 04:47:31 +0000"
    },
    {
-    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Best Move Investors Should Make",
-    "link": "https://www.fool.com/investing/2026/11/23/if-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-best-move-investors-should-make/?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 01:20:02 +0000"
+    "title": "Stocks climb as Huang's return to Nvidia lifts investor optimism",
+    "link": "https://www.euronews.com/2026/11/24/stocks-climb-as-huangs-return-to-nvidia-lifts-investor-optimism?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 04:30:05 +0000"
    },
    {
-    "title": "Nvidia reinstates Jensen Huang as CEO",
-    "link": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 01:19:26 +0000"
+    "title": "What Is Kymera and Why Did an Eczema Pill Outperform All AI Stocks on Monday?",
+    "link": "https://beincrypto.com/what-is-kymera-eczema-pill-stock/?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 04:30:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-dips-overnight-after-nvidia-triggered-rally-amd-registers-337-m-shares-for-resale-tied-to-open-ai-meta-warrants/cNbru6MR9jU?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 03:47:48 +0000"
+   },
    {
     "title": "AMD Stock Rallies Nearly 8% as a Bernstein Analyst Remains Bullish Despite the Hunterbrook Short Report",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rallies-nearly-8-235832362.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-registers-337-million-shares-232224001.html?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 23:22:24 +0000"
-   },
-   {
-    "title": "Stock Market Today, Nov. 23: Advanced Micro Devices Climbs on AI-Chip Rebound After Nvidia Reinstates Jensen Huang as CEO",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-advanced-micro-devices-climbs-on-ai-chip-rebound-after-nvidia-reinstates-jensen-huang-as-ceo/?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 22:10:40 +0000"
    }
   ],
   "AVGO": [
@@ -88,11 +88,6 @@
   ],
   "MU": [
    {
-    "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
-    "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 18:59:49 +0000"
-   },
-   {
     "title": "Stock Market Today, Nov. 23: Micron Surges 19% as Nvidia CEO Change Calms AI Spending Fears",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 22:20:02 +0000"
@@ -101,6 +96,11 @@
     "title": "Micron Stock Jumps 19%. Why the Rally Has Legs.",
     "link": "https://finance.yahoo.com/m/3f1f89c7-5433-3bc0-990f-eab9250e8983/micron-stock-jumps-19%25.-why.html?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 22:17:00 +0000"
+   },
+   {
+    "title": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/?.tsrc=rss",
+    "pubDate": "Mon, 23 Nov 2026 22:16:13 +0000"
    }
   ],
   "SNDK": [
@@ -190,19 +190,19 @@
   ],
   "QQQ": [
    {
+    "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
+    "link": "https://247wallst.com/investing/etf/2026/11/23/qqq-paid-a-300000-holder-1524-in-dividends-over-the-past-year-while-vym-paid-7164/?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 02:03:39 +0000"
+   },
+   {
+    "title": "QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1%",
+    "link": "https://247wallst.com/investing/etf/2026/11/23/qqq-is-almost-half-in-10-stocks-this-nasdaq-etf-caps-every-one-at-1/?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 02:01:04 +0000"
+   },
+   {
     "title": "Should You Swap Tech For Johnson & Johnson Stock?",
     "link": "https://www.trefis.com/stock/jnj/articles/627623/should-you-swap-tech-for-johnson-johnson-stock/2026-11-23?.tsrc=rss",
     "pubDate": "Mon, 23 Nov 2026 22:02:04 +0000"
-   },
-   {
-    "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181225577.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 18:12:25 +0000"
-   },
-   {
-    "title": "What INVESCO QQQ Trust (QQQ) Sold: Apple Leads on Nov. 19",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-sold-110405429.html?.tsrc=rss",
-    "pubDate": "Mon, 23 Nov 2026 11:04:05 +0000"
    }
   ],
   "SPY": [

@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-25T04:17:28Z",
+ "updated": "2026-11-25T08:28:16Z",
  "news": {
   "NVDA": [
    {
-    "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 04:05:26 +0000"
+    "title": "Tech firms back in crosshairs as Huang rally reverses",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+    "pubDate": "Wed, 25 Nov 2026 07:31:13 +0000"
    },
    {
-    "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
-    "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 04:04:33 +0000"
+    "title": "SK hynix (NasdaqGS:SKHY) Sell Off Puts Undervalued Narrative Back In Focus",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-sell-070941477.html?.tsrc=rss",
+    "pubDate": "Wed, 25 Nov 2026 07:09:41 +0000"
    },
    {
-    "title": "Another Wall Street analyst revamps stock market outlook as volatility surges",
-    "link": "https://www.thestreet.com/investing/another-wall-street-analyst-revamps-stock-market-outlook-as-volatility-surges?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 03:53:00 +0000"
+    "title": "Nvidia\u2019s spying scandal is backfiring on China",
+    "link": "https://www.telegraph.co.uk/business/2026/11/25/nvidias-spying-scandal-is-backfiring-on-china/?.tsrc=rss",
+    "pubDate": "Wed, 25 Nov 2026 07:00:00 +0000"
    }
   ],
   "AMD": [
@@ -37,11 +37,6 @@
   ],
   "AVGO": [
    {
-    "title": "Stocks give back gains as Anthropic dips below IPO price",
-    "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 15:44:08 +0000"
-   },
-   {
     "title": "Broadcom Stock Could Have 70% Upside, Analysts Say. What AVGO\u2019s Valuation Reveals.",
     "link": "https://www.barchart.com/story/news/8991255/broadcom-stock-could-have-70-upside-analysts-say-what-avgos-valuation-reveals?.tsrc=rss",
     "pubDate": "Tue, 24 Nov 2026 20:10:17 +0000"
@@ -50,9 +45,19 @@
     "title": "Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-fall-3-98-165405396.html?.tsrc=rss",
     "pubDate": "Tue, 24 Nov 2026 16:54:05 +0000"
+   },
+   {
+    "title": "Wall Street May Not Be Ready for What\u2019s Coming Next for These 3 AI Stocks",
+    "link": "https://247wallst.com/investing/2026/11/24/wall-street-may-not-be-ready-for-whats-coming-next-for-these-3-ai-stocks/?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 16:33:13 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Asian stocks mostly decline as AI shares tumble after a retreat on Wall Street",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html?.tsrc=rss",
+    "pubDate": "Wed, 25 Nov 2026 04:05:26 +0000"
+   },
    {
     "title": "Novanta Shares Just Jumped And We\u2019re Buying This Robotics Play",
     "link": "https://247wallst.com/videos/novanta-shares-just-jumped-and-were-buying-this-robotics-play/?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock May Be Reasonable After New Export Curbs",
     "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-200904328.html?.tsrc=rss",
     "pubDate": "Tue, 24 Nov 2026 20:09:04 +0000"
-   },
-   {
-    "title": "TSMC's $22.6 Billion Texas Chip Plant Hinges on Two Tax Breaks",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63603822/tsmc-texas-chip-tax-breaks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 20:00:07 +0000"
    }
   ],
   "INTC": [
@@ -207,11 +207,6 @@
   ],
   "SPY": [
    {
-    "title": "Own Humana Stock? Its Profit Cushion Is The Thinnest",
-    "link": "https://www.trefis.com/stock/unh/articles/628256/own-humana-stock-its-profit-cushion-is-the-thinnest/2026-11-24?.tsrc=rss",
-    "pubDate": "Tue, 24 Nov 2026 13:03:08 +0000"
-   },
-   {
     "title": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-above-fair-value-211324050.html?.tsrc=rss",
     "pubDate": "Tue, 24 Nov 2026 21:13:24 +0000"
@@ -220,6 +215,11 @@
     "title": "If Anthropic Does This It Could Reach $130 By Year End",
     "link": "https://247wallst.com/investing/2026/11/24/if-anthropic-does-this-it-could-reach-130-by-year-end/?.tsrc=rss",
     "pubDate": "Tue, 24 Nov 2026 15:45:48 +0000"
+   },
+   {
+    "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Investors Pull Back From AI-Related Stocks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141922343.html?.tsrc=rss",
+    "pubDate": "Tue, 24 Nov 2026 14:19:22 +0000"
    }
   ]
  },

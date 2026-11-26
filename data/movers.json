@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-25T08:28:23Z",
+ "updated": "2026-11-26T08:41:13Z",
  "coverage": 500,
  "gainers": [
   {
-   "symbol": "DLTR",
-   "name": "Dollar Tree",
-   "sector": "Consumer Staples",
-   "close": 154.65,
-   "pct": 11.18
-  },
-  {
-   "symbol": "CSGP",
-   "name": "CoStar Group",
-   "sector": "Real Estate",
-   "close": 32.64,
-   "pct": 8.08
-  },
-  {
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "sector": "Health Care",
-   "close": 227.38,
-   "pct": 7.21
+   "symbol": "HPQ",
+   "name": "HP Inc.",
+   "sector": "Information Technology",
+   "close": 31.15,
+   "pct": 11.49
   },
   {
    "symbol": "CHTR",
    "name": "Charter Communications",
    "sector": "Communication Services",
-   "close": 135.87,
-   "pct": 6.21
+   "close": 147.27,
+   "pct": 8.39
   },
   {
-   "symbol": "NKE",
-   "name": "Nike, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 35.75,
-   "pct": 5.89
+   "symbol": "AXON",
+   "name": "Axon Enterprise",
+   "sector": "Industrials",
+   "close": 343.05,
+   "pct": 7.43
+  },
+  {
+   "symbol": "CDW",
+   "name": "CDW Corporation",
+   "sector": "Information Technology",
+   "close": 174.97,
+   "pct": 6.59
+  },
+  {
+   "symbol": "ADI",
+   "name": "Analog Devices",
+   "sector": "Information Technology",
+   "close": 333.11,
+   "pct": 6.44
+  },
+  {
+   "symbol": "EXE",
+   "name": "Expand Energy",
+   "sector": "Energy",
+   "close": 86.77,
+   "pct": 5.75
+  },
+  {
+   "symbol": "BG",
+   "name": "Bunge Global",
+   "sector": "Consumer Staples",
+   "close": 88.15,
+   "pct": 4.87
   },
   {
    "symbol": "IP",
    "name": "International Paper",
    "sector": "Materials",
-   "close": 30.62,
-   "pct": 5.66
-  },
-  {
-   "symbol": "AMGN",
-   "name": "Amgen",
-   "sector": "Health Care",
-   "close": 473.94,
-   "pct": 5.55
-  },
-  {
-   "symbol": "NVR",
-   "name": "NVR, Inc.",
-   "sector": "Consumer Discretionary",
-   "close": 5868.7998,
-   "pct": 5.5
-  },
-  {
-   "symbol": "INCY",
-   "name": "Incyte",
-   "sector": "Health Care",
-   "close": 123.61,
-   "pct": 5.33
-  },
-  {
-   "symbol": "TTWO",
-   "name": "Take-Two Interactive",
-   "sector": "Communication Services",
-   "close": 220.41,
-   "pct": 5.28
-  }
- ],
- "losers": [
-  {
-   "symbol": "ADI",
-   "name": "Analog Devices",
-   "sector": "Information Technology",
-   "close": 312.95,
-   "pct": -17.37
-  },
-  {
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "sector": "Information Technology",
-   "close": 40.19,
-   "pct": -16.31
-  },
-  {
-   "symbol": "DELL",
-   "name": "Dell Technologies",
-   "sector": "Information Technology",
-   "close": 295.28,
-   "pct": -11.83
+   "close": 32.08,
+   "pct": 4.77
   },
   {
    "symbol": "TXN",
    "name": "Texas Instruments",
    "sector": "Information Technology",
-   "close": 258.44,
-   "pct": -11.25
+   "close": 270.19,
+   "pct": 4.55
+  },
+  {
+   "symbol": "DE",
+   "name": "Deere & Company",
+   "sector": "Industrials",
+   "close": 641.02,
+   "pct": 4.44
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research",
+   "sector": "Information Technology",
+   "close": 185.01,
+   "pct": -5.68
+  },
+  {
+   "symbol": "ORCL",
+   "name": "Oracle Corporation",
+   "sector": "Information Technology",
+   "close": 103.88,
+   "pct": -5.13
   },
   {
    "symbol": "MU",
    "name": "Micron Technology",
    "sector": "Information Technology",
-   "close": 629.79,
-   "pct": -11.01
+   "close": 601.25,
+   "pct": -4.53
   },
   {
-   "symbol": "MPWR",
-   "name": "Monolithic Power Systems",
+   "symbol": "DDOG",
+   "name": "Datadog",
    "sector": "Information Technology",
-   "close": 1190.16,
-   "pct": -10.77
+   "close": 158.25,
+   "pct": -4.31
   },
   {
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "sector": "Information Technology",
-   "close": 487.12,
-   "pct": -10.52
+   "symbol": "J",
+   "name": "Jacobs Solutions",
+   "sector": "Industrials",
+   "close": 145.49,
+   "pct": -4.27
   },
   {
-   "symbol": "FLEX",
-   "name": "Flex Ltd.",
-   "sector": "Information Technology",
-   "close": 66.44,
-   "pct": -10.14
+   "symbol": "PWR",
+   "name": "Quanta Services",
+   "sector": "Industrials",
+   "close": 565.47,
+   "pct": -4.1
   },
   {
-   "symbol": "CIEN",
-   "name": "Ciena",
-   "sector": "Information Technology",
-   "close": 239.27,
-   "pct": -9.62
+   "symbol": "WST",
+   "name": "West Pharmaceutical Services",
+   "sector": "Health Care",
+   "close": 372.94,
+   "pct": -4.07
   },
   {
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
+   "symbol": "NVDA",
+   "name": "Nvidia",
    "sector": "Information Technology",
-   "close": 131.57,
-   "pct": -9.1
+   "close": 149.3,
+   "pct": -3.91
+  },
+  {
+   "symbol": "CEG",
+   "name": "Constellation Energy",
+   "sector": "Utilities",
+   "close": 235.28,
+   "pct": -3.9
+  },
+  {
+   "symbol": "AMAT",
+   "name": "Applied Materials",
+   "sector": "Information Technology",
+   "close": 311.18,
+   "pct": -3.89
   }
  ]
 }

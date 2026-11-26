@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-25T23:02:49Z",
+ "updated": "2026-11-26T03:37:43Z",
  "news": {
   "NVDA": [
    {
-    "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
-    "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures%3A-market.html?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 22:35:25 +0000"
+    "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+    "link": "https://finance.yahoo.com/technology/articles/trump-admin-weighed-using-cold-032247551.html?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 03:22:47 +0000"
    },
    {
-    "title": "Nvidia settles 8-year-old investor suit for $290M",
-    "link": "https://www.thestreet.com/crypto/artificial-intelligence/nvidia-settles-8-year-old-investor-suit-for-290m?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 22:30:00 +0000"
+    "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-reach-chinese-owned-031146505.html?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 03:11:46 +0000"
    },
    {
-    "title": "Nvidia May Get A Credit Rating Cut Amid Governance Issues, While US Officials Reportedly Say No Chinese Interference in Huang\u2019s Affair",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-may-get-a-credit-rating-cut-amid-governance-issues-while-us-officials-reportedly-say-no-chinese-interference-in-huang-s-affair/cNbHubZR9mx?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 22:26:54 +0000"
+    "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+    "link": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-031000587.html?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 03:10:00 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "Big AI Buyers Want a Second Source. Is AMD (AMD) It?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/big-ai-buyers-want-second-005602621.html?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 00:56:02 +0000"
+   },
    {
     "title": "2 Billionaire Funds Dumped AMD Last Quarter. Is It a Sell?",
     "link": "https://www.fool.com/investing/2026/11/25/2-billionaire-funds-dumped-amd-last-quarter-is-it-a-sell/?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating",
     "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-could-rally-213100517.html?.tsrc=rss",
     "pubDate": "Wed, 25 Nov 2026 21:31:00 +0000"
-   },
-   {
-    "title": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron.",
-    "link": "https://www.fool.com/investing/2026/11/25/david-tepper-sold-all-of-his-amd-stock-his-biggest-position-is-micron/?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 19:20:02 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+    "link": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 01:03:02 +0000"
+   },
    {
     "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
     "link": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
@@ -45,14 +50,14 @@
     "title": "This Is Why I Wouldn\u2019t Ignore This Stock Heading Into 2027",
     "link": "https://247wallst.com/investing/2026/11/25/this-is-why-i-wouldnt-ignore-this-stock-heading-into-2027/?.tsrc=rss",
     "pubDate": "Wed, 25 Nov 2026 17:03:04 +0000"
-   },
-   {
-    "title": "AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 17:02:36 +0000"
    }
   ],
   "TSM": [
+   {
+    "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 03:03:16 +0000"
+   },
    {
     "title": "TSMC eyes 3K-acre Aggieland site for $22.6B chip plant",
     "link": "https://finance.yahoo.com/technology/articles/tsmc-eyes-3k-acre-aggieland-192901231.html?.tsrc=rss",
@@ -62,11 +67,6 @@
     "title": "If You Invest $1,000 in Taiwan Semiconductor Today, Here\u2019s What It Could Be Worth by 2030",
     "link": "https://247wallst.com/investing/2026/11/25/if-you-invest-1000-in-taiwan-semiconductor-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
     "pubDate": "Wed, 25 Nov 2026 17:33:01 +0000"
-   },
-   {
-    "title": "Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here\u2019s the Brilliant Stock He Added.",
-    "link": "https://www.fool.com/investing/2026/11/25/billionaire-stanley-druckenmiller-sold-94-of-his-tsmc-and-all-of-his-alphabet-here-s-the-brilliant-stock-he-added/?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 16:37:02 +0000"
    }
   ],
   "INTC": [
@@ -88,6 +88,11 @@
   ],
   "MU": [
    {
+    "title": "Is Micron Cheap Only If Its Record Margin Lasts?",
+    "link": "https://www.trefis.com/stock/mu/articles/628939/is-micron-cheap-only-if-its-record-margin-lasts/2026-11-25?.tsrc=rss",
+    "pubDate": "Wed, 25 Nov 2026 23:43:07 +0000"
+   },
+   {
     "title": "Micron's CEO pay rose 28%. His security bill rose way faster",
     "link": "https://www.thestreet.com/investing/micron-ceo-pay-security-costs-soar?.tsrc=rss",
     "pubDate": "Wed, 25 Nov 2026 22:33:00 +0000"
@@ -96,11 +101,6 @@
     "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
     "link": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
     "pubDate": "Wed, 25 Nov 2026 21:51:01 +0000"
-   },
-   {
-    "title": "Micron (MU) Suffers a Larger Drop Than the General Market: Key Insights",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-suffers-larger-drop-214502791.html?.tsrc=rss",
-    "pubDate": "Wed, 25 Nov 2026 21:45:02 +0000"
    }
   ],
   "SNDK": [

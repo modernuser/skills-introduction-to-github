@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-27T18:09:01Z",
+ "updated": "2026-11-27T22:38:56Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia\u2019s Key Man Problem",
-    "link": "https://www.fool.com/investing/2026/11/27/nvidias-key-man-problem/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 18:01:02 +0000"
+    "title": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+    "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:54:29 +0000"
    },
    {
-    "title": "Stock Market Today: Dow, Nasdaq Pop In Post-Holiday Trade; Nvidia Falls, Sandisk Vaults Higher (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:47:57 +0000"
+    "title": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
+    "link": "https://www.fool.com/investing/2026/11/27/should-you-buy-nvidia-stock-before-ceo-jensen-huang-testifies-in-front-of-congress-on-dec-1-and-dec-3/?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:48:09 +0000"
    },
    {
-    "title": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most.",
-    "link": "https://www.fool.com/investing/2026/11/27/not-amd-this-is-the-1-company-nvidia-should-worry-about-most/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:35:02 +0000"
+    "title": "Sports Betting and the Way We Make Money",
+    "link": "https://www.fool.com/investing/2026/11/27/sports-betting-and-the-way-we-make-money/?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:44:23 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-despite-erste-191808508.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:18:08 +0000"
+   },
    {
     "title": "Dual AI Growth Catalysts Position Advanced Micro Devices (AMD) for Revenue Acceleration",
     "link": "https://finance.yahoo.com/technology/ai/articles/dual-ai-growth-catalysts-position-164930131.html?.tsrc=rss",
@@ -28,11 +33,6 @@
     "title": "AMD vs. ASML: As Wall Street Questions the AI Boom, Which Chip Stock Wins in 2027?",
     "link": "https://www.fool.com/coverage/better-buy/2026/11/27/amd-vs-asml-as-wall-street-questions-the-ai-boom-which-chip-stock-wins-in-2027/?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 16:46:59 +0000"
-   },
-   {
-    "title": "Here\u2019s Why I\u2019d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO.",
-    "link": "https://www.fool.com/investing/2026/11/27/here-s-why-i-d-still-buy-nvidia-over-amd-with-or-without-jensen-huang-at-ceo/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 16:05:02 +0000"
    }
   ],
   "AVGO": [
@@ -54,6 +54,11 @@
   ],
   "TSM": [
    {
+    "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here\u2019s Who Sold Recently",
+    "link": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-5-other-famous-investors-own-taiwan-semiconductor-heres-who-sold-recently?ref=yahoofinance&tlnk=yf-261127-678h6x89&.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 18:28:19 +0000"
+   },
+   {
     "title": "Trump Is Heading to Arizona to Break Ground on TSMC\u2019s Newest Chip Plant",
     "link": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 15:48:35 +0000"
@@ -62,14 +67,14 @@
     "title": "No Threat to TSMC Before 2028: Intel\u2019s Foundry Gap Is Still Huge",
     "link": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 15:45:12 +0000"
-   },
-   {
-    "title": "Trump\u2019s New Tariffs Hit Taiwan but Spare Its Chips. That\u2019s Good News for TSMC and Apple",
-    "link": "https://www.tikr.com/blog/trumps-new-tariffs-hit-taiwan-but-spare-its-chips-thats-good-news-for-tsmc-and-apple?ref=yahoofinance&tlnk=yf-261127-wff3mmwm&.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 13:40:36 +0000"
    }
   ],
   "INTC": [
+   {
+    "title": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-2-86-192124489.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:21:24 +0000"
+   },
    {
     "title": "No Threat to TSMC Before 2028: Intel\u2019s Foundry Gap Is Still Huge",
     "link": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/?.tsrc=rss",
@@ -79,28 +84,23 @@
     "title": "BC-Most Active Stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153017329.html?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 15:30:17 +0000"
-   },
-   {
-    "title": "How Much More Could You Lose In Intel Stock?",
-    "link": "https://www.trefis.com/stock/intc/articles/629327/how-much-more-could-you-lose-in-intel-stock/2026-11-27?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 11:59:07 +0000"
    }
   ],
   "MU": [
    {
-    "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+    "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
     "link": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 15:12:18 +0000"
    },
    {
-    "title": "Micron Faces New AI Memory Threat as Huawei Develops HBM Chip",
-    "link": "https://finance.yahoo.com/technology/ai/articles/micron-faces-ai-memory-threat-171328560.html?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:13:28 +0000"
+    "title": "Micron CEO Expects Memory Shortages to Worsen in 2028, but TrendForce Sees Prices Falling",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63685667/micron-trendforce-memory-price-outlook?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 18:15:06 +0000"
    },
    {
-    "title": "Why Micron Investors Are Giving Thanks After Thanksgiving",
-    "link": "https://www.fool.com/investing/2026/11/27/why-micron-investors-are-giving-thanks-after-thanksgiving/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:05:35 +0000"
+    "title": "AI Chip Stocks Roar Back -- Sandisk and Micron Lead the Rally",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-roar-back-180304210.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 18:03:04 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Fri, 27 Nov 2026 14:30:00 +0000"
    },
    {
-    "title": "Stock Market Today: Dow, Nasdaq Pop In Post-Holiday Trade; Nvidia Falls, Sandisk Vaults Higher (Live Coverage)",
-    "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:47:57 +0000"
+    "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+    "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 19:10:43 +0000"
    },
    {
-    "title": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-midday-nov-27-tech-stocks-recover-and-amazon-posts-black-friday-gains/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 17:31:17 +0000"
+    "title": "SanDisk Stocks Jump 12.85% After Kioxia and Nvidia Stretch GPU Memory With SSDs",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-jump-12-85-181316890.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 18:13:16 +0000"
    }
   ],
   "WDC": [

@@ -1,24 +1,29 @@
 {
- "updated": "2026-11-26T22:55:49Z",
+ "updated": "2026-11-27T03:39:41Z",
  "news": {
   "NVDA": [
    {
-    "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/loonie-weakens-amid-thanksgiving-holiday-222803240.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 22:28:03 +0000"
+    "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
+    "link": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 03:20:02 +0000"
    },
    {
-    "title": "Jensen Huang\u2019s Return Doesn\u2019t Make Nvidia Stock (NVDA) a Buy",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 21:22:00 +0000"
+    "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
+    "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 02:20:00 +0000"
    },
    {
-    "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang\u2019s affair with alleged spy was exposed",
-    "link": "https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 20:30:14 +0000"
+    "title": "Trump Says Huang Is Excited About His \u2018Second Term\u2019 at Nvidia",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-huang-excited-second-003925008.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 00:39:25 +0000"
    }
   ],
   "AMD": [
+   {
+    "title": "KHC, PINS, AMD: 3 Bets I\u2019d Consider Waging From Thanksgiving Eve\u2019s Top 25 Unusually Active Options",
+    "link": "https://www.barchart.com/story/news/9022595/khc-pins-amd-3-bets-id-consider-waging-from-thanksgiving-eves-top-25-unusually-active-options?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 18:30:04 +0000"
+   },
    {
     "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html?.tsrc=rss",
@@ -28,14 +33,14 @@
     "title": "Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?",
     "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-expands-ai-inference-reach-161400247.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 16:14:00 +0000"
-   },
-   {
-    "title": "Tepper Trims Alphabet by ~46% and Dumps Broadcom & AMD While Backing Micron and Oracle",
-    "link": "https://247wallst.com/investing/2026/11/26/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle/?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 12:15:05 +0000"
    }
   ],
   "AVGO": [
+   {
+    "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 03:15:33 +0000"
+   },
    {
     "title": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
     "link": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-goldman-sachs-resets-avgo-stock-12-month-price-target-before-earnings?.tsrc=rss",
@@ -45,11 +50,6 @@
     "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
     "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 18:30:41 +0000"
-   },
-   {
-    "title": "3 AI Infrastructure Stocks That Pay You While You Wait",
-    "link": "https://247wallst.com/investing/2026/11/26/3-ai-infrastructure-stocks-that-pay-you-while-you-wait/?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 14:03:41 +0000"
    }
   ],
   "TSM": [
@@ -71,36 +71,36 @@
   ],
   "INTC": [
    {
+    "title": "Intel\u2019s (INTC) AI Opportunity Is Growing, But There\u2019s One Big Problem Holding It Back",
+    "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 03:14:16 +0000"
+   },
+   {
+    "title": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8.",
+    "link": "https://www.barchart.com/story/news/9022928/nvidia-cut-its-intel-stake-and-bought-more-spacex-cathie-wood-is-buying-too-why-spcx-stock-faces-a-big-test-on-december-8?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 19:30:03 +0000"
+   },
+   {
     "title": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
     "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-slip-erasing-10-184536612.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 18:45:36 +0000"
-   },
-   {
-    "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here\u2019s What That Means for Nvidia Shareholders",
-    "link": "https://www.tikr.com/blog/nvidia-now-has-41-of-its-stock-portfolio-in-spacex-heres-what-that-means-for-nvidia-shareholders?ref=yahoofinance&tlnk=yf-261126-gr78h4qh&.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 18:12:10 +0000"
-   },
-   {
-    "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
-    "link": "https://www.barchart.com/story/news/9021482/nvidia-just-revealed-a-major-19-billion-vote-of-confidence-in-intel-stock?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 16:30:03 +0000"
    }
   ],
   "MU": [
    {
+    "title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here\u2019s Why That Matters",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-secured-32-billion-031249719.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 03:12:49 +0000"
+   },
+   {
+    "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+    "link": "https://www.fool.com/investing/2026/11/26/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-semiconductor-stock-through-2030-this-would-be-it/?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 23:14:44 +0000"
+   },
+   {
     "title": "Why It\u2019s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-hard-write-off-micron-210000375.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 21:00:00 +0000"
-   },
-   {
-    "title": "Micron Stock Faces Surprising New Threat From Huawei",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-faces-surprising-threat-180348513.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 18:03:48 +0000"
-   },
-   {
-    "title": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-4-53-172600974.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 17:26:00 +0000"
    }
   ],
   "SNDK": [
@@ -110,14 +110,14 @@
     "pubDate": "Thu, 26 Nov 2026 21:20:02 +0000"
    },
    {
+    "title": "Sandisk Trades at Under 3x Earnings After an 8-for-1 Split and a 70% Crash. Why SNDK Stock Isn\u2019t Doomed Despite NAND Price Warnings.",
+    "link": "https://www.barchart.com/story/news/9022920/sandisk-trades-at-under-3x-earnings-after-an-8-for-1-split-and-a-70-crash-why-sndk-stock-isnt-doomed-despite-nand-price-warnings?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 19:30:03 +0000"
+   },
+   {
     "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
     "link": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-two-cheapest-ai-112351523.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 11:23:51 +0000"
-   },
-   {
-    "title": "ETFs Are Buying SanDisk (SNDK) on Nov. 24",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-sandisk-sndk-nov-110203043.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 11:02:03 +0000"
    }
   ],
   "WDC": [
@@ -207,6 +207,11 @@
   ],
   "SPY": [
    {
+    "title": "Dave Ramsey Is 66 and Owns Zero Bonds. Should Retirees Follow Him?",
+    "link": "https://247wallst.com/personal-finance/2026/11/26/dave-ramsey-is-66-and-owns-zero-bonds-should-retirees-follow-him/?.tsrc=rss",
+    "pubDate": "Thu, 26 Nov 2026 23:07:11 +0000"
+   },
+   {
     "title": "SPDR S&P 500 ETF (SPY) Sells $400.1 Million of Apple on Nov. 24",
     "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110357521.html?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 11:03:57 +0000"
@@ -215,11 +220,6 @@
     "title": "Own Palo Alto Stock? Watch Its Deferred Revenue",
     "link": "https://www.trefis.com/stock/panw/articles/629187/own-palo-alto-stock-watch-its-deferred-revenue/2026-11-26?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 11:15:19 +0000"
-   },
-   {
-    "title": "ETFs Are Net Sellers of Thermo Fisher (TMO) on Nov. 24",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-thermo-fisher-110336584.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 11:03:36 +0000"
    }
   ]
  },

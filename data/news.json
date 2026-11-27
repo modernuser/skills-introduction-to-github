@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-27T03:39:41Z",
+ "updated": "2026-11-27T08:24:33Z",
  "news": {
   "NVDA": [
    {
-    "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
-    "link": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 03:20:02 +0000"
+    "title": "Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs",
+    "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 06:31:28 +0000"
    },
    {
-    "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
-    "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 02:20:00 +0000"
+    "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 05:14:09 +0000"
    },
    {
-    "title": "Trump Says Huang Is Excited About His \u2018Second Term\u2019 at Nvidia",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-huang-excited-second-003925008.html?.tsrc=rss",
-    "pubDate": "Fri, 27 Nov 2026 00:39:25 +0000"
+    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 04:23:01 +0000"
    }
   ],
   "AMD": [
@@ -37,6 +37,11 @@
   ],
   "AVGO": [
    {
+    "title": "Why Redburn Downgraded Broadcom (AVGO) Despite Surging AI Revenue",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-035057918.html?.tsrc=rss",
+    "pubDate": "Fri, 27 Nov 2026 03:50:57 +0000"
+   },
+   {
     "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
     "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html?.tsrc=rss",
     "pubDate": "Fri, 27 Nov 2026 03:15:33 +0000"
@@ -45,11 +50,6 @@
     "title": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
     "link": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-goldman-sachs-resets-avgo-stock-12-month-price-target-before-earnings?.tsrc=rss",
     "pubDate": "Thu, 26 Nov 2026 19:33:15 +0000"
-   },
-   {
-    "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html?.tsrc=rss",
-    "pubDate": "Thu, 26 Nov 2026 18:30:41 +0000"
    }
   ],
   "TSM": [

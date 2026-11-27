@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T04:14:46Z",
+ "generated": "2026-11-27T04:21:27Z",
  "method": "variance-components Gage R&R; parts=tickers, operators=data sources, trials=repeated computations",
  "note": "Measurement system analysis, not a market claim. It asks whether a KPI can be measured consistently \u2014 never whether the KPI predicts anything. Acceptance bands are AIAG (<=10% acceptable, <=30% marginal).",
  "acceptance_bands": {
@@ -83,8 +83,8 @@
    ],
    "repeatability_sd": 0.0,
    "reproducibility_sd": 0.0,
-   "part_variation_sd": 0.29691315,
-   "total_variation_sd": 0.29691315,
+   "part_variation_sd": 0.29731672,
+   "total_variation_sd": 0.29731672,
    "pct_rr": 0.0,
    "pct_repeatability": 0.0,
    "pct_reproducibility": 0.0,

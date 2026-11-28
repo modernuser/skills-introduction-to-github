@@ -1,148 +1,148 @@
 {
- "updated": "2026-11-26T08:41:13Z",
+ "updated": "2026-11-28T07:44:04Z",
  "coverage": 500,
  "gainers": [
   {
-   "symbol": "HPQ",
-   "name": "HP Inc.",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
    "sector": "Information Technology",
-   "close": 31.15,
-   "pct": 11.49
+   "close": 223.79,
+   "pct": 14.07
   },
   {
-   "symbol": "CHTR",
-   "name": "Charter Communications",
-   "sector": "Communication Services",
-   "close": 147.27,
-   "pct": 8.39
-  },
-  {
-   "symbol": "AXON",
-   "name": "Axon Enterprise",
-   "sector": "Industrials",
-   "close": 343.05,
-   "pct": 7.43
-  },
-  {
-   "symbol": "CDW",
-   "name": "CDW Corporation",
+   "symbol": "LITE",
+   "name": "Lumentum",
    "sector": "Information Technology",
-   "close": 174.97,
-   "pct": 6.59
+   "close": 514.63,
+   "pct": 7.98
   },
   {
-   "symbol": "ADI",
-   "name": "Analog Devices",
+   "symbol": "STX",
+   "name": "Seagate Technology",
    "sector": "Information Technology",
-   "close": 333.11,
-   "pct": 6.44
-  },
-  {
-   "symbol": "EXE",
-   "name": "Expand Energy",
-   "sector": "Energy",
-   "close": 86.77,
-   "pct": 5.75
-  },
-  {
-   "symbol": "BG",
-   "name": "Bunge Global",
-   "sector": "Consumer Staples",
-   "close": 88.15,
-   "pct": 4.87
-  },
-  {
-   "symbol": "IP",
-   "name": "International Paper",
-   "sector": "Materials",
-   "close": 32.08,
-   "pct": 4.77
-  },
-  {
-   "symbol": "TXN",
-   "name": "Texas Instruments",
-   "sector": "Information Technology",
-   "close": 270.19,
-   "pct": 4.55
-  },
-  {
-   "symbol": "DE",
-   "name": "Deere & Company",
-   "sector": "Industrials",
-   "close": 641.02,
-   "pct": 4.44
-  }
- ],
- "losers": [
-  {
-   "symbol": "LRCX",
-   "name": "Lam Research",
-   "sector": "Information Technology",
-   "close": 185.01,
-   "pct": -5.68
-  },
-  {
-   "symbol": "ORCL",
-   "name": "Oracle Corporation",
-   "sector": "Information Technology",
-   "close": 103.88,
-   "pct": -5.13
+   "close": 509.66,
+   "pct": 7.9
   },
   {
    "symbol": "MU",
    "name": "Micron Technology",
    "sector": "Information Technology",
-   "close": 601.25,
-   "pct": -4.53
+   "close": 646.95,
+   "pct": 7.6
   },
   {
-   "symbol": "DDOG",
-   "name": "Datadog",
+   "symbol": "GNRC",
+   "name": "Generac",
+   "sector": "Industrials",
+   "close": 219.17,
+   "pct": 7.44
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology",
    "sector": "Information Technology",
-   "close": 158.25,
-   "pct": -4.31
+   "close": 140.54,
+   "pct": 7.34
   },
   {
-   "symbol": "J",
-   "name": "Jacobs Solutions",
-   "sector": "Industrials",
-   "close": 145.49,
-   "pct": -4.27
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Information Technology",
+   "close": 292.11,
+   "pct": 7.22
   },
   {
-   "symbol": "PWR",
-   "name": "Quanta Services",
-   "sector": "Industrials",
-   "close": 565.47,
-   "pct": -4.1
+   "symbol": "P",
+   "name": "Everpure",
+   "sector": "Information Technology",
+   "close": 101.46,
+   "pct": 7.15
+  },
+  {
+   "symbol": "IP",
+   "name": "International Paper",
+   "sector": "Materials",
+   "close": 34.29,
+   "pct": 6.89
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "sector": "Information Technology",
+   "close": 316.96,
+   "pct": 6.7
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "sector": "Health Care",
+   "close": 534.57,
+   "pct": -5.24
+  },
+  {
+   "symbol": "PODD",
+   "name": "Insulet Corporation",
+   "sector": "Health Care",
+   "close": 138.9,
+   "pct": -2.65
+  },
+  {
+   "symbol": "SJM",
+   "name": "J.M. Smucker Company (The)",
+   "sector": "Consumer Staples",
+   "close": 126.86,
+   "pct": -2.46
+  },
+  {
+   "symbol": "DLTR",
+   "name": "Dollar Tree",
+   "sector": "Consumer Staples",
+   "close": 148.53,
+   "pct": -2.42
+  },
+  {
+   "symbol": "GDDY",
+   "name": "GoDaddy",
+   "sector": "Information Technology",
+   "close": 103.07,
+   "pct": -1.97
+  },
+  {
+   "symbol": "EBAY",
+   "name": "eBay Inc.",
+   "sector": "Consumer Discretionary",
+   "close": 113.33,
+   "pct": -1.91
   },
   {
    "symbol": "WST",
    "name": "West Pharmaceutical Services",
    "sector": "Health Care",
-   "close": 372.94,
-   "pct": -4.07
+   "close": 366.17,
+   "pct": -1.82
   },
   {
-   "symbol": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "close": 149.3,
-   "pct": -3.91
+   "symbol": "TRGP",
+   "name": "Targa Resources",
+   "sector": "Energy",
+   "close": 280.55,
+   "pct": -1.74
   },
   {
-   "symbol": "CEG",
-   "name": "Constellation Energy",
-   "sector": "Utilities",
-   "close": 235.28,
-   "pct": -3.9
+   "symbol": "BAX",
+   "name": "Baxter International",
+   "sector": "Health Care",
+   "close": 26.79,
+   "pct": -1.72
   },
   {
-   "symbol": "AMAT",
-   "name": "Applied Materials",
-   "sector": "Information Technology",
-   "close": 311.18,
-   "pct": -3.89
+   "symbol": "HRL",
+   "name": "Hormel Foods",
+   "sector": "Consumer Staples",
+   "close": 22.72,
+   "pct": -1.6
   }
  ]
 }
